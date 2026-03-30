@@ -1,0 +1,21 @@
+<div class="theme-toggle-wrapper">
+  <span class="theme-icon">&#9728;&#65039;</span>
+  <label class="theme-toggle">
+    <input type="checkbox" id="theme-switch" aria-label="Toggle dark theme">
+    <span class="theme-toggle-slider"></span>
+  </label>
+  <span class="theme-icon">&#9790;&#65039;</span>
+</div>
+<script>
+  (function() {
+    var toggle = document.getElementById('theme-switch');
+    var currentTheme = localStorage.getItem('theme') || 'light';
+    toggle.checked = currentTheme === 'dark';
+
+    toggle.addEventListener('change', function() {
+      var theme = this.checked ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+    });
+  })();
+</script>

@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="header-wrapper">
+    <button id="hamburger" class="hamburger-btn" aria-label="Open Sidebar">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    
+    <div class="header-title">
+      <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </div>
+
+    <div class="header-actions">
+      {% include theme-toggle.html %}
+    </div>
+  </div>
+</header>

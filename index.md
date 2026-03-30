@@ -22,6 +22,8 @@ Bhagavad Gītā, critically edited text from the Bhandarkar Oriental Research In
 
 ## Table of Contents
 
+<div class="table-wrapper">
+
 | Chapter | Sanskrit Title | IAST | Verses |
 |---------|--------------|------|--------|
 | [1](chapters/chapter-01.md) | अर्जुनविषादयोगः | Arjunaviṣādayogaḥ | 46 |
@@ -42,6 +44,8 @@ Bhagavad Gītā, critically edited text from the Bhandarkar Oriental Research In
 | [16](chapters/chapter-16.md) | दैवासुरसम्पद्विभागयोगः | Daivāsurasampadvibhāgayogaḥ | 24 |
 | [17](chapters/chapter-17.md) | श्रद्धात्रयविभागयोगः | Śraddhātrayavibhāgayogaḥ | 28 |
 | [18](chapters/chapter-18.md) | मोक्षसंन्यासयोगः | Mokṣasaṃnyāsayogaḥ | 78 |
+
+</div>
 
 ## Methodology
 

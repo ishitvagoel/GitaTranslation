@@ -8,6 +8,8 @@ This project produces a complete, first-principles English translation of all 18
 
 ```
 GitaTranslation/
+├── _config.yml                      (GitHub Pages/Jekyll configuration)
+├── index.md                         (GitHub Pages homepage, identical to README)
 ├── LICENSE
 ├── README.md                        (project overview + table of contents)
 ├── METHODOLOGY.md                   (translation principles statement)
@@ -51,27 +53,32 @@ Each verse contains:
 
 ### Phase 0: Scaffolding
 - Create project structure (README, METHODOLOGY, glossary, report, chapter directories)
+- Configure GitHub Pages (`_config.yml`, `index.md` symlink or copy, layouts if needed)
 - Commit and push scaffolding
 
 ### Phase 1: Chapters 1–6 (Foundational narrative + core doctrines)
 - Translate in order: 1 → 2 → 3 → 4 → 5 → 6
+- Include Jekyll YAML frontmatter in each chapter file for correct GitHub Pages rendering
 - Chapter 2 is the philosophical anchor (72 verses, introduces most key terms)
 - Build glossary incrementally
 - Commit + push after each chapter
 
 ### Phase 2: Chapters 7–12 (Knowledge, devotion, cosmic vision)
 - Translate in order: 7 → 8 → 9 → 10 → 11 → 12
+- Include Jekyll YAML frontmatter in each chapter file
 - Chapter 11 (55 verses) has unusual descriptive vocabulary
 - Commit + push after each chapter
 
 ### Phase 3: Chapters 13–18 (Concluding doctrines)
 - Translate in order: 13 → 14 → 15 → 16 → 17 → 18
+- Include Jekyll YAML frontmatter in each chapter file
 - Chapter 18 (78 verses) is longest; recapitulates earlier concepts
 - Commit + push after each chapter
 
 ### Phase 4: Finalization
 - Complete glossary review for consistency
 - Final METHODOLOGY.md pass
+- Verify GitHub Pages deployment and internal link structure
 - Final commit + push
 
 ## Chapter Details

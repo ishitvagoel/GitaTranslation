@@ -1,0 +1,6 @@
+title: "Bhagavad Gītā — A First-Principles English Translation"
+description: "A fresh English translation of the complete Bhagavad Gita from Sanskrit, using the BORI Critical Edition."
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM

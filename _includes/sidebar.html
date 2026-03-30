@@ -1,0 +1,28 @@
+<div id="sidebar" class="sidebar">
+  <div class="sidebar-header">
+    <h3>Chapters</h3>
+    <button id="close-sidebar" aria-label="Close Sidebar">&times;</button>
+  </div>
+  <nav class="sidebar-nav">
+    <ul>
+      {% assign chapters = "01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18" | split: "," %}
+      {% assign titles = "Arjunaviṣādayogaḥ,Sāṅkhyayogaḥ,Karmayogaḥ,Jñānakarmasaṃnyāsayogaḥ,Karmasaṃnyāsayogaḥ,Dhyānayogaḥ,Jñānavijñānayogaḥ,Akṣarabrahmayogaḥ,Rājavidyārājaguhyayogaḥ,Vibhūtiyogaḥ,Viśvarūpadarśanayogaḥ,Bhaktiyogaḥ,Kṣetrakṣetrajñavibhāgayogaḥ,Guṇatrayavibhāgayogaḥ,Puruṣottamayogaḥ,Daivāsurasampadvibhāgayogaḥ,Śraddhātrayavibhāgayogaḥ,Mokṣasaṃnyāsayogaḥ" | split: "," %}
+      
+      {% for chapter_num in chapters %}
+        {% assign index = forloop.index0 %}
+        {% assign title = titles[index] %}
+        <li class="{% if page.url contains chapter_num %}active{% endif %}">
+          <a href="{{ site.baseurl }}/chapters/chapter-{{ chapter_num }}.md">
+            <span class="chapter-num">{{ chapter_num }}</span> {{ title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <div class="sidebar-footer">
+    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/glossary.md">Glossary</a>
+    <a href="{{ site.baseurl }}/METHODOLOGY.md">Methodology</a>
+  </div>
+</div>
+<div id="overlay" class="overlay"></div>

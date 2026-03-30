@@ -23,37 +23,41 @@ Bhagavad Gītā, critically edited text from the Bhandarkar Oriental Research In
 ## Table of Contents
 
 <div class="table-wrapper">
-
-| Chapter | Sanskrit Title | IAST | Verses |
-|---------|--------------|------|--------|
-| [1](chapters/chapter-01.md) | अर्जुनविषादयोगः | Arjunaviṣādayogaḥ | 46 |
-| [2](chapters/chapter-02.md) | साङ्ख्ययोगः | Sāṅkhyayogaḥ | 72 |
-| [3](chapters/chapter-03.md) | कर्मयोगः | Karmayogaḥ | 43 |
-| [4](chapters/chapter-04.md) | ज्ञानकर्मसंन्यासयोगः | Jñānakarmasaṃnyāsayogaḥ | 42 |
-| [5](chapters/chapter-05.md) | कर्मसंन्यासयोगः | Karmasaṃnyāsayogaḥ | 29 |
-| [6](chapters/chapter-06.md) | ध्यानयोगः | Dhyānayogaḥ | 47 |
-| [7](chapters/chapter-07.md) | ज्ञानविज्ञानयोगः | Jñānavijñānayogaḥ | 30 |
-| [8](chapters/chapter-08.md) | अक्षरब्रह्मयोगः | Akṣarabrahmayogaḥ | 28 |
-| [9](chapters/chapter-09.md) | राजविद्याराजगुह्ययोगः | Rājavidyārājaguhyayogaḥ | 34 |
-| [10](chapters/chapter-10.md) | विभूतियोगः | Vibhūtiyogaḥ | 42 |
-| [11](chapters/chapter-11.md) | विश्वरूपदर्शनयोगः | Viśvarūpadarśanayogaḥ | 55 |
-| [12](chapters/chapter-12.md) | भक्तियोगः | Bhaktiyogaḥ | 20 |
-| [13](chapters/chapter-13.md) | क्षेत्रक्षेत्रज्ञविभागयोगः | Kṣetrakṣetrajñavibhāgayogaḥ | 34 |
-| [14](chapters/chapter-14.md) | गुणत्रयविभागयोगः | Guṇatrayavibhāgayogaḥ | 27 |
-| [15](chapters/chapter-15.md) | पुरुषोत्तमयोगः | Puruṣottamayogaḥ | 20 |
-| [16](chapters/chapter-16.md) | दैवासुरसम्पद्विभागयोगः | Daivāsurasampadvibhāgayogaḥ | 24 |
-| [17](chapters/chapter-17.md) | श्रद्धात्रयविभागयोगः | Śraddhātrayavibhāgayogaḥ | 28 |
-| [18](chapters/chapter-18.md) | मोक्षसंन्यासयोगः | Mokṣasaṃnyāsayogaḥ | 78 |
-
+<table>
+  <thead>
+    <tr>
+      <th>Chapter</th>
+      <th>Sanskrit Title</th>
+      <th>IAST</th>
+      <th>Verses</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign chapters = "01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18" | split: "," %}
+    {% assign titles = "Arjunaviṣādayogaḥ,Sāṅkhyayogaḥ,Karmayogaḥ,Jñānakarmasaṃnyāsayogaḥ,Karmasaṃnyāsayogaḥ,Dhyānayogaḥ,Jñānavijñānayogaḥ,Akṣarabrahmayogaḥ,Rājavidyārājaguhyayogaḥ,Vibhūtiyogaḥ,Viśvarūpadarśanayogaḥ,Bhaktiyogaḥ,Kṣetrakṣetrajñavibhāgayogaḥ,Guṇatrayavibhāgayogaḥ,Puruṣottamayogaḥ,Daivāsurasampadvibhāgayogaḥ,Śraddhātrayavibhāgayogaḥ,Mokṣasaṃnyāsayogaḥ" | split: "," %}
+    {% assign sanskrit_titles = "अर्जुनविषादयोगः,साङ्ख्ययोगः,कर्मयोगः,ज्ञानकर्मसंन्यासयोगः,कर्मसंन्यासयोगः,ध्यानयोगः,ज्ञानविज्ञानयोगः,अक्षरब्रह्मयोगः,राजविद्याराजगुह्ययोगः,विभूतियोगः,विश्वरूपदर्शनयोगः,भक्तियोगः,क्षेत्रक्षेत्रज्ञविभागयोगः,गुणत्रयविभागयोगः,पुरुषोत्तमयोगः,दैवासुरसम्पद्विभागयोगः,श्रद्धात्रयविभागयोगः,मोक्षसंन्यासयोगः" | split: "," %}
+    {% assign verse_counts = "46,72,43,42,29,47,30,28,34,42,55,20,34,27,20,24,28,78" | split: "," %}
+    
+    {% for chapter_num in chapters %}
+      {% assign index = forloop.index0 %}
+      <tr>
+        <td><a href="{{ site.baseurl }}/chapters/chapter-{{ chapter_num }}">{{ chapter_num | plus: 0 }}</a></td>
+        <td>{{ sanskrit_titles[index] }}</td>
+        <td>{{ titles[index] }}</td>
+        <td>{{ verse_counts[index] }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
 </div>
 
 ## Methodology
 
-See [METHODOLOGY.md](METHODOLOGY.md) for detailed translation principles.
+See [METHODOLOGY](METHODOLOGY) for detailed translation principles.
 
 ## Glossary
 
-See [glossary.md](glossary.md) for key terms and translation rationale.
+See [glossary](glossary) for key terms and translation rationale.
 
 ## License
 

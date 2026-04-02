@@ -12,7 +12,7 @@
         {% assign index = forloop.index0 %}
         {% assign title = titles[index] %}
         <li class="{% if page.url contains chapter_num %}active{% endif %}">
-          <a href="{{ site.baseurl }}/chapters/chapter-{{ chapter_num }}.md">
+          <a href="{{ site.baseurl }}/chapters/chapter-{{ chapter_num }}">
             <span class="chapter-num">{{ chapter_num }}</span> {{ title }}
           </a>
         </li>
@@ -21,8 +21,8 @@
   </nav>
   <div class="sidebar-footer">
     <a href="{{ site.baseurl }}/">Home</a>
-    <a href="{{ site.baseurl }}/glossary.md">Glossary</a>
-    <a href="{{ site.baseurl }}/METHODOLOGY.md">Methodology</a>
+    <a href="{{ site.baseurl }}/glossary">Glossary</a>
+    <a href="{{ site.baseurl }}/METHODOLOGY">Methodology</a>
   </div>
 </div>
 <div id="overlay" class="overlay"></div>

@@ -113,10 +113,10 @@ Each verse contains:
 
 ## Verification Checklist
 
-- [ ] Each chapter file has correct verse count matching BORI edition
-- [ ] All Sanskrit in Devanāgarī renders correctly
-- [ ] IAST transliteration follows standard diacritics
-- [ ] Every verse has all 3 required fields (Sanskrit, IAST, Translation)
-- [ ] Notes present only where genuinely needed
-- [ ] Glossary entries cross-referenced with chapter usage
-- [ ] All chapter links in README resolve correctly
+[x] Each chapter file has correct verse count matching BORI edition
+[x] All Sanskrit in Devanāgarī renders correctly
+[x] IAST transliteration follows standard diacritics
+[x] Every verse has all 3 required fields (Sanskrit, IAST, Translation)
+[x] Notes present only where genuinely needed
+[x] Glossary entries cross-referenced with chapter usage
+[x] All chapter links in README resolve correctly

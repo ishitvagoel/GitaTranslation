@@ -15,8 +15,16 @@ document.addEventListener('DOMContentLoaded', () => {
   if (closeBtn) closeBtn.addEventListener('click', toggleSidebar);
   if (overlay) overlay.addEventListener('click', toggleSidebar);
 
+  // Responsive Table Wrapping
+  const tables = document.querySelectorAll('table');
+  tables.forEach(table => {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'table-wrapper';
+    table.parentNode.insertBefore(wrapper, table);
+    wrapper.appendChild(table);
+  });
+
   // Verse Card Wrapping Logic
-  // Find all H3 elements that look like verse numbers (e.g., 1.1)
   const pageContent = document.querySelector('.page-content .wrapper');
   if (pageContent) {
     const elements = Array.from(pageContent.children);

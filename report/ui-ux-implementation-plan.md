@@ -1,6 +1,6 @@
 # UI/UX Overhaul & Mobile Support Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`[x]`) syntax for tracking.
 
 **Goal:** Transform the GitaTranslation site into a modern, high-contrast, mobile-first experience with Verse Cards and a slide-out navigation sidebar.
 
@@ -16,7 +16,7 @@
 - Create: `assets/css/main.scss`
 - Modify: `_config.yml`
 
-- [ ] **Step 1: Define CSS variables for Light and Dark modes in `assets/css/main.scss`**
+[x] **Step 1: Define CSS variables for Light and Dark modes in `assets/css/main.scss`**
 
 ```scss
 :root {
@@ -58,9 +58,9 @@ body {
 }
 ```
 
-- [ ] **Step 2: Update `_config.yml` to use `main.scss` (if necessary) or ensure it's loaded.**
+[x] **Step 2: Update `_config.yml` to use `main.scss` (if necessary) or ensure it's loaded.**
 
-- [ ] **Step 3: Commit**
+[x] **Step 3: Commit**
 
 ```bash
 git add assets/css/main.scss _config.yml
@@ -75,7 +75,7 @@ git commit -m "style: initial css variables and base styles"
 - Modify: `assets/css/main.scss`
 - Modify: `_layouts/default.html` (to wrap content in a card-friendly way if possible, or style existing markdown output)
 
-- [ ] **Step 1: Add Verse Card styles to `assets/css/main.scss`**
+[x] **Step 1: Add Verse Card styles to `assets/css/main.scss`**
 
 ```scss
 .verse-card {
@@ -132,7 +132,7 @@ blockquote {
 }
 ```
 
-- [ ] **Step 2: Commit**
+[x] **Step 2: Commit**
 
 ```bash
 git add assets/css/main.scss
@@ -150,7 +150,7 @@ git commit -m "style: add verse card components"
 - Modify: `_layouts/default.html`
 - Modify: `assets/css/main.scss`
 
-- [ ] **Step 1: Create `_includes/sidebar.html`**
+[x] **Step 1: Create `_includes/sidebar.html`**
 
 ```html
 <div id="sidebar" class="sidebar">
@@ -179,7 +179,7 @@ git commit -m "style: add verse card components"
 <div id="overlay" class="overlay"></div>
 ```
 
-- [ ] **Step 2: Create `assets/js/main.js` for sidebar logic**
+[x] **Step 2: Create `assets/js/main.js` for sidebar logic**
 
 ```javascript
 document.addEventListener('DOMContentLoaded', () => {
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 ```
 
-- [ ] **Step 3: Update `_includes/header.html` for sticky behavior**
+[x] **Step 3: Update `_includes/header.html` for sticky behavior**
 
 ```html
 <header class="site-header">
@@ -216,7 +216,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </header>
 ```
 
-- [ ] **Step 4: Commit**
+[x] **Step 4: Commit**
 
 ```bash
 git add _includes/sidebar.html assets/js/main.js _includes/header.html
@@ -230,7 +230,7 @@ git commit -m "feat: add sticky header and slide-out sidebar"
 **Files:**
 - Modify: `assets/css/main.scss`
 
-- [ ] **Step 1: Add responsive table styles**
+[x] **Step 1: Add responsive table styles**
 
 ```scss
 .table-wrapper {
@@ -257,7 +257,7 @@ th {
 }
 ```
 
-- [ ] **Step 2: Commit**
+[x] **Step 2: Commit**
 
 ```bash
 git add assets/css/main.scss
@@ -272,10 +272,10 @@ git commit -m "style: responsive tables for mobile"
 - Modify: `_layouts/default.html`
 - Modify: `_includes/custom-head.html`
 
-- [ ] **Step 1: Update `_layouts/default.html` to include sidebar and JS**
-- [ ] **Step 2: Ensure `assets/js/main.js` is loaded in `custom-head.html` or at the bottom of `default.html`**
-- [ ] **Step 3: Verify no horizontal scrolling on mobile**
-- [ ] **Step 4: Commit**
+[x] **Step 1: Update `_layouts/default.html` to include sidebar and JS**
+[x] **Step 2: Ensure `assets/js/main.js` is loaded in `custom-head.html` or at the bottom of `default.html`**
+[x] **Step 3: Verify no horizontal scrolling on mobile**
+[x] **Step 4: Commit**
 
 ```bash
 git add _layouts/default.html _includes/custom-head.html

@@ -54,8 +54,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (/[\u0900-\u097F]/.test(text)) {
               el.className = 'verse-sanskrit';
             } 
-            // IAST is often italicized in the markdown (becomes <em>)
-            else if (el.querySelector('em') && el.children.length === 1) {
+            // IAST often has | or // for verse markers, or the word uvāca
+            else if (text.includes('|') || text.includes('//') || /uvāca/i.test(text)) {
               el.className = 'verse-iast';
             }
             else {

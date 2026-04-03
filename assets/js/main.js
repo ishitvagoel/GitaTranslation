@@ -58,6 +58,14 @@ document.addEventListener('DOMContentLoaded', () => {
             else if (text.includes('|') || text.includes('//') || /uvāca/i.test(text)) {
               el.className = 'verse-iast';
             }
+            else if (text.startsWith('Simple Translation:')) {
+              el.className = 'verse-simple-translation';
+              el.textContent = text.replace('Simple Translation:', '').trim();
+            }
+            else if (text.startsWith('Contemporary Relevance:')) {
+              el.className = 'verse-relevance';
+              el.textContent = text.replace('Contemporary Relevance:', '').trim();
+            }
             else {
               el.className = 'verse-translation';
             }

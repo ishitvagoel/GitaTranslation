@@ -47,28 +47,42 @@ document.addEventListener('DOMContentLoaded', () => {
           el.remove();
           currentCard = null;
         } else {
+          const createLabel = (text) => {
+            const label = document.createElement('span');
+            label.className = 'verse-label';
+            label.textContent = text;
+            return label;
+          };
+
           // Identify Sanskrit, IAST, and English
           if (el.tagName === 'P') {
             const text = el.textContent.trim();
             // Simple heuristic: Sanskrit contains Devanagari
             if (/[\u0900-\u097F]/.test(text)) {
               el.className = 'verse-sanskrit';
+              currentCard.appendChild(createLabel('Sanskrit'));
             } 
             // IAST often has | or // for verse markers, or the word uvāca
             else if (text.includes('|') || text.includes('//') || /uvāca/i.test(text)) {
               el.className = 'verse-iast';
+              currentCard.appendChild(createLabel('Transliteration'));
             }
             else if (text.startsWith('Simple Translation:')) {
               el.className = 'verse-simple-translation';
               el.textContent = text.replace('Simple Translation:', '').trim();
+              currentCard.appendChild(createLabel('Simple Translation'));
             }
             else if (text.startsWith('Contemporary Relevance:')) {
               el.className = 'verse-relevance';
               el.textContent = text.replace('Contemporary Relevance:', '').trim();
+              currentCard.appendChild(createLabel('Contemporary Relevance'));
             }
             else {
               el.className = 'verse-translation';
+              currentCard.appendChild(createLabel('Primary Translation'));
             }
+          } else if (el.tagName === 'BLOCKQUOTE') {
+            currentCard.appendChild(createLabel('Notes'));
           }
           currentCard.appendChild(el);
         }

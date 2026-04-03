@@ -22,6 +22,10 @@ jñānaṃ vijñānasahitaṃ yaj jñātvā mokṣyase 'śubhāt || 1 ||
 The Blessed Lord said:
 To you, who are free from malice, I shall declare this most profound secret: knowledge (*jñāna*) combined with realization (*vijñāna*), knowing which you shall be liberated from evil.
 
+**Simple Translation:** The Blessed Lord said: To you, who do not complain or judge, I will tell the deepest secret: the combination of theoretical knowledge and direct experience. Knowing this will free you from all misfortune.
+
+**Contemporary Relevance:** Open-mindedness as a prerequisite. Deep wisdom can only be shared with someone who is 'anasuyave' (free from the habit of complaining and judging). When you approach learning with a clear, unbiased mind, you can receive the 'First Principles' that solve life's biggest problems.
+
 ---
 
 ### 9.2
@@ -33,6 +37,10 @@ rājavidyā rājaguhyaṃ pavitram idam uttamam |
 pratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartum avyayam || 2 ||  
 
 This is the royal knowledge, the royal secret, the supreme purifier; to be understood by direct experience, consistent with *dharma*, very easy to practice, and imperishable.
+
+**Simple Translation:** This is the king of sciences, the king of secrets, and the ultimate purifier. It is understood through direct experience, it is aligned with your duty, it is joyful to practice, and its results never fade.
+
+**Contemporary Relevance:** The Attributes of Real Truth. Any philosophy worth your time should be: 1. Practical (experiential), 2. Ethical (dharma), 3. Joyful (not a miserable burden), and 4. Sustainable (imperishable). If a 'solution' doesn't have these qualities, it’s not the 'Royal Knowledge.'
 
 ---
 
@@ -46,6 +54,10 @@ aprāpya māṃ nivartante mṛtyusaṃsāravartmani || 3 ||
 
 Men who lack faith in this *dharma*, O scorcher of foes, failing to attain Me, return to the path of the cycle of death and rebirth (*saṃsāra*).
 
+**Simple Translation:** Arjuna, those who have no trust in this path fail to reach Me and remain trapped in the repetitive cycle of birth and death.
+
+**Contemporary Relevance:** The Cost of Cynicism. If you don't trust the fundamental laws of reality (like focus and integrity), you can't use them to grow. You remain stuck in the same old patterns and mistakes, never reaching a state of permanent freedom.
+
 ---
 
 ### 9.4
@@ -57,6 +69,10 @@ mayā tatam idaṃ sarvaṃ jagad avyaktamūrtinā |
 matsthāni sarvabhūtāni na cāhaṃ teṣv avasthitaḥ || 4 ||  
 
 By Me, in My unmanifest form, this entire universe is pervaded. All beings are situated in Me, but I am not situated in them.
+
+**Simple Translation:** I spread through this entire universe in my invisible form. All beings exist within Me, but I am not limited or contained by them.
+
+**Contemporary Relevance:** The 'Operating System' of the Universe. Think of the Absolute as the 'space' in which everything happens. Everything is 'in' space, but space is not 'in' the things it contains. Recognizing this helps us see that we are part of a massive, divine context.
 
 > **Note:** A classic articulation of panentheism. The Absolute contains the world, but the world does not contain or exhaust the Absolute.
 
@@ -72,6 +88,10 @@ bhūtabhṛn na ca bhūtastho mamātmā bhūtabhāvanaḥ || 5 ||
 
 And yet beings are not situated in Me; behold My divine mystic power (*yoga*)! My self is the sustainer of beings and the cause of their existence, yet it is not situated in beings.
 
+**Simple Translation:** And yet, in truth, beings do not even exist within Me—look at my divine mystery! I am the sustainer and the creator of all beings, yet My true self is not dependent on them.
+
+**Contemporary Relevance:** The Independence of Truth. This is a deep 'First Principle' of existence. The Truth creates and supports our world, but it doesn't *need* our world to be true. This radical independence is what makes the Absolute reality unshakeable and reliable.
+
 > **Note:** Immediately after stating that all beings are in Him, Kṛṣṇa paradoxically retracts it. From the absolute standpoint, the manifested world is an illusion (*māyā*); thus, beings do not have ultimate reality within Him.
 
 ---
@@ -86,6 +106,10 @@ tathā sarvāṇi bhūtāni matsthānīty upadhāraya || 6 ||
 
 Just as the mighty wind, moving everywhere, rests eternally in space, so do all beings rest in Me; understand it thus.
 
+**Simple Translation:** Understand that just as the powerful wind always stays within the vastness of space while moving everywhere, so do all living beings exist within Me.
+
+**Contemporary Relevance:** Freedom within Order. We have the freedom to 'move' and act (like the wind), but we are always within the 'laws' of the universe (space). Understanding this relationship between individual freedom and universal law is the key to living wisely.
+
 ---
 
 ### 9.7
@@ -97,6 +121,10 @@ sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām |
 kalpakṣaye punas tāni kalpādau visṛjāmy aham || 7 ||  
 
 All beings, O son of Kuntī, go into My material nature (*prakṛti*) at the end of an aeon (*kalpa*); at the beginning of an aeon, I send them forth again.
+
+**Simple Translation:** Arjuna, at the end of a vast age, all beings dissolve back into my nature; and at the start of a new age, I bring them forth again.
+
+**Contemporary Relevance:** The Ultimate Cycle. Everything in the universe has a 'reset' button. From the life of a star to the lifecycle of an idea, everything returns to its source before starting fresh. Accepting these large-scale 'resets' helps us deal with the smaller endings in our own lives.
 
 ---
 
@@ -110,6 +138,10 @@ bhūtagrāmam imaṃ kṛtsnam avaśaṃ prakṛter vaśāt || 8 ||
 
 Commanding My own nature (*prakṛti*), I send forth again and again this entire multitude of beings, helpless under the force of nature.
 
+**Simple Translation:** Using my own natural power, I repeatedly create this entire multitude of beings, who are essentially helpless under the laws of nature.
+
+**Contemporary Relevance:** Recognizing Biological Laws. Our bodies and brains are 'helpless' in the sense that they follow the laws of biology and physics. Recognizing this 'mechanical' side of our existence helps us stop taking our moods and urges so personally and instead learn to master the 'nature' that drives them.
+
 ---
 
 ### 9.9
@@ -121,6 +153,10 @@ na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya |
 udāsīnavad āsīnam asaktaṃ teṣu karmasu || 9 ||  
 
 And these actions do not bind Me, O winner of wealth; sitting as one indifferent, unattached to these actions.
+
+**Simple Translation:** Arjuna, these actions do not trap me, because I remain unattached and indifferent to them, like a neutral observer.
+
+**Contemporary Relevance:** The Power of the Observer. When you can watch your own work and life like a 'neutral observer,' you stop being 'trapped' by the stress and drama. This 'indifference' isn't laziness; it's the high-level perspective that allows you to act without being destroyed by the outcomes.
 
 ---
 
@@ -134,6 +170,10 @@ hetunānena kaunteya jagad viparivartate || 10 ||
 
 With Me as the overseer, nature produces the moving and the unmoving. By this cause, O son of Kuntī, the world revolves.
 
+**Simple Translation:** With Me as the supervisor, nature creates everything that moves and everything that stays still. This is why the world keeps turning, Arjuna.
+
+**Contemporary Relevance:** The Supervisor Principle. There is an 'intelligence' behind the laws of nature. By aligning ourselves with this underlying intelligence (the supervisor), we can work *with* the world rather than *against* it. Success is a result of following the supervisor's rules.
+
 ---
 
 ### 9.11
@@ -145,6 +185,10 @@ avajānanti māṃ mūḍhā mānuṣīṃ tanum āśritam |
 paraṃ bhāvam ajānanto mama bhūtamaheśvaram || 11 ||  
 
 The deluded despise Me when I have taken a human form, not knowing My supreme nature as the great lord of beings.
+
+**Simple Translation:** Confused people look down on Me because I have appeared in a human body; they don't recognize my supreme nature as the Lord of all existence.
+
+**Contemporary Relevance:** Mistaking the Form for the Essence. People often judge a great idea, a great person, or a great opportunity based on its 'packaging.' Wisdom is the ability to look past the human or material form to see the 'supreme nature' and value hidden within.
 
 ---
 
@@ -158,6 +202,10 @@ rākṣasīm āsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ || 12 ||
 
 Of vain hopes, of vain actions, of vain knowledge, devoid of discrimination, they have resorted to a deluding nature that is fiendish (*rākṣasa*) and demonic (*āsura*).
 
+**Simple Translation:** Having useless hopes, doing useless work, and possessing useless knowledge, these people lose their ability to reason and take on a destructive and deluded nature.
+
+**Contemporary Relevance:** The Vicious Cycle of Superficiality. If your goals (hopes), your work (karma), and your information (knowledge) are all superficial ('mogha'), you eventually lose your clarity and become a destructive force. This is a warning to ensure your efforts are rooted in 'First Principles' and not just 'noise.'
+
 ---
 
 ### 9.13
@@ -169,6 +217,10 @@ mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ |
 bhajanty ananyamanaso jñātvā bhūtādim avyayam || 13 ||  
 
 But the great souls, O Pārtha, resorting to My divine nature, worship Me with an undivided mind, knowing Me as the imperishable source of beings.
+
+**Simple Translation:** But the great souls, Arjuna, who live in accordance with divine nature, focus on Me with an undivided mind, knowing that I am the eternal source of everything.
+
+**Contemporary Relevance:** The Virtuous Cycle of Depth. When you align your life with 'divine nature' (integrity, truth, service), your mind becomes focused and powerful. You stop being distracted because you know you are connected to the 'eternal source' of all value.
 
 ---
 
@@ -182,6 +234,10 @@ namasyantaś ca māṃ bhaktyā nityayuktā upāsate || 14 ||
 
 Constantly glorifying Me and striving with firm resolve, bowing down to Me with devotion, ever-disciplined, they worship Me.
 
+**Simple Translation:** Always speaking of the Truth, striving with firm determination, and being humble and devoted, they stay constantly connected to Me.
+
+**Contemporary Relevance:** The Daily Habits of Greatness. 1. Speak truth. 2. Work hard. 3. Stay humble. 4. Stay focused. These are the four 'First Principles' of a successful and connected life. They are simple to understand but powerful when practiced 'constantly.'
+
 ---
 
 ### 9.15
@@ -194,6 +250,10 @@ ekatvena pṛthaktvena bahudhā viśvatomukham || 15 ||
 
 And others, sacrificing through the sacrifice of knowledge, worship Me in unity, in multiplicity, and in manifold ways, facing in all directions.
 
+**Simple Translation:** Others contribute through the 'sacrifice of knowledge,' seeing Me as the One, as the Many, and as the universal presence that faces in every direction.
+
+**Contemporary Relevance:** Cognitive Flexibility. Real wisdom means being able to see the Truth in three ways: as a single unified principle (the One), as diverse expressions (the Many), and as an all-pervading environment (faces every direction). This flexibility allows you to navigate any situation with clarity.
+
 ---
 
 ### 9.16
@@ -205,6 +265,10 @@ ahaṃ kratur ahaṃ yajñaḥ svadhāham aham auṣadham |
 mantro 'ham aham evājyam aham agnir ahaṃ hutam || 16 ||  
 
 I am the Vedic rite; I am the sacrifice; I am the offering to the ancestors; I am the healing herb; I am the sacred formula (*mantra*); I alone am the clarified butter; I am the fire; I am the act of offering.
+
+**Simple Translation:** I am the ritual, I am the sacrifice, I am the offering, I am the herb, I am the mantra, I am the butter, I am the fire, and I am the act of pouring.
+
+**Contemporary Relevance:** Total Integration. There is no 'holy' part of a task vs. a 'mundane' part. In a project, the strategy (ritual), the effort (sacrifice), the tools (butter), and the execution (fire) are all part of the same Truth. When you see the 'divine' in every detail, your work becomes perfect.
 
 > **Note:** Kṛṣṇa equates himself with every component of the ancient Vedic ritual, fundamentally shifting the focus from the mechanics of the ritual to the divine presence within it.
 
@@ -220,6 +284,10 @@ vedyaṃ pavitram oṅkāra ṛk sāma yajur eva ca || 17 ||
 
 I am the father of this world, the mother, the sustainer, the grandfather. I am the object of knowledge, the purifier, the syllable *Oṃ*, and also the Ṛg, Sāma, and Yajur Vedas.
 
+**Simple Translation:** I am the father, mother, sustainer, and ancestor of this world. I am the goal of knowledge, the purifier, the sound OM, and the core of all ancient scriptures.
+
+**Contemporary Relevance:** The Archetypal Source. Every role that provides support, structure, or origin comes from the same Absolute principle. Recognizing this universal 'parental' and 'purifying' energy in the world helps us feel supported and grounded in everything we do.
+
 ---
 
 ### 9.18
@@ -232,6 +300,10 @@ prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījam avyayam || 18 ||
 
 I am the goal, the supporter, the Lord, the witness, the abode, the refuge, the friend; the origin, the dissolution, the foundation, the treasure-house, and the imperishable seed.
 
+**Simple Translation:** I am the goal, the supporter, the master, the witness, the home, the refuge, the friend, the beginning, the end, the foundation, and the eternal seed.
+
+**Contemporary Relevance:** The Ultimate Multi-Tool. This verse lists the 11 roles the Truth plays in our lives. Whether you need a 'friend,' a 'witness,' a 'foundation,' or a 'refuge,' the Truth is that for you. It’s a call to rely on 'First Principles' for every human need.
+
 ---
 
 ### 9.19
@@ -243,6 +315,10 @@ tapāmy aham ahaṃ varṣaṃ nigṛhṇāmy utsṛjāmi ca |
 amṛtaṃ caiva mṛtyuś ca sad asac cāham arjuna || 19 ||  
 
 I give heat; I withhold and send forth the rain. I am immortality and also death; I am being (*sat*) and non-being (*asat*), Arjuna.
+
+**Simple Translation:** I provide the heat and the rain; I am immortality and I am death; I am that which exists and that which does not yet exist, Arjuna.
+
+**Contemporary Relevance:** The Unity of Opposites. Success and failure, life and death, 'is' and 'is not'—all of these are different faces of the same reality. By accepting both sides of every duality, we reach a state of equanimity where we are no longer afraid of 'death' or 'non-existence.'
 
 ---
 
@@ -260,6 +336,10 @@ aśnanti divyān divi devabhogān || 20 ||
 
 The knowers of the three Vedas, the drinkers of soma, whose sins are purified, worshipping Me by sacrifices, pray for the goal of heaven. Having reached the holy world of the lord of gods (Indra), they enjoy the divine pleasures of the gods in heaven.
 
+**Simple Translation:** Those who follow the literal rules of rituals and pray for heaven eventually reach the world of the gods and enjoy temporary divine pleasures.
+
+**Contemporary Relevance:** The Reward of Rule-Following. If you follow social rules and perform 'good' actions just for a reward (heaven), you will get that reward. But Krishna implies that this is a 'lower' level of success because it is based on a transaction rather than on true understanding.
+
 ---
 
 ### 9.21
@@ -276,6 +356,10 @@ gatāgataṃ kāmakāmā labhante || 21 ||
 
 Having enjoyed that vast heavenly world, upon the exhaustion of their merit, they enter the mortal world. Thus, following the *dharma* of the three Vedas, desiring desires, they attain only the cycle of going and returning.
 
+**Simple Translation:** After enjoying that vast heavenly world, once their merit is used up, they fall back into the mortal world. Thus, those who just chase their desires through rituals stay trapped in the cycle of coming and going.
+
+**Contemporary Relevance:** The Merit Burn-Rate. Every reward gained through 'transactional' behavior has an expiration date. Once the 'merit' is spent, you are back where you started. This is a warning to stop chasing temporary 'highs' and start building a permanent foundation of wisdom.
+
 > **Note:** A sharp critique of orthodox Vedic ritualism. Heavenly rewards are finite because they are the transactional fruit of *karma*. Once the merit is spent, rebirth is inevitable.
 
 ---
@@ -290,6 +374,10 @@ teṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmy aham || 22 ||
 
 But those men who, meditating on Me with undivided attention, worship Me — for them, who are constantly disciplined, I secure what they lack (*yoga*) and preserve what they have (*kṣema*).
 
+**Simple Translation:** But for those who think of Me alone and focus on Me with undivided attention, I personally ensure they get what they need and protect what they already have.
+
+**Contemporary Relevance:** The Yoga-Kshema Promise. This is the ultimate 'security guarantee.' If you focus 100% on your true purpose and the Absolute Truth, the universe (the laws of reality) will naturally provide the resources you need (Yoga) and protect your progress (Kshema). Focus creates its own security.
+
 ---
 
 ### 9.23
@@ -301,6 +389,10 @@ ye 'py anyadevatābhaktā yajante śraddhayānvitāḥ |
 te 'pi mām eva kaunteya yajanty avidhipūrvakam || 23 ||  
 
 Even those who are devotees of other gods and worship them endowed with faith, they too worship Me alone, O son of Kuntī, though not according to the prescribed rule.
+
+**Simple Translation:** Even those who worship other powers with faith are actually worshipping Me, Arjuna, though they are doing it without knowing the full rules.
+
+**Contemporary Relevance:** The Universality of Sincerity. Faith and sincerity are never wasted. Even if someone has a partial or 'incorrect' understanding, if their *intent* is focused on a higher power, they are connecting with the Truth. It’s a call for radical tolerance and the recognition of shared human aspiration.
 
 ---
 
@@ -314,6 +406,10 @@ na tu mām abhijānanti tattvenātaś cyavanti te || 24 ||
 
 For I am the enjoyer and the Lord of all sacrifices; but they do not recognize Me in truth, and therefore they fall.
 
+**Simple Translation:** I am the only true enjoyer and master of all contributions; but those who do not recognize My true nature eventually fail.
+
+**Contemporary Relevance:** The Root Cause of Failure. Failure in life usually comes from a 'misalignment' with reality. If you think you are the 'master' or that your work is just for your own ego, you are fighting against the 'First Principles' of the universe, and you will eventually 'fall.'
+
 ---
 
 ### 9.25
@@ -326,6 +422,10 @@ bhūtāni yānti bhūtejyā yānti madyājino 'pi mām || 25 ||
 
 Those who are devoted to the gods go to the gods; those who are devoted to the ancestors go to the ancestors; the worshippers of spirits go to the spirits; and My worshippers go to Me.
 
+**Simple Translation:** Those who focus on lesser powers reach those powers; those who focus on ancestors reach them; but those who focus on Me reach Me.
+
+**Contemporary Relevance:** You get what you focus on. Your destination is determined by your attention. If you focus on temporary social approval, you get it. If you focus on the Absolute Truth, you reach the Absolute. This is the 'Law of Attention' applied to the highest level of life.
+
 ---
 
 ### 9.26
@@ -337,6 +437,10 @@ patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati |
 tad ahaṃ bhaktyupahṛtam aśnāmi prayatātmanaḥ || 26 ||  
 
 Whoever offers Me with devotion a leaf, a flower, a fruit, or water, I accept that offering of devotion from one of pure self.
+
+**Simple Translation:** If someone offers Me even a leaf, a flower, a fruit, or just water with devotion—I accept that offering from a person of pure heart.
+
+**Contemporary Relevance:** Intent over Complexity. You don't need a massive budget or complex rituals to be 'spiritual' or successful. A small, simple act done with 100% integrity and devotion is more powerful than a massive, ego-driven project. It’s the 'Quality' of the intent that matters, not the 'Quantity' of the gift.
 
 > **Note:** A radical democratization of religious practice. The elaborate, expensive, and caste-restricted Vedic sacrifices are superseded by simple offerings made with sincere devotion (*bhakti*).
 
@@ -352,6 +456,10 @@ yat tapasyasi kaunteya tat kuruṣva madarpaṇam || 27 ||
 
 Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give, whatever austerity you perform, O son of Kuntī, do that as an offering to Me.
 
+**Simple Translation:** Whatever you do, whatever you eat, whatever you offer, whatever you give, and whatever discipline you practice—do it all as an offering to Me, Arjuna.
+
+**Contemporary Relevance:** The Unified Life. This is how you turn your entire existence into a 'meditation.' By 'dedicating' every mundane act (eating, working, giving) to a higher purpose, you eliminate the gap between 'work' and 'spirituality.' Your whole life becomes a single, focused stream of purpose.
+
 ---
 
 ### 9.28
@@ -363,6 +471,10 @@ Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you
 saṃnyāsayogayuktātmā vimukto mām upaiṣyasi || 28 ||  
 
 Thus you will be liberated from the bonds of action, which yield good and evil fruits; with your self disciplined by the yoga of renunciation, liberated, you shall come to Me.
+
+**Simple Translation:** In this way, you will be freed from the bondage of actions and their good or bad results. Being disciplined in this path of renunciation, you will be liberated and reach Me.
+
+**Contemporary Relevance:** The Escape from 'Residue'. When you act as an 'offering,' you don't build up 'ego-residue' (guilt, pride, debt). You do the work, and then you are 'free' of it. This is the secret to doing massive things in the world while staying perfectly peaceful and unburdened.
 
 ---
 
@@ -376,6 +488,10 @@ ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham || 29 ||
 
 I am equal to all beings; to Me there is none hateful, nor none dear. But those who worship Me with devotion, they are in Me, and I am also in them.
 
+**Simple Translation:** I am the same to all living beings; I have no enemies and no favorites. But those who worship Me with devotion live within Me, and I live within them.
+
+**Contemporary Relevance:** The Neutrality of Law. The laws of the universe are perfectly fair and unbiased (like gravity). They don't have 'favorites.' But if you choose to 'align' yourself with those laws (devotion), you experience their full power and protection. It’s a reciprocal relationship based on your own choices.
+
 ---
 
 ### 9.30
@@ -387,6 +503,10 @@ api cet sudurācāro bhajate mām ananyabhāk |
 sādhur eva sa mantavyaḥ samyag vyavasito hi saḥ || 30 ||  
 
 Even if a man of extremely wicked conduct worships Me with undivided devotion, he is to be considered righteous indeed, for he is properly resolved.
+
+**Simple Translation:** Even if someone of terrible character decides to focus on Me with undivided devotion, they must be considered good, because they have made the right resolution.
+
+**Contemporary Relevance:** The Power of Decision. A single, powerful decision to change your life's direction (the right resolution) is the most important step. Your past doesn't define you; your current 'alignment' does. This is a message of hope—anyone can 'reset' their life by making a firm commitment to the Truth.
 
 ---
 
@@ -400,6 +520,10 @@ kaunteya pratijānīhi na me bhaktaḥ praṇaśyati || 31 ||
 
 Quickly he becomes a soul of righteousness and attains eternal peace. O son of Kuntī, declare it boldly: My devotee never perishes.
 
+**Simple Translation:** Such a person quickly becomes righteous and attains eternal peace. Arjuna, you can be sure of this: my devotee is never lost.
+
+**Contemporary Relevance:** The Speed of Integrity. Once you truly commit to the Truth, your character 'quickly' changes. Integrity is like a self-correcting mechanism. As long as you stay committed, you are 'never lost,' no matter how difficult the path gets.
+
 ---
 
 ### 9.32
@@ -411,6 +535,10 @@ māṃ hi pārtha vyapāśritya ye 'pi syuḥ pāpayonayaḥ |
 striyo vaiśyās tathā śūdrās te 'pi yānti parāṃ gatim || 32 ||  
 
 For taking refuge in Me, O Pārtha, even those who might be of low birth — women, Vaiśyas, and also Śūdras — even they go to the supreme goal.
+
+**Simple Translation:** Arjuna, anyone who takes refuge in Me—regardless of their social status, gender, or background—can reach the highest goal.
+
+**Contemporary Relevance:** Radical Meritocracy. The Truth is the ultimate 'equalizer.' It doesn't care about your birth, your gender, or your social standing. The highest level of human achievement (the supreme goal) is accessible to every single person who has the focus and sincerity to seek it.
 
 > **Note:** A text of its time reflecting prevailing social hierarchies, yet significantly progressive in asserting that spiritual liberation (*mokṣa*) is accessible to all demographics, explicitly contravening orthodox brahmanical exclusions.
 
@@ -425,6 +553,10 @@ kiṃ punar brāhmaṇāḥ puṇyā bhaktā rājarṣayas tathā |
 anityam asukhaṃ lokam imaṃ prāpya bhajasva mām || 33 ||  
 
 How much more then the holy brahmins and devoted royal sages! Having attained this impermanent and joyless world, worship Me.
+
+**Simple Translation:** How much more certain is the success of holy teachers and devoted leaders! Since you have found yourself in this temporary and joyless world, stay focused on Me.
+
+**Contemporary Relevance:** The Urgency of Purpose. This world is 'temporary and joyless' if you only look at the surface level. Krishna uses this realism to create urgency: since life is short and full of challenges, don't waste time—focus on the 'First Principles' that actually provide lasting fulfillment.
 
 ---
 

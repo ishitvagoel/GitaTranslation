@@ -77,6 +77,11 @@ document.addEventListener('DOMContentLoaded', () => {
               el.textContent = text.replace('Contemporary Relevance:', '').trim();
               currentCard.appendChild(createLabel('Contemporary Relevance'));
             }
+            else if (text.startsWith('Neuroscience Perspective:')) {
+              el.className = 'verse-neuroscience';
+              el.textContent = text.replace('Neuroscience Perspective:', '').trim();
+              currentCard.appendChild(createLabel('Neuroscience Perspective'));
+            }
             else {
               el.className = 'verse-translation';
               currentCard.appendChild(createLabel('Primary Translation'));

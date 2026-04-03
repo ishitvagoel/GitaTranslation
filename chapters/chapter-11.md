@@ -22,6 +22,10 @@ yat tvayoktaṃ vacas tena moho 'yaṃ vigato mama || 1 ||
 Arjuna said:
 Out of compassion for me, the supreme secret known as the discourse on the supreme self (*adhyātma*) which You have spoken — by that, this delusion of mine has departed.
 
+**Simple Translation:** Arjuna said: Out of your kindness toward me, You have shared the supreme secret of the Self. After hearing your words, my confusion has completely disappeared.
+
+**Contemporary Relevance:** The Relief of Clarity. Confusion is a heavy burden that causes anxiety and paralysis. Arjuna’s relief shows that receiving the 'First Principles' of reality is not just an intellectual gain, but an emotional healing. Truth literally lightens the mind.
+
 ---
 
 ### 11.2
@@ -33,6 +37,10 @@ bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā |
 tvattaḥ kamalapatrākṣa māhātmyam api cāvyayam || 2 ||  
 
 For the origin and dissolution of beings have been heard by me in detail from You, O lotus-eyed one, as well as Your imperishable greatness.
+
+**Simple Translation:** O lotus-eyed Krishna, I have heard from You in great detail about how all beings are created and how they dissolve, as well as Your own eternal greatness.
+
+**Contemporary Relevance:** Understanding the Lifecycle. Knowing the 'Source Code' of how things begin and end (creation and dissolution) gives you a stable perspective on life. You stop being shocked by change when you understand the principles that govern it.
 
 ---
 
@@ -46,6 +54,10 @@ draṣṭum icchāmi te rūpam aiśvaraṃ puruṣottama || 3 ||
 
 Just as You have declared Yourself to be, O supreme Lord, so it is. Yet I desire to see Your sovereign form, O Supreme Person.
 
+**Simple Translation:** O Supreme Lord, You are exactly as You say You are. But now, O Supreme Person, I actually want to *see* Your divine, sovereign form.
+
+**Contemporary Relevance:** Theoretical vs. Empirical. Understanding something intellectually is the first step, but Arjuna wants 'proof'—a direct experience. This is a call to move beyond 'believing' and toward 'seeing' the truth for yourself.
+
 ---
 
 ### 11.4
@@ -57,6 +69,10 @@ manyase yadi tac chakyaṃ mayā draṣṭum iti prabho |
 yogeśvara tato me tvaṃ darśayātmānam avyayam || 4 ||  
 
 If You think it is possible for me to see it, O Lord, then, O Lord of Yoga, show me Your imperishable self.
+
+**Simple Translation:** If You think it is possible for me to see it, O Lord of Yoga, then please show me Your eternal and unchanging Self.
+
+**Contemporary Relevance:** Humility in Inquiry. Arjuna recognizes that he might not be 'ready' for the full truth. He asks for the vision only if the 'Master' thinks he can handle it. Real learning requires acknowledging that we need the right 'faculties' to perceive deep truths.
 
 ---
 
@@ -73,6 +89,10 @@ nānāvidhāni divyāni nānāvarṇākṛtīni ca || 5 ||
 The Blessed Lord said:
 Behold My forms, O Pārtha, by the hundreds and by the thousands, of various kinds, divine, and of various colors and shapes.
 
+**Simple Translation:** The Blessed Lord said: Arjuna, look at My hundreds and thousands of different forms—divine, and of every possible color and shape.
+
+**Contemporary Relevance:** The Infinite Diversity of Truth. The Absolute is not 'one simple thing'; it is an infinite variety. This verse encourages us to look for the 'divine' in all the different forms, colors, and shapes of the world around us. Excellence is diverse.
+
 ---
 
 ### 11.6
@@ -84,6 +104,10 @@ paśyādityān vasūn rudrān aśvinau marutas tathā |
 bahūny adṛṣṭapūrvāṇi paśyāścaryāṇi bhārata || 6 ||  
 
 Behold the Ādityas, the Vasus, the Rudras, the two Aśvins, and also the Maruts. Behold many marvels not seen before, O Bhārata.
+
+**Simple Translation:** Look at the various gods of light, power, and nature. Look at all these wonders that have never been seen before, Arjuna.
+
+**Contemporary Relevance:** Expanding the Boundaries of Possibility. We often think the world is limited to what we have already seen. Krishna's command to look at 'unseen wonders' is a call to stay curious and open to the incredible scale and complexity of reality.
 
 ---
 
@@ -97,6 +121,10 @@ mama dehe guḍākeśa yac cānyad draṣṭum icchasi || 7 ||
 
 Behold here today the entire universe, moving and unmoving, standing in one place in My body, O Guḍākeśa, and whatever else you desire to see.
 
+**Simple Translation:** Behold the entire universe—everything that moves and everything that stays still—all existing right here in one place within My body, and whatever else you wish to see.
+
+**Contemporary Relevance:** The Unity of All Things. This is the ultimate First Principle of Physics and Philosophy: everything is connected and exists within a single unified field. Seeing the 'whole' within the 'part' is the peak of systemic understanding.
+
 ---
 
 ### 11.8
@@ -108,6 +136,10 @@ na tu māṃ śakyase draṣṭum anenaiva svacakṣuṣā |
 divyaṃ dadāmi te cakṣuḥ paśya me yogam aiśvaram || 8 ||  
 
 But you are not able to see Me with this, your own eye. I give you a divine eye; behold My sovereign mystic power (*yoga*)!
+
+**Simple Translation:** But you cannot see Me with your normal human eyes. I will give you a 'divine eye'; now behold My supreme power!
+
+**Contemporary Relevance:** The Need for Better Tools. To see deeper truths, we need better 'lenses' (models, logic, awareness). You can't solve a complex problem with a simple mindset. The 'divine eye' represents the upgraded perception needed to grasp the true scale of reality.
 
 > **Note:** The "divine eye" (*divya cakṣu*) is a necessary epistemological upgrade. Human sensory apparatus is restricted to three dimensions and linear time; seeing the Universal Form requires a radically expanded faculty capable of processing simultaneous, infinite multiplicity.
 
@@ -126,6 +158,10 @@ darśayāmāsa pārthāya paramaṃ rūpam aiśvaram || 9 ||
 Sañjaya said:
 Having spoken thus, O King, the great Lord of Yoga, Hari (Kṛṣṇa), then showed to Pārtha the supreme sovereign form:
 
+**Simple Translation:** Sanjaya said: O King, after saying this, Krishna, the great Lord of Yoga, showed Arjuna His supreme, sovereign form.
+
+**Contemporary Relevance:** The Moment of Revelation. This is the transition from words to experience. In any project or life path, there is a moment where all the 'talk' ends and the 'reality' of the situation is fully revealed. This is the moment of truth.
+
 ---
 
 ### 11.10
@@ -137,6 +173,10 @@ anekavaktranayanam anekādbhutadarśanam |
 anekadivyābharaṇaṃ divyānekodyatāyudham || 10 ||  
 
 Having many mouths and eyes, showing many wondrous sights, possessing many divine ornaments, and with many divine weapons raised;
+
+**Simple Translation:** He had countless mouths and eyes, showing incredible sights, decorated with many divine ornaments, and holding many powerful weapons.
+
+**Contemporary Relevance:** The Intensity of Reality. The Absolute is not just peaceful; it is powerful and active. The ornaments and weapons represent the beauty and the force of universal laws. Reality is both a masterpiece and a powerhouse.
 
 ---
 
@@ -150,6 +190,10 @@ sarvāścaryamayaṃ devam anantaṃ viśvatomukham || 11 ||
 
 Wearing divine garlands and garments, anointed with divine perfumes, composed of all marvels, the boundless deity facing in all directions.
 
+**Simple Translation:** Wearing divine garlands and clothes, scented with celestial perfumes, He was full of all wonders—infinite and facing in every direction.
+
+**Contemporary Relevance:** The Omni-Presence of Excellence. Facing in 'every direction' means that no matter where you look, the Truth is there. It’s an encouragement to find the 'sacred' and the 'excellent' in every aspect of your life, not just in specific places.
+
 ---
 
 ### 11.12
@@ -161,6 +205,10 @@ divi sūryasahasrasya bhaved yugapad utthitā |
 yadi bhāḥ sadṛśī sā syād bhāsas tasya mahātmanaḥ || 12 ||  
 
 If the light of a thousand suns were to rise simultaneously in the sky, that might be similar to the splendor of that great soul.
+
+**Simple Translation:** If the light of a thousand suns were to burst forth all at once in the sky, that might give some idea of the splendor of that great Soul.
+
+**Contemporary Relevance:** The Scale of the Absolute. This famous metaphor helps us understand the sheer intensity of truth. When you finally 'get' a fundamental principle, it’s like a light turning on. Now imagine that light multiplied by a thousand—that is the power of ultimate clarity.
 
 ---
 
@@ -174,6 +222,10 @@ apaśyad devadevasya śarīre pāṇḍavas tadā || 13 ||
 
 There the son of Pāṇḍu beheld the entire universe, divided in manifold ways, standing together in one place in the body of the God of gods.
 
+**Simple Translation:** Right there in the body of the God of gods, Arjuna saw the entire universe with all its many divisions, all standing together as one.
+
+**Contemporary Relevance:** Complexity within Unity. We usually see the 'divisions' (different countries, people, problems). But high-level wisdom is seeing how all those 'divided' things actually work together as a single, unified system. It’s the ultimate 'Big Picture' view.
+
 ---
 
 ### 11.14
@@ -185,6 +237,10 @@ tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ |
 praṇamya śirasā devaṃ kṛtāñjalir abhāṣata || 14 ||  
 
 Then, filled with amazement, his hair standing on end, Dhanañjaya (Arjuna) bowed his head to the deity, and with joined palms, he spoke.
+
+**Simple Translation:** Filled with amazement and with his hair standing on end, Arjuna bowed his head and spoke with joined palms.
+
+**Contemporary Relevance:** The Physiological Response to Truth. True realization is not just a 'thought'; it affects your whole being. Arjuna's amazement shows that when we truly confront the scale of reality, it naturally leads to a state of humility and respect.
 
 ---
 
@@ -205,6 +261,10 @@ brahmāṇam īśaṃ kamalāsanastham
 Arjuna said:
 I see the gods in Your body, O God, and all the multitudes of various beings; Lord Brahmā seated on the lotus, and all the seers, and the divine serpents.
 
+**Simple Translation:** Arjuna said: O God, I see all the gods and all the different types of beings within Your body. I see the Creator, the seers, and the divine serpents.
+
+**Contemporary Relevance:** The Hierarchy of Existence. Arjuna is mapping the entire 'ecosystem' of reality. By seeing everything from the highest creator to the lowest beings within the same Source, he understands that everything has its place in the universal order.
+
 > **Note:** From verse 15 to 50, the meter shifts back to the majestic, eleven-syllable *Triṣṭubh*, matching the overwhelming, hymnic quality of Arjuna's vision.
 
 ---
@@ -223,6 +283,10 @@ paśyāmi viśveśvara viśvarūpa || 16 ||
 
 With many arms, bellies, mouths, and eyes, I see You possessing infinite forms on every side. I see no end, no middle, nor again Your beginning, O Lord of the universe, O Universal Form!
 
+**Simple Translation:** I see You everywhere with infinite arms, bellies, mouths, and eyes. O Lord of the Universe, I see no end, no middle, and no beginning to Your form.
+
+**Contemporary Relevance:** The Infinite Continuous. Most things we know have a start and an end. But the Absolute Truth is a 'continuum.' It has no boundaries. This helps us let go of our obsession with 'fixing' or 'controlling' everything, and instead learn to navigate an infinite reality.
+
 ---
 
 ### 11.17
@@ -238,6 +302,10 @@ paśyāmi tvāṃ durnirīkṣyaṃ samantād
 dīptānalārkadyutim aprameyam || 17 ||  
 
 Wearing a diadem, carrying a mace and a discus, a mass of splendor shining on all sides, I see You — difficult to look at, having the immeasurable brilliance of blazing fire and the sun in all directions.
+
+**Simple Translation:** I see You with your crown, mace, and discus—a mass of brilliance shining in all directions, as bright as a blazing fire or the sun, and impossible to look at directly.
+
+**Contemporary Relevance:** The Weight of Authority. The crown, mace, and discus are symbols of leadership, protection, and justice. The 'blinding light' represents the fact that some truths are so powerful that we can only handle them in small doses until we are fully ready.
 
 ---
 
@@ -255,6 +323,10 @@ sanātanas tvaṃ puruṣo mato me || 18 ||
 
 You are the imperishable, the supreme reality to be known; You are the supreme resting place of this universe; You are the immortal guardian of eternal *dharma*; You are the primeval Spirit (*puruṣa*), so I believe.
 
+**Simple Translation:** You are the unchanging Absolute, the highest thing to be known. You are the ultimate foundation of this universe, the immortal guardian of eternal Dharma, and the original Spirit.
+
+**Contemporary Relevance:** Identifying the 'Root Cause'. Arjuna identifies Krishna as the 'rest-point' of the universe. In modern life, finding your 'Adhara' (foundation) or 'Nidhana' (resting place) in your core values is what allows you to survive any external storm.
+
 ---
 
 ### 11.19
@@ -270,6 +342,10 @@ paśyāmi tvāṃ dīptahutāśavaktraṃ
 svatejasā viśvam idaṃ tapantam || 19 ||  
 
 Without beginning, middle, or end, of infinite power, with infinite arms, with the moon and sun as Your eyes, I see You with a mouth of blazing fire, scorching this universe with Your own radiance.
+
+**Simple Translation:** I see You without beginning or end, with infinite power and many arms. The sun and moon are Your eyes, and Your mouth is a blazing fire that heats the whole universe.
+
+**Contemporary Relevance:** The Active Energy of Truth. The Truth is not 'passive.' It is like a fire that 'heats' and drives everything forward. This reminds us that life is a dynamic, energetic process, and we must be active participants in it.
 
 ---
 
@@ -287,6 +363,10 @@ lokatrayaṃ pravyathitaṃ mahātman || 20 ||
 
 For this space between heaven and earth and all the quarters are pervaded by You alone. Seeing this wondrous and terrifying form of Yours, the three worlds are trembling, O Great Soul.
 
+**Simple Translation:** You alone fill the entire space between heaven and earth and every direction. Seeing this terrifying and wonderful form, the three worlds are trembling with fear.
+
+**Contemporary Relevance:** The Awe-Fullness of Reality. 'Wonderful' and 'Terrifying' often go together. The same laws of physics that create a beautiful sunset also create a black hole. Accepting both the 'creative' and 'destructive' sides of reality is necessary for true mental maturity.
+
 ---
 
 ### 11.21
@@ -302,6 +382,10 @@ svastīty uktvā maharṣisiddhasaṅghāḥ
 stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ || 21 ||  
 
 Indeed, these multitudes of gods enter You; some, terrified, praise You with joined palms. Saying "Let it be well!" (*svasti*), multitudes of great seers and perfected beings praise You with abundant hymns.
+
+**Simple Translation:** Multitudes of gods are entering You, praising You with joined palms. Seers and perfected beings cry 'May all be well!' while singing your praises.
+
+**Contemporary Relevance:** The Return to Source. Everything eventually 'returns' to the truth. The cry of 'Svasti' (May all be well) is a reminder that even in the face of overwhelming power, the goal of the universe is ultimately 'well-being' and order.
 
 ---
 
@@ -319,6 +403,10 @@ vīkṣante tvāṃ vismitāś caiva sarve || 22 ||
 
 The Rudras, the Ādityas, the Vasus, and the Sādhyas, the Viśvedevas, the two Aśvins, the Maruts, and the ancestors who drink steam, the multitudes of Gandharvas, Yakṣas, Asuras, and perfected beings — all gaze upon You in utter amazement.
 
+**Simple Translation:** All the different powers of nature and all the perfected beings are looking at You in absolute amazement.
+
+**Contemporary Relevance:** Universal Wonder. Even the most 'advanced' beings are still learning from the Source. This is a call to never lose our sense of wonder, no matter how much we think we know. There is always a deeper level of truth to discover.
+
 ---
 
 ### 11.23
@@ -334,6 +422,10 @@ bahūdaraṃ bahudaṃṣṭrākarālaṃ
 dṛṣṭvā lokāḥ pravyathitās tathāham || 23 ||  
 
 Seeing Your mighty form with many mouths and eyes, O mighty-armed one, with many arms, thighs, and feet, with many bellies, and terrifying with many tusks, the worlds are trembling, and so am I.
+
+**Simple Translation:** Looking at Your massive form with its many mouths, eyes, arms, and terrifying teeth, all the worlds are shaking with fear, and so am I.
+
+**Contemporary Relevance:** The Vulnerability of the Individual. When confronted with the 'Absolute,' our small ego naturally feels small and afraid. This 'shaking' is the death of our arrogance. It's a necessary step toward real growth—admitting how much we *don't* control.
 
 ---
 
@@ -351,6 +443,10 @@ dhṛtiṃ na vindāmi śamaṃ ca viṣṇo || 24 ||
 
 Indeed, seeing You touching the sky, blazing, with many colors, with mouths wide open, with huge blazing eyes, my inner self is trembling, and I find no courage nor peace, O Viṣṇu.
 
+**Simple Translation:** Seeing You touching the sky, shining with many colors and mouths wide open, I am terrified. I have lost my courage and my peace, Krishna.
+
+**Contemporary Relevance:** The Breaking Point of the Ego. Sometimes the truth is so 'loud' and 'bright' that it breaks our usual comfort zone. This 'loss of peace' is actually a transition state—you are losing your *false* peace so that you can later find a *true* peace based on reality.
+
 ---
 
 ### 11.25
@@ -366,6 +462,10 @@ diśo na jāne na labhe ca śarma
 prasīda deveśa jagannivāsa || 25 ||  
 
 Merely seeing Your mouths, terrifying with tusks, resembling the fires of cosmic destruction at the end of time, I do not know the directions, nor do I find comfort. Be gracious, O Lord of gods, O abode of the universe!
+
+**Simple Translation:** Seeing your mouths with their terrifying teeth, like the fires at the end of time, I am confused and find no comfort. Please be kind to me, O Lord of the universe!
+
+**Contemporary Relevance:** Confronting Entropy. The 'fires at the end of time' represent the principle of entropy and destruction. We all fear the end of things. Krishna is forcing Arjuna to look directly at the 'destructive' face of Truth so he can learn to act even in its presence.
 
 ---
 
@@ -383,6 +483,10 @@ sahāsmadīyair api yodhamukhyaiḥ || 26 ||
 
 And all these sons of Dhṛtarāṣṭra, together with the multitudes of kings, Bhīṣma, Droṇa, and that son of a charioteer (Karṇa), along with our own chief warriors,
 
+**Simple Translation:** All these sons of Dhritarashtra, along with many other kings and our own great warriors like Bhishma, Drona, and Karna...
+
+**Contemporary Relevance:** The Specificity of Fate. Krishna shows Arjuna that the very people he is worried about are already being 'consumed' by time. This is a lesson in 'Determinism': some outcomes are already in motion because of past actions (Karma), and we must learn to accept them.
+
 ---
 
 ### 11.27
@@ -398,6 +502,10 @@ kecid vilagnā daśanāntareṣu
 sandṛśyante cūrṇitair uttamāṅgaiḥ || 27 ||  
 
 Are rushing into Your terrifying mouths, made frightful by their tusks. Some are seen caught between Your teeth, their heads completely crushed.
+
+**Simple Translation:** ...are all rushing into Your terrifying mouths. I see some of them with their heads crushed between Your teeth.
+
+**Contemporary Relevance:** The Brutal Honesty of Time. Time does not 'nicely' ask people to leave; it 'crushes' and 'consumes' them. This vivid imagery is a reminder that we should not waste our time on superficial things, because the 'teeth of time' are always moving.
 
 > **Note:** The vision shifts from the ontological to the teleological. The Universal Form is not just an abstract display of spatial infinity, but a terrifying temporal reality: the inevitable, deterministic destruction of all the warriors assembled at Kurukṣetra.
 
@@ -417,6 +525,10 @@ viśanti vaktrāṇy abhivijvalanti || 28 ||
 
 As the many rushing torrents of rivers flow directly toward the ocean itself, so do these heroes of the human world enter Your fiercely blazing mouths.
 
+**Simple Translation:** Just as many rivers flow toward the ocean, all these human heroes are rushing into Your blazing mouths.
+
+**Contemporary Relevance:** The Inevitable Flow. All paths lead to the same end. Whether you are a 'hero' or an 'ordinary person,' you are part of the same natural flow. Understanding this 'gravity' of existence helps us focus on *how* we live rather than obsessing over the fact that we will end.
+
 ---
 
 ### 11.29
@@ -432,6 +544,10 @@ tathaiva nāśāya viśanti lokās
 tavāpi vaktrāṇi samṛddhavegāḥ || 29 ||  
 
 As moths, with accelerating speed, enter a blazing fire only to perish, in that very same way, these worlds, with accelerating speed, enter Your mouths only to perish.
+
+**Simple Translation:** Just as moths fly into a flame only to be destroyed, these worlds are rushing into Your mouths to their own destruction.
+
+**Contemporary Relevance:** The Trap of Attraction. We often 'rush' toward things that destroy us (greed, ego, anger) because they look like 'light' or success. This moth-and-flame metaphor is a warning to be careful about what we are 'attracted' to, as our own desires can lead to our ruin.
 
 ---
 
@@ -449,6 +565,10 @@ bhāsas tavogrāḥ pratapanti viṣṇo || 30 ||
 
 You lick Your lips, devouring all the worlds from every side with Your blazing mouths. Filling the entire universe with splendor, Your terrifying rays scorch it, O Viṣṇu.
 
+**Simple Translation:** You are devouring all these worlds from every side with Your blazing mouths. Your intense rays are heating up and scorching the entire universe, Krishna.
+
+**Contemporary Relevance:** The All-Consuming Nature of Change. Change is happening everywhere, all the time ('from every side'). Nothing is 'safe' from the flow of time. By accepting this 'scorching' reality, we stop trying to freeze the world and instead learn to move with it.
+
 ---
 
 ### 11.31
@@ -464,6 +584,10 @@ vijñātum icchāmi bhavantam ādyaṃ
 na hi prajānāmi tava pravṛttim || 31 ||  
 
 Tell me, who are You of terrifying form? Salutations to You, O best of gods! Be gracious! I desire to know You, the primal one, for I do not understand Your manifestation.
+
+**Simple Translation:** Tell me, who are You in this terrifying form? I bow to You, O best of gods! Please be kind. I want to understand your true nature, because I don't understand what you are doing.
+
+**Contemporary Relevance:** The Inquiry of the Overwhelmed. When we don't understand 'what is happening' in a crisis, the only wise thing to do is to ask the 'Source' for clarity. Arjuna’s question is the starting point for the most important lesson in the Gita: the nature of Time.
 
 ---
 
@@ -484,6 +608,10 @@ ye 'vasthitāḥ pratyanīkeṣu yodhāḥ || 32 ||
 The Blessed Lord said:
 I am Time (*kāla*), the destroyer of worlds, grown mighty, engaged here in annihilating the worlds. Even without you, all these warriors arrayed in the opposing armies shall cease to exist.
 
+**Simple Translation:** The Blessed Lord said: I am Time, the destroyer of worlds, now active in wiping out these people. Even without you, all these warriors standing here will cease to exist.
+
+**Contemporary Relevance:** The First Principle of Time. Time is the ultimate 'CEO' of the universe. It 'consumes' everything. This realization is liberating: if Time is already going to end these people and these problems, then your only job is to do your duty *right now*. The 'big outcomes' are already decided by Time.
+
 > **Note:** A monumental theological declaration. The ultimate reality is not only benign and loving but also the terrifying, inescapable force of cosmic entropy and destruction (Time).
 
 ---
@@ -502,6 +630,10 @@ nimittamātraṃ bhava savyasācin || 33 ||
 
 Therefore, arise! Win glory! Having conquered the enemies, enjoy a prosperous kingdom. By Me alone they have already been killed; be merely the instrument, O ambidextrous archer!
 
+**Simple Translation:** Therefore, stand up and win glory! Defeat your enemies and enjoy a prosperous kingdom. I have already killed them; you should be just the instrument, Arjuna!
+
+**Contemporary Relevance:** The Instrument Principle ('Nimitta-matram'). This is the ultimate career advice. You are not the 'author' of life and death or the 'creator' of results. You are an 'instrument' through which the laws of the universe work. If you accept this, you lose your ego-driven stress and gain the power to act with total precision.
+
 > **Note:** *nimittamātraṃ bhava* — "be merely the instrument." Kṛṣṇa resolves the tension of Arjuna's agency. Arjuna is not the author of life and death; he is merely invited to consciously participate in a divine mechanism that is already in motion.
 
 ---
@@ -519,6 +651,10 @@ mayā hatāṃs tvaṃ jahi mā vyathiṣṭhā
 yudhyasva jetāsi raṇe sapatnān || 34 ||  
 
 Droṇa, Bhīṣma, Jayadratha, Karṇa, and also other warrior heroes, already killed by Me, you must kill. Do not tremble! Fight! You shall conquer your rivals in battle.
+
+**Simple Translation:** Drona, Bhishma, Jayadratha, Karna, and all these other heroes have already been killed by Me. Do not be afraid! Fight, and you will certainly win!
+
+**Contemporary Relevance:** Action after Acceptance. Once you accept that the 'Outcome' is already handled by the laws of reality (Time), you are free to act without fear. Confidence comes from knowing that you are just 'executing' a plan that is already in motion.
 
 ---
 
@@ -539,6 +675,10 @@ sagadgadaṃ bhītabhītaḥ praṇamya || 35 ||
 Sañjaya said:
 Having heard this speech of Keśava, the crowned one (Arjuna), trembling and with joined palms, bowing down, spoke again to Kṛṣṇa in a faltering voice, terrified and bowing low.
 
+**Simple Translation:** Sanjaya said: Hearing these words, Arjuna trembled and bowed down. With a shaking voice and filled with fear, he spoke to Krishna again.
+
+**Contemporary Relevance:** The Shock of Realization. Moving from 'thinking' to 'knowing' is a shock to the system. Arjuna’s trembling is the natural response of a human being who has finally understood the true scale of his responsibility and the universe.
+
 ---
 
 ### 11.36
@@ -558,6 +698,10 @@ sarve namasyanti ca siddhasaṅghāḥ || 36 ||
 Arjuna said:
 Rightly, O Hṛṣīkeśa, the universe rejoices and finds delight in Your glorification. Terrified Rākṣasas flee in all directions, and all the multitudes of perfected beings bow down to You.
 
+**Simple Translation:** Arjuna said: It is only right, Krishna, that the universe rejoices in Your name. Evil forces flee in fear, while perfected beings bow to You.
+
+**Contemporary Relevance:** The Order of Truth. Truth has a 'magnetic' quality: it attracts those who seek goodness (perfected beings) and repels those who live in ego and malice (evil forces). Recognizing this 'sorting' effect helps us see where we stand in our own lives.
+
 ---
 
 ### 11.37
@@ -573,6 +717,10 @@ ananta deveśa jagannivāsa
 tvam akṣaraṃ sad asat tat paraṃ yat || 37 ||  
 
 And why should they not bow to You, O Great Soul, greater even than Brahmā, the original creator? O infinite one, Lord of gods, abode of the universe, You are the imperishable, being (*sat*), non-being (*asat*), and that which is beyond both!
+
+**Simple Translation:** Why wouldn't they bow to You, O Great Soul? You are greater even than the Creator. You are the infinite Lord, the home of the universe, the unchanging truth, and both what exists and what does not.
+
+**Contemporary Relevance:** The Scale of Respect. We should respect that which is 'Greater' than us. Arjuna is acknowledging that the Absolute Truth is the 'Home' of everything. Finding your 'home' in the Truth provides the ultimate safety and perspective.
 
 ---
 
@@ -590,6 +738,10 @@ tvayā tataṃ viśvam anantarūpa || 38 ||
 
 You are the primal god, the ancient Spirit (*puruṣa*); You are the supreme resting place of this universe. You are the knower, the object to be known, and the supreme abode; by You the universe is pervaded, O one of infinite forms!
 
+**Simple Translation:** You are the first of gods, the ancient Spirit, and the ultimate resting place of the universe. You are the knower, the object of knowledge, and the highest home. You spread through the entire universe.
+
+**Contemporary Relevance:** The Triad of Knowledge. Krishna is the 'Knower' (Subject), the 'Known' (Object), and the 'Environment' (Home). This means there is nothing outside of the Truth. Everything you experience is just another facet of the same Absolute Reality.
+
 ---
 
 ### 11.39
@@ -605,6 +757,10 @@ namo namas te 'stu sahasrakṛtvaḥ
 punaś ca bhūyo 'pi namo namas te || 39 ||  
 
 You are Vāyu (wind), Yama (death), Agni (fire), Varuṇa (water), the Moon, Prajāpati (the lord of creatures), and the great-grandfather. Salutations, salutations to You a thousand times, and again and yet again, salutations, salutations to You!
+
+**Simple Translation:** You are the wind, the god of death, the fire, the water, and the moon. You are the Creator and the great-grandfather. I bow to You a thousand times, and again and again!
+
+**Contemporary Relevance:** The Ancestry of Truth. Every force of nature and every level of our 'lineage' comes from the same source. Bowing 'a thousand times' is a way of practicing radical humility and gratitude for the sheer complexity and support the universe provides.
 
 ---
 
@@ -622,6 +778,10 @@ sarvaṃ samāpnoṣi tato 'si sarvaḥ || 40 ||
 
 Salutations to You from the front and from behind! Salutations to You from all sides, O All! You are of infinite power and measureless valor; You pervade all, therefore You are all!
 
+**Simple Translation:** Salutations to You from the front, from behind, and from every side, O All! You possess infinite power and measureless strength. You fill everything, so You are everything.
+
+**Contemporary Relevance:** The 360-Degree Truth. You can't turn away from the Truth, because it is 'from every side.' Recognizing that the Absolute 'fills everything' helps us see that there is no 'un-sacred' or 'empty' part of our lives. Everything is full of meaning.
+
 ---
 
 ### 11.41
@@ -638,6 +798,10 @@ mayā pramādāt praṇayena vāpi || 41 ||
 
 Thinking of You merely as a friend, whatever I said rashly — "O Kṛṣṇa! O Yādava! O friend!" — not knowing this greatness of Yours, either through carelessness or out of affection;
 
+**Simple Translation:** Thinking of You only as a friend, I have rashly called You 'Kṛṣṇa,' 'Yādava,' and 'Friend,' not knowing Your greatness, either because of my negligence or my affection.
+
+**Contemporary Relevance:** The Danger of Familiarity. We often treat great opportunities or deep truths with 'casual' disrespect because we have become too familiar with them. Arjuna's apology is a reminder to maintain 'Awe' and 'Respect' for the First Principles of life, even when we work with them every day.
+
 ---
 
 ### 11.42
@@ -653,6 +817,10 @@ eko 'thavāpy acyuta tat samakṣaṃ
 tat kṣāmaye tvām aham aprameyam || 42 ||  
 
 And whatever disrespect I have shown You for the sake of a joke, while playing, resting, sitting, or eating, whether alone or in the presence of others, O unfalling one — for that I beg forgiveness from You, the immeasurable one.
+
+**Simple Translation:** I have even joked about You or been disrespectful while we were playing, resting, or eating together. I beg Your forgiveness for all of that, O immeasurable One.
+
+**Contemporary Relevance:** Integrity in the Mundane. Integrity is not just for 'big moments'; it’s for how we behave when we are 'resting or eating.' Arjuna realizes that even his 'small' behaviors should have been aligned with the greatness of the Truth he was with.
 
 > **Note:** The revelation forces a radical renegotiation of Arjuna's relationship with Kṛṣṇa. The intimacy of their human friendship is suddenly overshadowed by the terror of divine majesty, prompting Arjuna's apology.
 
@@ -672,6 +840,10 @@ lokatraye 'py apratimaprabhāva || 43 ||
 
 You are the father of the world, of the moving and the unmoving; You are its object of worship and its most venerable teacher. There is no one equal to You; how could there be another greater even in the three worlds, O one of matchless power?
 
+**Simple Translation:** You are the Father of the whole world, the most respected Teacher, and there is no one equal to You. How could anyone be greater than You in all the three worlds?
+
+**Contemporary Relevance:** The Absolute Standard. The Truth is the 'Final Authority.' By recognizing that nothing can be 'greater' than the fundamental laws of reality, we stop looking for 'shortcuts' or 'exceptions' and start focusing on aligning with the Absolute standard.
+
 ---
 
 ### 11.44
@@ -687,6 +859,10 @@ piteva putrasya sakheva sakhyuḥ
 priyaḥ priyāyārhasi deva soḍhum || 44 ||  
 
 Therefore, bowing down and prostrating my body, I seek grace from You, the praiseworthy Lord. As a father to a son, as a friend to a friend, as a lover to a beloved — You should bear with me, O God!
+
+**Simple Translation:** Therefore, I bow down and prostrate myself, seeking Your grace. As a father forgives a son, a friend a friend, or a lover a beloved—please forgive me and be kind.
+
+**Contemporary Relevance:** The Intimacy of the Absolute. Even though the Truth is 'Infinite' and 'Powerful,' Arjuna asks for a relationship that is as 'Intimate' as a father, friend, or lover. This is a beautiful First Principle: you can be 'one' with the infinite Truth in a way that is deeply personal and supportive.
 
 ---
 
@@ -704,6 +880,10 @@ prasīda deveśa jagannivāsa || 45 ||
 
 I am thrilled having seen what was never seen before, yet my mind is trembling with fear. Show me that [previous] form alone, O God! Be gracious, O Lord of gods, abode of the universe!
 
+**Simple Translation:** I am thrilled to have seen this vision that no one has ever seen before, but I am also shaking with fear. Please show me Your familiar form again, O Lord!
+
+**Contemporary Relevance:** The Human Limit. We can only handle the 'infinite' for so long. Arjuna’s request to see the 'familiar form' is an admission that we need 'human-scale' symbols and forms to function in our daily lives, even after we have understood the infinite Truth.
+
 ---
 
 ### 11.46
@@ -719,6 +899,10 @@ tenaiva rūpeṇa caturbhujena
 sahasrabāho bhava viśvamūrte || 46 ||  
 
 I wish to see You just as before, wearing a diadem, holding a mace, with a discus in Your hand. Assume that very four-armed form, O thousand-armed one, O Universal Form!
+
+**Simple Translation:** I want to see You as before, with Your crown and mace and discus. Please assume Your gentle, four-armed form again, O thousand-armed Universal Form!
+
+**Contemporary Relevance:** Seeking Manageable Truth. Total, raw reality is too much for the human brain. We need to 'package' our insights into manageable forms (like the four-armed Krishna) so we can actually use them to guide our actions in the world.
 
 ---
 
@@ -739,6 +923,10 @@ yan me tvadanyena na dṛṣṭapūrvam || 47 ||
 The Blessed Lord said:
 By My grace, Arjuna, this supreme form has been shown to you by My own mystic power — luminous, universal, infinite, primeval — which of Mine has not been seen before by anyone other than you.
 
+**Simple Translation:** The Blessed Lord said: By My grace and through My own power, I have shown you this supreme, universal, and infinite form which no one else has ever seen.
+
+**Contemporary Relevance:** The Rarity of Direct Vision. A direct, full experience of reality ('Vijnana') is a rare gift. Krishna reminds Arjuna that this vision was a special 'grace,' highlighting the value of the experience Arjuna just had.
+
 ---
 
 ### 11.48
@@ -755,6 +943,10 @@ draṣṭuṃ tvadanyena kurupravīra || 48 ||
 
 Not by the Vedas, nor by sacrifices, nor by study, nor by gifts, nor by rituals, nor by severe austerities can I be seen in such a form in the human world by anyone other than you, O foremost hero of the Kurus.
 
+**Simple Translation:** Arjuna, not through the study of scriptures, nor rituals, nor charity, nor difficult disciplines can I be seen in this form by anyone else in the human world.
+
+**Contemporary Relevance:** Experience over Ritual. You can't 'study' your way into a direct experience of Truth. Books and rituals are just preparation. The actual 'Vision' of reality comes from a different level of commitment and 'grace' that goes beyond external actions.
+
 ---
 
 ### 11.49
@@ -770,6 +962,10 @@ vyapetabhīḥ prītamanāḥ punas tvaṃ
 tad eva me rūpam idaṃ prapaśya || 49 ||  
 
 Let there be no fear for you, nor a state of bewildered mind, having seen this terrifying form of Mine. Free from fear, with a glad heart, behold again that very same [familiar] form of Mine.
+
+**Simple Translation:** Do not be afraid or confused by seeing this terrifying form of Mine. Be free from fear, and with a happy heart, look at My familiar form once again.
+
+**Contemporary Relevance:** The Return to Calm. After the 'Shock of Truth,' there must be a 'Return to Action.' Krishna calms Arjuna so he can actually *use* what he learned. The goal of seeing the 'terrifying' truth is not to stay terrified, but to become fearless in the 'familiar' world.
 
 ---
 
@@ -790,6 +986,10 @@ bhūtvā punaḥ saumyavapur mahātmā || 50 ||
 Sañjaya said:
 Having spoken thus to Arjuna, Vāsudeva (Kṛṣṇa) showed his own [four-armed] form again. And the Great Soul comforted him who was terrified, having assumed a gentle body once more.
 
+**Simple Translation:** Sanjaya said: After saying this, Krishna showed His own gentle form again, comforting the terrified Arjuna.
+
+**Contemporary Relevance:** The Compassionate Teacher. A true guide knows when to push the student to see the 'Infinite' and when to pull back and provide comfort. This balance of 'Intensity' and 'Compassion' is the secret to effective mentorship.
+
 ---
 
 ### 11.51
@@ -804,6 +1004,10 @@ idānīm asmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ || 51 ||
 
 Arjuna said:
 Seeing this gentle human form of Yours, O agitator of men, now I have become composed in mind and restored to my normal nature.
+
+**Simple Translation:** Arjuna said: Seeing this gentle human form of Yours, I have now become calm and restored to my normal nature.
+
+**Contemporary Relevance:** Grounding the Insight. Now that Arjuna is 'restored to his normal nature,' he can actually think and act. The purpose of 'enlightenment' is not to leave the human world, but to return to it with a better, calmer, and more grounded nature.
 
 > **Note:** The meter returns here to the standard *Anuṣṭubh*, reflecting Arjuna's return to ordinary consciousness and calm.
 
@@ -822,6 +1026,10 @@ devā apy asya rūpasya nityaṃ darśanakāṅkṣiṇaḥ || 52 ||
 The Blessed Lord said:
 Very difficult to see is this form of Mine which you have seen. Even the gods are constantly longing for a vision of this form.
 
+**Simple Translation:** The Blessed Lord said: The form you have just seen is very difficult to see. Even the gods are always longing for a glimpse of it.
+
+**Contemporary Relevance:** The Value of the vision. Krishna is reminding Arjuna that he has just experienced something that even 'higher beings' desire. It’s a call to treasure the deep insights we have gained, even when we return to our 'normal' lives.
+
 ---
 
 ### 11.53
@@ -834,6 +1042,10 @@ nāhaṃ vedair na tapasā na dānena na cejyayā |
 
 Not by the Vedas, nor by austerity, nor by charity, nor by sacrifice can I be seen in this way, as you have seen Me.
 
+**Simple Translation:** Neither by the scriptures, nor by self-discipline, nor by charity, nor by ritual can I be seen in the way you have just seen Me.
+
+**Contemporary Relevance:** The Limits of Effort. Again, Krishna emphasizes that external 'good deeds' are not enough to reach the ultimate direct experience. There is a missing ingredient that is more powerful than all the effort in the world.
+
 ---
 
 ### 11.54
@@ -845,6 +1057,10 @@ bhaktyā tv ananyayā śakya aham evaṃvidho 'rjuna |
 jñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa || 54 ||  
 
 But by undivided devotion (*bhakti*) can I be known in this way, and seen in truth, and entered into, Arjuna, O scorcher of foes.
+
+**Simple Translation:** But through undivided devotion (Bhakti), Arjuna, I can be truly known, seen, and entered into.
+
+**Contemporary Relevance:** The Key of Devotion. Undivided devotion ('Ananya-bhakti') is the missing ingredient. It means 100% commitment to the Truth. When you are 100% 'all-in,' the boundaries between you and the Truth dissolve, and you can 'enter into' its power.
 
 ---
 

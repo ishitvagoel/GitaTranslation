@@ -123,7 +123,7 @@ But those who, renouncing all actions in Me, holding Me as the supreme goal, wor
 
 **Contemporary Relevance:** The Surrender Strategy. By 'offering' your work to a higher principle, you turn your daily chores into a meditation. This is the 'integrated path' where your normal life becomes the vehicle for your highest growth.
 
-**Neuroscience Perspective:** Surrendering actions and meditating with 'undivided focus' is a strategy for 'unified state-management.' By aligning all motor (action) and cognitive (meditation) processes with a single Supreme Goal, the brain eliminates internal 'fragmentation' and enters a state of persistent flow.
+**Neuroscience Perspective:** When intention, action, and attention all align toward a single purpose, the brain enters what psychologists call a 'flow state' — characterized by reduced activity in the default mode network and heightened coherence between motor and cognitive regions. Surrendering all actions to one supreme goal eliminates the internal fragmentation that comes from serving competing priorities, producing sustained focus and reduced mental fatigue.
 
 ---
 
@@ -141,7 +141,7 @@ For them, whose minds are fixed on Me, I become without delay the deliverer from
 
 **Contemporary Relevance:** The Rescue of Focus. When you are drowning in 'Samsara' (the stress and repetitive drama of life), a single, powerful focus acts like a 'lifeline.' Truth doesn't just sit there; it actively 'pulls' you out of your confusion once you fix your mind on it.
 
-**Neuroscience Perspective:** Saving the mind from the 'ocean of death and rebirth' describes 'breaking repetitive stress-loops.' Neurally, fixing the mind on the Truth provides a 'master-signal' that overpowers the brain's 'anxiety-circuits,' effectively 'rescuing' the individual from chronic emotional reactivity.
+**Neuroscience Perspective:** Chronic rumination — the brain's tendency to replay stressful scenarios — keeps the amygdala in a state of heightened activation and sustains cortisol production. Focused attention on a stable object of contemplation interrupts these rumination loops by engaging prefrontal regulatory circuits. This is the mechanism behind many evidence-based meditation practices: a reliable anchor for attention breaks the cycle of reactive emotional processing.
 
 ---
 
@@ -159,7 +159,7 @@ Fix your mind on Me alone, direct your intellect into Me; you will dwell in Me a
 
 **Contemporary Relevance:** Internal Residency. Your 'home' is where your thoughts are. If your mind and logic are grounded in the Truth, then you are 'living' in the Truth, no matter where your physical body is. This is the ultimate form of 'mental health.'
 
-**Neuroscience Perspective:** Fixing the mind and letting the intellect 'live in Me' describes 'internalized residency.' Neurally, this means the 'Truth-model' has become the brain's 'default mode.' Your logic and awareness are now permanently anchored in First Principles, resulting in total cognitive stability.
+**Neuroscience Perspective:** Repeated contemplation of a principle gradually shifts the brain's default mode network — the regions active during rest and self-reflection — toward that principle as a baseline. Long-term meditators show structural changes in these networks, reflecting a new 'resting state.' When the mind's default orientation becomes aligned with a stable truth rather than scattered worries, cognitive stability follows naturally.
 
 ---
 
@@ -191,11 +191,11 @@ madartham api karmāṇi kurvan siddhim avāpsyasi || 10 ||
 
 If you are incapable even of practice, be intent on performing actions for Me. Even by performing actions for My sake, you shall attain perfection.
 
-**Simple Translation:** But those devotees who follow this immortal path of Dharma with total trust and hold Me as their highest goal—they are the ones I love most of all.
+**Simple Translation:** If you are unable even to practice, then dedicate all your work to Me. Even by performing your daily actions for My sake, you will reach perfection.
 
-**Contemporary Relevance:** The Ultimate Alignment. The final 'First Principle' of the Chapter of Devotion is 'Worship through Character.' Being 'dear' to the Truth is not about rituals; it's about *becoming* the kind of person described in this chapter. Character is the highest form of worship.
+**Contemporary Relevance:** The Lowest Barrier to Entry. If you can't meditate and you can't even practice focusing, just do your normal work — but do it for a purpose higher than yourself. Dedicating your daily actions to something beyond personal gain transforms routine labor into a path of growth. This is the most accessible starting point for anyone.
 
-**Neuroscience Perspective:** Focusing on 'work for My sake' is an act of 'behavioral scaffolding.' If the mind is too noisy for meditation, the brain can still be trained through 'purposeful movement.' Selfless work provides the 'external structure' needed to eventually achieve internal stillness.
+**Neuroscience Perspective:** When the mind is too restless for formal meditation, purposeful physical action can still reshape neural pathways. Research on 'behavioral activation' shows that structured, goal-directed activity reduces depressive rumination and builds new habit circuits. Selfless work provides external scaffolding — a reliable behavioral routine — that gradually trains the brain toward the internal stillness that direct meditation demands.
 
 ---
 
@@ -269,7 +269,7 @@ The yogi who is constantly contented, whose self is controlled, whose resolve is
 
 **Contemporary Relevance:** Self-Sufficient Contentment. A high-quality human doesn't 'wait' for external events to be happy. They are 'always content' because their happiness is internally generated and focused on the Truth. This is the definition of mental sovereignty.
 
-**Neuroscience Perspective:** Being 'always content and firm in resolve' describes 'intrinsic state-management.' A brain that generates its own 'satisfaction-signal' and stays 'committed to its purpose' is unshakeable. This is the definition of a high-integrity, high-performance human operating system.
+**Neuroscience Perspective:** Intrinsic motivation — where satisfaction comes from the activity itself rather than external rewards — is associated with sustained dopamine signaling in the ventral tegmental area and greater persistence under adversity. A mind that generates contentment internally, rather than depending on external validation, shows greater prefrontal stability and lower stress reactivity. Firm resolve combined with inner contentment is a hallmark of psychological resilience.
 
 ---
 
@@ -287,7 +287,7 @@ He from whom the world does not shrink in fear, and who does not shrink in fear 
 
 **Contemporary Relevance:** The Non-Disturbance Principle. This is the goal of social and internal peace. Don't be a source of chaos for others, and don't let the chaos of others penetrate your own mind. Imagine being 'immune' to the world's drama—that is the highest state.
 
-**Neuroscience Perspective:** Not 'disturbing the world or being disturbed by it' describes 'bilateral affective immunity.' Neurally, this is the mastery of 'emotional contagion.' You stop projecting your chaos onto others and stop absorbing the chaos of others, resulting in total internal and social stability.
+**Neuroscience Perspective:** Emotional contagion — the automatic transmission of moods between people via mirror neuron pathways — is a well-documented phenomenon. Advanced emotional regulation involves both not broadcasting distress signals to others and not involuntarily absorbing theirs. This bidirectional affect regulation requires strong prefrontal oversight of limbic responses, enabling a person to remain present and empathetic without being destabilized by the emotional states around them.
 
 ---
 
@@ -359,7 +359,7 @@ To whom blame and praise are equal, who is silent, content with anything whatsoe
 
 **Contemporary Relevance:** The Steady-Minded Minimalist. A 'steady mind' (sthiramatih) is one that doesn't need external validation or physical 'roots' to feel secure. By being 'content with whatever' (yena kenacit), you become the most powerful person in the room because you cannot be bribed or threatened.
 
-**Neuroscience Perspective:** Treating 'praise and criticism' as the same and being 'silent and content' describes 'maximal cognitive economy.' By not wasting energy on social defense or material accumulation, the brain preserves its resources for 'steady-minded' focus on the Truth.
+**Neuroscience Perspective:** Social evaluation — processing praise and criticism — consumes significant prefrontal and limbic resources. When the brain stops treating every social signal as a threat or reward requiring response, it frees up cognitive bandwidth. Research on equanimity in experienced meditators shows reduced reactivity in the ventral striatum to both positive and negative feedback, allowing attention to remain steady and undiverted.
 
 ---
 

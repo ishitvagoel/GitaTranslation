@@ -26,7 +26,7 @@ Fearlessness, purification of one's existence, steadfastness in the yoga of know
 
 **Contemporary Relevance:** The 26 Assets. Krishna begins by listing the 'Divine Endowments' (Daivi-sampad). These are the 'internal assets' that make a person truly powerful. Fearlessness is listed first because it's the foundation: without courage, you can't be honest or disciplined. These are the First Principles of character.
 
-**Neuroscience Perspective:** The 26 Assets (Daivi-sampad) are 'executive brain' strengths. Fearlessness (abhayam) is the First Principle because it de-activates the amygdala, allowing the prefrontal cortex to maintain 'steadfastness in knowledge' and 'self-control.' These traits create a neural environment optimized for integrity and service.
+**Neuroscience Perspective:** Fearlessness appears first in the list because chronic fear disrupts higher cognitive functions — when the amygdala is persistently activated, it suppresses prefrontal activity needed for clear judgment, self-control, and ethical reasoning. Reducing baseline fear through practices like courage and self-mastery creates the neurological conditions under which all the other virtues — discipline, generosity, honesty — become more accessible and sustainable.
 
 ---
 
@@ -100,7 +100,7 @@ The divine endowment is deemed to lead to liberation, and the demonic to bondage
 
 **Contemporary Relevance:** The Two Trajectories. Your character determines your 'flight path.' If you cultivate divine qualities, you move toward freedom and peace. If you follow demonic qualities, you get 'bound' by stress, conflict, and regret. Krishna's reassurance to Arjuna is a reminder that we can always choose our path.
 
-**Neuroscience Perspective:** The 'Two Trajectories' reflect 'attractor states' in the brain. Divine qualities lead to 'Liberation'—a state of minimal internal friction and maximum peace. Demonic qualities lead to 'Bondage'—a state of repetitive stress, conflict, and defensive ego-looping.
+**Neuroscience Perspective:** In dynamical systems theory, an 'attractor state' is a pattern that a system naturally gravitates toward over time. Psychological research applies this concept to personality: cultivating virtues creates a self-reinforcing cycle of clarity and peace, while habitual aggression and arrogance create a self-reinforcing cycle of stress and social conflict. Each trajectory deepens its own neural grooves, making it progressively easier to continue in the same direction.
 
 ---
 
@@ -282,7 +282,7 @@ yakṣye dāsyāmi modiṣya ity ajñānavimohitāḥ || 15 ||
 
 **Contemporary Relevance:** The Weaponization of Virtue. Even 'good' things like charity and celebration become 'demonic' when used to prove you are 'better than others.' This is a warning that the ego can hijack even our most virtuous acts to boost our pride.
 
-**Neuroscience Perspective:** The 'Weaponization of Virtue' (I will give, I will celebrate) describes 'narcissistic performativity.' Even good acts are used to feed the 'superiority-bias' of the amygdala. This is a warning that the ego can use *any* data-point—even charity—to reinforce its own pride and isolation.
+**Neuroscience Perspective:** Social comparison research shows that the brain's reward circuitry — particularly the ventral striatum — can be activated by feeling superior to others, even through ostensibly generous acts. When charitable behavior is motivated by self-image rather than genuine compassion, it activates self-referential networks (medial prefrontal cortex) more than empathy circuits (anterior insula). The ego can co-opt any behavior, including virtue, as fuel for social dominance signaling.
 
 > **Note:** The text reveals that even conventionally "good" acts like sacrifice (*yajña*) and charity (*dāna*) become demonic when performed from a foundation of ego, competition, and self-aggrandizement.
 

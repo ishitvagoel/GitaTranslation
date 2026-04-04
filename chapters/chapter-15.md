@@ -391,3 +391,9 @@ iti guhyatamaṃ śāstram idam uktaṃ mayānagha |
 etad buddhvā buddhimān syāt kṛtakṛtyaś ca bhārata || 20 ||  
 
 Thus this most secret teaching has been spoken by Me, O sinless one. Having understood this, a man would become wise and one who has accomplished all his duties, O Bhārata.
+
+**Simple Translation:** This is the most secret teaching I have given you, Arjuna. Anyone who truly understands it becomes wise and has fulfilled all that needs to be done.
+
+**Contemporary Relevance:** The Completion Principle. Krishna declares that understanding this single chapter — the distinction between the perishable, the imperishable, and the Supreme Person — is enough to make a person wise and complete. You don't need an endless accumulation of knowledge; you need deep understanding of the right knowledge. Quality of insight matters more than quantity of information.
+
+**Neuroscience Perspective:** The feeling of having 'accomplished all duties' after grasping a unifying insight reflects what psychologists call 'cognitive closure' — the resolution of an open question that had been generating ongoing mental tension. When a deep, integrative understanding clicks into place, the brain's conflict-monitoring systems (anterior cingulate cortex) quiet down, and the prefrontal cortex shifts from seeking mode to a settled, consolidated state. This is the neurological signature of genuine comprehension.

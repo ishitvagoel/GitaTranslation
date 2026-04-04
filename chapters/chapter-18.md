@@ -1432,3 +1432,11 @@ yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ |
 tatra śrīr vijayo bhūtir dhruvā nītir matir mama || 78 ||  
 
 Wherever there is Kṛṣṇa, the Lord of Yoga, and wherever there is Pārtha, the archer, there will certainly be prosperity, victory, abundance, and firm justice; such is my conviction.
+
+**Simple Translation:** Wherever Krishna, the master of Yoga, and Arjuna, the great archer, are together — there you will find prosperity, victory, abundance, and unwavering justice. This is my firm conviction.
+
+**Contemporary Relevance:** The Partnership of Wisdom and Action. The Gita closes with a universal formula: when higher truth (Krishna) and committed human effort (Arjuna) come together, success is inevitable. This is not about one person or one event — it's a principle. In any endeavor, the combination of clear understanding and disciplined execution produces lasting results. Sanjaya's conviction is the final message: align with truth, act with courage, and the outcome will take care of itself.
+
+**Neuroscience Perspective:** The pairing of wisdom and action mirrors what neuroscience calls the integration of the 'knowing' and 'doing' networks — the prefrontal planning regions and the motor-execution circuits. Peak performance in any domain emerges when cognitive clarity (understanding the goal) and skilled action (executing with discipline) operate in concert rather than in conflict. Sanjaya's unshakeable conviction also reflects a well-consolidated belief state — when evidence, experience, and insight converge, the brain generates a stable confidence that does not waver under pressure.
+
+> **Note:** Sañjaya speaks these final words to the blind king Dhṛtarāṣṭra, bringing the entire narrative full circle to the opening question of 1.1. The combination of the Lord of Yoga and the skilled warrior is the Gītā's concluding symbol for the union of *jñāna* (wisdom) and *karma* (action).

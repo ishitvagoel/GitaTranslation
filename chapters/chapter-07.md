@@ -222,7 +222,7 @@ I am the strength of the strong, devoid of desire and passion. In beings, I am t
 मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ॥ १२ ॥  
 
 ye caiva sāttvikā bhāvā rājasās tāmasāś ca ye |  
-matta eveti tān viddhi na tv ahaṃ teṣu te mयि ॥ १२ ॥  
+matta eveti tān viddhi na tv ahaṃ teṣu te mayi || 12 ||  
 
 And whatever states of being are of the nature of goodness (*sattva*), passion (*rajas*), or darkness (*tamas*), know that they proceed from Me alone. Yet I am not in them; they are in Me.
 
@@ -406,7 +406,7 @@ Whatever form a devotee wishes to worship with faith, I make that very faith of 
 लभते च ततः कामान्मयैव विहितान्हि तान् ॥ २२ ॥  
 
 sa tayā śraddhayā yuktas tasyārādhanam īhate |  
-labhate ca tataḥ kāmān mayaiva vihitān hi tान् ॥ २२ ॥  
+labhate ca tataḥ kāmān mayaiva vihitān hi tān || 22 ||  
 
 Endowed with that faith, he engages in the worship of that form, and from it he obtains his desires — which are in reality dispensed by Me alone.
 

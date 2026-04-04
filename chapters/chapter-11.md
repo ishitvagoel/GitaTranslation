@@ -1181,3 +1181,11 @@ matkarmakṛn matparamo madbhaktaḥ saṅgavarjitaḥ |
 nirvairaḥ sarvabhūteṣu yaḥ sa mām eti pāṇḍava || 55 ||  
 
 He who does My work, who holds Me as supreme, who is My devotee, freed from attachment, without enmity toward any being — he comes to Me, O son of Pāṇḍu.
+
+**Simple Translation:** The one who works for Me, considers Me the highest, is devoted to Me, is free from attachment, and holds no hatred toward any living being — that person reaches Me, Arjuna.
+
+**Contemporary Relevance:** The Five-Point Summary. After the overwhelming vision of the Universal Form, Krishna closes with the simplest possible instruction: work with purpose, stay devoted, let go of clinging, and hold no grudges. These five qualities are the practical takeaway from an entire chapter of cosmic revelation — grounding the infinite back into daily conduct.
+
+**Neuroscience Perspective:** This verse integrates action, belief, emotion, detachment, and social orientation into a single behavioral profile. Neuroscience research on prosocial behavior confirms that individuals who combine purposeful work with low attachment and low hostility show reduced cortisol levels, healthier vagal tone, and stronger social bonds. The absence of enmity is particularly significant — chronic hostility is one of the strongest predictors of cardiovascular disease and cognitive decline.
+
+> **Note:** This verse is sometimes called the "essence of the Gītā" (*gītā-sāra*) because it synthesizes all disciplines — karma, bhakti, jñāna, and vairāgya — into a single, actionable formula.

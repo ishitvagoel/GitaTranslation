@@ -538,3 +538,9 @@ atyeti tat sarvam idaṃ viditvā
 yogī paraṃ sthānam upaiti cādyam || 28 ||  
 
 Whatever fruit of merit is prescribed in the Vedas, in sacrifices, in austerities, and in gifts — the yogi, having known this, transcends all of that and attains the supreme, primal state.
+
+**Simple Translation:** Whatever rewards are promised for studying scripture, performing rituals, practicing austerity, or giving charity — the yogi who understands this teaching goes beyond all of them and reaches the supreme, original state.
+
+**Contemporary Relevance:** Beyond the Reward System. Most spiritual or ethical systems promise specific rewards for specific actions. Krishna says that the yogi who truly understands the deeper teaching transcends the entire reward-based framework. It's like realizing the game itself is smaller than the player — once you see that, collecting points no longer defines your purpose.
+
+**Neuroscience Perspective:** The brain's reward prediction system constantly calculates expected outcomes for actions — a process driven by dopaminergic circuits. Transcending the 'merit of rewards' parallels what happens in advanced contemplative states: the practitioner disengages from outcome-dependent motivation entirely, shifting from extrinsic to intrinsic orientation. This reduces the anxiety of anticipation and the disappointment of unmet expectations, producing a stable peace that reward-chasing cannot match.

@@ -26,7 +26,7 @@ I shall declare again the supreme knowledge, the best of all knowledge, knowing 
 
 **Contemporary Relevance:** The Hierarchy of Information. Not all knowledge is equal. Some information is trivial, while some is 'Supreme' because it solves the core problems of life. Krishna is inviting us to focus on the highest level of 'First Principles' that lead to actual perfection.
 
-**Neuroscience Perspective:** The 'supreme knowledge' represents 'meta-cognitive expertise.' Krishna is offering a master-model of human psychology (the Gunas) that allows the brain to understand its own internal forces. This high-level insight is what leads to 'highest perfection' in life.
+**Neuroscience Perspective:** Meta-cognition — the capacity to observe and understand your own mental processes — is considered by psychologists to be one of the highest cognitive skills. Krishna is offering a framework for understanding the internal forces that drive behavior. Having a clear model of your own psychology, rather than being blindly subject to it, is what distinguishes reactive behavior from deliberate, wise action.
 
 ---
 
@@ -44,7 +44,7 @@ Having resorted to this knowledge, having attained the same nature as Me, they a
 
 **Contemporary Relevance:** Becoming Unshakeable. When your character and understanding align with the 'Divine Nature' (Truth, Integrity, Peace), you transcend the cycles of external boom and bust. You become so stable that not even the 'end of the world' can rattle you.
 
-**Neuroscience Perspective:** Attaining 'My same nature' is the result of 'permanent neural alignment.' By integrating the Truth into your character, your brain's 'default mode' is no longer subject to the stress of beginnings (birth) or endings (dissolution). You achieve a state of 'systemic stability.'
+**Neuroscience Perspective:** Long-term contemplative practice produces measurable structural changes in the brain — thicker prefrontal cortex, stronger connectivity between regulatory regions, and reduced amygdala reactivity. These changes persist even outside meditation sessions. When truth and integrity become embedded in your neural architecture through sustained practice, the resulting psychological stability is not easily shaken by external upheaval or transitions.
 
 ---
 
@@ -100,7 +100,7 @@ Goodness (*sattva*), passion (*rajas*), and darkness (*tamas*) — these *guṇa
 
 **Contemporary Relevance:** The Three Colors of Experience. Think of these three 'Gunas' as the primary colors of the human mind. Everything you feel or do is a mix of these three forces. Understanding how they 'bind' you is the first step to mastering your own psychology.
 
-**Neuroscience Perspective:** The Three Gunas (Sattva, Rajas, Tamas) are the 'foundational operating modes' of the human nervous system. They 'bind' the soul by creating the specific biological and psychological conditions that dictate our behavior and perception of reality.
+**Neuroscience Perspective:** Modern psychology recognizes broad arousal states that parallel the three Gunas: a clear, calm alertness (similar to Sattva), a restless, driven hyperarousal (similar to Rajas), and a sluggish, withdrawn hypoarousal (similar to Tamas). These states are regulated by the autonomic nervous system and neurotransmitter balance. Each state shapes perception and behavior in distinct ways, and we cycle through them constantly — often without recognizing it.
 
 ---
 
@@ -264,7 +264,7 @@ When the embodied one goes to dissolution (death) while *sattva* has increased, 
 
 **Contemporary Relevance:** Ending in Clarity. Transitions matter. If you end a project or a life in a state of 'Sattva' (clarity and peace), your next step will naturally be at a higher level. Always strive to end things on a 'high note' of integrity.
 
-**Neuroscience Perspective:** Dying in Sattva leading to 'higher pure worlds' describes the 'momentum of clarity.' Transitioning from a situation while in a state of high integrity ensures that the 'legacy-data' of your character remains at a high level, influencing your future 'starting position.'
+**Neuroscience Perspective:** The psychological state in which you leave a situation shapes what you carry into the next one. Research on 'mood-congruent memory' shows that the emotional state at the time of an experience determines which memories consolidate most strongly. Transitioning from any situation — a job, a relationship, a phase of life — while in a state of clarity and integrity means the neural patterns you carry forward are constructive rather than reactive.
 
 ---
 
@@ -282,7 +282,7 @@ Going to dissolution in *rajas*, he is born among those attached to action; and 
 
 **Contemporary Relevance:** The Continuity of Momentum. You 'land' where you were 'heading.' If your life was a constant rush of greed (Rajas), you will find yourself in another environment of rush and greed. If you lived in confusion (Tamas), you will stay in confusion. Your character is your destiny.
 
-**Neuroscience Perspective:** Landing where you were 'heading' (Rajas or Tamas) is the First Principle of 'Neural Continuity.' Your next 'environment' is a logical extension of your current 'character-state.' You literally create your own future world with your current mental habits.
+**Neuroscience Perspective:** Habit research demonstrates that practiced mental states become self-reinforcing: a brain habituated to restless striving (Rajas) will seek out and create stressful environments, while a brain stuck in lethargy (Tamas) will gravitate toward contexts that reinforce passivity. This is the 'attractor state' principle — your current psychological patterns shape the situations you are drawn to next, creating a feedback loop between character and circumstance.
 
 ---
 
@@ -372,7 +372,7 @@ Having transcended these three *guṇas* which are the origin of the body, the e
 
 **Contemporary Relevance:** Transcending Biology. You are not your body or your moods. By 'transcending' the three qualities, you stop being a victim of your biological and psychological programming. You reach a state of permanent, unshakeable freedom.
 
-**Neuroscience Perspective:** Transcending the three qualities is the 'end of biological bondage.' Neurally, you have reached a state where your awareness is no longer 'slaved' to your moods or urges. You have reached 'peak sovereignty'—freedom from birth, death, and old age.
+**Neuroscience Perspective:** Advanced meditators show a remarkable ability to observe arousal states — calm, agitation, lethargy — without being captured by them. Neuroimaging reveals that this 'witnessing' capacity involves decoupling the prefrontal observer from limbic and autonomic fluctuations. The result is not suppression of these states, but a stable awareness that persists regardless of which state is active — a form of psychological freedom from the body's automatic mood cycles.
 
 ---
 

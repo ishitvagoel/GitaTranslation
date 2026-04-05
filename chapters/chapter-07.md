@@ -24,6 +24,8 @@ With mind attached to Me, Pārtha, practicing yoga and taking refuge in Me, hear
 
 **Simple Translation:** The Blessed Lord said: Arjuna, with your mind focused on the Truth, practicing discipline and seeking support in Me (the Absolute), listen to how you can know the full reality completely and without any doubt.
 
+**Argument Arc:** *Promise of Complete Knowledge (7.1–7.3)* — Opens the chapter's central claim: that a single, systematic teaching can dissolve all doubt and produce total knowledge of the Absolute.
+
 **Contemporary Relevance:** "The Pursuit of Total Clarity." Most of us have only a partial or doubtful understanding of ourselves and the world. Krishna is offering a path to "Total Clarity"—a state where you understand the "First Principles" of life so deeply that you no longer have any fundamental doubts about how to live or make decisions.
 
 **Neuroscience Perspective:** The request to 'know Me completely' is a call for 'total field mapping.' Neurally, this involves building a comprehensive internal model of reality that includes both the external environment and the internal observer. This reduces 'uncertainty-stress' and provides a stable basis for all future predictions and actions.
@@ -41,6 +43,8 @@ yaj jñātvā neha bhūyo 'nyaj jñātavyam avaśiṣyate || 2 ||
 I shall declare to you in full this knowledge (*jñāna*) along with realization (*vijñāna*), knowing which nothing else here remains to be known.
 
 **Simple Translation:** I will explain both the theory (Jnana) and the direct experience (Vijnana) of this truth to you. Once you understand this, there will be nothing left for you to learn in this world.
+
+**Argument Arc:** *Promise of Complete Knowledge (7.1–7.3)* — Specifies that the teaching is dual: both conceptual understanding and direct experiential realization together constitute complete knowledge.
 
 **Contemporary Relevance:** "Theory vs. Practice." Theoretical knowledge (knowing how a bike works) is useless without direct realization (actually riding the bike). Krishna is providing both the "instruction manual" and the "experience" of reality. This is the ultimate form of education—one that leaves you with nothing more to "search for" because you have reached the source.
 
@@ -62,6 +66,8 @@ Among thousands of men, scarcely one strives for perfection; and even among thos
 
 **Simple Translation:** Out of thousands of people, hardly one strives for perfection. And out of those few who do strive and succeed, hardly one truly knows Me as I am.
 
+**Argument Arc:** *Promise of Complete Knowledge (7.1–7.3)* — Establishes the rarity of this knowledge, creating urgency: the promise of 7.1–7.2 is supremely valuable precisely because so few ever attain it.
+
 **Contemporary Relevance:** "The Rarity of Excellence." True mastery and deep understanding are rare because they require immense dedication. Most people are happy with "good enough." This is a call to be that "one in a thousand" who refuses to settle for superficiality and instead seeks the absolute truth.
 
 **Neuroscience Perspective:** The 'rarity of perfection' reflects the 'energy-cost' of high-level neural optimization. Most brains default to 'heuristic-based' thinking (good enough) to save energy. Achieving direct realization of the Truth requires a level of sustained effort and focus that overcomes this biological tendency toward cognitive laziness.
@@ -80,6 +86,8 @@ Earth, water, fire, air, space, mind, intellect, and ego — thus is My material
 
 **Simple Translation:** My material nature is divided into eight parts: earth, water, fire, air, space, mind, intellect, and ego.
 
+**Argument Arc:** *Two Natures (7.4–7.12)* — Introduces the lower nature (aparā prakṛti): the eight-fold material and psychological components that constitute the observable world.
+
 **Contemporary Relevance:** "The Hardware of Reality." This is a First Principles breakdown of the physical and psychological world. "Earth, water, fire, air, space" represent the physical universe (matter and energy). "Mind, intellect, ego" represent the psychological software. Krishna is identifying the basic building blocks of everything we experience.
 
 **Neuroscience Perspective:** The eightfold division of 'lower nature' (earth, water, fire, air, space, mind, intellect, ego) is a 'First Principles taxonomy' of reality. It categorizes the 'hardware' (physical elements) and 'software' (cognitive functions) of our experience, allowing for a systematic analysis of our interactions with the world.
@@ -97,6 +105,8 @@ jīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat || 5 ||
 This is the lower [nature]. But know My other, higher nature, O mighty-armed one, which has become the living soul, and by which this world is sustained.
 
 **Simple Translation:** This is my lower nature. But you should also know my higher nature, Arjuna—the living life-force that sustains this entire world.
+
+**Argument Arc:** *Two Natures (7.4–7.12)* — Introduces the higher nature (parā prakṛti): the conscious life-force that animates matter, completing the two-tier ontology begun in 7.4.
 
 **Contemporary Relevance:** "The Life-Force Principle." Beyond the physical "hardware" (the elements) and the psychological "software" (mind/ego), there is a fundamental "Energy" or "Consciousness" that keeps the whole system running. This is the "Higher Nature" that gives life to matter. Understanding this helps us see that we are not just "machines" but part of a living universe.
 
@@ -118,6 +128,8 @@ Understand that all beings have their source in this [twofold nature]. I am the 
 
 **Simple Translation:** Understand that all living beings come from these two natures. I am both the beginning and the end of the entire universe.
 
+**Argument Arc:** *Two Natures (7.4–7.12)* — Draws the first synthesis: both natures ultimately originate from and dissolve back into Krishna, establishing him as the singular ground of all existence.
+
 **Contemporary Relevance:** "The Source and Destination." Every project, every life, and even the universe itself has a "lifecycle"—it starts, it exists, and it ends. By identifying with the "Source" (the Absolute) rather than the temporary form, we gain a perspective that is beyond the anxiety of birth and death.
 
 **Neuroscience Perspective:** I am the source and dissolution of everything describes the 'universal causal loop.' The brain performs better when it identifies with the 'stable source' rather than the 'temporary manifestations.' This provides a neural 'anchor' that is independent of life's fluctuations.
@@ -136,6 +148,8 @@ There is nothing whatsoever higher than Me, O winner of wealth. All this is stru
 
 **Simple Translation:** There is nothing in existence higher than Me, Arjuna. Everything in the universe is strung on Me like pearls on a string.
 
+**Argument Arc:** *Two Natures (7.4–7.12)* — Asserts Krishna's absolute supremacy and his role as the invisible unifying thread that holds all manifest reality together.
+
 **Contemporary Relevance:** "The Hidden Connection." We see "pearls" (individual people, events, things) and think they are separate. But Krishna says there is a hidden "string" (the Absolute Truth) that connects everything. In modern life, this helps us look for the "underlying patterns" and common ground in all of our diverse experiences.
 
 **Neuroscience Perspective:** The 'string and pearls' metaphor is a model of 'hidden connectivity.' Neurally, it encourages the brain to look for the 'underlying structure' (the string) that links apparently separate pieces of data (the pearls). Systems-thinking is the ability to perceive this thread of Truth in every detail.
@@ -153,6 +167,8 @@ praṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu || 8 ||
 I am the taste in water, O son of Kuntī; I am the light in the moon and the sun. I am the sacred syllable (*Oṃ*) in all the Vedas, the sound in space, and the virility in men.
 
 **Simple Translation:** I am the "wetness" (taste) in water, the light in the sun and moon, the sacred sound OM in the scriptures, the vibration in the air, and the core talent/strength in humans.
+
+**Argument Arc:** *Two Natures (7.4–7.12)* — Demonstrates divine immanence through primary sense experiences: Krishna is the essential defining quality within each element, not a separate entity standing apart from them.
 
 **Contemporary Relevance:** "The Essence of Things." Krishna is identifying himself as the *essential quality* that makes a thing what it is. Without "wetness," water is not water. Without "strength/grit," a human is not fully human. This is a call to find and cultivate the "essence" of our own roles and work.
 
@@ -174,6 +190,8 @@ I am the pure fragrance in the earth, and the brilliance in fire; I am the life 
 
 **Simple Translation:** I am the sweet scent of the earth and the heat in fire. I am the life-force in all living things and the discipline in those who practice self-control.
 
+**Argument Arc:** *Two Natures (7.4–7.12)* — Extends divine immanence from cosmic phenomena to the earth itself and to living beings, showing that every layer of reality — from soil to spiritual discipline — is pervaded by the Absolute.
+
 **Contemporary Relevance:** "Appreciating the Fundamental." When you smell the earth after rain or feel the warmth of a fire, you are experiencing the Absolute reality. Even your own ability to be disciplined is a "divine" quality. This perspective makes everyday life feel sacred and purposeful.
 
 **Neuroscience Perspective:** The Absolute as the 'pure fragrance' and 'heat' describes 'direct sensory realization.' By seeing the universal source in fundamental sensory experiences, we turn our daily 'inputs' into reminders of the Truth, creating a state of constant, grounded awareness.
@@ -191,6 +209,8 @@ buddhir buddhimatām asmi tejas tejasvinām aham || 10 ||
 Know Me, O Pārtha, as the eternal seed of all beings. I am the intelligence of the intelligent; I am the splendor of the splendid.
 
 **Simple Translation:** Arjuna, understand that I am the eternal seed of everything that exists. I am the intelligence of those who are smart, and the greatness of those who are great.
+
+**Argument Arc:** *Two Natures (7.4–7.12)* — Deepens the immanence argument by locating the divine at the generative root — the eternal seed — of all beings, and in the highest human faculties of intelligence and excellence.
 
 **Contemporary Relevance:** "The Source of Talent." If you are smart or successful, don't let it go to your head (ego). Your intelligence and your "splendor" are gifts from the universal source. This realization keeps us humble while encouraging us to use our "divine" talents for the good of the whole system.
 
@@ -210,6 +230,8 @@ I am the strength of the strong, devoid of desire and passion. In beings, I am t
 
 **Simple Translation:** I am the strength of those who are strong, provided that strength is free from selfish craving and obsession. In all beings, I am the desire that is aligned with justice and duty (Dharma).
 
+**Argument Arc:** *Two Natures (7.4–7.12)* — Introduces the ethical qualifier: not all strength and desire are divine expressions — only those purified of selfish craving and aligned with dharma manifest the Absolute.
+
 **Contemporary Relevance:** "Constructive Desire." Not all desire is bad. Desire that drives you to do your duty, help others, or build something great is actually a "divine" energy. Strength is also "divine" when it is used for protection and service rather than for personal ego or power.
 
 **Neuroscience Perspective:** The 'strength free from passion' and 'desire aligned with duty' describe 'optimal arousal states.' Neurally, this is high performance without the 'noise' of greed or anxiety. When energy is focused on 'Dharma' (duty), the brain operates at maximum efficiency with minimum internal friction.
@@ -227,6 +249,8 @@ matta eveti tān viddhi na tv ahaṃ teṣu te mayi || 12 ||
 And whatever states of being are of the nature of goodness (*sattva*), passion (*rajas*), or darkness (*tamas*), know that they proceed from Me alone. Yet I am not in them; they are in Me.
 
 **Simple Translation:** Understand that all states of being—whether they are pure (Sattva), active (Rajas), or dull (Tamas)—come from Me alone. I am not controlled by them, but they exist within Me.
+
+**Argument Arc:** *Two Natures (7.4–7.12)* — Closes the Two Natures section by asserting that even the three guṇas originate from Krishna, yet he transcends them — he is the source of all qualities without being conditioned by any.
 
 **Contemporary Relevance:** "The Source of Qualities." Everything in our environment and our own minds comes from the same universal source. However, the Truth is larger than any one quality. By understanding this, we can observe our own moods and environments without being defined or "trapped" by them. We see the "big picture."
 
@@ -248,6 +272,8 @@ Deluded by these three states composed of the *guṇas*, this entire world does 
 
 **Simple Translation:** Bewildered by these three qualities of nature, the entire world fails to recognize Me, who am higher than these qualities and unchanging.
 
+**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Opens the māyā section by diagnosing the problem: the guṇas that proceed from Krishna also produce the very delusion that prevents beings from recognizing him.
+
 **Contemporary Relevance:** "Beyond the Personality." We usually interact with people's "qualities"—their moods, their skills, their flaws. We think that's who they are. Krishna warns that this is a "delusion." Real wisdom involves looking past these temporary "traits" to see the eternal essence within every person and situation.
 
 **Neuroscience Perspective:** The world being 'deluded' by the qualities highlights 'feature-identification bias.' The brain gets stuck on the 'traits' (moods, behaviors) and fails to see the 'essence' (Truth). Wisdom is the ability to look 'through' the Gunas to see the Source.
@@ -266,10 +292,13 @@ For this divine illusion (*māyā*) of Mine, composed of the *guṇas*, is diffi
 
 **Simple Translation:** This divine energy of mine, made of the three qualities, is very difficult to cross. Only those who surrender to Me (the Absolute Truth) can cross over this illusion.
 
+**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — States both the severity of māyā (nearly impossible to overcome by personal effort) and the single solution: surrender to the source that lies beyond the illusion.
+
 **Contemporary Relevance:** "Transcending the Game." Life is like a complex "simulation" or "game" (Maya) designed to distract us. It’s hard to stay focused on what truly matters. The only way to "win" the game or move beyond it is to align yourself with the fundamental Truth that sits behind the simulation.
 
 **Neuroscience Perspective:** Surrendering to Me to cross the 'divine illusion' (Maya) is a strategy for 're-calibrating the self-model.' The 'illusion' is the small, separate ego. By surrendering to the 'whole' (the Absolute), you move your identity beyond the reach of the ego's confusion and stress.
 
+**Common Misreading:** "Māyā is an absolute trap with no escape." Actually, this same verse provides the immediate solution in its second half: those who take refuge in Krishna alone cross beyond māyā.
 ---
 
 ### 7.15
@@ -284,6 +313,7 @@ The evil-doers, the deluded, and the lowest of men do not take refuge in Me; the
 
 **Simple Translation:** Those who do bad things, who are foolish, and who are the lowest among humans do not seek Me. Their wisdom has been stolen by illusion, and they have taken on a destructive (demonic) nature.
 
+**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Closes the section with those who do bad things, who are foolish, and who are the lowest among humans do not seek Me, completing the argument's arc.
 **Contemporary Relevance:** "The Loss of Moral Compass." When someone becomes obsessed with ego, power, or greed, their "wisdom is stolen." They start seeing the world in a destructive way. This is a warning that ignoring the First Principles of truth leads to a miserable and "demonic" state of existence.
 
 **Neuroscience Perspective:** The 'stolen knowledge' of evil-doers describes 'cognitive corruption' by the ego. When the amygdala (greed/fear) takes over, it 'shuts down' the prefrontal cortex's access to First Principles, leading to a state of 'functional ignorance' and destructive behavior.
@@ -302,6 +332,7 @@ Four kinds of virtuous men worship Me, Arjuna: the distressed, the seeker of kno
 
 **Simple Translation:** Four types of good people seek Me, Arjuna: those in distress, those who want knowledge, those who want success/wealth, and those who already have wisdom.
 
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Opens the section by establishing four types of good people seek Me, Arjuna: those in distress, those who want knowledge, those who want success/wealth, and those who already have wisdom.
 **Contemporary Relevance:** "Why we Seek Truth." We all have different motivations for seeking a higher purpose. Whether you are in a crisis (distress), curious (seeker of knowledge), ambitious (seeker of wealth), or already dedicated (wise), you are on the right path. It acknowledges that everyone starts from where they are.
 
 **Neuroscience Perspective:** The four types of seekers (distressed, knowledge-seeker, wealth-seeker, wise) recognize that different 'neural needs' can lead to the same Truth. Whether driven by 'pain-reduction,' 'pattern-seeking,' 'reward-seeking,' or 'pure realization,' the brain is moving toward optimization.
@@ -320,6 +351,7 @@ Of them, the man of knowledge, ever-disciplined and devoted to the One, excels. 
 
 **Simple Translation:** Among them, the wise person who is always disciplined and devoted to the One Truth is the most outstanding. I am very dear to such a person, and they are very dear to Me.
 
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Advances the argument: Among them, the wise person who is always disciplined and devoted to the One Truth is the most outstanding.
 **Contemporary Relevance:** "The Power of Pure Devotion." While all seekers are good, the one who seeks the Truth for its own sake—without wanting wealth or a "fix" for their problems—is the most effective. This "pure" focus creates a powerful, reciprocal relationship with reality.
 
 **Neuroscience Perspective:** The wise person 'ever-disciplined and devoted to the One' has achieve 'neural integration.' By focusing 100% on a single, supreme goal, the brain eliminates all internal conflict and moves into a state of 'total coherence' and unshakeable clarity.
@@ -338,6 +370,7 @@ Noble are all these indeed, but the man of knowledge I consider to be My very se
 
 **Simple Translation:** All of these are indeed noble, but I consider the wise person to be My very self. Being disciplined, they are firmly established in Me as their highest goal.
 
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Advances the argument: All of these are indeed noble, but I consider the wise person to be My very self.
 **Contemporary Relevance:** "Oneness with the Principle." When you fully understand and live by the Truth, you are no longer separate from it. You *become* an expression of that Truth. This is the ultimate "First Principle" of identity—shifting from "I am this person" to "I am an expression of the Absolute."
 
 **Neuroscience Perspective:** The wise as 'My very self' describes 'identity-convergence.' When your brain’s 'model of reality' perfectly matches the 'Truth of reality,' there is no longer any difference between 'you' and 'the Truth.' You become an autonomous expression of the universal law.
@@ -356,6 +389,7 @@ At the end of many births, the man of knowledge takes refuge in Me, [realizing t
 
 **Simple Translation:** After many lifetimes of learning, the wise person finally realizes that "The Absolute (Vasudeva) is everything" and seeks refuge in Me. Such a great soul is very rare.
 
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Closes the section with after many lifetimes of learning, the wise person finally realizes that "The Absolute (Vasudeva) is everything" and seeks refuge in Me, completing the argument's arc.
 **Contemporary Relevance:** "The Ultimate Synthesis." This is the peak of philosophy. "Everything is One." Once you realize that every atom, every person, and every event is part of the same Absolute Reality, your search is over. You have reached the final "First Principle."
 
 **Neuroscience Perspective:** Realizing 'Vasudeva is all' is the ultimate 'unification of the world-model.' The brain no longer perceives any fundamental boundaries between 'self' and 'other,' or 'subject' and 'object.' This is the state of 'non-dual awareness' and the end of all internal friction.
@@ -376,6 +410,7 @@ Those whose knowledge has been carried away by various desires resort to other g
 
 **Simple Translation:** Those whose wisdom is stolen by various cravings seek out other "gods" (lesser goals), following different rules and restricted by their own limited nature.
 
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Opens the section by establishing those whose wisdom is stolen by various cravings seek out other "gods" (lesser goals), following different rules and restricted by their own limited nature.
 **Contemporary Relevance:** "Chasing Proxies." We often chase "lesser gods"—money, fame, comfort—thinking they will give us what only the Truth can. We are "constrained by our nature" because we follow these superficial cravings instead of our deepest purpose. This is a call to look for the "Real Thing" instead of its substitutes.
 
 **Neuroscience Perspective:** Chasing 'other gods' (lesser goals) is a form of 'attention-fragmentation.' When the brain follows superficial cravings, it is constantly 'switching contexts' and following weak reward-signals, which prevents the deep integration needed for real satisfaction.
@@ -394,6 +429,7 @@ Whatever form a devotee wishes to worship with faith, I make that very faith of 
 
 **Simple Translation:** Whatever form a person chooses to trust and follow with faith, I strengthen that faith and make it steady.
 
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Advances the argument: Whatever form a person chooses to trust and follow with faith, I strengthen that faith and make it steady.
 **Contemporary Relevance:** "The Power of Conviction." The universe supports your level of commitment. If you are 100% committed to a goal or a belief, you will find the strength to stay with it. This is a reminder that the *quality* of your commitment is what creates results, even if you are starting with a partial understanding.
 
 **Neuroscience Perspective:** The 'strengthening of faith' in whatever form chosen is a principle of 'neural commitment.' The universe (the laws of reality) reinforces whatever direction you focus on. Your 100% commitment creates its own neural momentum, regardless of the starting symbol.
@@ -412,6 +448,7 @@ Endowed with that faith, he engages in the worship of that form, and from it he 
 
 **Simple Translation:** Armed with that faith, they work toward their goal and eventually get what they want. But in reality, those results are provided by Me (the laws of the Absolute) alone.
 
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Advances the argument: Armed with that faith, they work toward their goal and eventually get what they want.
 **Contemporary Relevance:** "The Source of Results." You might think your success came from a specific person, a lucky break, or a specific tool. But Krishna points out that all results are governed by the fundamental laws of the universe. Recognizing the "True Source" of your success keeps you grounded and prevents you from becoming dependent on temporary tools or people.
 
 **Neuroscience Perspective:** Obtaining desires that are 'dispensed by Me alone' describes 'environmental causality.' You may think your 'specific god' or 'specific boss' gave you a reward, but neurally, you are just seeing the results of universal laws acting on your own efforts. Success is always systemic.
@@ -430,6 +467,7 @@ But temporary is the fruit belonging to those men of small understanding. The wo
 
 **Simple Translation:** But the rewards gained by people of small understanding are temporary. Those who seek lesser things get lesser things; but those who seek Me (the Absolute) reach Me.
 
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Closes the section with but the rewards gained by people of small understanding are temporary, completing the argument's arc.
 **Contemporary Relevance:** "Temporary vs. Permanent Success." Most people work for rewards that don't last (money, praise, status). Krishna calls this "small understanding." Real success is achieving a state of being (reaching Me) that is permanent and independent of external conditions. Aim for the "Infinite," not the "Finite."
 
 **Neuroscience Perspective:** The 'temporary fruits' of small understand describe 'short-term reward cycles.' Chasing temporary material goals keeps the brain in a state of 'constant hunting.' Seeking the Absolute provides a 'terminal reward' that is permanent and self-sustaining.
@@ -448,6 +486,7 @@ The unintelligent think of Me — the unmanifest — as having come into manifes
 
 **Simple Translation:** Unintelligent people think that I—the invisible and infinite—have just become a visible person. They do not know my higher nature, which is eternal and supreme.
 
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Opens the section by establishing unintelligent people think that I—the invisible and infinite—have just become a visible person.
 **Contemporary Relevance:** "Past the Surface." Don't mistake the "symbol" for the "reality." In every situation, there is a visible part (the person, the event) and an invisible part (the underlying principles and truth). Intelligence means seeing the "Infinite" behind the "Finite."
 
 **Neuroscience Perspective:** Mistaking the 'unmanifest' for the 'manifest' is a 'category error' in the brain. It's the error of thinking that 'Truth' is just another 'Object' or 'Person.' Real intelligence sees the 'Infinite Context' behind every 'Finite Form.'
@@ -466,6 +505,7 @@ Concealed by My creative illusion (*yogamāyā*), I am not revealed to all. This
 
 **Simple Translation:** I am not visible to everyone, as I am hidden by my own creative power. This confused world does not recognize Me as the unborn and unchanging source.
 
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: I am not visible to everyone, as I am hidden by my own creative power.
 **Contemporary Relevance:** "The Hidden Truth." The deepest truths of life are not "obvious." They are hidden in plain sight, behind the "noise" of the world. Understanding requires a level of focus and sincerity that most people don't have. Truth is a "private revelation" for those who are ready to see it.
 
 **Neuroscience Perspective:** Truth being 'hidden by creative illusion' reflects the 'filter-mechanics' of the brain. The brain is evolutionarily designed to see 'useful survival objects,' not the 'underlying Absolute Truth.' Seeing the Truth requires a conscious effort to look beyond these survival filters.
@@ -484,6 +524,7 @@ I know the beings that are past, that are present, and that are to come, Arjuna;
 
 **Simple Translation:** I know everything that has happened, everything that is happening now, and everything that will happen in the future, Arjuna. But no one truly knows Me.
 
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: I know everything that has happened, everything that is happening now, and everything that will happen in the future, Arjuna.
 **Contemporary Relevance:** "The Asymmetry of Knowledge." The Absolute Laws of reality know everything about us (our biology, our history, our potential). But we know very little about those Laws. Wisdom is the attempt to bridge this gap—to learn the Laws that already govern our existence.
 
 **Neuroscience Perspective:** The 'asymmetry of knowledge' describes the relationship between 'The System' and 'The Unit.' The universal laws (Krishna) know all data-points (past, present, future), but the individual brain (the unit) can only see a tiny fraction of that data. Wisdom is learning to trust the System's logic.
@@ -502,6 +543,7 @@ By the delusion of the dualities arising from desire and hatred, O Bhārata, all
 
 **Simple Translation:** From the very moment of birth, all beings are confused by the delusion of opposites (like/dislike) that comes from desire and hatred.
 
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: From the very moment of birth, all beings are confused by the delusion of opposites (like/dislike) that comes from desire and hatred.
 **Contemporary Relevance:** "The Bias of Duality." We are "born" into a world of "Us vs. Them," "Good vs. Bad," and "Win vs. Loss." This binary thinking is the source of all our confusion and conflict. Rising above these "dualities" is the only way to see the objective truth of any situation.
 
 **Neuroscience Perspective:** Bewilderment by 'desire and hatred' describes the 'bias of valence.' We are born with an instinctive 'Like/Dislike' filter that distorts our view of reality. Rising above this 'duality' is the only way to see the objective data of the world without emotional interference.
@@ -520,6 +562,7 @@ But those men of virtuous deeds whose evil has come to an end — freed from the
 
 **Simple Translation:** But those good people who have stopped doing wrong things and whose negativity has ended are freed from the confusion of opposites. They focus on Me with steady determination.
 
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: But those good people who have stopped doing wrong things and whose negativity has ended are freed from the confusion of opposites.
 **Contemporary Relevance:** "Integrity creates Clarity." Doing the "right thing" (virtuous deeds) is not just about being "nice"; it's about cleaning your own lens. When you stop acting from ego and negativity, your mind stops being "bewildered" by conflict. A clean life leads to a clear mind.
 
 **Neuroscience Perspective:** Integrity leading to 'freedom from duality' highlights 'moral-cognitive cleaning.' By acting with virtue and ending 'negativity' (sin), you remove the 'emotional noise' that keeps your brain in a state of conflict and confusion. Integrity results in Clarity.
@@ -538,6 +581,7 @@ Those who strive for liberation from old age and death, taking refuge in Me, the
 
 **Simple Translation:** Those who seek freedom from the cycle of decay and death by seeking refuge in Me, come to know the full Truth (Brahman), the nature of the Self, and the complete logic of action (Karma).
 
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: Those who seek freedom from the cycle of decay and death by seeking refuge in Me, come to know the full Truth (Brahman), the nature of the Self, and the complete logic of action (Karma).
 **Contemporary Relevance:** "Solving for the Root Cause." Most of our problems are "surface-level" symptoms of our mortality and ignorance. By "solving" for the highest Truth, you automatically get the answers to all the smaller questions—who you are, how the world works, and why we act.
 
 **Neuroscience Perspective:** Knowing the Absolute entirely by 'seeking refuge' describes 'holistic problem-solving.' By solving for the 'Highest Level' (Brahman), you automatically get the correct settings for the 'Intermediate Levels' (the self) and the 'Lower Levels' (action). Alignment starts at the top.
@@ -556,6 +600,7 @@ Those who know Me together with the domain of beings (*adhibhūta*), the domain 
 
 **Simple Translation:** Those who recognize Me in the physical world, in the cosmic powers, and in the act of contribution—they stay connected to the Truth even at the moment of death.
 
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Closes the section with those who recognize Me in the physical world, in the cosmic powers, and in the act of contribution—they stay connected to the Truth even at the moment of death, completing the argument's arc.
 **Contemporary Relevance:** "The Final Test." Real understanding is not just for "good times." It is most valuable when everything is being taken away (death). If your understanding of Truth is so deep that it stays with you even in a crisis, then you have truly mastered the science of life.
 
 **Neuroscience Perspective:** Knowing Me 'even at the time of death' is the ultimate test of 'neural durability.' If your model of the Truth is so robust that it can withstand the total collapse of your physical and sensory environment, then you have achieve 'Absolute Sovereignty' of mind.

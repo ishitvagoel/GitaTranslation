@@ -24,6 +24,7 @@ I shall declare again the supreme knowledge, the best of all knowledge, knowing 
 
 **Simple Translation:** The Blessed Lord said: I will tell you once more about the supreme knowledge—the best of all wisdom. Knowing this, the sages have reached the highest perfection.
 
+**Argument Arc:** *Introduction — Supreme Knowledge (14.1–14.4)* — Opens the section by establishing the Blessed Lord said: I will tell you once more about the supreme knowledge—the best of all wisdom.
 **Contemporary Relevance:** The Hierarchy of Information. Not all knowledge is equal. Some information is trivial, while some is 'Supreme' because it solves the core problems of life. Krishna is inviting us to focus on the highest level of 'First Principles' that lead to actual perfection.
 
 **Neuroscience Perspective:** Meta-cognition — the capacity to observe and understand your own mental processes — is considered by psychologists to be one of the highest cognitive skills. Krishna is offering a framework for understanding the internal forces that drive behavior. Having a clear model of your own psychology, rather than being blindly subject to it, is what distinguishes reactive behavior from deliberate, wise action.
@@ -42,6 +43,7 @@ Having resorted to this knowledge, having attained the same nature as Me, they a
 
 **Simple Translation:** By following this knowledge and reaching My same nature, these souls are not born at the start of creation and are not disturbed at the time of dissolution.
 
+**Argument Arc:** *Introduction — Supreme Knowledge (14.1–14.4)* — Advances the argument: By following this knowledge and reaching My same nature, these souls are not born at the start of creation and are not disturbed at the time of dissolution.
 **Contemporary Relevance:** Becoming Unshakeable. When your character and understanding align with the 'Divine Nature' (Truth, Integrity, Peace), you transcend the cycles of external boom and bust. You become so stable that not even the 'end of the world' can rattle you.
 
 **Neuroscience Perspective:** Long-term contemplative practice produces measurable structural changes in the brain — thicker prefrontal cortex, stronger connectivity between regulatory regions, and reduced amygdala reactivity. These changes persist even outside meditation sessions. When truth and integrity become embedded in your neural architecture through sustained practice, the resulting psychological stability is not easily shaken by external upheaval or transitions.
@@ -60,6 +62,7 @@ My womb is the great Brahman; in that I place the seed. From that, O Bhārata, i
 
 **Simple Translation:** The great Nature (Brahman) is My womb, and I place the seed of consciousness within it. From this union, all living beings are born, Arjuna.
 
+**Argument Arc:** *Introduction — Supreme Knowledge (14.1–14.4)* — Advances the argument: The great Nature (Brahman) is My womb, and I place the seed of consciousness within it.
 **Contemporary Relevance:** The Hardware-Software Union. This is the First Principle of Biology and Physics: 'Energy' (Spirit) meets 'Matter' (Womb) to create 'Life.' Recognizing that you are a combination of universal energy and natural elements connects you to the entire cosmos.
 
 **Neuroscience Perspective:** The 'union of seed and womb' is a model of 'Information meeting Energy.' Brahman (Nature) is the 'substrate' or the 'womb,' and the Divine Spirit is the 'information' or 'seed' that organizes matter into life. This union is the First Principle of all biological manifestation.
@@ -80,6 +83,7 @@ Whatever forms are produced in all wombs, O son of Kuntī, the great Brahman is 
 
 **Simple Translation:** Whatever forms are born in any womb, Arjuna, the great Nature is their mother, and I am the father who provides the seed.
 
+**Argument Arc:** *Introduction — Supreme Knowledge (14.1–14.4)* — Closes the section with whatever forms are born in any womb, Arjuna, the great Nature is their mother, and I am the father who provides the seed, completing the argument's arc.
 **Contemporary Relevance:** Universal Parenthood. We all have the same original parents: Nature and Truth. This perspective breaks down all social, racial, and species-based divisions. We are all 'siblings' in the massive family of existence.
 
 **Neuroscience Perspective:** Universal parenthood highlights the 'shared origin' of all conscious life. Neurally, this encourages a 'familial bias' toward all living beings, reducing the 'othering' and aggression signals that lead to social conflict.
@@ -98,10 +102,12 @@ Goodness (*sattva*), passion (*rajas*), and darkness (*tamas*) — these *guṇa
 
 **Simple Translation:** Goodness (Sattva), Passion (Rajas), and Dullness (Tamas) are the three qualities born of Nature. They bind the eternal soul to the physical body, Arjuna.
 
+**Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Opens the section by establishing goodness (Sattva), Passion (Rajas), and Dullness (Tamas) are the three qualities born of Nature.
 **Contemporary Relevance:** The Three Colors of Experience. Think of these three 'Gunas' as the primary colors of the human mind. Everything you feel or do is a mix of these three forces. Understanding how they 'bind' you is the first step to mastering your own psychology.
 
 **Neuroscience Perspective:** Modern psychology recognizes broad arousal states that parallel the three Gunas: a clear, calm alertness (similar to Sattva), a restless, driven hyperarousal (similar to Rajas), and a sluggish, withdrawn hypoarousal (similar to Tamas). These states are regulated by the autonomic nervous system and neurotransmitter balance. Each state shapes perception and behavior in distinct ways, and we cycle through them constantly — often without recognizing it.
 
+**Common Misreading:** "The three gunas are negative forces to be eliminated." Actually, even *sattva* (purity and clarity) binds the soul; the teaching is to transcend all three, including the seemingly positive guna.
 ---
 
 ### 14.6
@@ -116,6 +122,7 @@ Among these, *sattva*, being pure, is luminous and free from disease; it binds b
 
 **Simple Translation:** Among these, Sattva (Goodness) is pure, illuminating, and healthy. But it binds the soul through attachment to happiness and knowledge.
 
+**Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Advances the argument: Among these, Sattva (Goodness) is pure, illuminating, and healthy.
 **Contemporary Relevance:** The 'Golden Handcuffs'. Even being a 'good' and 'knowledgeable' person can be a trap if you become arrogant or attached to your own 'goodness.' This is a warning that the ego can hide even in our best qualities.
 
 **Neuroscience Perspective:** Sattva (Goodness) as 'illuminating and healthy' describes the state of 'optimal executive function.' Neurally, this is a state of high signal-to-noise ratio. However, the 'attachment to knowledge' is a warning about the ego’s ability to hijack even our most positive mental states.
@@ -136,6 +143,7 @@ Know that *rajas* is of the nature of passion, arising from thirst and attachmen
 
 **Simple Translation:** Rajas (Passion) is driven by craving and attachment. It binds the soul, Arjuna, through an obsession with action and work.
 
+**Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Advances the argument: Rajas (Passion) is driven by craving and attachment.
 **Contemporary Relevance:** The 'Hustle' Trap. Passion is what makes us work and achieve, but it also makes us 'thirsty' for more. If you are always 'doing' because you are never satisfied, you are trapped in the 'Rajas' loop. This is the source of modern stress and burnout.
 
 **Neuroscience Perspective:** Rajas (Passion) driven by 'craving' describes the 'hyper-active dopaminergic system.' The constant 'thirst' for more leads to 'action-addiction,' keeping the brain in a state of chronic stress and preventing the stillness needed for deep insight.
@@ -154,6 +162,7 @@ But know that *tamas* is born of ignorance, the deluder of all embodied beings; 
 
 **Simple Translation:** Tamas (Dullness) is born of ignorance and confuses all living beings. It binds the soul through negligence, laziness, and excessive sleep, Arjuna.
 
+**Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Advances the argument: Tamas (Dullness) is born of ignorance and confuses all living beings.
 **Contemporary Relevance:** The 'Fog' of Life. This is the energy of procrastination, avoidance, and confusion. When you feel 'stuck' or 'lazy,' you are under the influence of Tamas. It is the greatest obstacle to any kind of progress or clarity.
 
 **Neuroscience Perspective:** Tamas (Dullness) as 'born of ignorance' describes 'cognitive entropy.' When the brain is in a state of Tamas, its 'energy-levels' are too low for effective processing, leading to procrastination, confusion, and a lack of purpose. It is the energy of 'stagnation.'
@@ -172,6 +181,7 @@ Sattva attaches one to happiness, rajas to action, O Bhārata; but tamas, having
 
 **Simple Translation:** Sattva attaches you to happiness; Rajas attaches you to work; and Tamas, by hiding your knowledge, attaches you to mistakes and negligence.
 
+**Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Closes the section with sattva attaches you to happiness; Rajas attaches you to work; and Tamas, by hiding your knowledge, attaches you to mistakes and negligence, completing the argument's arc.
 **Contemporary Relevance:** Identifying the 'Hook'. Each quality has its own way of catching you. Knowing *why* you are acting—whether for comfort (Sattva), for a win (Rajas), or just out of habit (Tamas)—helps you regain control over your life.
 
 **Neuroscience Perspective:** The specific 'hooks' of the Gunas (Happiness, Action, Mistake) show how the environment 'tags' our awareness. By knowing which 'tag' is currently pulling your attention, you can use your prefrontal cortex to 'detach' from the Guna and regain control.
@@ -190,6 +200,7 @@ Overpowering *rajas* and *tamas*, *sattva* prevails, O Bhārata; overpowering *s
 
 **Simple Translation:** Sometimes Sattva dominates by overcoming Rajas and Tamas. At other times Rajas dominates, and sometimes Tamas prevails.
 
+**Argument Arc:** *How the Gunas Compete (14.10–14.13)* — Opens the section by establishing sometimes Sattva dominates by overcoming Rajas and Tamas.
 **Contemporary Relevance:** The Internal Tug-of-War. Your moods are not 'you'; they are just the shifting balance of these three forces. On a 'good day,' Sattva is winning. On a 'stressful day,' Rajas is winning. Recognizing this internal 'weather' helps you stay neutral while the forces shift.
 
 **Neuroscience Perspective:** The 'internal tug-of-war' reflects the 'dynamic equilibrium' of the brain. Our mental state is never static; it is a constant competition between these three biological modes. Awareness allows us to 'nudge' the system toward the desired state (Sattva).
@@ -208,6 +219,7 @@ When the light of knowledge arises in all the gates (senses) in this body, then 
 
 **Simple Translation:** When the light of wisdom shines through all the senses of the body, then you can be sure that Sattva is dominating.
 
+**Argument Arc:** *How the Gunas Compete (14.10–14.13)* — Advances the argument: When the light of wisdom shines through all the senses of the body, then you can be sure that Sattva is dominating.
 **Contemporary Relevance:** The Signal of Clarity. When you feel alert, clear-headed, and ethical, your 'hardware' is running on the 'Sattva' setting. This is the optimal state for making decisions and learning.
 
 **Neuroscience Perspective:** The 'light of wisdom' in all senses describes 'maximal sensory integration.' When Sattva dominates, the brain is processing data with extreme clarity and without emotional distortion. This is the optimal state for making high-stakes decisions.
@@ -226,6 +238,7 @@ Greed, activity, the undertaking of actions, unrest, and longing — these are b
 
 **Simple Translation:** Greed, restless activity, starting too many projects, lack of peace, and intense longing—these are the signs that Rajas is dominating, Arjuna.
 
+**Argument Arc:** *How the Gunas Compete (14.10–14.13)* — Advances the argument: Greed, restless activity, starting too many projects, lack of peace, and intense longing—these are the signs that Rajas is dominating, Arjuna.
 **Contemporary Relevance:** The Signal of Overheating. If you feel greedy or like you can't sit still, you are 'overheating' on Rajas. This is a warning to slow down, detach, and bring yourself back to center before you burn out.
 
 **Neuroscience Perspective:** Rajasic signs (greed, restlessness) describe a brain in 'overdrive.' The sympathetic nervous system is hyper-active, leading to a state of 'chronic arousal' that is focused on 'more' at any cost. This state is unsustainable and leads to systemic failure.
@@ -244,6 +257,7 @@ Darkness (lack of illumination), inactivity, negligence, and also delusion — t
 
 **Simple Translation:** Mental darkness, inactivity, negligence, and total confusion—these are the signs that Tamas is dominating, Arjuna.
 
+**Argument Arc:** *How the Gunas Compete (14.10–14.13)* — Closes the section with mental darkness, inactivity, negligence, and total confusion—these are the signs that Tamas is dominating, Arjuna, completing the argument's arc.
 **Contemporary Relevance:** The Signal of Stagnation. If you feel 'in the dark' or can't be bothered to do your duty, you are 'stuck' in Tamas. This is the signal that you need to move, take action, or seek knowledge to 'break the fog.'
 
 **Neuroscience Perspective:** Tamasic signs (darkness, confusion) describe 'neural downregulation.' The brain's 'alertness and executive' circuits are offline, leaving the person in a state of 'fog' and reactive habit. This is the state of 'zero momentum.'
@@ -262,6 +276,7 @@ When the embodied one goes to dissolution (death) while *sattva* has increased, 
 
 **Simple Translation:** If a person dies while Sattva is strong, they reach the higher, pure worlds of those who know the Truth.
 
+**Argument Arc:** *Destinations Based on Dominant Guna (14.14–14.18)* — Opens the section by establishing if a person dies while Sattva is strong, they reach the higher, pure worlds of those who know the Truth.
 **Contemporary Relevance:** Ending in Clarity. Transitions matter. If you end a project or a life in a state of 'Sattva' (clarity and peace), your next step will naturally be at a higher level. Always strive to end things on a 'high note' of integrity.
 
 **Neuroscience Perspective:** The psychological state in which you leave a situation shapes what you carry into the next one. Research on 'mood-congruent memory' shows that the emotional state at the time of an experience determines which memories consolidate most strongly. Transitioning from any situation — a job, a relationship, a phase of life — while in a state of clarity and integrity means the neural patterns you carry forward are constructive rather than reactive.
@@ -280,6 +295,7 @@ Going to dissolution in *rajas*, he is born among those attached to action; and 
 
 **Simple Translation:** If one dies while Rajas is strong, they are born again among those obsessed with work. If one dies in Tamas, they are born into the worlds of the confused.
 
+**Argument Arc:** *Destinations Based on Dominant Guna (14.14–14.18)* — Advances the argument: If one dies while Rajas is strong, they are born again among those obsessed with work.
 **Contemporary Relevance:** The Continuity of Momentum. You 'land' where you were 'heading.' If your life was a constant rush of greed (Rajas), you will find yourself in another environment of rush and greed. If you lived in confusion (Tamas), you will stay in confusion. Your character is your destiny.
 
 **Neuroscience Perspective:** Habit research demonstrates that practiced mental states become self-reinforcing: a brain habituated to restless striving (Rajas) will seek out and create stressful environments, while a brain stuck in lethargy (Tamas) will gravitate toward contexts that reinforce passivity. This is the 'attractor state' principle — your current psychological patterns shape the situations you are drawn to next, creating a feedback loop between character and circumstance.
@@ -298,6 +314,7 @@ The fruit of good action, they say, is *sāttvika* and pure; but the fruit of *r
 
 **Simple Translation:** The result of a good action is pure and 'Sattvic.' The result of Rajas is pain, and the result of Tamas is ignorance.
 
+**Argument Arc:** *Destinations Based on Dominant Guna (14.14–14.18)* — Advances the argument: The result of a good action is pure and 'Sattvic.
 **Contemporary Relevance:** The Law of 'Output'. 1. Integrity (Sattva) results in Peace. 2. Obsession (Rajas) results in Stress/Pain. 3. Negligence (Tamas) results in Confusion. If you want a specific 'result' in your life, you must choose the corresponding 'input' quality.
 
 **Neuroscience Perspective:** The Law of Output (Sattva -> Peace, Rajas -> Pain, Tamas -> Ignorance) is a lesson in 'causal mapping.' Every 'input' quality has a predictable 'output' result. If you don't like your current 'output' (pain), you must change your internal 'input' (Rajas).
@@ -316,6 +333,7 @@ From *sattva* knowledge is born, and from *rajas* only greed; from *tamas* arise
 
 **Simple Translation:** From Sattva comes wisdom; from Rajas comes greed; and from Tamas come negligence, confusion, and ignorance.
 
+**Argument Arc:** *Destinations Based on Dominant Guna (14.14–14.18)* — Advances the argument: From Sattva comes wisdom; from Rajas comes greed; and from Tamas come negligence, confusion, and ignorance.
 **Contemporary Relevance:** The Roots of Behavior. Why are some people wise and others greedy? It’s the underlying energy they are using. By cultivating 'Sattva' (purity and discipline), you make wisdom an automatic outcome of your life.
 
 **Neuroscience Perspective:** The 'roots' of behavior (Sattva -> Wisdom, Rajas -> Greed, Tamas -> Confusion) highlight the 'energy-dependence' of mental states. You cannot 'wish' for wisdom if your system is running on Tamas. Real growth requires 'fueling' the brain with Sattvic habits.
@@ -334,6 +352,7 @@ Those situated in *sattva* go upward; the *rājasika* stay in the middle; and th
 
 **Simple Translation:** Those in Sattva move upward; those in Rajas stay in the middle; and those in Tamas sink downward.
 
+**Argument Arc:** *Destinations Based on Dominant Guna (14.14–14.18)* — Closes the section with those in Sattva move upward; those in Rajas stay in the middle; and those in Tamas sink downward, completing the argument's arc.
 **Contemporary Relevance:** The Direction of Growth. Life is never standing still; you are either ascending, plateauing, or descending. 'Sattva' is the only force that consistently takes you 'upward' toward your highest potential.
 
 **Neuroscience Perspective:** The direction of growth (Upward, Middle, Downward) is a 'vector-model' of life. 'Sattva' is the only energy that provides a consistent 'upward' vector toward higher-level integration and freedom. Rajas and Tamas lead to stagnation or decay.
@@ -352,6 +371,7 @@ When the seer perceives no doer other than the *guṇas*, and knows that which i
 
 **Simple Translation:** When an observer sees that only these three qualities are acting, and knows what is beyond them, they reach My state of being.
 
+**Argument Arc:** *Transcending the Gunas (14.19–14.20)* — Opens the section by establishing when an observer sees that only these three qualities are acting, and knows what is beyond them, they reach My state of being.
 **Contemporary Relevance:** Observational Freedom. This is the 'Matrix' moment. When you realize that your moods and actions are just the three qualities interacting, you stop identifying with the drama. You step 'outside the box' and find the Truth that is beyond all moods.
 
 **Neuroscience Perspective:** Observing the 'qualities acting' is the peak of 'meta-awareness.' When the brain realizes 'I am the observer, not the qualities,' it achieves 'functional detachment.' You stop being a 'character' in the drama and start being the 'Audience' (the Self).
@@ -370,6 +390,7 @@ Having transcended these three *guṇas* which are the origin of the body, the e
 
 **Simple Translation:** Having risen above these three qualities that create the body, the soul is freed from birth, death, old age, and sorrow, and tastes immortality.
 
+**Argument Arc:** *Transcending the Gunas (14.19–14.20)* — Closes the section with having risen above these three qualities that create the body, the soul is freed from birth, death, old age, and sorrow, and tastes immortality, completing the argument's arc.
 **Contemporary Relevance:** Transcending Biology. You are not your body or your moods. By 'transcending' the three qualities, you stop being a victim of your biological and psychological programming. You reach a state of permanent, unshakeable freedom.
 
 **Neuroscience Perspective:** Advanced meditators show a remarkable ability to observe arousal states — calm, agitation, lethargy — without being captured by them. Neuroimaging reveals that this 'witnessing' capacity involves decoupling the prefrontal observer from limbic and autonomic fluctuations. The result is not suppression of these states, but a stable awareness that persists regardless of which state is active — a form of psychological freedom from the body's automatic mood cycles.
@@ -391,6 +412,7 @@ By what marks is he known who has transcended these three *guṇas*, O Lord? Wha
 
 **Simple Translation:** Arjuna asked: What are the signs of a person who has risen above these three qualities, Krishna? How do they behave, and how did they get past these forces?
 
+**Argument Arc:** *Signs of One Beyond the Gunas (14.21–14.25)* — Opens the section by establishing arjuna asked: What are the signs of a person who has risen above these three qualities, Krishna?.
 **Contemporary Relevance:** The Practical Model. Arjuna is asking for a real-world example. How does an 'enlightened' or 'truly free' person actually act in a meeting, in a conflict, or in a family? It’s a search for a tangible standard of excellence.
 
 **Neuroscience Perspective:** Arjuna’s search for 'behavioral markers' reflects the brain's need for 'exemplars.' He wants to know how a 'transcendent' human operating system looks in action, so he can benchmark his own progress and understand the goal.
@@ -412,6 +434,7 @@ He who does not hate illumination (*sattva*), activity (*rajas*), and delusion (
 
 **Simple Translation:** The Blessed Lord said: One who does not hate clarity, activity, or confusion when they arise, and doesn't crave them when they are gone...
 
+**Argument Arc:** *Signs of One Beyond the Gunas (14.21–14.25)* — Advances the argument: The Blessed Lord said: One who does not hate clarity, activity, or confusion when they arise, and doesn't crave them when they are gone.
 **Contemporary Relevance:** Radical Acceptance. A free person doesn't 'fight' their moods. If they are busy (Rajas), they don't hate it. If they are clear (Sattva), they don't get arrogant. If they are tired (Tamas), they don't judge it. They accept the internal weather without being controlled by it.
 
 **Neuroscience Perspective:** Radical acceptance of clarity, activity, and confusion describes 'non-resistant awareness.' A master doesn't 'waste energy' fighting their own biology. They observe the Gunas arise and pass with the same neutral curiosity, resulting in total internal peace.
@@ -430,6 +453,7 @@ He who, sitting like one indifferent, is not shaken by the *guṇas*; who, think
 
 **Simple Translation:** ...one who sits like a neutral observer and is not moved by the qualities, knowing that 'it is just the qualities acting,' and stays steady...
 
+**Argument Arc:** *Signs of One Beyond the Gunas (14.21–14.25)* — Advances the argument: ...one who sits like a neutral observer and is not moved by the qualities, knowing that 'it is just the qualities acting,' and sta.
 **Contemporary Relevance:** The Neutrality of Mastery. Imagine being so grounded that when a 'wave' of anger or greed hits your mind, you can just say 'Oh, that's just Rajas acting' and stay perfectly calm. This level of detachment is the ultimate superpower.
 
 **Neuroscience Perspective:** Sitting as a 'neutral observer' is the First Principle of 'Mastery.' Neurally, this is the ability to maintain 'executive control' even when intense biological waves (emotions) are passing through the system. You stay 'steady' because you know 'it's just the qualities acting.'
@@ -448,6 +472,7 @@ To whom pain and pleasure are alike, abiding in the self, to whom a clod of eart
 
 **Simple Translation:** ...to whom pain and pleasure are the same, who is self-contained, to whom dirt, stone, and gold are equal, and who remains the same in both praise and criticism...
 
+**Argument Arc:** *Signs of One Beyond the Gunas (14.21–14.25)* — Advances the argument: ...to whom pain and pleasure are the same, who is self-contained, to whom dirt, stone, and gold are equal, and who remains the sam.
 **Contemporary Relevance:** The Unshakeable Identity. If your value is internal (swastha), then external things (gold or dirt) and external opinions (praise or blame) lose their power to affect you. You are 'equanimous' because you are whole within yourself.
 
 **Neuroscience Perspective:** Equanimity toward 'pain/pleasure and gold/dirt' is 'valuation neutrality.' The brain has stopped assigning 'primitive reward-values' to external objects or sensations. By being 'self-contained' (swastha), you are immune to external bribes and threats.
@@ -466,6 +491,7 @@ Equal in honor and dishonor, equal to the sides of friend and enemy, abandoning 
 
 **Simple Translation:** ...who is equal in honor and disgrace, who treats friend and enemy the same, and who has given up all selfish projects—that person is said to have risen above the qualities.
 
+**Argument Arc:** *Signs of One Beyond the Gunas (14.21–14.25)* — Closes the section with ...who is equal in honor and disgrace, who treats friend and enemy the same, and who has given up all selfish projects—that person, completing the argument's arc.
 **Contemporary Relevance:** The End of the Ego-Project. Most of our 'work' is actually a 'selfish project' designed to boost our ego or social status. A master has given up these 'ego-projects' and instead works for the sake of Truth and Duty. This makes them immune to honor and disgrace.
 
 **Neuroscience Perspective:** Equality in 'honor/disgrace and friend/enemy' describes 'social-ego neutralization.' Most human stress comes from the need to protect the 'social self.' By treating these social signals as neutral data, you preserve your cognitive energy for your true purpose.
@@ -484,6 +510,7 @@ And he who serves Me with the unswerving yoga of devotion, having entirely trans
 
 **Simple Translation:** And one who serves Me with unswerving devotion rises above these three qualities and becomes fit to be the Absolute.
 
+**Argument Arc:** *Devotion as the Means to Transcend (14.26–14.27)* — Opens the section by establishing and one who serves Me with unswerving devotion rises above these three qualities and becomes fit to be the Absolute.
 **Contemporary Relevance:** Devotion as the Elevator. You don't have to 'fight' the three qualities one by one. By focusing 100% on the highest Truth (devotion), you are 'pulled' above the level of the qualities automatically. It’s the 'fast-track' to freedom.
 
 **Neuroscience Perspective:** Devotion as the 'elevator' to the Absolute highlights 'unified focus' as a shortcut. Instead of trying to fix every 'Guna' individually, you focus 100% on the 'Highest Value' (devotion). This total alignment 'pulls' the whole system above the level of conflict.
@@ -502,6 +529,7 @@ For I am the foundation of Brahman, the immortal and the imperishable, and of th
 
 **Simple Translation:** For I am the foundation of the Absolute, the source of immortality and eternal Dharma, and the home of absolute happiness.
 
+**Argument Arc:** *Devotion as the Means to Transcend (14.26–14.27)* — Closes the section with for I am the foundation of the Absolute, the source of immortality and eternal Dharma, and the home of absolute happiness, completing the argument's arc.
 **Contemporary Relevance:** The Final Bedrock. The chapter ends with a powerful promise: the ultimate Truth is the source of all stability, all justice (Dharma), and all real happiness. By connecting with this 'Foundation,' you find everything you have ever been looking for.
 
 **Neuroscience Perspective:** Krishna as the 'foundation of Brahman' identifies the Absolute with the 'BEDROCK of Reality.' Knowing that the Truth is the source of all 'Happiness and Dharma' provides the brain with an 'ultimate security signal,' ending all existential anxiety.

@@ -53,6 +53,8 @@ The sages understand renunciation (*saṃnyāsa*) as the giving up of actions bo
 
 **Neuroscience Perspective:** Renunciation (Sannyasa) vs. Abandonment (Tyaga) describes 'Input-regulation vs. Output-regulation.' Sannyasa targets the 'intent' (input); Tyaga targets the 'reward-obsession' (output). Both are First Principles of 'neural freedom'—reducing the ego's control over the human system.
 
+**Common Misreading:** "Sannyāsa and tyāga are the same thing — both mean giving up action." Actually, Krishna distinguishes them precisely: *saṃnyāsa* is the relinquishing of desire-motivated action altogether, while *tyāga* is continuing to act but surrendering attachment to fruits. Two different surgical cuts at two different levels.
+
 ---
 
 ### 18.3
@@ -133,6 +135,8 @@ But even these actions must be performed abandoning attachment and fruits; this,
 
 **Neuroscience Perspective:** Acting 'without attachment' is the 'Supreme Conviction'—the ultimate operating mode. Neurally, this is 'Execution without Interference.' By removing the 'egoic monitoring' of the result, the brain performs the task with 100% efficiency and zero stress.
 
+**Common Misreading:** "Renouncing the fruits of action means indifference to quality or outcome." Actually, *tyāga* (releasing fruits) is about emotional non-attachment — the *anxiety* about outcomes, not care or excellence in the action itself. Detachment enables better performance, not worse.
+
 ---
 
 ### 18.7
@@ -192,6 +196,8 @@ When a prescribed action is performed simply because it ought to be done, Arjuna
 **Contemporary Relevance:** High-Level Abandonment. This is the paradox: true 'letting go' happens *while* you are working. By letting go of the *why* (selfish reward), you become perfectly focused on the *what* (the duty). This is the state of 'Flow' and total integrity.
 
 **Neuroscience Perspective:** Sattvic abandonment (duty for its own sake) is 'principled execution.' Neurally, this is the prefrontal cortex acting on 'internal values' independently of 'external bribes or threats.' This level of alignment results in perfect 'flow' and integrity.
+
+**Common Misreading:** "Sattvic tyāga = all forms of detachment are spiritually equivalent." Actually, the verse specifies *niyatam karma* (prescribed duty) performed with released results as the sattvic ideal — it is a precise orientation, not a blanket approval of any attitude labeled "detached."
 
 > **Note:** The paradox of Gītā ethics: the highest form of "abandonment" is actually the *performance* of action, but with an abandoned psychological investment in its outcome.
 
@@ -357,6 +363,8 @@ He whose nature is not egoistic, whose intellect is not tainted — even if he k
 
 **Neuroscience Perspective:** The 'taint-free intellect' describes 'identity-distancing' during action. If the brain acts with 0% ego and 100% duty, it is like a 'well-programmed algorithm'—it executes the necessary task perfectly but accumulates zero 'moral trauma' or psychological residue.
 
+**Common Misreading:** "The liberated person is beyond all ethical rules and can act however they please." Actually, freedom from the sense of 'I am the doer' (*nāhaṃkāra-vimūḍha*) removes ego-driven attachment from action — it does not dissolve the action's ethical dimension or exempt the person from consequences in the world.
+
 > **Note:** This terrifying and profound verse forms the ultimate justification for Arjuna's martial duty. If agency is decentralized across five factors (18.14) and the self is the non-doer, then the physical act of killing—when stripped of egoic hatred or desire—carries no karmic weight.
 
 ---
@@ -418,6 +426,8 @@ That knowledge by which one sees a single imperishable state of being in all bei
 **Contemporary Relevance:** The Holistic View. Sattvic knowledge is the ability to see the 'Universal Pattern' behind the 'Individual Detail.' It is the peak of First Principles thinking—reducing complexity down to a single, unified truth.
 
 **Neuroscience Perspective:** Sattvic knowledge (seeing the One in the Many) is 'maximal systemic integration.' Neurally, this is the ability to perceive 'Universal Laws' behind 'Individual Data.' It is the most efficient and powerful way for a brain to model reality.
+
+**Common Misreading:** "Sattvic knowledge proves that all distinctions are false — duality is always wrong." Actually, seeing the one imperishable reality (*avibhaktam*) in all divided beings is a metaphysical insight about the *ground* of existence — it does not deny functional multiplicity or collapse all practical, ethical, and situational distinctions.
 
 ---
 
@@ -923,6 +933,8 @@ Devoted to his own specific action, a man attains perfection. Hear how he finds 
 
 **Neuroscience Perspective:** Perfection through 'dedication to one's own duty' describes 'Niche-Optimization.' Neurally, if you focus 100% on your specific 'lane,' you achieve a level of 'Flow' and 'Mastery' that is equivalent to any other path. Excellence is role-neutral.
 
+**Common Misreading:** "Perfection through one's own duty means each person must do only the job assigned by birth." Actually, *svakarmaṇā* refers to action aligned with one's *svabhāva* (authentic nature) — worshipping the divine through excellent engagement with one's own functional temperament, not through a hereditary job assignment.
+
 ---
 
 ### 18.46
@@ -1105,6 +1117,8 @@ Having become Brahman, with a serene self, he neither grieves nor desires. Equal
 
 **Neuroscience Perspective:** Equanimity toward 'all beings' is the state of 'Social-Neural Unity.' Neurally, the brain has stopped 'separating' itself from others. This balance is the prerequisite for 'Supreme Devotion'—the total alignment of the human system with reality.
 
+**Common Misreading:** "The brahma-bhūta state means one has no more duties, relationships, or active roles." Actually, the brahma-bhūta person neither grieves nor desires and sees equality everywhere — but they *continue acting*, as Krishna himself does (3.22-25). Liberation is characterized by the freedom of action, not its cessation.
+
 ---
 
 ### 18.55
@@ -1164,6 +1178,8 @@ Renouncing all actions in Me with your mind, holding Me as the supreme goal, res
 **Contemporary Relevance:** Cognitive Outsourcing. Stop carrying the weight of your actions on your own ego. 'Outsource' the ownership to the Truth. This doesn't mean you stop trying; it means you stop 'worrying' because you have dedicated the results to a higher principle.
 
 **Neuroscience Perspective:** Cognitive Outsourcing (surrendering actions to Me) is the First Principle of 'Ego-Management.' You 'upload' the burden of ownership to the Truth. This doesn't stop your effort; it stops your 'anxiety,' making you a more powerful and peaceful 'instrument.'
+
+**Common Misreading:** "Surrender to Krishna means passive acceptance of whatever happens — stop striving." Actually, *matcittaḥ sarvadurgāṇi mat-prasādāt tariṣyasi* — fixing the mind on Krishna *crosses all obstacles* through his grace. Surrender enables more fearless and effective action, not passivity.
 
 ---
 
@@ -1286,6 +1302,8 @@ Thus has knowledge, more secret than the secret, been declared to you by Me. Hav
 **Contemporary Relevance:** The Sovereignty of Free Will. This is one of the most important verses in the Gita. After giving all the advice, Krishna doesn't demand obedience. He tells Arjuna to 'reflect deeply' and then make his own choice. This is the First Principle of true teaching: it empowers the student to decide for themselves.
 
 **Neuroscience Perspective:** The Sovereignty of Free Will (do whatever you wish) is the First Principle of 'Autonomous Mastery.' A true guide doesn't 'command'; he 'empowers.' Krishna gives Arjuna the 'Source Code' and then leaves the 'Execute' button in Arjuna's own hands.
+
+**Common Misreading:** "Krishna delivers his final instructions and thereby closes the case." Actually, the verse is an invitation to full deliberation (*vimṛśyaitad aśeṣeṇa*) — Krishna does not foreclose the question but reopens it for Arjuna's free consideration, trusting him to choose from genuine understanding.
 
 > **Note:** The ultimate pedagogical release. Having laid out deterministic ontology, ethical duty, and divine grace, Kṛṣṇa places the burden of final choice squarely back onto Arjuna's free will.
 
@@ -1451,6 +1469,8 @@ Even the man who merely hears it, full of faith and free from malice — he too,
 **Contemporary Relevance:** The Low Barrier to Entry. Even 'passive listening' is beneficial if it is done with an open and sincere heart. The 'vibration' of truth has a purifying effect, even before you fully understand every detail. Sincerity is the 'minimum viable product' for growth.
 
 **Neuroscience Perspective:** Low Barrier to Entry highlights the 'Power of Vibration.' Even 'listening without judgment' (unprejudiced openness) starts the 're-wiring' process. Truth has a 'magnetic' quality that begins to organize the brain even before total understanding.
+
+**Common Misreading:** "Listening to the Gita is a meritorious ritual act that grants automatic liberation." Actually, the fruit of hearing is described in terms of *internal purification* — the listener must be *medhāvī* (intelligent) and *śraddadhānaḥ* (faithful). It is receptive, transformative listening that matters, not mere ritual attendance.
 
 ---
 

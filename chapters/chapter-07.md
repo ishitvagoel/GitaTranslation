@@ -72,6 +72,8 @@ Among thousands of men, scarcely one strives for perfection; and even among thos
 
 **Neuroscience Perspective:** The 'rarity of perfection' reflects the 'energy-cost' of high-level neural optimization. Most brains default to 'heuristic-based' thinking (good enough) to save energy. Achieving direct realization of the Truth requires a level of sustained effort and focus that overcomes this biological tendency toward cognitive laziness.
 
+**Common Misreading:** "Only one in a million can truly know God." Actually, the verse calibrates expectation for realization rather than declaring spiritual elitism — it points to why the teaching is precious and urgently needed, not inaccessible.
+
 ---
 
 ### 7.4
@@ -133,6 +135,8 @@ Understand that all beings have their source in this [twofold nature]. I am the 
 **Contemporary Relevance:** "The Source and Destination." Every project, every life, and even the universe itself has a "lifecycle"—it starts, it exists, and it ends. By identifying with the "Source" (the Absolute) rather than the temporary form, we gain a perspective that is beyond the anxiety of birth and death.
 
 **Neuroscience Perspective:** I am the source and dissolution of everything describes the 'universal causal loop.' The brain performs better when it identifies with the 'stable source' rather than the 'temporary manifestations.' This provides a neural 'anchor' that is independent of life's fluctuations.
+
+**Common Misreading:** "The lower and higher natures are two different substances." Actually, both natures are Krishna's — the division is functional, not ontological; both emerge from and dissolve back into the same divine source.
 
 ---
 
@@ -256,6 +260,8 @@ And whatever states of being are of the nature of goodness (*sattva*), passion (
 
 **Neuroscience Perspective:** The three qualities (Gunas) proceeding from the Source but not containing it is a lesson in 'transcendental neutrality.' Neurally, you learn to observe your moods (Gunas) as 'products of the system' without letting them define the 'system observer' (the Self).
 
+**Common Misreading:** "Sattva, rajas, and tamas come from external forces." Actually, the verse explicitly says they arise from Krishna (*matta eva*) — the guṇas are not independent substances but expressions of the divine itself.
+
 > **Note:** The paradox of divine immanence and transcendence. The *guṇas* (the three qualities of material nature) originate from the ultimate reality, but the ultimate reality is not conditioned or contained by them.
 
 ---
@@ -338,6 +344,8 @@ Four kinds of virtuous men worship Me, Arjuna: the distressed, the seeker of kno
 **Contemporary Relevance:** "Why we Seek Truth." We all have different motivations for seeking a higher purpose. Whether you are in a crisis (distress), curious (seeker of knowledge), ambitious (seeker of wealth), or already dedicated (wise), you are on the right path. It acknowledges that everyone starts from where they are.
 
 **Neuroscience Perspective:** The four types of seekers (distressed, knowledge-seeker, wealth-seeker, wise) recognize that different 'neural needs' can lead to the same Truth. Whether driven by 'pain-reduction,' 'pattern-seeking,' 'reward-seeking,' or 'pure realization,' the brain is moving toward optimization.
+
+**Common Misreading:** "Only these four types of devotees are legitimate seekers." Actually, the verse describes motivations for seeking the divine, not a ranked exclusion — even the self-interested or distressed seeker is already on the path and counted among the virtuous (*sukṛtino*).
 
 ---
 
@@ -440,6 +448,8 @@ Whatever form a devotee wishes to worship with faith, I make that very faith of 
 **Contemporary Relevance:** "The Power of Conviction." The universe supports your level of commitment. If you are 100% committed to a goal or a belief, you will find the strength to stay with it. This is a reminder that the *quality* of your commitment is what creates results, even if you are starting with a partial understanding.
 
 **Neuroscience Perspective:** The 'strengthening of faith' in whatever form chosen is a principle of 'neural commitment.' The universe (the laws of reality) reinforces whatever direction you focus on. Your 100% commitment creates its own neural momentum, regardless of the starting symbol.
+
+**Common Misreading:** "Worshipping lesser gods is spiritually wrong." Actually, Krishna himself steadies the faith of every sincere worshipper — the teaching is that all paths lead to the divine through the same source, though some are more direct.
 
 ---
 
@@ -580,6 +590,8 @@ But those men of virtuous deeds whose evil has come to an end — freed from the
 **Contemporary Relevance:** "Integrity creates Clarity." Doing the "right thing" (virtuous deeds) is not just about being "nice"; it's about cleaning your own lens. When you stop acting from ego and negativity, your mind stops being "bewildered" by conflict. A clean life leads to a clear mind.
 
 **Neuroscience Perspective:** Integrity leading to 'freedom from duality' highlights 'moral-cognitive cleaning.' By acting with virtue and ending 'negativity' (sin), you remove the 'emotional noise' that keeps your brain in a state of conflict and confusion. Integrity results in Clarity.
+
+**Common Misreading:** "Only the sinless can approach God." Actually, the verse identifies the exhaustion of sin through righteous action as the *result* that opens receptivity — the path purifies as it progresses; it is not gated by prior perfection.
 
 ---
 

@@ -335,7 +335,8 @@ But for those in whom that ignorance of the self is destroyed by knowledge, thei
 
 **Simple Translation:** But for those whose ignorance has been destroyed by knowledge, that knowledge shines like the sun, revealing the highest truth.
 
-**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Advances the argument: But for those whose ignorance has been destroyed by knowledge, that knowledge shines like the sun, revealing the highest truth.
+**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Introduces the positive counterpart to the ignorance diagnosed in 5.15: when knowledge destroys ignorance it illuminates the supreme reality like the sun, offering the first glimpse of liberation in this section.
+
 **Contemporary Relevance:** 'The Solar Insight.' Once you truly understand a principle, you can't 'un-understand' it. That clarity changes how you see everything, just as sunrise changes how a landscape looks. Real knowledge is not just another fact; it's a new light that reveals the world as it actually is.
 
 **Neuroscience Perspective:** Knowledge as a 'rising sun' describes 'irreversible cognitive restructuring.' Once you truly understand a First Principle, your brain's 'threat-assessment' and 'reward-mapping' change forever. You no longer 'see' the world through the old lens of confusion.
@@ -354,7 +355,8 @@ With intellect absorbed in That, their self identified with That, established in
 
 **Simple Translation:** Those whose minds are focused on the Truth, who identify with the Truth, who are established in the Truth, and who seek only the Truth, reach a state of permanent freedom, their negativity washed away by wisdom.
 
-**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Closes the section with those whose minds are focused on the Truth, who identify with the Truth, who are established in the Truth, and who seek only the Truth, reach a state of permanent freedom, their negativity washed away by wisdom, completing the argument's arc.
+**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Closes the section by describing the liberated ones in full: totally absorbed in the highest reality at every level — intellect, identity, discipline, and goal — they reach non-return, with all impurities washed away by that very knowledge.
+
 **Contemporary Relevance:** 'Total Alignment.' This is about having a single, unified purpose. When your thoughts, your identity, your habits, and your goals are all aligned with what is true and real, you become unstoppable and unshakeable. You no longer repeat the same old mistakes (non-return).
 
 **Neuroscience Perspective:** Total alignment (intellect, self, goal) describes a state of 'maximum neural coherence.' When all sub-systems of the brain are working toward a single, unified purpose, the internal 'noise' disappears, and the person becomes an unshakeable force of nature.
@@ -373,7 +375,8 @@ The wise look with an equal eye upon a brahmin endowed with learning and humilit
 
 **Simple Translation:** Those who are truly wise see the same life-force in a learned person, a cow, an elephant, a dog, and even an outcast. They look at all beings with an equal eye.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Opens the section by establishing those who are truly wise see the same life-force in a learned person, a cow, an elephant, a dog, and even an outcast.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Launches the section's central vision with its most radical image: the sage's equal perception encompasses the full spectrum from the highest to the lowest — brahmin and outcaste, human and animal — grounded not in sentiment but in the recognition of one Brahman pervading all.
+
 **Contemporary Relevance:** 'Radical Equality.' This is the ultimate 'First Principle' of human rights and environmental ethics. Wisdom is the ability to look past social status, species, or appearance to see the fundamental life-energy that we all share. It’s the death of prejudice.
 
 **Neuroscience Perspective:** Seeing the same life-force in all beings is the ultimate 'prejudice-filter.' Neurally, this disables the 'in-group/out-group' bias of the amygdala, replacing it with a 'universal recognition' signal that is the foundation of total social and ethical integrity.

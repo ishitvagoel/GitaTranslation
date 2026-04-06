@@ -668,7 +668,8 @@ But those who, caviling, do not practice My teaching — know them to be deluded
 
 **Simple Translation:** But those who reject and complain about this teaching, and do not practice it—know that they are completely confused and have lost their ability to reason and succeed.
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Advances the argument: But those who reject and complain about this teaching, and do not practice it—know that they are completely confused and have lost their ability to reason and succeed.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Supplies the negative contrast to 3.31: those who reject the teaching with complaint are ruined in all knowledge. The pairing of 3.31 and 3.32 creates a fork — faithful practice leads to liberation; cynical rejection leads to complete disorientation. This sharpens the urgency of Arjuna's choice.
+
 **Contemporary Relevance:** The danger of cynicism. Rejecting sound principles of life and work out of ego or laziness leads to a 'ruined' mindset. When we ignore the fundamental rules of reality (like reciprocity and focus), we eventually lose our way and our effectiveness.
 
 **Neuroscience Perspective:** The 'ruin' of the cynical targets the 'loss of predictive reliability.' If a person rejects all sound principles out of pride, their brain loses its ability to navigate reality effectively, leading to a state of 'chronic confusion' and systemic failure.
@@ -687,7 +688,8 @@ Even a man of knowledge acts according to his own nature (*prakṛti*). All bein
 
 **Simple Translation:** Even a wise person acts according to their own natural tendencies. All living things follow their nature; what is the point of trying to forcefully suppress it?
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Advances the argument: Even a wise person acts according to their own natural tendencies.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Extends the guṇa principle even to the wise: even those with knowledge are moved by their own nature, and all beings follow their nature regardless. This prevents the illusion that knowledge grants immunity from one's temperament — and begins to set up the necessity of svadharma rather than suppression.
+
 **Contemporary Relevance:** Authenticity vs. Repression. We all have inherent traits and temperaments. Trying to 'force' yourself to be someone you're not is a waste of energy and usually fails. Real growth comes from *directing* your natural energy toward a higher purpose, not from trying to 'kill' your natural personality.
 
 **Neuroscience Perspective:** The futility of 'repression' (nigrahaḥ) highlights that 'willpower alone' is not enough to change deep-seated biological traits. Real transformation requires 'alignment' and 'direction' of one's nature, not a violent attempt to suppress it.
@@ -708,7 +710,8 @@ Attachment (*rāga*) and aversion (*dveṣa*) are fixed in the objects of each s
 
 **Simple Translation:** Every sense naturally feels attraction or dislike for certain objects. You should not let yourself be controlled by these feelings, as they are obstacles on your path.
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Advances the argument: Every sense naturally feels attraction or dislike for certain objects.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Identifies the specific mechanism by which nature entraps: attraction (rāga) and aversion (dveṣa) are structurally embedded in every sense-object pair. Since these are inbuilt rather than chosen, repression is futile — the corrective must be awareness that prevents being controlled by them, not elimination.
+
 **Contemporary Relevance:** Emotional intelligence. We cannot stop ourselves from *feeling* attracted to some things and repelled by others—that's biological. But we *can* stop ourselves from being *controlled* by those feelings. Wisdom is the space between the feeling and the reaction.
 
 **Neuroscience Perspective:** The 'adversaries' of attachment and aversion describe the brain's 'approach/avoidance' biases. If we are controlled by our 'likes and dislikes,' we are predictable and easy to manipulate. Wisdom is the ability to act 'independently' of these primal biological pulls.
@@ -727,7 +730,8 @@ Better is one's own duty (*svadharma*), though imperfect, than another's duty we
 
 **Simple Translation:** It is better to do your own duty, even if you do it imperfectly, than to do someone else's duty perfectly. It is better to fail at your own path than to succeed at a path that doesn't belong to you.
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Closes the section with it is better to do your own duty, even if you do it imperfectly, than to do someone else's duty perfectly, completing the argument's arc.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Closes the section by naming svadharma as the solution to the entire problem of guṇa-identification and rāga-dveṣa: act in alignment with your own nature rather than imitating another's. Because guṇas constitute nature, acting against one's svadharma is not wisdom but a more dangerous form of self-violence — even death within one's own path is preferable.
+
 **Contemporary Relevance:** Find your own lane. In a world of social media comparison, we often try to copy someone else's 'perfect' life or career. Krishna warns that this is 'fraught with danger.' True fulfillment and security only come from being authentic to your own purpose, even if it feels 'imperfect' compared to others.
 
 **Neuroscience Perspective:** The danger of 'another's duty' reflects 'misalignment-stress.' Your brain is 'wired' for certain tasks (Svadharma). Trying to be someone else creates a state of 'chronic neural mismatch,' which is exhausting and leads to failure. Find your own optimal 'functional fit.'

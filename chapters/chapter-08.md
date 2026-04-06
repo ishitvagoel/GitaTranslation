@@ -285,7 +285,8 @@ Uttering the one-syllable Brahman, "Oṃ," and remembering Me, he who departs, l
 
 **Simple Translation:** One who leaves the body while chanting the sacred sound OM and remembering Me, reaches the highest destination.
 
-**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Advances the argument: One who leaves the body while chanting the sacred sound OM and remembering Me, reaches the highest destination.
+**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Adds the two-fold vocalization that completes the technical sequence: Om as the sonic form of Brahman and simultaneous remembrance of Krishna together constitute the complete act of departure, showing that sound and intent must be unified.
+
 **Contemporary Relevance:** Simplicity of Focus. At the highest level of complexity, the solution is often a single, simple focus (like the sound OM). It’s about reducing the noise of your life down to its essential, 'divine' frequency.
 
 **Neuroscience Perspective:** Chanting OM and remembering Me reduces the brain's 'cognitive complexity' to a single, powerful 'base frequency.' This simplification eliminates mental 'chatter' and allows the awareness to exit the body in a state of perfectly unified focus.
@@ -304,7 +305,8 @@ For the one of undivided mind who constantly remembers Me day by day, for that e
 
 **Simple Translation:** Arjuna, for the person who constantly remembers Me with an undivided mind every day, I am very easy to reach.
 
-**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Closes the section with arjuna, for the person who constantly remembers Me with an undivided mind every day, I am very easy to reach, completing the argument's arc.
+**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Closes the meditation instructions with an encouraging reversal: the elaborate deathbed practice described in 8.10–8.13 is not difficult if built on daily undivided remembrance — for such a yogi, Krishna himself becomes "easily attained," making the supreme goal accessible rather than forbidding.
+
 **Contemporary Relevance:** The Consistency Advantage. Success doesn't have to be 'hard' if it is 'constant.' If you keep your goals and values in mind every single day, you don't have to 'struggle' to find them—they are always there. Easy reach comes from daily remembrance.
 
 **Neuroscience Perspective:** Truth being 'easy to reach' for the 'constant rememberer' reflects the 'ease of automated pathways.' When you think about a goal every day, the brain creates 'fast-track' neural circuits that make accessing that goal effortless and automatic.
@@ -323,7 +325,8 @@ Having come to Me, the great souls do not incur rebirth — which is an imperman
 
 **Simple Translation:** Once they have reached Me, these great souls are never born again into this temporary world of sorrow, because they have reached the highest perfection.
 
-**Argument Arc:** *Beyond the Cycle (8.15–8.16)* — Opens the section by establishing once they have reached Me, these great souls are never born again into this temporary world of sorrow, because they have reached the highest perfection.
+**Argument Arc:** *Beyond the Cycle (8.15–8.16)* — States the consequence of the meditation practice just described: those who reach Krishna do not return to what the verse pointedly calls "the impermanent home of sorrow" — characterizing worldly existence in the starkest terms to sharpen the motivation for the entire chapter's discipline.
+
 **Contemporary Relevance:** Breaking the Cycle. Most of us are trapped in 'cycles'—repetitive mistakes, recurring anxieties, predictable failures. Reaching 'perfection' means breaking these loops and moving to a level of existence that is no longer subject to temporary sorrow.
 
 **Neuroscience Perspective:** Breaking the cycle of 'temporary sorrow' means moving the brain beyond 'episodic stress-loops.' By reaching 'perfection' (integration with Truth), the brain no longer generates the narratives of 'lack and loss' that characterize the world of sorrow.
@@ -342,7 +345,8 @@ All the worlds, up to the realm of Brahmā, are subject to return (rebirth), Arj
 
 **Simple Translation:** Every world in the universe is subject to 'return' (cycles), Arjuna; but once you reach Me, there is no more rebirth into those cycles.
 
-**Argument Arc:** *Beyond the Cycle (8.15–8.16)* — Closes the section with every world in the universe is subject to 'return' (cycles), Arjuna; but once you reach Me, there is no more rebirth into those cycles, completing the argument's arc.
+**Argument Arc:** *Beyond the Cycle (8.15–8.16)* — Extends the claim upward through the entire cosmic hierarchy: even Brahma's world, the highest peak of the created order, is subject to return — only Krishna's abode is genuinely permanent, closing off every alternative and leaving his path as the one true escape.
+
 **Contemporary Relevance:** The Limit of Success. Even the 'highest' material success (like becoming a CEO or a king) is temporary and will eventually 'return' to zero. Only reaching the ultimate Truth provides a foundation that never needs to be 're-built' from scratch.
 
 **Neuroscience Perspective:** The 'limit of material success' reflects 'systemic cyclicality.' Neurally, material rewards are subject to 'diminishing returns' and eventual 'reset' (death). Only the Truth provides a 'non-cyclical reward' that is permanent and self-sustaining.

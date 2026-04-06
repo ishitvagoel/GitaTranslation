@@ -1406,7 +1406,8 @@ And among men there is no one who does what is more pleasing to Me than he, nor 
 
 **Simple Translation:** Among all humans, there is no one who does a more pleasing service to Me than this, and no one on earth will be dearer to Me.
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Advances the argument: Among all humans, there is no one who does a more pleasing service to Me than this, and no one on earth will be dearer to Me.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Escalates the reward: not only does the transmitter reach Krishna (18.68), but they become uniquely the most beloved of all humans — an extraordinary affirmation that underscores the supreme value Krishna places on the living propagation of this knowledge.
+
 **Contemporary Relevance:** The Value of an Educator. Providing 'Clarity' to the world is the most valuable contribution a human can make. By helping others remove their 'darkness' (ignorance), you align perfectly with the creative and illuminating purpose of the universe.
 
 **Neuroscience Perspective:** The Value of an Educator reflects the 'Illumination Duty' of humans. Neurally, helping others 'remove their darkness' is the highest use of human intelligence. By providing 'Clarity,' you become the most valuable unit in the universal system.
@@ -1425,7 +1426,8 @@ And he who will study this sacred dialogue of ours, by him I would be worshipped
 
 **Simple Translation:** And anyone who studies this sacred dialogue between us—I consider that person to have worshipped Me through the 'Sacrifice of Knowledge.'
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Advances the argument: And anyone who studies this sacred dialogue between us—I consider that person to have worshipped Me through the 'Sacrifice of Knowledge.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Extends the merit of engagement from teaching to disciplined study: the one who contemplates this dialogue is declared to have performed jñāna-yajña — the sacrifice of knowledge — elevating intellectual study of the Gītā itself into a complete spiritual practice.
+
 **Contemporary Relevance:** Study as Worship. Thinking deeply about these principles is an act of 'Jnana-Yajna' (Knowledge-Sacrifice). It’s not just 'reading'; it's a transformative process that burns away your old biases and builds a new, wiser identity.
 
 **Neuroscience Perspective:** Study as 'Sacrifice' describes 'Neuro-Synthesis.' Neurally, 'thinking deeply' about these principles is an act of 'self-reprogramming.' You are 'burning away' old, flawed models and building a new, high-integrity 'Brahman-model' of life.
@@ -1444,7 +1446,8 @@ Even the man who merely hears it, full of faith and free from malice — he too,
 
 **Simple Translation:** Even a person who simply listens to this with faith and without judgment will be freed and reach the happy worlds of the righteous.
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Closes the section with even a person who simply listens to this with faith and without judgment will be freed and reach the happy worlds of the righteous, completing the argument's arc.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Closes the section by extending the merit all the way down to faithful listening: even the most minimal form of engagement — hearing with faith and without malice — purifies and liberates, demonstrating that this teaching is accessible at every level of capacity and not reserved only for advanced practitioners.
+
 **Contemporary Relevance:** The Low Barrier to Entry. Even 'passive listening' is beneficial if it is done with an open and sincere heart. The 'vibration' of truth has a purifying effect, even before you fully understand every detail. Sincerity is the 'minimum viable product' for growth.
 
 **Neuroscience Perspective:** Low Barrier to Entry highlights the 'Power of Vibration.' Even 'listening without judgment' (unprejudiced openness) starts the 're-wiring' process. Truth has a 'magnetic' quality that begins to organize the brain even before total understanding.

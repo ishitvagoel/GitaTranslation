@@ -595,7 +595,8 @@ Those who strive for liberation from old age and death, taking refuge in Me, the
 
 **Simple Translation:** Those who seek freedom from the cycle of decay and death by seeking refuge in Me, come to know the full Truth (Brahman), the nature of the Self, and the complete logic of action (Karma).
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: Those who seek freedom from the cycle of decay and death by seeking refuge in Me, come to know the full Truth (Brahman), the nature of the Self, and the complete logic of action (Karma).
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Specifies what the freedom from duality of 7.28 actually delivers: those who seek refuge in Krishna with liberation as their aim gain simultaneous, total knowledge of Brahman, the self, and the entire field of action — showing that surrender to the unmanifest resolves the chapter's threefold subject in a single move.
+
 **Contemporary Relevance:** "Solving for the Root Cause." Most of our problems are "surface-level" symptoms of our mortality and ignorance. By "solving" for the highest Truth, you automatically get the answers to all the smaller questions—who you are, how the world works, and why we act.
 
 **Neuroscience Perspective:** Knowing the Absolute entirely by 'seeking refuge' describes 'holistic problem-solving.' By solving for the 'Highest Level' (Brahman), you automatically get the correct settings for the 'Intermediate Levels' (the self) and the 'Lower Levels' (action). Alignment starts at the top.
@@ -614,7 +615,8 @@ Those who know Me together with the domain of beings (*adhibhūta*), the domain 
 
 **Simple Translation:** Those who recognize Me in the physical world, in the cosmic powers, and in the act of contribution—they stay connected to the Truth even at the moment of death.
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Closes the section with those who recognize Me in the physical world, in the cosmic powers, and in the act of contribution—they stay connected to the Truth even at the moment of death, completing the argument's arc.
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Closes both the section and the chapter by naming the ultimate proof of knowledge: those who recognize Krishna across the three domains — physical, cosmic, and sacrificial — retain that recognition even at death, answering 7.24's opening charge against those who mistake the manifest for the whole with the portrait of those who never do.
+
 **Contemporary Relevance:** "The Final Test." Real understanding is not just for "good times." It is most valuable when everything is being taken away (death). If your understanding of Truth is so deep that it stays with you even in a crisis, then you have truly mastered the science of life.
 
 **Neuroscience Perspective:** Knowing Me 'even at the time of death' is the ultimate test of 'neural durability.' If your model of the Truth is so robust that it can withstand the total collapse of your physical and sensory environment, then you have achieve 'Absolute Sovereignty' of mind.

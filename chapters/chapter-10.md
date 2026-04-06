@@ -454,7 +454,8 @@ Of the Vedas I am the Sāmaveda; of the gods I am Vāsava (Indra). Of the senses
 
 **Simple Translation:** Of the scriptures, I am the Samaveda; of the gods, I am Indra. Of the senses, I am the mind; and in all living beings, I am consciousness.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: Of the scriptures, I am the Samaveda; of the gods, I am Indra.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Extends the catalogue from the natural cosmos into human knowledge and governance: the supreme scripture, the sovereign god, the coordinator of senses, and consciousness itself — showing that the divine pervades intellectual and cognitive life as fully as the physical world.
+
 **Contemporary Relevance:** The Essence of Function. Krishna is the 'music' in the scriptures, the 'leadership' in the gods, the 'coordinator' (mind) in the senses, and 'life' (consciousness) in beings. Look for the 'core function' that makes a system work—that is the Absolute at work.
 
 **Neuroscience Perspective:** Being 'consciousness' in beings identifies the Absolute with the 'animating principle' itself. Neurally, this is the move from 'studying the brain' to 'realizing the consciousness' that makes the brain's functions possible.
@@ -473,7 +474,8 @@ Of the Rudras I am Śaṅkara; of the Yakṣas and Rākṣasas I am the Lord of 
 
 **Simple Translation:** Of the spirits of destruction, I am Shiva; of the spirits of wealth, I am Kubera. Of the elements, I am fire; and of the mountains, I am Meru.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: Of the spirits of destruction, I am Shiva; of the spirits of wealth, I am Kubera.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Broadens the catalogue into the domains of destruction, prosperity, elemental energy, and geography, demonstrating that the divine does not favor only benign forces but is equally the supreme presence in destructive and transformative powers.
+
 **Contemporary Relevance:** The Diversity of Truth. The Absolute is present in destruction (Shiva) just as much as in wealth (Kubera) or stability (mountains). This holistic view helps us see the 'divine' in all aspects of life, even the challenging ones.
 
 **Neuroscience Perspective:** Being 'Shiva' and 'Fire' identifies the Absolute with 'transformation and energy.' Neurally, this helps accept the 'destructive' and 'high-energy' aspects of life as necessary parts of the universal process of growth and change.
@@ -492,7 +494,8 @@ And of household priests, O Pārtha, know Me to be the chief, Bṛhaspati. Of ge
 
 **Simple Translation:** Arjuna, know Me as Brihaspati, the chief of priests. Among generals, I am Skanda; and among bodies of water, I am the ocean.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: Arjuna, know Me as Brihaspati, the chief of priests.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Extends the catalogue into ritual, military, and natural domains, linking priestly wisdom, martial command, and the vast scale of the ocean under a single governing principle: Krishna is the supreme exemplar wherever authority and depth converge.
+
 **Contemporary Relevance:** Vastness and Strategy. Whether it's the depth of the ocean or the precision of a master strategist (Brihaspati), look for the qualities of 'vastness' and 'excellence.' The most impressive version of anything is an expression of the Truth.
 
 **Neuroscience Perspective:** Being the 'Ocean' and 'Skanda' (warrior) identifies the Absolute with 'vastness and strategic power.' Look for the Absolute in the 'scale' of the environment and the 'precision' of effective action.
@@ -511,7 +514,8 @@ Of the great seers I am Bhṛgu; of utterances I am the single syllable (*Oṃ*)
 
 **Simple Translation:** Of the great seers, I am Bhrigu; of words, I am the sound OM. Of sacrifices, I am the silent chanting (Japa); and of steady things, I am the Himalayas.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: Of the great seers, I am Bhrigu; of words, I am the sound OM.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Draws together primordial wisdom (Bhṛgu), the most fundamental sound of all speech (OM), inward ritual (japa), and cosmic permanence (Himālaya) — showing that the divine is the irreducible essence whether one looks inward to sound, upward to mountains, or outward to sages.
+
 **Contemporary Relevance:** Stillness and Vibration. The Himalayas represent unshakeable stability, while Japa (silent chanting) represents internal focus. Truth is found in both the massive external steadiness and the subtle internal vibration.
 
 **Neuroscience Perspective:** Being 'OM' and 'Japa' identifies the Absolute with 'fundamental vibration and focus.' Neurally, the repetition of a single, powerful sound (Japa) is a proven technique for 'stilling the mind' and reaching the Source.

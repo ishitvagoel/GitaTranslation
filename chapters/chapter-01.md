@@ -28,7 +28,9 @@ On the field of dharma, on the field of the Kurus, assembled and eager to fight 
 
 **Contemporary Relevance:** This verse highlights how we often view situations through a lens of 'us versus them' (my people vs theirs). In modern life, this mindset creates division and prevents us from seeing the objective truth of a conflict, especially when we are deeply attached to one side.
 
-**Neuroscience Perspective:** The 'mine vs. theirs' distinction activates the medial prefrontal cortex (mPFC), specifically the regions associated with self-referential processing and in-group/out-group bias. Dhritarashtra’s query reflects a 'brain-level' tribalism where the amygdala prioritizes 'my people' over objective justice.
+**Neuroscience Perspective:** The ‘mine vs. theirs’ distinction activates the medial prefrontal cortex (mPFC), specifically the regions associated with self-referential processing and in-group/out-group bias. Dhritarashtra’s query reflects a ‘brain-level’ tribalism where the amygdala prioritizes ‘my people’ over objective justice.
+
+**Common Misreading:** "Dhṛtarāṣṭra’s question is purely tactical military intelligence." Actually, his blindness is spiritual as well as literal; the question betrays a father’s anxious hope that his unjust side will prevail — framing the entire epic as a moral inquiry from its very first word.
 
 > **Note:** *dharmakṣetra* and *kurukṣetra* stand in apposition — the battlefield is simultaneously the field of duty and the ancestral Kuru land. The doubling is deliberate, not redundant.
 
@@ -397,6 +399,8 @@ That tumultuous uproar tore through the hearts of the sons of Dhṛtarāṣṭra
 
 **Neuroscience Perspective:** The 'tearing of hearts' describes the physiological impact of psychological warfare. Intense, confident sound from an opponent can trigger an immediate 'threat response' in the amygdala of the other side, leading to a drop in confidence and morale.
 
+**Common Misreading:** "The sound war in 1.12–1.19 is only military scene-setting with no thematic significance." Actually, the conch sequence establishes the asymmetry at the heart of the conflict: Bhīṣma's signal tries to rally Duryodhana's anxious army, while the Pāṇḍava response tears through Dhṛtarāṣṭra's sons' hearts — the moral weight is already visible in the sound.
+
 ---
 
 ### 1.20
@@ -543,6 +547,8 @@ There Pārtha saw, standing arrayed — fathers, grandfathers, teachers, materna
 
 **Neuroscience Perspective:** Recognizing family members in the enemy lines triggers a 'cognitive dissonance' crisis. The 'loyalty' circuits (oxytocin-driven) are suddenly in direct conflict with the 'duty' circuits (prefrontal cortex), causing a neural 'logjam.'
 
+**Common Misreading:** "Arjuna breaks down because he is cowardly." Actually, his grief reveals dharmic sensitivity — the text itself frames this recognition of kinship as the necessary starting condition for the entire philosophical teaching that follows, not as a character flaw to be dismissed.
+
 ---
 
 ### 1.27
@@ -561,7 +567,9 @@ fathers-in-law and well-wishers too, in both armies. The son of Kuntī, seeing a
 
 **Contemporary Relevance:** Social and family ties create complex layers of loyalty that can make objective duty feel like personal betrayal. This tension is a universal human experience when personal values clash with professional or ethical requirements.
 
-**Neuroscience Perspective:** The realization of shared kinship activates the brain’s 'empathy network' (including the anterior insula). This network processes the 'pain of others' as if it were our own, making the command to fight feel like a command to self-harm.
+**Neuroscience Perspective:** The realization of shared kinship activates the brain’s ‘empathy network’ (including the anterior insula). This network processes the ‘pain of others’ as if it were our own, making the command to fight feel like a command to self-harm.
+
+**Common Misreading:** "Arjuna’s crisis is purely personal sentiment about family affection." Actually, the verse extends kinship to *both* armies simultaneously — a recognition that dismantles the clean division between us and them, making his paralysis a response to the civil-war nature of the conflict itself, not mere favoritism.
 
 ---
 
@@ -587,6 +595,8 @@ Seeing these, my own people, Kṛṣṇa, standing here eager to fight,
 **Contemporary Relevance:** Empathy is a powerful force that can sometimes lead to paralysis. Arjuna's reaction shows that even a seasoned professional can be deeply moved by the human cost of a decision, leading to a moment of profound internal conflict.
 
 **Neuroscience Perspective:** Arjuna's 'pity' is the result of an empathetic overload. When the brain can no longer reconcile two conflicting moral commands, it triggers a 'limbic hijack,' where emotions take over and the body begins to shut down.
+
+**Common Misreading:** "Kṛpā (pity/compassion) here is a virtue Arjuna should maintain." Actually, Krishna will reframe this *kṛpā* as misplaced grief (*anarha-śocyān*, those not worthy of grief) — the opening word of his teaching in 2.11 — distinguishing compassion-in-wisdom from sorrow-born-of-ignorance.
 
 ---
 
@@ -666,7 +676,9 @@ I do not desire victory, Kṛṣṇa, nor kingdom, nor pleasures. What use is a 
 
 **Contemporary Relevance:** In moments of deep crisis, the rewards we once sought can suddenly feel meaningless. This questioning of "What is it all for?" is a common response when our goals conflict with our conscience.
 
-**Neuroscience Perspective:** The loss of interest in victory or kingdom shows the 'anhedonia' (loss of pleasure) that comes with severe acute stress. The brain’s 'reward system' (dopamine) is temporarily offline because the moral conflict has rendered all outcomes meaningless.
+**Neuroscience Perspective:** The loss of interest in victory or kingdom shows the ‘anhedonia’ (loss of pleasure) that comes with severe acute stress. The brain’s ‘reward system’ (dopamine) is temporarily offline because the moral conflict has rendered all outcomes meaningless.
+
+**Common Misreading:** "Arjuna’s renunciation of victory here anticipates the Gita’s teaching on non-attachment." Actually, his disavowal of kingdom and pleasure is driven by grief and moral paralysis, not genuine vairāgya (dispassion) — Krishna’s teaching is precisely what transforms reactive withdrawal into genuine non-attachment.
 
 ---
 
@@ -746,7 +758,9 @@ What pleasure could be ours from killing the sons of Dhṛtarāṣṭra, Janārd
 
 **Contemporary Relevance:** Arjuna is struggling with the idea of "just war." He recognizes the opposition has done wrong, but he fears that by responding with violence, he will become like them. It’s a deep reflection on whether the ends ever truly justify the means.
 
-**Neuroscience Perspective:** The concern about 'wrong clinging to us' reflects the brain’s 'moral disgust' mechanism. Slaying relatives triggers the same neural pathways as physical filth, causing an instinctive 'recoil' that overrides logical strategic goals.
+**Neuroscience Perspective:** The concern about ‘wrong clinging to us’ reflects the brain’s ‘moral disgust’ mechanism. Slaying relatives triggers the same neural pathways as physical filth, causing an instinctive ‘recoil’ that overrides logical strategic goals.
+
+**Common Misreading:** "Arjuna is rationalizing to avoid fighting." Actually, his concerns about killing teachers and family members are philosophically substantive — the very reason the Gita requires 18 chapters to answer them rather than a single command to stand up.
 
 > **Note:** *ātatāyin* — one who attacks with deadly intent. Even calling them aggressors, Arjuna argues that killing them would still be wrong. The term acknowledges their culpability while insisting it does not justify killing.
 
@@ -830,6 +844,8 @@ In the destruction of a family, the ancient family duties perish. When duty is d
 
 **Neuroscience Perspective:** The fear of 'lawlessness' reflects the brain's need for 'social order' and 'predictive structure.' When the core structures of society (families) are destroyed, the brain perceives an existential threat of 'entropy' or chaos.
 
+**Common Misreading:** "This is just conservative sentiment about preserving tradition." Actually, Arjuna is identifying how moral collapse cascades through social structures — a systems-level concern about how the destruction of foundational institutions propagates harm through every layer of a community.
+
 ---
 
 ### 1.41
@@ -912,6 +928,8 @@ For those whose family duties have been destroyed, Janārdana, a dwelling in hel
 
 **Neuroscience Perspective:** The certainty of 'hell' is the brain's 'ultimate negative feedback' mechanism. It uses the threat of extreme, permanent future pain to enforce current social and ethical rules. It's the brain's 'final deterrent' against breaking social bonds.
 
+**Common Misreading:** "Arjuna invokes hell to manipulate Krishna into agreeing with him." Actually, he is in genuine moral crisis; his self-condemnation here is authentic despair rooted in received teaching, not a rhetorical strategy — which is precisely why Krishna's response must be philosophical rather than tactical.
+
 ---
 
 ### 1.45
@@ -952,6 +970,8 @@ If the armed sons of Dhṛtarāṣṭra were to kill me in battle, unresisting a
 
 **Neuroscience Perspective:** The preference for 'being killed' over 'killing' is the ultimate 'shutdown' of the survival instinct. The brain has decided that the 'moral pain' of living as a perpetrator is greater than the 'physical pain' of dying as a victim.
 
+**Common Misreading:** "Arjuna's preference for death over killing shows spiritual evolution toward ahiṃsā." Actually, this is the nadir of his collapse — the point where his crisis has become so complete that he inverts his own dharma entirely, which is why it immediately precedes his surrender to Krishna as a student.
+
 ---
 
 ### 1.47
@@ -974,6 +994,8 @@ Having spoken thus on the field of battle, Arjuna sat down on the seat of his ch
 **Contemporary Relevance:** Chapter 1 ends in a state of complete paralysis. This is the "rock bottom" before the real learning begins. It reminds us that sometimes we have to completely break down and admit our helplessness before we can be open to true wisdom and a new way of thinking.
 
 **Neuroscience Perspective:** The final state of 'despair and sitting down' is 'clinical paralysis.' The brain's 'motor-planning' and 'motivation' centers have completely stalled because of an irreconcilable internal conflict. He has reached 'Zero Agency.'
+
+**Common Misreading:** "Chapter 1 is merely a literary prologue before the real teaching begins." Actually, the yoga of Arjuna's despair (*arjuna-viṣāda-yoga*) is itself named a yoga — the text frames the crisis of collapse and surrender as the essential first movement without which no genuine inquiry into dharma can begin.
 
 ---
 

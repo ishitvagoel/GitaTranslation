@@ -260,6 +260,8 @@ You grieve for those who should not be grieved for, yet you speak words of wisdo
 
 **Neuroscience Perspective:** The 'wise do not grieve' instruction is a call for 'radical cognitive reappraisal.' It suggests moving the focus from the 'temporary form' (the body) to the 'underlying principle' (the soul), which changes the neural processing of loss from 'catastrophe' to 'natural transition.'
 
+**Common Misreading:** "Krishna dismisses all grief as ignorance." Actually, he dismisses *misplaced* grief — grief directed at the eternal self as though it were destructible. The teaching addresses the root cause of suffering without claiming that grief itself is impossible or that sorrow about genuine impermanence is wrong.
+
 > **Note:** The verse is deliberately pointed: Arjuna's speech sounds learned (*prajñāvādān*), but his grief reveals he has not actually understood what he claims to know. Kṛṣṇa's opening move is to expose this gap between articulated knowledge and lived understanding.
 
 ---
@@ -423,6 +425,8 @@ Whoever thinks this a killer and whoever thinks this killed — both of them do 
 **Contemporary Relevance:** This is a radical shift in perspective. It challenges our basic assumptions about life and death. It suggests that while we must act in the world, we should not take the 'drama' of life so literally that we lose sight of the deeper, untouchable reality.
 
 **Neuroscience Perspective:** Rejecting the concepts of 'killer' and 'killed' is a radical shift in 'agency attribution.' It suggests that the 'essential self' is a non-participant in the mechanical transformations of matter, which prevents the build-up of 'moral trauma' during necessary conflict.
+
+**Common Misreading:** "Since the soul cannot be killed, all violence is ethically neutral." Actually, the verse addresses the ātman's ontological nature — what the self *is* — not a blanket permission for any action. The ethical teaching on right action comes separately and depends on dharma, not on the soul's indestructibility.
 
 ---
 
@@ -678,6 +682,8 @@ And considering your own dharma, you should not waver. For a kṣatriya, nothing
 
 **Neuroscience Perspective:** Focusing on 'Dharma' (duty) provides a 'normative framework' for action. The brain performs better when it has a clear 'rule-set' to follow, as this reduces the cognitive load of constantly deciding what is right in every moment.
 
+**Common Misreading:** "Warrior duty here is a hereditary caste obligation Arjuna cannot refuse." Actually, the call is to *svadharma* as one's authentic psychological nature and role; the context is fitness for action and moral coherence, not an unchallengeable birth-right that overrides all other ethical considerations.
+
 ---
 
 ### 2.32
@@ -817,6 +823,8 @@ Making pleasure and pain, gain and loss, victory and defeat the same — then en
 **Contemporary Relevance:** This is the secret to detached action. By detaching our inner state from external results, we can perform our tasks with 100% focus and 0% anxiety. This is the definition of professional excellence and mental peace.
 
 **Neuroscience Perspective:** Equanimity in 'gain and loss' is the definition of 'detachment.' Neurally, this means the brain stops 'hyper-focusing' on external results and instead focuses on the 'integrity of the act.' This reduces anxiety and improves execution.
+
+**Common Misreading:** "Equanimity means emotional coldness or indifference to outcomes." Actually, samatvam is freedom from *compulsive* attachment to results, not absence of engagement or care — the fully engaged warrior who acts with full commitment but without ego-investment in winning is the model, not the passionless bystander.
 
 ---
 

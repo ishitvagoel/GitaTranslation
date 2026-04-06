@@ -115,6 +115,8 @@ And whoever, at the time of death, remembering Me alone, leaves the body and dep
 
 **Neuroscience Perspective:** Remembering Me at death leads to My state describes the 'terminal focus effect.' Neurally, the final firing patterns of the brain during its last moments of activity determine the 'last state' of awareness. Total focus on Truth ensures a 'high-integrity' exit.
 
+**Common Misreading:** "You must literally repeat Krishna's name while dying." Actually, the teaching is about total saturation of consciousness — dying with one's deepest identity absorbed in the divine, not a verbal formula performed at the last moment.
+
 ---
 
 ### 8.6
@@ -134,6 +136,8 @@ Whatever state of being one remembers when abandoning the body at the end, to th
 **Contemporary Relevance:** Momentum of Mind. You don't just 'accidentally' think of something great at the end. Your mind follows the 'grooves' you have carved through your daily habits. This is a reminder that what you obsess over today is creating the person you will become tomorrow.
 
 **Neuroscience Perspective:** The 'momentum of mind' reflects 'neuroplastic habituation.' Your 'last thought' is not an accident but the result of the 'neural grooves' you have carved through daily habits. Whatever the brain is 'conditioned' to think about becomes its default destination during a crisis.
+
+**Common Misreading:** "Whatever you think at death is random and uncontrollable." Actually, the verse states that the final thought is shaped by lifelong habitual focus (*sadā tadbhāvabhāvitaḥ*) — making it a trainable outcome of consistent practice, not an accident.
 
 > **Note:** A fundamental principle of Indian eschatology: the content of consciousness at the moment of death determines the trajectory of the next life. This psychological continuity necessitates lifelong discipline (*sadā tadbhāvabhāvitaḥ*).
 
@@ -200,6 +204,8 @@ He who constantly remembers the omniscient, the ancient, the ruler, smaller than
 **Contemporary Relevance:** Contemplating the Infinite. When you feel small or overwhelmed, remember that the Truth is both 'smaller than an atom' (inside you) and 'the sustainer of all' (the whole universe). This perspective provides a sense of awe and security that transcends daily 'darkness' or stress.
 
 **Neuroscience Perspective:** Contemplating the 'all-knowing and ancient' source expands the brain's 'representational scale.' Moving from 'ego-scale' to 'cosmic-scale' processing reduces the perceived size of personal threats, leading to a state of profound psychological security.
+
+**Common Misreading:** "Meditating on a formless Absolute is the only valid practice described here." Actually, the verse describes the supreme as both unthinkable in form (*acintyarūpam*) and the sustainer of all — both formless and relational aspects are present, not an exclusive prescription for abstract meditation.
 
 ---
 
@@ -350,6 +356,8 @@ All the worlds, up to the realm of Brahmā, are subject to return (rebirth), Arj
 **Contemporary Relevance:** The Limit of Success. Even the 'highest' material success (like becoming a CEO or a king) is temporary and will eventually 'return' to zero. Only reaching the ultimate Truth provides a foundation that never needs to be 're-built' from scratch.
 
 **Neuroscience Perspective:** The 'limit of material success' reflects 'systemic cyclicality.' Neurally, material rewards are subject to 'diminishing returns' and eventual 'reset' (death). Only the Truth provides a 'non-cyclical reward' that is permanent and self-sustaining.
+
+**Common Misreading:** "Even the highest heavens are temporary, so they are worthless." Actually, the teaching motivates seeking what transcends all cycles — it does not dismiss ordinary spiritual progress as worthless, but shows that any conditioned state is ultimately insufficient as a final destination.
 
 > **Note:** Even the highest heavens in Hindu cosmology (*brahmaloka*) are part of *saṃsāra* (the cycle of birth and death). Only the unmanifest state of the Absolute offers permanent liberation.
 

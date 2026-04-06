@@ -24,7 +24,8 @@ If you consider knowledge to be superior to action, Janārdana, then why do you 
 
 **Simple Translation:** Arjuna asked: Krishna, if you think that clear understanding is better than action, then why are you pushing me to do this violent and terrible work?
 
-**Argument Arc:** *Arjuna's Confusion (3.1–3.2)* — Opens the section by establishing arjuna asked: Krishna, if you think that clear understanding is better than action, then why are you pushing me to do this violent and terrible work?.
+**Argument Arc:** *Arjuna's Confusion (3.1–3.2)* — Opens the section by posing the challenge: if knowledge (buddhi) is superior, why is Arjuna being commanded to act? This apparent contradiction is the chapter's engine; every subsequent verse is Krishna's answer to it.
+
 **Contemporary Relevance:** This is the classic 'intellectual's dilemma.' Many people think that personal growth or 'mindfulness' means withdrawing from the world or avoiding difficult professional duties. Arjuna is asking why he has to 'get his hands dirty' if the goal is mental peace.
 
 **Neuroscience Perspective:** Arjuna’s dilemma reflects the 'conflict of interest' between the brain's 'contemplative network' (Default Mode Network) and the 'executive control network' (Central Executive Network). He is asking how to maintain the benefits of meditation (internal stillness) while being forced into high-stakes action (external chaos).
@@ -45,7 +46,8 @@ With words that seem equivocal, you as if confuse my understanding. Tell me with
 
 **Simple Translation:** Your words are confusing me. Please tell me clearly and specifically the one path I should follow to reach the highest good.
 
-**Argument Arc:** *Arjuna's Confusion (3.1–3.2)* — Closes the section with your words are confusing me, completing the argument's arc.
+**Argument Arc:** *Arjuna's Confusion (3.1–3.2)* — Closes the section by sharpening Arjuna's demand: he does not want a balanced teaching, he wants a single decisive directive. This pins Krishna to give the direct answer that unfolds in 3.3 onward.
+
 **Contemporary Relevance:** When we are overwhelmed with information and conflicting advice, we often seek a 'magic bullet' or a single, simple instruction. Arjuna's request reflects our modern desire for clarity and a straightforward 'how-to' guide for life's complex problems.
 
 **Neuroscience Perspective:** The request for 'certainty' (ekaṃ niścitya) is a survival mechanism of the brain to reduce 'prediction error' and cognitive load. In a complex, ambiguous environment, the brain seeks a simple, singular heuristic to guide behavior and minimize the stress of constant decision-making.
@@ -60,14 +62,15 @@ With words that seem equivocal, you as if confuse my understanding. Tell me with
 
 śrībhagavānuvāca:  
 loke 'smin dvividhā niṣṭhā purā proktā mayānagha /  
-*jñānayogena sāṃkhyānāṃ karmayogena yogिनो नाम् ॥ ३ ॥*  
+jñānayogena sāṃkhyānāṃ karmayogena yoginām //  
 
 The Blessed Lord said:
 In this world, a twofold basis of steadying was previously taught by me, O sinless one: by the discipline of knowledge for the Sāṃkhyas, and by the discipline of action for the Yogins.
 
 **Simple Translation:** The Blessed Lord said: Arjuna, I have previously described two paths for finding balance in this world: the path of analytical knowledge for those who are contemplative, and the path of selfless action for those who are active.
 
-**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Opens the section by establishing the Blessed Lord said: Arjuna, I have previously described two paths for finding balance in this world: the path of analytical knowledge for those who are contemplative, and the path of selfless action for those who are active.
+**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Opens Krishna's response by dismantling the false either/or: there are two valid paths, jñāna-yoga and karma-yoga, each suited to a different temperament. This establishes that Arjuna's question was misconceived — the issue is not which is better in the abstract, but which fits the person.
+
 **Contemporary Relevance:** Different temperaments require different approaches. Some people learn and grow through study and analysis (the 'thinkers'), while others grow through experience and work (the 'doers'). Krishna validates both paths, showing that there is no 'one size fits all' for success or peace.
 
 **Neuroscience Perspective:** Krishna identifies two distinct neural 'temperaments': the analytical path (theoretical/intellectual) and the active path (practical/action-based). This recognizes that different individuals have different 'baseline neural connectivity,' requiring varied methods to reach the same state of optimization.
@@ -88,7 +91,8 @@ Not by abstaining from undertakings of action does a person attain freedom from 
 
 **Simple Translation:** You don't achieve 'freedom from work' just by refusing to start any tasks. And you don't reach perfection simply by quitting your job or responsibilities.
 
-**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Advances the argument: You don't achieve 'freedom from work' just by refusing to start any tasks.
+**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Blocks a false exit: inaction is not the same as renunciation, and mere cessation of activity cannot produce freedom. This forecloses Arjuna's implicit hope that withdrawal from battle could be a legitimate spiritual option.
+
 **Contemporary Relevance:** Quitting is not the same as being free. Many people think that if they could just stop working or leave their responsibilities, they would be happy. Krishna warns that true freedom is an internal state, not a result of external avoidance.
 
 **Neuroscience Perspective:** The warning that 'abstaining from action' does not lead to 'freedom from action' highlights that the brain is never truly inactive. Even in physical stillness, the 'background processing' of the mind continues. True freedom is a state of 'neural detachment' from results, not the cessation of movement.
@@ -107,7 +111,8 @@ For no one ever remains even for a moment without performing action; indeed, eve
 
 **Simple Translation:** No one can stay completely inactive for even a single second. Everyone is forced to act by the natural forces and traits they were born with.
 
-**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Advances the argument: No one can stay completely inactive for even a single second.
+**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Deepens the case against inaction by grounding it in nature (prakṛti): no embodied being is ever truly inactive because the guṇas compel action constantly. Since action is unavoidable, the only real choice is how to act.
+
 **Contemporary Relevance:** Action is inevitable. Even sitting still is an action (breathing, thinking). Since we *must* act, the real question is not 'Should I act?' but 'How should I act?' We are all biological machines in constant motion; we should learn to direct that motion wisely.
 
 **Neuroscience Perspective:** The fact that 'everyone is made to act helplessly' describes the 'autonomic' and 'instinctual' systems of the brain. Much of our behavior is driven by 'Gunas' (biological traits and environmental triggers) that operate below the level of conscious awareness. Action is a biological necessity.

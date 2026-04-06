@@ -30,6 +30,8 @@ He who performs bounden duty without depending on the fruit of action — he is 
 
 **Neuroscience Perspective:** The 'Professional Ascetic' mindset describes a state of 'functional detachment.' By performing duty without depending on the results, the brain prevents the chronic 'cortisol-spikes' associated with performance anxiety. This allows the prefrontal cortex to remain clear and focused on execution rather than reward-monitoring.
 
+**Common Misreading:** "The true renouncer avoids all fire, ritual, and outer religious forms." Actually, Krishna redefines the criterion entirely: the real sannyāsi is one who acts as duty without craving the fruit — renunciation is the inner state, not an external abandonment of form or ritual.
+
 > **Note:** Kṛṣṇa redefines renunciation. The true ascetic is not the one who abandons external Vedic rituals (the sacred fire) or physical action, but the one who abandons the internal reliance on the outcome.
 
 ---
@@ -211,6 +213,8 @@ The yogi should constantly discipline himself, remaining in a solitary place, al
 
 **Neuroscience Perspective:** The 'Solitude Practice' is a form of 'sensory deprivation' for neural recalibration. By removing social and sensory noise, the brain can 'audit' its own internal states and strengthen the circuits of self-control and focus without external interference.
 
+**Common Misreading:** "Meditation requires permanent isolation from society." Actually, *ekakī* (alone) and *vivikta-sthāna* (secluded place) describe a disciplined period of withdrawal for practice — not a prescription for permanent social withdrawal or abandonment of one's relationships.
+
 ---
 
 ### 6.11
@@ -343,6 +347,8 @@ For one who is measured in food and recreation, who is measured in his efforts i
 **Contemporary Relevance:** 'Holistic Wellness.' This is the perfect prescription for a modern healthy life. Balance your diet, your fun, your work, and your rest. When your lifestyle is 'measured' and balanced, your stress levels drop and your natural joy returns.
 
 **Neuroscience Perspective:** A 'measured' lifestyle (food, sleep, effort) is the formula for 'stress-reduction.' By avoiding 'biological volatility,' the brain stays in a 'low-cortisol' state, making it much easier to 'destroy sorrow' and maintain mental clarity.
+
+**Common Misreading:** "The Gita endorses moderate, mediocre effort in everything." Actually, *yukta* (proper measure) in eating, sleep, and recreation prevents the biological extremes that make meditation impossible — the prescription is optimal conditions for *maximum* depth of practice, not a call for half-hearted effort.
 
 > **Note:** Kṛṣṇa advocates the "middle path," avoiding extremes of indulgence and severe asceticism. This moderation is essential for sustainable yogic practice.
 
@@ -480,6 +486,8 @@ Having abandoned entirely all desires born of selfish purpose, and restraining t
 **Contemporary Relevance:** 'Eliminating Hidden Agendas.' Most of our stress comes from the 'sankalpas'—the secret plans our ego makes to get what it wants. By abandoning these selfish motives and pulling our attention away from sensory bait, we reclaim our mental energy for higher purposes.
 
 **Neuroscience Perspective:** Abandoning 'desires born of purpose' (saṅkalpa) is 'intention-cleaning.' By removing the 'ego-driven goals' from your mind, you stop the 'anticipatory stress' that usually ruins our focus and causes our senses to wander.
+
+**Common Misreading:** "All desires must be completely eliminated as a prerequisite before meditation can begin." Actually, the verse describes a *practice* — gradually resolving ego-driven cravings through the disciplined will. It depicts a process of training, not a threshold of prior perfection required before one can start.
 
 ---
 
@@ -698,6 +706,8 @@ Undoubtedly, O mighty-armed one, the mind is difficult to restrain and restless.
 
 **Neuroscience Perspective:** Practice (abhyāsa) and detachment (vairāgya) are the 'twin pillars of neuroplasticity.' 'Practice' builds new neural pathways; 'Detachment' prunes away the old, toxic ones. Together, they allow for a complete 're-wiring' of the human mind.
 
+**Common Misreading:** "The mind is inherently uncontrollable — this verse confirms it." Actually, Arjuna's complaint prompts Krishna's response: *abhyāsa* (sustained practice) and *vairāgya* (dispassion) are the proven means of restraint. The restlessness is acknowledged as real, not as a final verdict.
+
 > **Note:** Kṛṣṇa validates Arjuna's psychological realism but offers the classical dual methodology of yoga: sustained effort (*abhyāsa*) and the cultivation of detachment (*vairāgya*).
 
 ---
@@ -802,6 +812,8 @@ O Pārtha, neither here nor in the next world is there destruction for him; for 
 **Contemporary Relevance:** 'The Safety Net of Integrity.' This is one of the most comforting promises in the Gita. Good effort is never lost. Even if you 'fail' to reach your ultimate goal in this lifetime, the integrity and growth you developed stay with you. Positive momentum is a permanent asset.
 
 **Neuroscience Perspective:** The promise 'No one who does good goes to an evil destiny' is the 'ultimate neural safety-net.' This thought reduces 'existential anxiety' and encourages 'long-term investment' in character, knowing that every bit of 'good' effort is preserved in the system.
+
+**Common Misreading:** "The failed yogi is spiritually ruined and must start over from nothing." Actually, Krishna explicitly says there is *no* destruction (*vināśaḥ*) for such a person here or in the hereafter — the striving is preserved, and the yogi resumes from where they left off in a future life.
 
 ---
 
@@ -916,6 +928,8 @@ The yogi is considered superior to the ascetics, and even superior to the men of
 **Contemporary Relevance:** 'Integration is Superior.' A Yogi is someone who integrates everything—discipline, knowledge, and action. Just being a 'scholar' or a 'hard worker' or a 'disciplined athlete' is not enough. The highest state is to combine all these into a unified practice of life.
 
 **Neuroscience Perspective:** The Yogi as 'superior to the scholar/worker' highlights the value of 'systemic integration.' A Yogi doesn't just 'know' (scholar) or 'do' (worker)—they 'integrate' knowledge, action, and discipline into a single, highly efficient 'operating mode' of life.
+
+**Common Misreading:** "The yogi is socially superior to scholars, ascetics, and ritualists — a new spiritual hierarchy." Actually, the comparison places the yogi above *tapasvins* (ascetics), *jñānins* (scholars), and *karmins* (ritualists) not as a social rank but as an *integration* of all paths — the yogi embodies what each separately attempts.
 
 ---
 

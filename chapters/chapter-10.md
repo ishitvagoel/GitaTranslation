@@ -349,7 +349,8 @@ How may I know You, O Yogi, by constantly meditating on You? And in what various
 
 **Simple Translation:** How can I know You, O Yogi, by meditating on You constantly? In what specific things should I think of You, Krishna?
 
-**Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Advances the argument: How can I know You, O Yogi, by meditating on You constantly?.
+**Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Translates the abstract praise of previous verses into a practical question: since knowing Krishna fully requires concrete anchors, Arjuna asks how meditation on specific manifestations can serve as a bridge to understanding the infinite.
+
 **Contemporary Relevance:** The Practice of Awareness. We can't think of the 'Infinite' all the time—it's too big. Arjuna is asking for specific 'anchors' for his attention. This is a practical request for modern mindfulness: what specific things in my environment can remind me of the Truth?
 
 **Neuroscience Perspective:** Seeking specific 'anchors' for meditation is a strategy for 'attentional management.' The brain can't focus on the 'Infinite' directly; it needs 'prominent objects' (vibhūtis) to act as visual and conceptual reminders of the Truth during daily life.
@@ -368,7 +369,8 @@ Tell me again in detail of Your mystic power (*yoga*) and manifestation (*vibhū
 
 **Simple Translation:** Tell me again in detail about your power and your manifestations, Krishna. I can never get enough of hearing this life-giving nectar.
 
-**Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Closes the section with tell me again in detail about your power and your manifestations, Krishna, completing the argument's arc.
+**Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Closes Arjuna's hymn by revealing that the teaching itself is experienced as inexhaustible nectar: the request for more is not impatience but the natural appetite of a mind that has genuinely tasted the truth.
+
 **Contemporary Relevance:** Intellectual Hunger. Real wisdom is 'addictive' in a good way. Hearing about First Principles and the excellence of the universe provides a level of satisfaction (nectar) that never feels boring. It’s the sign of a healthy, growing mind.
 
 **Neuroscience Perspective:** The hunger for 'nectar-like' wisdom reflects 'knowledge-driven reward.' For a refined brain, the 'dopamine hit' from learning First Principles is more intense and satisfying than any physical reward. It is the signature of a high-functioning intellect.
@@ -390,7 +392,8 @@ Ah! I shall recount to you My divine manifestations, but only the most prominent
 
 **Simple Translation:** The Blessed Lord said: Yes, I will tell you about my divine manifestations, but only the most important ones, Arjuna, because there is no end to them.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Opens the section by establishing the Blessed Lord said: Yes, I will tell you about my divine manifestations, but only the most important ones, Arjuna, because there is no end to them.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Opens the catalogue by setting its governing principle: the infinite cannot be exhaustively listed, so what follows is a selection of peak exemplars — a teaching tool, not a census of divinity.
+
 **Contemporary Relevance:** Focusing on the Significant. The universe is infinite, and we have limited time. Krishna's decision to show only the 'prominent' (pradhanyatah) examples is a lesson in effective communication: focus on the 20% of examples that give 80% of the insight.
 
 **Neuroscience Perspective:** Focusing on 'most important' manifestations is a lesson in 'information saliency.' To avoid 'cognitive overload,' the guide focuses on the 'peak manifestations' that provide the most leverage for understanding the underlying Law.
@@ -411,7 +414,8 @@ I am the self, O Guḍākeśa, seated in the heart of all beings; I am the begin
 
 **Simple Translation:** I am the Self, Arjuna, living in the heart of every being. I am the beginning, the middle, and the end of all living things.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: I am the Self, Arjuna, living in the heart of every being.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Leads the catalogue with its most radical claim: before listing outward cosmic manifestations, Krishna identifies himself with the inner Self of every being — making all that follows an extension of what is already closest to the listener.
+
 **Contemporary Relevance:** The Internal Compass. The most important 'manifestation' of Truth is right inside you. By recognizing that the universal source is also your own 'Self,' you gain access to an internal source of guidance and stability that is with you from start to finish.
 
 **Neuroscience Perspective:** Being the 'Self in the heart' is the ultimate 'internalized anchor.' Identifying the 'universal source' with your own 'core awareness' provides a neural reference point that is always available, from start to finish.
@@ -430,7 +434,8 @@ Of the Ādityas I am Viṣṇu; of lights I am the radiant sun. I am Marīci amo
 
 **Simple Translation:** Among the gods of light, I am Vishnu; among radiant things, I am the sun. I am the wind-spirit Marichi, and among the stars, I am the moon.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: Among the gods of light, I am Vishnu; among radiant things, I am the sun.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Moves the catalogue from the inner Self to the outer cosmos, anchoring divine presence in the most universally visible natural phenomena — light, governance among gods, and celestial rhythm — establishing the pattern of supremacy within each category.
+
 **Contemporary Relevance:** The Peak of every Category. Krishna starts identifying himself as the 'best' or 'brightest' in every class. This teaches us to look for the 'divine' in the highest expressions of excellence, whether in nature or in human achievement.
 
 **Neuroscience Perspective:** Being the 'Sun' and 'Moon' identifies the Absolute with 'supreme luminance and rhythm.' Neurally, this encourages the brain to find the 'divine' in the most essential and powerful patterns of the natural environment.

@@ -24,7 +24,8 @@ What is that Brahman? What is the supreme self (*adhyātma*)? What is action (*k
 
 **Simple Translation:** Arjuna asked: Krishna, what is that Absolute (Brahman)? What is the nature of the self (Adhyatma)? What is action (Karma)? What is the material world (Adhibhuta), and what are the cosmic powers (Adhidaiva)?
 
-**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Opens the section by establishing arjuna asked: Krishna, what is that Absolute (Brahman)?.
+**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Launches the chapter by firing six definitional questions in two verses, demanding that Krishna clarify the technical terms introduced at the close of Chapter 7 before Arjuna can grasp the teaching on dying with the right awareness.
+
 **Contemporary Relevance:** Clarifying technical terms. Before we can master a field, we must understand its vocabulary. Arjuna is asking for clear definitions of the 'First Principles' of existence so he can navigate his life and duty with precision.
 
 **Neuroscience Perspective:** Arjuna’s request for definitions is a 'categorical alignment' process. The brain needs a clear 'ontology' (a map of what things are) to operate efficiently. By defining Brahman, Adhyatma, Karma, etc., Krishna provides the First Principles needed for high-level neural processing of existence.
@@ -45,7 +46,8 @@ Who and how is the domain of sacrifice (*adhiyajña*) here in this body, O slaye
 
 **Simple Translation:** Who is the Lord of contribution (Adhiyajña) in this body, and how does he live here, Krishna? And how can those who have mastered themselves know you at the moment of death?
 
-**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Advances the argument: Who is the Lord of contribution (Adhiyajña) in this body, and how does he live here, Krishna?.
+**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Adds the seventh and most urgent question: who governs sacrifice within the body itself, and how can that inner lord be known at the critical moment of death? This shifts the inquiry from cosmology to practice.
+
 **Contemporary Relevance:** The 'Exit Strategy' of life. We all want to know how to maintain our clarity and integrity when things get difficult, especially at the final moment. Arjuna is asking how to stay 'connected to the source' even during the most intense transitions.
 
 **Neuroscience Perspective:** The inquiry about 'death' reflects the brain's focus on 'terminal states' and 'information preservation.' The brain is evolutionarily programmed to prioritize survival and the 'handover' of its essential data (wisdom) during critical transitions.
@@ -67,7 +69,8 @@ Brahman is the imperishable supreme; its inherent nature is called the supreme s
 
 **Simple Translation:** The Blessed Lord said: Brahman is the unchanging supreme reality; its inherent nature is called Adhyatma (the Self). The creative energy that brings all beings into existence is called Karma (Action).
 
-**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Advances the argument: The Blessed Lord said: Brahman is the unchanging supreme reality; its inherent nature is called Adhyatma (the Self).
+**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Answers the first three questions by identifying Brahman as the unchanging absolute, adhyātma as the inherent self-nature expressing that absolute, and karma as the creative force that manifests beings — establishing the vertical axis from the supreme down to action.
+
 **Contemporary Relevance:** Defining the Source. Brahman is the 'constant' in the universe. Adhyatma is your own specific expression of that constant. Karma is the 'output'—the energy that creates your reality. Understanding these three helps you see the link between the Infinite, your Identity, and your Impact.
 
 **Neuroscience Perspective:** Defining Brahman as the 'unchanging' and Karma as the 'generative force' describes the relationship between 'Static Potential' and 'Dynamic Output.' Neurally, this helps the brain distinguish between its 'infinite context' (Brahman) and its 'active behavior' (Karma).
@@ -86,7 +89,8 @@ The domain of beings (*adhibhūta*) is the perishable existence; the domain of t
 
 **Simple Translation:** The material world (Adhibhuta) is everything that changes and perishes. The cosmic spirit (Adhidaiva) is the divine person behind the powers of nature. And I am the Lord of contribution (Adhiyajña) living right here in your body, Arjuna.
 
-**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Closes the section with the material world (Adhibhuta) is everything that changes and perishes, completing the argument's arc.
+**Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Completes the set of definitions by revealing the most surprising answer: the adhiyajña that governs sacrifice is Krishna himself, present within every body — resolving Arjuna's seventh question and grounding the entire ontology in an immediately personal presence.
+
 **Contemporary Relevance:** The Presence of the Absolute. Truth is not just 'out there' in the stars or 'back then' in history. It is present in the physical world, in the forces of nature, and most importantly, inside your own physical form as the witness of all your efforts.
 
 **Neuroscience Perspective:** The Absolute present in the 'body' (Adhiyajña) describes 'internalized awareness.' This perspective shifts the brain's focus from 'external observation' to 'internal monitoring,' recognizing that the universal law is operating within the very hardware of the body.
@@ -105,7 +109,8 @@ And whoever, at the time of death, remembering Me alone, leaves the body and dep
 
 **Simple Translation:** Anyone who remembers Me alone at the time of death, leaves their body and reaches My state of being; there is no doubt about this.
 
-**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Opens the section by establishing anyone who remembers Me alone at the time of death, leaves their body and reaches My state of being; there is no doubt about this.
+**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Answers Arjuna's seventh question directly: the way to know Krishna at death is to remember him, and whoever does so unambiguously reaches his nature — the unqualified guarantee anchors everything that follows in this section.
+
 **Contemporary Relevance:** The Power of Final Focus. Your last thought is the 'sum total' of your life's direction. If you can stay focused on the highest Truth even in a crisis, you transcend the situation. It’s a call to practice 'high-level focus' throughout your life so it becomes natural at the end.
 
 **Neuroscience Perspective:** Remembering Me at death leads to My state describes the 'terminal focus effect.' Neurally, the final firing patterns of the brain during its last moments of activity determine the 'last state' of awareness. Total focus on Truth ensures a 'high-integrity' exit.
@@ -124,7 +129,8 @@ Whatever state of being one remembers when abandoning the body at the end, to th
 
 **Simple Translation:** Arjuna, whatever state of being a person is focused on when they leave their body, that is the state they will reach, because they have been absorbed in that thought their whole life.
 
-**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Advances the argument: Arjuna, whatever state of being a person is focused on when they leave their body, that is the state they will reach, because they have been absorbed in that thought their whole life.
+**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Universalizes the principle beyond Krishna-specific practice: the last thought at death is always the fruit of a lifetime's habitual focus, making the final moment a consequence of how one has lived rather than a special last-second effort.
+
 **Contemporary Relevance:** Momentum of Mind. You don't just 'accidentally' think of something great at the end. Your mind follows the 'grooves' you have carved through your daily habits. This is a reminder that what you obsess over today is creating the person you will become tomorrow.
 
 **Neuroscience Perspective:** The 'momentum of mind' reflects 'neuroplastic habituation.' Your 'last thought' is not an accident but the result of the 'neural grooves' you have carved through daily habits. Whatever the brain is 'conditioned' to think about becomes its default destination during a crisis.
@@ -145,7 +151,8 @@ Therefore, at all times remember Me and fight! With mind and intellect dedicated
 
 **Simple Translation:** Therefore, at all times remember Me and do your work (fight)! With your mind and intellect dedicated to Me, you will undoubtedly reach Me.
 
-**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Advances the argument: Therefore, at all times remember Me and do your work (fight)!.
+**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Translates the eschatological principle into a practical daily instruction: continuous remembrance integrated with active duty is the method that guarantees the right final thought, linking the whole-life habit to the moment of death.
+
 **Contemporary Relevance:** 'Multitasking with the Absolute.' You don't have to stop working to be 'spiritual.' You can 'fight' (do your difficult job) while keeping your 'background processing' focused on the Truth. This is the secret to staying calm and effective in high-pressure environments.
 
 **Neuroscience Perspective:** Remember Me and fight! is the First Principle of 'dual-task integration.' By anchoring the 'contemplative network' in the Truth while using the 'executive network' for work, the brain achieves a state of calm, high-precision performance.
@@ -164,7 +171,8 @@ With a mind disciplined by the yoga of practice, wandering nowhere else, meditat
 
 **Simple Translation:** By practicing constant discipline and not letting the mind wander, one reaches the supreme divine Spirit by always thinking of it.
 
-**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Closes the section with by practicing constant discipline and not letting the mind wander, one reaches the supreme divine Spirit by always thinking of it, completing the argument's arc.
+**Argument Arc:** *Remember Me at Death (8.5–8.8)* — Specifies the mechanism that makes lifelong remembrance possible: yogic practice (*abhyāsa*) trains the mind not to stray, so that sustained meditation on the supreme becomes the natural current of consciousness rather than an occasional effort.
+
 **Contemporary Relevance:** The Repetition Principle. Mastery comes from 'Abhyasa'—constant, repetitive practice. By repeatedly bringing your mind back to your core values and purpose, you eventually reach a state where you are 'united' with those values.
 
 **Neuroscience Perspective:** Mastery through 'repetition and non-wandering' describes 'attentional stabilization.' By repeatedly inhibiting the brain's tendency to drift and re-centering it on a single point, you strengthen the prefrontal cortex's control over the entire cognitive system.
@@ -187,7 +195,8 @@ He who constantly remembers the omniscient, the ancient, the ruler, smaller than
 
 **Simple Translation:** One should remember the all-knowing, the ancient, the ruler of all, who is smaller than an atom and the sustainer of everything, whose form is beyond thought and who shines like the sun beyond all darkness.
 
-**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Opens the section by establishing one should remember the all-knowing, the ancient, the ruler of all, who is smaller than an atom and the sustainer of everything, whose form is beyond thought and who shines like the sun beyond all darkness.
+**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Provides the object of meditation in dense poetic form: a cascade of paradoxical attributes — omniscient yet subtler than an atom, ancient yet luminous beyond darkness — that define what the mind must hold at the moment of death.
+
 **Contemporary Relevance:** Contemplating the Infinite. When you feel small or overwhelmed, remember that the Truth is both 'smaller than an atom' (inside you) and 'the sustainer of all' (the whole universe). This perspective provides a sense of awe and security that transcends daily 'darkness' or stress.
 
 **Neuroscience Perspective:** Contemplating the 'all-knowing and ancient' source expands the brain's 'representational scale.' Moving from 'ego-scale' to 'cosmic-scale' processing reduces the perceived size of personal threats, leading to a state of profound psychological security.
@@ -210,7 +219,8 @@ At the time of departure, with an unwavering mind, endowed with devotion and by 
 
 **Simple Translation:** At the moment of death, one who has an unmoving mind, who is full of devotion and the power of Yoga, and who has focused their life-energy between the eyebrows, reaches that supreme divine Spirit.
 
-**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Advances the argument: At the moment of death, one who has an unmoving mind, who is full of devotion and the power of Yoga, and who has focused their life-energy between the eyebrows, reaches that supreme divine Spirit.
+**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Names the three qualities that must converge at the deathbed — unshaken mind, devotion, and yoga-power — and gives the precise physiological technique of prāṇa-concentration at the eyebrow center, bridging the described object (8.9) to the actual practice.
+
 **Contemporary Relevance:** Peak Performance at the End. This is the 'Final Exam' of mental discipline. If you have trained your mind to be 'unmoving' and your focus to be 'one-pointed,' you can navigate any transition—even death—with total control and success.
 
 **Neuroscience Perspective:** Peak performance at death through 'one-pointed focus' is the ultimate test of 'neural coherence.' Using the power of Yoga to maintain internal alignment during the total failure of external systems is the highest achievement of mental discipline.
@@ -235,7 +245,8 @@ That which the knowers of the Veda call the imperishable, which ascetics freed f
 
 **Simple Translation:** I will briefly describe to you that state which the experts call 'imperishable,' which disciplined seekers enter, and for which they practice self-control.
 
-**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Advances the argument: I will briefly describe to you that state which the experts call 'imperishable,' which disciplined seekers enter, and for which they practice self-control.
+**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Anchors the meditation's goal in the tradition: the state described is precisely what Vedic knowers call "the imperishable" and what lifelong celibate practitioners seek — validating the teaching by aligning it with the highest aspiration of the entire renunciant tradition.
+
 **Contemporary Relevance:** The Goal of the Disciplined. There is a state of being that is beyond the 'wear and tear' of the world. High-performers and wise people work specifically to reach this 'imperishable' state of mental and spiritual stability.
 
 **Neuroscience Perspective:** The 'imperishable' state entered by disciplined seekers describes a 'terminal state of optimization.' It is a neural goal-state that is beyond the reach of external entropy, reached through the First Principles of 'self-control' and 'clear purpose.'
@@ -254,7 +265,8 @@ Restraining all the gates of the body, confining the mind in the heart, fixing o
 
 **Simple Translation:** Close all the gates of the senses, lock the mind in the heart, fix the life-force in the head, and remain steady in deep concentration.
 
-**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Advances the argument: Close all the gates of the senses, lock the mind in the heart, fix the life-force in the head, and remain steady in deep concentration.
+**Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Gives the sequential technical steps of the practice itself: withdrawing from the senses, gathering the mind inward, redirecting the prāṇa upward — a step-by-step procedure that the following verse will complete with the utterance of Om.
+
 **Contemporary Relevance:** The 'Deep Reset' Protocol. This is a technical manual for total focus. By 'closing the gates' (shutting out notifications and sensory noise) and 'locking the mind' (internalizing focus), you achieve a state of power that is inaccessible to the scattered mind.
 
 **Neuroscience Perspective:** The 'Deep Reset' protocol (closing sensory gates, locking mind in heart) is an instruction for 'total sensory gating.' By manually disconnecting the brain from all external 'noise,' you achieve a state of 'maximal internal signal,' which is necessary for high-level realization.

@@ -24,7 +24,8 @@ You praise the renunciation of actions, Kṛṣṇa, and again their discipline 
 
 **Simple Translation:** Arjuna asked: Krishna, you speak highly of quitting all actions (renunciation), but you also praise the disciplined performance of action (Yoga). Please tell me clearly: which of these two is actually better for me?
 
-**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Opens the section by establishing arjuna asked: Krishna, you speak highly of quitting all actions (renunciation), but you also praise the disciplined performance of action (Yoga).
+**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Reopens the chapter's central tension: Arjuna has heard praise for both renunciation and action, and demands a definitive answer about which path to take — forcing the argument to clarify what renunciation actually means.
+
 **Contemporary Relevance:** The 'Work-Life Balance' conflict. Should I withdraw from the world to find peace (the monk's path), or should I dive into my work and responsibilities to grow (the professional's path)? Arjuna is asking for the most effective strategy for self-actualization in a complex world.
 
 **Neuroscience Perspective:** Arjuna’s question about 'Renunciation vs. Yoga' is an inquiry into the brain's 'operating modes.' One mode is 'internalized stillness' (quitting), and the other is 'active integration' (Yoga). He is asking which mode is more efficient for achieving permanent mental stability.
@@ -48,7 +49,8 @@ Both renunciation and the yoga of action lead to the highest good. But of the tw
 
 **Simple Translation:** The Blessed Lord said: Both quitting action and performing disciplined action lead to the highest good. But of the two, the Yoga of action is superior to the renunciation of action.
 
-**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Advances the argument: The Blessed Lord said: Both quitting action and performing disciplined action lead to the highest good.
+**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Gives Krishna's direct answer: both paths lead to the same end, but karma-yoga is declared superior for the practitioner still in the world — resolving Arjuna's either-or framing while privileging action.
+
 **Contemporary Relevance:** 'Action is the better Teacher.' While both paths lead to the same goal, actively engaging with the world is more practical and effective for most people. Working with discipline and detachment is a faster way to grow than trying to forcefully 'quit' your responsibilities.
 
 **Neuroscience Perspective:** Krishna’s preference for 'Yoga of Action' recognizes that active engagement provides more 'feedback data' for the brain to learn detachment. It’s easier to train the 'executive override' in real-world scenarios than in a vacuum of inaction.
@@ -67,7 +69,8 @@ He should be known as a perpetual renouncer who neither hates nor desires. For o
 
 **Simple Translation:** A person who neither hates anything nor craves anything is a true renouncer, even if they are busy working. Being free from these opposites, they are easily freed from all burdens.
 
-**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Advances the argument: A person who neither hates anything nor craves anything is a true renouncer, even if they are busy working.
+**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Redefines the renouncer: true sannyāsa is an inner freedom from aversion and craving, not the outer abandonment of activity — breaking the false identification of renunciation with idleness.
+
 **Contemporary Relevance:** 'Internal Renunciation.' You don't have to go to a cave to be a 'renouncer.' True renunciation is a state of mind where you are no longer a slave to your 'likes and dislikes.' If you can work without hating the difficult parts or obsessing over the rewards, you are already free.
 
 **Neuroscience Perspective:** The 'perpetual renouncer' is someone whose brain is free from 'valence-bias' (neither hating nor desiring). By neutralizing the emotional charge of external events, the brain avoids the constant 'ping-pong' of stress and craving, leading to a state of 'functional freedom.'
@@ -86,7 +89,8 @@ Children, not the wise, speak of knowledge (*sāṅkhya*) and discipline (*yoga*
 
 **Simple Translation:** Only the immature think that analytical knowledge and disciplined action are different; the wise know they are the same. If you truly master even one, you get the results of both.
 
-**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Advances the argument: Only the immature think that analytical knowledge and disciplined action are different; the wise know they are the same.
+**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Dismantles the deeper error behind Arjuna's question: the perceived opposition between sāṅkhya (philosophical renunciation) and yoga (disciplined action) is itself a mark of immaturity; the wise see them as one.
+
 **Contemporary Relevance:** 'Theory and Practice are One.' In modern education, we often separate 'studying' from 'doing.' Krishna says this is a mistake. Deep understanding (theory) and focused execution (practice) are two sides of the same coin. Real expertise requires both.
 
 **Neuroscience Perspective:** The unity of 'analytical knowledge' and 'disciplined action' highlights that the brain needs both a 'predictive model' (Sankhya) and 'active calibration' (Yoga). When theory and practice are integrated, the brain achieves a state of 'high-resolution competence.'
@@ -105,7 +109,8 @@ That state which is attained by the followers of knowledge is also reached by th
 
 **Simple Translation:** The ultimate destination reached through deep study is the same as the one reached through dedicated work. One who sees study and work as one truly understands reality.
 
-**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Advances the argument: The ultimate destination reached through deep study is the same as the one reached through dedicated work.
+**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Seals the unity claim with a direct statement of identity: the goal attained by the sāṅkhya path and the goal attained by the yoga path are the same destination — whoever sees this oneness truly sees.
+
 **Contemporary Relevance:** 'Holistic Success.' Whether you reach success through intellectual brilliance or through sheer hard work, the 'peak' is the same. Recognizing that 'learning' and 'working' are the same process helps you move through life with more unity and less conflict.
 
 **Neuroscience Perspective:** Recognizing that 'study and work are one' eliminates 'cognitive silos.' When the brain sees every action as a learning opportunity and every insight as a call to action, it functions as a single, unified, and highly efficient system.
@@ -124,7 +129,8 @@ But renunciation, O mighty-armed one, is difficult to attain without yoga. The s
 
 **Simple Translation:** Arjuna, it is very difficult to achieve true renunciation without first practicing the Yoga of action. A wise person who practices Yoga reaches the ultimate reality very quickly.
 
-**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Closes the section with arjuna, it is very difficult to achieve true renunciation without first practicing the Yoga of action, completing the argument's arc.
+**Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Closes the debate with a practical verdict: outer renunciation without the discipline of action is painful and unlikely to succeed — making karma-yoga not just an alternative to sannyāsa but its necessary preparation.
+
 **Contemporary Relevance:** 'Discipline before Freedom.' You can't just skip the hard work and go straight to 'enlightenment' or 'retirement.' Practicing discipline in your daily tasks is the necessary training ground for true mental freedom. Work is the gym for the soul.
 
 **Neuroscience Perspective:** The difficulty of 'renunciation without Yoga' is a lesson in 'neural scaffolding.' You can't just 'stop' the ego; you have to replace its functions with a new system of 'detached action.' Yoga provides the necessary training to make renunciation possible and sustainable.
@@ -143,7 +149,8 @@ He who is endowed with yoga, whose self is purified, who has mastered the self, 
 
 **Simple Translation:** One who is disciplined in Yoga, whose heart is pure, who has mastered their self and their senses, and who sees themselves in everyone—such a person is never stained by their actions, even when they are busy.
 
-**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Opens the section by establishing one who is disciplined in Yoga, whose heart is pure, who has mastered their self and their senses, and who sees themselves in everyone—such a person is never stained by their actions, even when they are busy.
+**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Portraits the realized karma-yogi: internally purified, senses mastered, self identified with all beings — and announces the section's governing claim: such a person acts ceaselessly yet accumulates no karmic stain.
+
 **Contemporary Relevance:** 'The Empathetic High-Performer.' This is the profile of a perfect leader. They are disciplined (Yoga), honest (pure heart), self-controlled (mastered senses), and deeply empathetic (sees self in others). Because they act for the good of all and not for their own ego, they are never 'tainted' by the stress and politics of their work.
 
 **Neuroscience Perspective:** The 'Empathetic High-Performer' profile describes a brain with 'high global integration.' By identifying with the 'Self of all beings,' the person reduces their own 'ego-defense' activation, allowing for clear, powerful, and selfless behavior in any social system.
@@ -162,7 +169,8 @@ paśyañ śṛṇvan spṛśañ jighrann aśnan gacchan svapañ śvasan || 8 ||
 
 **Simple Translation:** A person who knows the truth thinks 'I am not the one doing anything,' even while they are seeing, hearing, touching, smelling, eating, walking, sleeping, and breathing.
 
-**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Advances the argument: A person who knows the truth thinks 'I am not the one doing anything,' even while they are seeing, hearing, touching, smelling, eating, walking, sleeping, and breathing.
+**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Begins the philosophical explanation for how action leaves no stain: the knower of truth maintains the standing recognition "I do nothing" across the full range of bodily activity, dissociating the witnessing self from the mechanical operations of nature.
+
 **Contemporary Relevance:** 'Biological Detachment.' This is about recognizing that your body and your basic brain functions are automatic processes of nature. By realizing that 'You' (the awareness) are not the 'Source' of these mechanical actions, you gain a sense of peace and distance from your biological urges and habits.
 
 **Neuroscience Perspective:** Thinking 'I do nothing' while performing autonomic and sensory tasks is an act of 'meta-cognitive distancing.' The brain identifies itself as the 'Witness' rather than the 'Machine,' which prevents 'performance anxiety' and allows for effortless flow.
@@ -181,7 +189,8 @@ Speaking, excreting, grasping, opening the eyes, and closing the eyes, holding t
 
 **Simple Translation:** Even while speaking, giving, holding, or just blinking their eyes, they maintain the understanding that 'it is just the senses interacting with the world.'
 
-**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Advances the argument: Even while speaking, giving, holding, or just blinking their eyes, they maintain the understanding that 'it is just the senses interacting with the world.
+**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Extends the "I do nothing" principle from the autonomic functions of 5.8 to volitional acts like speaking and grasping, completing a comprehensive inventory that leaves no activity outside the scope of non-doership.
+
 **Contemporary Relevance:** 'Mindful Observation.' This is the ultimate 'Mindfulness' technique. Instead of saying 'I am talking,' you observe 'speech is happening.' Instead of saying 'I am angry,' you observe 'the sense of anger is arising.' This shift in perspective stops you from being 'hijacked' by your sensory experiences and emotions.
 
 **Neuroscience Perspective:** Recognizing that 'senses are operating among objects' is the First Principle of 'Mindfulness.' It treats thoughts and sensations as 'external data' rather than 'identity markers.' This shift prevents the brain from being 'hijacked' by every fleeting impulse or reaction.
@@ -202,7 +211,8 @@ He who acts by dedicating his actions to Brahman and abandoning attachment, is n
 
 **Simple Translation:** One who does their work as an offering to the Absolute and lets go of all attachment, is never affected by negativity, just as a lotus leaf is never made wet by the water it lives in.
 
-**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Advances the argument: One who does their work as an offering to the Absolute and lets go of all attachment, is never affected by negativity, just as a lotus leaf is never made wet by the water it lives in.
+**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Shifts from the cognitive stance of non-doership to its practical correlate: dedicating action to Brahman as an offering, with the lotus-leaf simile grounding the abstract principle in a vivid image of imperviousness amid full immersion.
+
 **Contemporary Relevance:** 'Waterproof Integrity.' The lotus leaf stays in the mud and water but remains perfectly clean. Similarly, you can live in a 'dirty' or 'stressful' world, but if your work is a selfless offering and you aren't attached to your ego, the 'dirt' of the world will never stick to you. You remain pure and unaffected.
 
 **Neuroscience Perspective:** The 'lotus leaf' metaphor describes a state of 'affective immunity.' When work is done as a 'selfless offering,' the brain bypasses the 'ego-reward' system, meaning that even if the work occurs in a toxic or messy environment, it leaves no 'stress-residue' on the internal self.
@@ -221,7 +231,8 @@ With the body, with the mind, with the intellect, and even with the senses alone
 
 **Simple Translation:** Using their body, mind, intellect, and even just their senses, those who practice Yoga perform their work without attachment, simply to purify their inner self.
 
-**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Advances the argument: Using their body, mind, intellect, and even just their senses, those who practice Yoga perform their work without attachment, simply to purify their inner self.
+**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Specifies the full hierarchy of instruments — body, mind, intellect, senses — through which yogis act, making the purpose of all this activity explicit: not achievement, but self-purification.
+
 **Contemporary Relevance:** 'Work as Therapy.' We usually work to get something from the world. Krishna suggests working to remove something from ourselves—our biases, our ego, and our mental noise. This perspective turns even the most mundane job into a powerful tool for personal growth and mental health.
 
 **Neuroscience Perspective:** Acting only for 'purification of the self' is a strategy for 'internal optimization.' By shifting the goal from 'external gain' to 'internal clarity,' every task becomes a neural 'cleaning process' that prunes away biases and egoic distractions.
@@ -240,7 +251,8 @@ The disciplined man, having abandoned the fruit of action, attains ultimate peac
 
 **Simple Translation:** A disciplined person, by letting go of the results of their work, reaches ultimate peace. But an undisciplined person, driven by desire and attached to rewards, is trapped in constant stress.
 
-**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Closes the section with A disciplined person, by letting go of the results of their work, reaches ultimate peace, completing the argument's arc.
+**Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Closes with the section's governing contrast: the one who abandons the fruit of action reaches ultimate peace, while the one who acts from desire and clings to results remains bound — making the stakes of the entire section explicit.
+
 **Contemporary Relevance:** 'Results-Oriented vs. Process-Oriented.' If you focus only on the 'win,' you are in a state of anxiety until you get it (and fear of losing it once you have it). If you focus on the 'process' and let go of the result, you find peace right now, in the middle of the work.
 
 **Neuroscience Perspective:** The difference between the 'disciplined' and 'undisciplined' is the focus on 'process vs. results.' A 'results-only' focus creates chronic 'cortisol-spikes' (anxiety). A 'process-only' focus creates a state of 'calm dopamine' (joy in the work), leading to ultimate peace.
@@ -259,7 +271,8 @@ Having renounced all actions by the mind, the embodied one sits happily in the n
 
 **Simple Translation:** A self-controlled person, having mentally let go of the ownership of their actions, lives happily in this 'nine-gated city' (the body), knowing that they are not the ones truly acting or causing action.
 
-**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Opens the section by establishing A self-controlled person, having mentally let go of the ownership of their actions, lives happily in this 'nine-gated city' (the body), knowing that they are not the ones truly acting or causing action.
+**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Introduces the governing metaphor: the self is a non-acting lord residing within the nine-gated city of the body, neither performing nor causing actions — shifting the argument from the ethics of action to the metaphysics of the self.
+
 **Contemporary Relevance:** 'The Resident Awareness.' Your body is like a high-tech vehicle (the nine-gated city) that you are 'living' in. By mentally detaching your identity from the vehicle's operations, you can enjoy the ride without the stress of thinking you *are* the machine. This is the secret to staying calm in a high-pressure physical environment.
 
 **Neuroscience Perspective:** Living in the 'nine-gated city' without thinking you are the 'Doer' is the peak of 'situational awareness.' You manage the 'body-machine' with total precision, but because you don't 'own' its failures or successes, you remain in a state of constant, internal 'Happiness.'
@@ -280,7 +293,8 @@ The Lord does not create agency or actions for the world, nor the connection wit
 
 **Simple Translation:** The ultimate power (the Lord) does not create the feeling of being a 'doer,' nor the actions themselves, nor the link between work and reward. It is simply the inherent nature of everything that makes things happen.
 
-**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Advances the argument: The ultimate power (the Lord) does not create the feeling of being a 'doer,' nor the actions themselves, nor the link between work and reward.
+**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Extends the non-doership claim from the individual self to the cosmic Lord: neither the personal self nor the divine principle creates agency, actions, or the fruits of action — it is nature's own momentum that moves everything.
+
 **Contemporary Relevance:** 'Natural Laws.' This is a scientific and philosophical 'First Principle.' The universe runs on its own internal logic and laws (physics, biology, psychology). God doesn't 'micromanage' your success; your results come from the natural interaction of your actions with the environment. Understanding this removes superstition and focuses us on mastering our 'nature.'
 
 **Neuroscience Perspective:** Recognizing that 'Nature is the real doer' is a lesson in 'biophysical realism.' It accepts that all physical and social systems follow their own inherent laws. This perspective removes the 'burden of the world' from the individual's ego, leading to a more relaxed and effective leadership style.
@@ -301,7 +315,8 @@ The omnipresent Lord does not take on the evil or the good deeds of anyone. Know
 
 **Simple Translation:** The Absolute reality does not 'take sides' or judge anyone's good or bad deeds. True knowledge is simply hidden by ignorance, and that is why people are confused.
 
-**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Advances the argument: The Absolute reality does not 'take sides' or judge anyone's good or bad deeds.
+**Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Adds a corollary to the non-judging Lord: the divine takes on neither anyone's sin nor merit — it is ignorance that covers knowledge and produces the delusion of doership from which all bewilderment arises.
+
 **Contemporary Relevance:** 'The Neutrality of Reality.' The universe doesn't have a 'scorecard.' We create our own suffering through our lack of understanding. When we stop blaming 'luck' or 'fate' and start removing our own ignorance, we stop being 'bewildered' by life's events.
 
 **Neuroscience Perspective:** The 'neutrality of reality' describes the brain's 'projection bias.' We project 'good' and 'bad' onto neutral events. Wisdom involves removing these 'ignorant layers' to see reality as it actually is, which prevents 'bewilderment' and emotional over-reactivity.

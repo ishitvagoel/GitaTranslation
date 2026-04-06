@@ -131,7 +131,8 @@ One who, restraining the organs of action, sits with the mind dwelling on the ob
 
 **Simple Translation:** Someone who stops their physical body from acting, but keeps obsessing about desires in their mind, is a confused hypocrite.
 
-**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Advances the argument: Someone who stops their physical body from acting, but keeps obsessing about desires in their mind, is a confused hypocrite.
+**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Exposes the specific failure mode of false renunciation: physical withdrawal while the mind still craves. This is not genuine karma-yoga or genuine jñāna-yoga — it is hypocrisy, and worse than honest action.
+
 **Contemporary Relevance:** This is a warning against 'performative' behavior. If we act disciplined on the outside but are full of craving and distraction on the inside, we are not growing—we are just lying to ourselves. Integrity means aligning our inner thoughts with our outer actions.
 
 **Neuroscience Perspective:** The 'hypocrite' (mithyācāraḥ) describes a state of 'internal-external decoupling.' Stopping physical action while the mind remains obsessed with desire creates 'cognitive dissonance' and chronic internal stress. Integrity requires the alignment of the motor cortex with the internal mental state.
@@ -150,7 +151,8 @@ But one who, controlling the senses with the mind, undertakes the discipline of 
 
 **Simple Translation:** But the person who uses their mind to control their senses and performs their work with their body without being attached to the outcome—that person is truly outstanding.
 
-**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Advances the argument: But the person who uses their mind to control their senses and performs their work with their body without being attached to the outcome—that person is truly outstanding.
+**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Presents the positive model after the negative warning of 3.6: the person who engages fully with the organs of action while keeping the mind sovereign over the senses is distinguished as the genuine karma-yogin.
+
 **Contemporary Relevance:** This is 'controlled engagement.' The most effective modern leaders and professionals are those who can work hard and stay focused, but remain emotionally calm and 'unattached' to praise, blame, or the final result.
 
 **Neuroscience Perspective:** Using the 'mind to control the senses' is the definition of 'top-down' executive control. By training the prefrontal cortex to regulate the more primitive sensory and emotional centers, the brain achieves a state of 'unattached excellence' (asaktaḥ), which is optimal for high-level performance.
@@ -169,7 +171,8 @@ Perform your allotted action, for action is superior to non-action; even the mai
 
 **Simple Translation:** Do the work you are supposed to do, because acting is better than not acting. You couldn't even keep your own body alive if you stopped all action.
 
-**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Advances the argument: Do the work you are supposed to do, because acting is better than not acting.
+**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Delivers Krishna's direct command: perform your allotted duty (niyataṃ karma). After establishing why inaction is impossible and hypocrisy is worse, this verse pivots to the unambiguous imperative — act, because even bodily survival requires it.
+
 **Contemporary Relevance:** Doing your duty is a fundamental requirement of life. 'Self-care' often starts with simply doing the basic tasks required of us. Inactivity leads to stagnation and decay, both physically and mentally.
 
 **Neuroscience Perspective:** The instruction 'action is superior to non-action' reflects the brain's need for 'purposeful engagement' to maintain health. The 'maintenance of the body' depends on the nervous system's ability to coordinate physical and mental tasks. Stagnation leads to neural and physical atrophy.
@@ -188,7 +191,8 @@ This world is bound by action except for that action performed for the sake of s
 
 **Simple Translation:** Any work done for a selfish reason creates a burden (bondage). But work done as a contribution or sacrifice (Yajña) is free. Therefore, Arjuna, do your work as a contribution, without being attached to what you get from it.
 
-**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Closes the section with any work done for a selfish reason creates a burden (bondage), completing the argument's arc.
+**Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Closes the section by introducing the key that transforms action from bondage into liberation: yajña, selfless offering. This reframes the entire question — not "should I act?" but "for whom do I act?" The concept of yajña then anchors the entire next section.
+
 **Contemporary Relevance:** Shift your mindset from 'What's in it for me?' to 'What can I contribute?' When we work purely for our own ego or gain, every setback feels like a personal attack. When we work to contribute to a larger cause, we feel lighter and more resilient.
 
 **Neuroscience Perspective:** Action done as a 'sacrifice' (contribution) shifts the brain from 'egocentric' processing to 'allocentric' (other-centered) processing. This shift reduces the activation of the 'self-defense' and 'greed' circuits, resulting in a state of flow and reduced performance anxiety.
@@ -208,7 +212,8 @@ anena prasaviṣyadhvam eṣa vo 'stv iṣṭakāmadhuk // 10 //
 
 **Simple Translation:** In the beginning, the Creator created humanity along with the principle of sacrifice and said: 'Grow and prosper through this spirit of contribution; let this be the source of everything you need.'
 
-**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Opens the section by establishing in the beginning, the Creator created humanity along with the principle of sacrifice and said: 'Grow and prosper through this spirit of contribution; let this be the source of everything you need.
+**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Grounds yajña in the cosmic origin story: the Creator established sacrifice as the very mechanism of creation. This elevates karma-yoga from a personal discipline to a participation in the foundational law of the cosmos.
+
 **Contemporary Relevance:** The universe operates on a principle of 'giving and receiving.' In modern economics and ecology, we see that sustainable growth only happens when there is a mutual exchange of value. The 'spirit of sacrifice' is actually the secret to long-term prosperity.
 
 **Neuroscience Perspective:** The 'spirit of sacrifice' as a source of prosperity is a First Principle of 'reciprocal altruism.' Evolutionarily, the human brain is wired to thrive in systems of mutual benefit. 'Contribution' is the strategic key to long-term systemic stability and individual success.
@@ -231,7 +236,8 @@ Nourish the gods with this; may those gods nourish you. Mutually nourishing one 
 
 **Simple Translation:** Support the cosmic forces (gods) with your contribution, and let those forces support you in return. By mutually supporting each other, you will reach the highest good.
 
-**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Advances the argument: Support the cosmic forces (gods) with your contribution, and let those forces support you in return.
+**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Articulates the reciprocal logic of yajña: humans nourish the devas through offering; the devas nourish humans through rain and abundance. The universe runs on mutual sustenance, not one-directional taking.
+
 **Contemporary Relevance:** This is 'systems thinking.' We are not isolated individuals; we are part of a massive, interconnected system. When we take care of the system (the environment, our community, our team), the system takes care of us. Success is a collaborative, circular process.
 
 **Neuroscience Perspective:** The 'mutual nourishment' of humans and cosmic forces describes a 'feedback loop' in a complex system. Neurally, this encourages an 'interconnected' mental model where the individual realizes that their well-being is dependent on the health of the larger environment.
@@ -252,7 +258,8 @@ For the gods, nourished by sacrifice, will grant you the enjoyments you desire. 
 
 **Simple Translation:** The cosmic forces, strengthened by your contributions, will provide the things you need. Anyone who enjoys these gifts without giving anything back is a thief.
 
-**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Advances the argument: The cosmic forces, strengthened by your contributions, will provide the things you need.
+**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Sharpens the ethical stakes: one who consumes the fruits of this reciprocal system without contributing to it is morally a thief. The wheel of sacrifice has teeth; there is no neutral position of mere consumption.
+
 **Contemporary Relevance:** This is a warning against 'freeloading' or exploitative behavior. We receive so much from nature and society (clean air, infrastructure, knowledge). If we only consume without contributing back, we are breaking the ethical balance of the world. Gratitude and reciprocity are essential for a healthy life.
 
 **Neuroscience Perspective:** Calling someone a 'thief' who consumes without giving back targets the brain's 'social fairness' and 'reciprocity' mechanisms. The brain experiences a 'moral penalty' signal when it recognizes its own parasitic behavior, which serves as a deterrent against exploitation.
@@ -271,7 +278,8 @@ The virtuous who eat the remnants of sacrifice are released from all sins. But t
 
 **Simple Translation:** Those who eat what is left over after making a contribution are freed from negativity. But those who cook only for themselves are essentially 'eating' their own selfishness.
 
-**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Advances the argument: Those who eat what is left over after making a contribution are freed from negativity.
+**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Draws the ethical consequence of the wheel: one who contributes first and consumes only the remainder is purified, while one who consumes without contributing incurs moral debt. This establishes the reciprocal logic that governs participation in the cosmic system.
+
 **Contemporary Relevance:** This is about the 'order of priorities.' If we satisfy our own needs only after we have contributed to others, our consumption is healthy and guilt-free. But consumption that is purely self-centered leads to isolation and a sense of internal emptiness ('eating sin').
 
 **Neuroscience Perspective:** Eating the 'remnants of sacrifice' vs. 'eating sin' describes the neural reward of 'guilt-free consumption.' Satisfying one's needs *after* fulfilling social duties creates a clean dopamine signal, while purely selfish gratification leads to chronic internal conflict (sin).
@@ -290,7 +298,8 @@ Beings arise from food; the production of food arises from rain; rain arises fro
 
 **Simple Translation:** Living beings come from food; food comes from rain; rain comes from the balance of nature (sacrifice); and that balance is maintained by our actions.
 
-**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Advances the argument: Living beings come from food; food comes from rain; rain comes from the balance of nature (sacrifice); and that balance is maintained by our actions.
+**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Traces the causal chain from individual action upward through sacrifice, rain, food, and life itself, demonstrating that the cosmic cycle is not mythological but structurally dependent on human participation in yajña.
+
 **Contemporary Relevance:** This verse describes the 'cycle of life' and our role in it. It shows how our individual actions directly impact the massive environmental and social cycles that sustain us. It's a call to ecological and social responsibility.
 
 **Neuroscience Perspective:** The 'cycle of food and rain' is a lesson in 'causal mapping.' By understanding the physical and social cycles that sustain life, the brain develops 'systems intelligence,' allowing it to act in ways that support the long-term survival of the whole system.
@@ -309,7 +318,8 @@ Know that action originates from Brahman (the Veda), and Brahman originates from
 
 **Simple Translation:** Understand that purposeful action comes from the creative principle (Brahman), and that principle comes from the eternal reality. Therefore, the highest reality is always present in every act of selfless contribution.
 
-**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Advances the argument: Understand that purposeful action comes from the creative principle (Brahman), and that principle comes from the eternal reality.
+**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Grounds the chain of causation in its metaphysical source: action originates from Brahman, Brahman from the Imperishable, and Brahman itself is eternally present in every act of sacrifice. This reveals that participating in yajña is not merely ethical but ontologically aligned with ultimate reality.
+
 **Contemporary Relevance:** Every act of service or contribution connects us to something 'divine' or universal. When we act selflessly, we are not just 'doing work'; we are participating in the creative process of the universe itself. This gives even small tasks a profound sense of meaning.
 
 **Neuroscience Perspective:** Tracing action back to the 'Absolute' (Brahman) provides a 'transcendental anchor' for duty. When the brain views its daily tasks as an expression of universal principles, it experiences a 'meaning-boost' that significantly increases resilience and endurance.
@@ -328,7 +338,8 @@ He who does not follow the wheel thus set in motion in this world — living in 
 
 **Simple Translation:** Anyone who does not participate in this natural cycle of contribution, but only lives for their own sensory pleasure and selfish gain, lives a useless life.
 
-**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Closes the section with anyone who does not participate in this natural cycle of contribution, but only lives for their own sensory pleasure and selfish gain, lives a useless life, completing the argument's arc.
+**Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Closes the section by issuing the moral verdict: the person who opts out of the wheel — living only for sensory pleasure — lives a life that is not merely unfulfilling but actively futile. This makes non-participation in yajña a moral failure, not merely a personal choice, completing the section's argument.
+
 **Contemporary Relevance:** This is a critique of the 'pure consumer' lifestyle. A life that consists only of taking and enjoying, without giving or building, is inherently hollow. True fulfillment comes from being an active, contributing part of the 'wheel' of life.
 
 **Neuroscience Perspective:** The 'wheel of contribution' is a model of 'participatory evolution.' Anyone who stays 'outside' this wheel by living only for sensory pleasure is effectively 'disconnected' from the source of life's meaning, leading to a state of 'neural entropy' and existential futility.
@@ -347,7 +358,8 @@ But for the man who delights only in the Self, who is satisfied with the Self, a
 
 **Simple Translation:** However, for the person who finds total joy within themselves, who is satisfied with their own inner nature, and who is content in the Self alone—for such a person, there is no 'forced' duty to be done.
 
-**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Opens the section by establishing however, for the person who finds total joy within themselves, who is satisfied with their own inner nature, and who is content in the Self alone—for such a person, there is no 'forced' duty to be done.
+**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Opens the section by introducing the one genuine exception to the obligation of action: the person who has already fulfilled all desires in the Self has no external duty remaining. This carves out the upper limit of the previous section's argument — karma-yoga is for those who still have needs; those beyond need are truly free.
+
 **Contemporary Relevance:** This describes the state of 'intrinsic motivation.' When you are already happy and content, you don't work because you *have to* get something; you work as an expression of your own nature. Your work becomes a joy rather than a burden.
 
 **Neuroscience Perspective:** The person 'satisfied in the Self alone' has achieved 'intrinsic dopamine regulation.' Their internal state is no longer dependent on external 'hits' of success or validation. This is the ultimate state of 'neural independence' and unshakeable happiness.
@@ -366,7 +378,8 @@ For him, there is no purpose in action done, nor any in action not done in this 
 
 **Simple Translation:** Such a person has nothing to gain by doing things and nothing to lose by not doing them. They do not depend on anyone or anything outside themselves for their sense of worth.
 
-**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Advances the argument: Such a person has nothing to gain by doing things and nothing to lose by not doing them.
+**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Completes the logic of 3.17's exception: the self-realized person has no stake in the outcomes of action because they neither gain from doing nor lose from not doing. This symmetry of non-interest distinguishes genuine freedom from mere renunciation of tasks.
+
 **Contemporary Relevance:** This is 'emotional independence.' Imagine being so grounded that your happiness doesn't depend on your boss's praise, your salary, or your social status. This person acts with total freedom because they are already 'complete.'
 
 **Neuroscience Perspective:** Having 'no dependence on any object' means the brain has completed its 'de-addiction' from the world. The person acts with total freedom because their 'self-worth' is not being gambled on the outcome of any external event. This is the peak of psychological security.
@@ -385,7 +398,8 @@ Therefore, always perform that action which must be done, without attachment. Fo
 
 **Simple Translation:** Therefore, always do the work that needs to be done without being attached to the results. By working this way, a person reaches the highest state of being.
 
-**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Advances the argument: Therefore, always do the work that needs to be done without being attached to the results.
+**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Pivots from the exception (the truly free) back to the rule (everyone else): because most people have not yet reached that state, the prescription is to act without attachment — using detachment as the practice that leads toward the freedom described in 3.17.
+
 **Contemporary Relevance:** This is the practical advice: 'Do your best, forget the rest.' Since we are not yet 'perfectly content' (like the person in v17), we must practice detachment while working. This practice is the path to that higher state of freedom.
 
 **Neuroscience Perspective:** Performing action 'without attachment' is the 'Golden Rule' of productivity. By focusing 100% on the quality of the 'act' and 0% on the ego-driven 'reward,' the brain enters a 'flow state' where performance is maximized and stress is minimized.
@@ -404,7 +418,8 @@ Indeed, Janaka and others attained perfection through action alone. Even conside
 
 **Simple Translation:** Great leaders like Janaka reached perfection through action alone. You should also do your work, if only to set an example and help maintain the order of the world (lokasaṃgraha).
 
-**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Closes the section with great leaders like Janaka reached perfection through action alone, completing the argument's arc.
+**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Closes the section with a historical proof that bridges the exception and the rule: Janaka was both a king fully engaged in worldly action and a realized being. His example confirms that the path of action can itself achieve the freedom described in 3.17 — action and liberation are not opposites.
+
 **Contemporary Relevance:** Leadership by example. Even if you don't 'need' to work for yourself, you should work for the benefit of society. Your actions help hold the world together. This is the responsibility of the 'wise' to help those who are still learning.
 
 **Neuroscience Perspective:** Leadership by example (lokasaṃgraha) is an act of 'social modeling.' The brain’s mirror neuron system allows it to influence the behavior of others through action. Wise leaders continue to work to provide a 'stable neural template' for the rest of society to follow.
@@ -425,7 +440,8 @@ Whatever a superior person does, that very thing other people do. Whatever stand
 
 **Simple Translation:** Whatever a leader does, others will copy. Whatever standards a leader sets, the rest of the world will follow.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Opens the section by establishing whatever a leader does, others will copy.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Opens the section by establishing the sociological force that obligates the wise to continue acting: whatever the most eminent person does becomes the behavioral standard for society. This transforms the individual question of "should I act?" into a collective responsibility.
+
 **Contemporary Relevance:** The power of influence. If you are in a position of authority (parent, boss, influencer), your behavior sets the 'culture' for everyone else. Integrity at the top is the only way to ensure integrity throughout the system.
 
 **Neuroscience Perspective:** The 'power of influence' describes how social hierarchies are maintained in the brain. We are neurally programmed to 'imitate the leader.' High-level integrity at the top of a hierarchy is the most efficient way to regulate the behavior of the entire system.
@@ -444,7 +460,8 @@ There is no duty for Me to perform in the three worlds, Pārtha, nor is there an
 
 **Simple Translation:** Arjuna, there is nothing in the entire universe that I *must* do, and there is nothing I don't already have. Yet, I am constantly engaged in action.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Advances the argument: Arjuna, there is nothing in the entire universe that I *must* do, and there is nothing I don't already have.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Provides Krishna's own case as illustration: he has no need, no unmet goal, no unfulfilled desire — he perfectly embodies the freedom described in 3.17. Yet he acts, proving that the motivation for the wise to act is not personal necessity but example-setting.
+
 **Contemporary Relevance:** This is the definition of 'pure action.' Krishna works not out of need, but out of choice and for the sake of the system. It challenges the idea that we should only work when we 'need' something. Work can be a purposeful expression of our nature rather than a desperate hunt for survival.
 
 **Neuroscience Perspective:** Krishna’s 'pure action' without need is a model of 'non-utilitarian motivation.' It shows that action can be a joyful expression of 'being' rather than a desperate attempt at 'becoming.' This removes the 'deficiency-stress' that drives most human work.
@@ -463,7 +480,8 @@ For if I did not ever engage in action untiringly, men would follow My path in e
 
 **Simple Translation:** If I ever stopped working tirelessly, people everywhere would follow my example and stop doing their work as well.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Advances the argument: If I ever stopped working tirelessly, people everywhere would follow my example and stop doing their work as well.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Shows the negative consequence of the principle in 3.21: if even Krishna ceased action, his example would cascade through society and bring all activity to a halt. The cost of the exemplar's inaction is systemic, not personal.
+
 **Contemporary Relevance:** The responsibility of power. The more influential you are, the less you can afford to be lazy or negligent. Your 'downtime' is seen by others as permission to quit. True leadership requires constant, tireless engagement.
 
 **Neuroscience Perspective:** The 'responsibility of power' highlights the brain's role in 'norm-setting.' If the highest-level 'exemplar' quits, the entire group's 'motivation-baseline' drops. Constant, tireless engagement is required to maintain the group's collective momentum.
@@ -482,7 +500,8 @@ These worlds would fall into ruin if I did not perform action; I would be the au
 
 **Simple Translation:** These worlds would fall into ruin if I stopped acting. I would be responsible for creating chaos and destroying the very people I am meant to support.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Advances the argument: These worlds would fall into ruin if I stopped acting.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Escalates 3.23's consequence from social disruption to cosmic collapse: Krishna's withdrawal would author not just disorder but the total unraveling of beings and worlds. This grounds the obligation to act in the gravest possible stakes, extending the argument beyond personal ethics to cosmic stewardship.
+
 **Contemporary Relevance:** This is 'accountability.' If the core processes of a society or organization stop, the whole system collapses into chaos. Krishna acts to prevent this entropy. It reminds us that our small daily duties are what keep the 'world' (our family, our office, our country) from falling apart.
 
 **Neuroscience Perspective:** The threat of 'world-ruin' and 'confusion' (entropy) is the ultimate 'systemic alarm.' The brain is wired to avoid chaos. Krishna acts to maintain 'predictability and order,' which are the essential requirements for any brain to function safely and effectively.
@@ -503,7 +522,8 @@ As the ignorant act, attached to action, O Bhārata, so should the wise act, una
 
 **Simple Translation:** Just as ignorant people work hard because they are attached to rewards, wise people should work just as hard—but without attachment—for the welfare of the world.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Advances the argument: Just as ignorant people work hard because they are attached to rewards, wise people should work just as hard—but without attachment—for the welfare of the world.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Draws the practical inference: since the ignorant work with full intensity (albeit attached), the wise must match that intensity but without attachment. The outward behavior is the same; the inner orientation differs — and this is precisely what makes the wise person's action a viable model rather than an abstract ideal.
+
 **Contemporary Relevance:** 'Intensity without attachment.' You don't have to be 'greedy' to be productive. You can be a high-performer driven by service and quality rather than ego and bonus checks. The 'output' looks the same, but the 'inner experience' is completely different.
 
 **Neuroscience Perspective:** Wise people act with 'intensity without attachment.' This is 'High-Engagement/Low-Stress' performance. It combines the 'energy' of the ignorant (who act out of greed) with the 'clarity' of the wise (who act out of service), resulting in optimal systemic health.
@@ -522,7 +542,8 @@ The wise should not create a confusion of the intellect (*buddhibheda*) in the i
 
 **Simple Translation:** A wise person should not confuse those who are attached to their work by telling them to stop. Instead, the wise should perform all actions beautifully and with discipline, encouraging others to do the same.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Closes the section with A wise person should not confuse those who are attached to their work by telling them to stop, completing the argument's arc.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Closes the section with a crucial constraint on the wise: they must not intellectually destabilize those who are still learning through attached action. The wise lead by doing, not by preaching detachment to those not yet ready for it. This seals the section's argument that example — not instruction — is the proper vehicle of wisdom.
+
 **Contemporary Relevance:** Meet people where they are. If someone is motivated by money or status, don't just tell them 'money doesn't matter'—that will only confuse them. Instead, show them how to do *excellent* work. Your example of excellence will eventually lead them to deeper motivations.
 
 **Neuroscience Perspective:** Not 'confusing the ignorant' is a lesson in 'cognitive empathy.' A wise leader understands the 'mental limits' of their team and doesn't force high-level philosophy on those who aren't ready. They encourage others by modeling 'excellent action' in a way that is relatable.
@@ -543,7 +564,8 @@ Actions are performed in every way by the qualities (*guṇas*) of nature (*prak
 
 **Simple Translation:** All actions are actually done by the natural forces of the universe. But a person who is confused by their ego thinks: 'I am the one doing this.'
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Opens the section by establishing all actions are actually done by the natural forces of the universe.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Opens the section by identifying the structural source of the ego's error: it is ahaṅkāra — the "I-maker" — that falsely attributes the guṇas' actions to a personal self. This reframing shifts the entire section's focus from "how to act" to "who is actually acting," undercutting the premise of both attachment and blame.
+
 **Contemporary Relevance:** This is 'the illusion of agency.' Our bodies, brains, and environments are all part of a massive natural process. When we take too much personal credit (or too much personal blame), we are ignoring the countless biological and environmental factors that made the action possible. Humility comes from seeing the 'big picture' of nature.
 
 **Neuroscience Perspective:** The 'illusion of agency' (I am the doer) is a byproduct of the brain's 'self-model.' While necessary for basic survival, this 'ego-narrative' becomes a source of stress and pride. Understanding that 'Nature is the real doer' allows for a more relaxed and objective performance.
@@ -564,7 +586,8 @@ But the knower of the truth, O mighty-armed one, concerning the divisions of qua
 
 **Simple Translation:** But someone who knows the truth understands that it's just 'natural qualities interacting with other natural qualities.' Knowing this, they don't get caught up in attachment.
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Advances the argument: But someone who knows the truth understands that it's just 'natural qualities interacting with other natural qualities.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Supplies the corrective insight to 3.27's diagnosis: the one who knows that guṇas move among guṇas does not get attached, because the ego's claim to authorship has been dissolved. This is the epistemological antidote to the problem of the previous verse.
+
 **Contemporary Relevance:** 'Observational detachment.' When you see a conflict or a success as just 'variables interacting,' you can stay calm. It’s like watching a chemical reaction or a complex weather pattern—you can observe it, participate in it, and even direct it, without letting it destroy your inner peace.
 
 **Neuroscience Perspective:** The knower of truth sees 'qualities operating among qualities.' This is 'objective system-monitoring.' By viewing a conflict or a task as a set of interacting variables rather than a 'personal drama,' the brain remains calm and makes better strategic choices.
@@ -583,7 +606,8 @@ Those deluded by the qualities of nature become attached to the actions of the q
 
 **Simple Translation:** People who are confused by nature become attached to their actions and roles. Those who know the full truth should not try to force this understanding on those who aren't ready for it.
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Advances the argument: People who are confused by nature become attached to their actions and roles.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Introduces a social corollary to the guṇa-knowledge: those still confused by their nature remain attached, and the fully knowing person must not unsettle them. This begins the section's turn toward the pedagogy of wisdom — the knower has a responsibility not to destabilize those at a different stage.
+
 **Contemporary Relevance:** Respect the learning curve. Everyone is on their own journey of understanding. Forcing 'high-level' philosophy on someone who is just trying to survive or succeed can be harmful. Patience and compassionate leadership mean letting people grow at their own pace.
 
 **Neuroscience Perspective:** Patience with those of 'incomplete knowledge' is an act of 'social regulation.' Everyone has their own 'learning rate' based on their previous experience and biology. Forcing 'total truth' prematurely can cause a 'neural crash' in others; compassionate leadership allows for gradual growth.
@@ -602,7 +626,8 @@ Surrendering all actions to Me with a mind fixed on the Self, being free from ho
 
 **Simple Translation:** Offer all your actions to the highest reality with a clear focus on your inner Self. Be free from selfish hope and possessiveness, and do your work (fight) without any mental agitation (fever).
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Advances the argument: Offer all your actions to the highest reality with a clear focus on your inner Self.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Translates the metaphysics of guṇa-action into direct personal practice: surrender all actions to the Absolute, act without hope or possessiveness, and fight free of mental fever. This is the practical application of 3.27–3.28's understanding — not passive acceptance of nature but conscious offering of the natural process to its source.
+
 **Contemporary Relevance:** 'Working without the fever.' Mental fever is the anxiety, stress, and desperation we feel when we are too attached to an outcome. Krishna's final advice for this section is to work with total commitment, but with a cool, calm, and surrendered mind.
 
 **Neuroscience Perspective:** Working 'without mental fever' (vigata-jvara) is the state of 'optimized arousal.' 'Mental fever' is the over-activation of the sympathetic nervous system (anxiety). By surrendering the outcome to a higher principle, the brain maintains the perfect 'cool' state for high-stakes decision-making.
@@ -623,7 +648,8 @@ Those men who constantly practice this teaching of Mine with faith and without c
 
 **Simple Translation:** People who constantly practice this teaching with trust and without complaining will also be freed from the burden of their actions.
 
-**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Advances the argument: People who constantly practice this teaching with trust and without complaining will also be freed from the burden of their actions.
+**Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Broadens the path beyond the realized knower: even ordinary people who practice Krishna's teaching with faithful consistency will be released from karmic bondage. This democratizes the promise of liberation — guṇa-wisdom is not only for those who have already seen through the ego.
+
 **Contemporary Relevance:** Trust the process. When we find a principle that works, we should apply it consistently and without constant second-guessing. Skepticism is good for research, but when it's time to act, 'uncomplaining faith' in our chosen strategy allows us to perform with full power and without internal friction.
 
 **Neuroscience Perspective:** Faith without 'caviling' (complaining) is 'unfiltered commitment.' Constant second-guessing creates 'cognitive friction' that slows down execution. Once a principle is chosen, 'complaint-free' practice allows the brain to perform at full power.

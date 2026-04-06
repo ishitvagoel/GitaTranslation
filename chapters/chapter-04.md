@@ -653,7 +653,8 @@ Eating the nectar of the remnants of sacrifice, they go to the eternal Brahman. 
 
 **Simple Translation:** Those who enjoy the 'nectar' (results) that remains after a sacrifice reach the eternal reality. This world is not for someone who refuses to contribute; how then could any higher world be for them?
 
-**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Advances the argument: Those who enjoy the 'nectar' (results) that remains after a sacrifice reach the eternal reality.
+**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Stakes the existential claim: those who live by sacrifice taste the immortal remainder (the fruit of selfless action reaching Brahman), while one who refuses to sacrifice forfeits even this world, let alone the next.
+
 **Contemporary Relevance:** 'The Joy of Contribution.' There is a specific kind of happiness (nectar) that only comes after you have done something selfless for others. Life is not a 'free lunch.' If you don't contribute to the system, you become an outcast from its benefits. Success and happiness are 'remnants' of service.
 
 **Neuroscience Perspective:** The 'nectar of remnants' describes the 'secondary reward' of selfless service. After doing something for others, the brain experiences a 'pro-social dopamine hit' that is far more stable and satisfying than the 'greedy' hit of selfish gain.
@@ -672,7 +673,8 @@ Thus manifold sacrifices are spread out in the mouth of Brahman (the Veda). Know
 
 **Simple Translation:** Many such forms of sacrifice are described in the ancient teachings. Understand that all of them are expressed through action. Knowing this deeply, you will be freed.
 
-**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Advances the argument: Many such forms of sacrifice are described in the ancient teachings.
+**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Grounds the entire typology in the Vedic tradition and draws the liberating conclusion: knowing that all these forms are "born of action" — that sacrifice is the essential nature of purposeful activity — is itself the key to freedom.
+
 **Contemporary Relevance:** 'Action is the Medium.' Spirituality and growth are not just 'ideas'; they must be expressed through physical and mental actions. By seeing all our work as different forms of 'sacrifice' or 'contribution,' we turn our entire life into a path toward freedom.
 
 **Neuroscience Perspective:** Knowing that all sacrifices are 'born of action' is a reminder that 'doing' is the medium of growth. Intellectualization alone doesn't change the brain; 'embodied action' is what creates new neural pathways and leads to liberation.
@@ -691,7 +693,8 @@ Superior to the sacrifice of material objects is the sacrifice of knowledge, O s
 
 **Simple Translation:** The sacrifice of knowledge is superior to the sacrifice of material possessions, Arjuna. All actions, in their entirety, find their ultimate fulfillment in wisdom.
 
-**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Closes the section with the sacrifice of knowledge is superior to the sacrifice of material possessions, Arjuna, completing the argument's arc.
+**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Closes the section with the crowning hierarchy: knowledge-sacrifice supersedes all material, physical, and ritual forms because all action ultimately culminates in wisdom — setting up the next section's prescription to seek that knowledge from a realized teacher.
+
 **Contemporary Relevance:** 'Knowledge over Assets.' Giving money is good, but sharing knowledge and wisdom is better because it empowers people to help themselves. Furthermore, the goal of all our 'doing' should be 'understanding.' We work so that we can eventually understand the truth of ourselves and the world.
 
 **Neuroscience Perspective:** The 'sacrifice of knowledge' being superior to 'material sacrifice' highlights that 'cognitive software' is more valuable than 'physical hardware.' A single, deep insight can transform your entire life more effectively than any amount of money or stuff.
@@ -710,7 +713,8 @@ Know that [knowledge] by prostrating, by questioning, and by service. The wise, 
 
 **Simple Translation:** Learn this knowledge by being humble (prostrating), by asking deep questions (inquiry), and by being of service. Those who have seen the truth will then teach you.
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Opens the section by establishing learn this knowledge by being humble (prostrating), by asking deep questions (inquiry), and by being of service.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Opens the section by prescribing the method of transmission: the supreme knowledge cannot be obtained by intellect alone but requires the triple discipline of humility, genuine inquiry, and service — conditions that make the teacher willing to impart it.
+
 **Contemporary Relevance:** 'The Three Pillars of Learning.' 1. Humility: admitting you don't know everything. 2. Critical Inquiry: not accepting things blindly, but asking 'Why?' 3. Service: applying what you learn to help the teacher or the cause. This is the perfect modern framework for mentorship and deep learning.
 
 **Neuroscience Perspective:** Humility, inquiry, and service are the three components of 'optimal learning state.' Humility opens the 'reception' circuits; inquiry activates the 'processing' circuits; and service provides the 'practical validation' of the data.
@@ -731,7 +735,8 @@ Knowing which, you will not again fall into delusion, O son of Pāṇḍu; by th
 
 **Simple Translation:** Once you have this knowledge, you will never fall into confusion again. You will see all living beings as part of your own self, and then as part of Me (the Absolute).
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Advances the argument: Once you have this knowledge, you will never fall into confusion again.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Describes the specific vision that this knowledge produces: the seeker will see all beings within the self and then within Krishna, making the perception of unity — not belief — the fruit of successful transmission.
+
 **Contemporary Relevance:** 'Universal Empathy.' This is the ultimate 'First Principle' of ethics. When you realize that everyone else is essentially 'you' in a different form, you can no longer be selfish or cruel. Conflict dissolves into understanding when you see the same life-force in every person you meet.
 
 **Neuroscience Perspective:** Seeing 'all beings in the self and then in Me' is the peak of 'social and spiritual integration.' This neural model of 'Universal Empathy' makes selfishness logically impossible, as the brain perceives no fundamental boundary between itself and the rest of existence.
@@ -750,7 +755,8 @@ Even if you were the greatest of all evil-doers, you shall cross over all evil b
 
 **Simple Translation:** Even if you were the worst of all wrongdoers, you can cross over the ocean of negativity using the boat of knowledge alone.
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Advances the argument: Even if you were the worst of all wrongdoers, you can cross over the ocean of negativity using the boat of knowledge alone.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Radicalizes the claim: even the most burdened person can be carried across the ocean of evil by knowledge alone, establishing that this purification is unconditional — it does not depend on prior moral standing.
+
 **Contemporary Relevance:** 'Redemption through Wisdom.' No matter how many mistakes you've made in the past, you are not defined by them. Knowledge is the ultimate 'reset button.' By understanding the truth now, you can transcend your past and move forward with total clarity.
 
 **Neuroscience Perspective:** Knowledge as a 'boat' that crosses the 'ocean of evil' describes the 'reparative power of truth.' No matter how many 'bad neural patterns' (sins) you have built up, a 'core insight' into reality acts as a new OS that allows you to navigate past your old mistakes.

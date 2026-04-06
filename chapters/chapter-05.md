@@ -397,7 +397,8 @@ Even here on earth, creation is conquered by those whose minds are established i
 
 **Simple Translation:** Those whose minds are established in equality have 'conquered' the world right here on earth. Since the Absolute is flawless and equal, they are established in that Absolute.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Advances the argument: Those whose minds are established in equality have 'conquered' the world right here on earth.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Draws the immediate practical consequence of the equal vision: those established in sameness have already "conquered" the world of sorrow here in this life, because Brahman itself is flawless and equal and they are now established in it.
+
 **Contemporary Relevance:** 'The Power of Neutrality.' 'Conquering the world' doesn't mean owning it; it means not being controlled by its fluctuations. If you can stay equal and steady in all situations, you have mastered life. You are living in a 'flawless' state because you no longer see things through the lens of judgment.
 
 **Neuroscience Perspective:** Conquering the world through 'equality' describes 'regulatory mastery.' If your mind remains steady regardless of external conditions, you have 'conquered' the environment's ability to control you. This is the definition of a 'flawless' mental state.
@@ -416,7 +417,8 @@ One should not rejoice upon obtaining what is pleasant, nor shudder upon obtaini
 
 **Simple Translation:** A person should not get over-excited when something good happens, nor should they tremble when something bad happens. With a steady, clear mind, one who knows the Truth stays grounded in the Truth.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Advances the argument: A person should not get over-excited when something good happens, nor should they tremble when something bad happens.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Applies the vision of equality to the inner life of the sage: neither elation at the pleasant nor agitation at the unpleasant, with a steady, undeluded intellect that identifies with the unchanging Brahman rather than with shifting circumstances.
+
 **Contemporary Relevance:** 'Stoic Resilience.' This is the practice of 'not being a ping-pong ball' to external events. High-stakes leadership and high-quality living require the ability to receive both 'good news' and 'bad news' with the same level of calm focus and clear-headedness.
 
 **Neuroscience Perspective:** The 'Stoic' instruction to not rejoice or shudder describes 'emotional homeostasis.' By training the brain to have a 'neutral response' to both praise and blame, you preserve your cognitive energy for what really matters: your own duty and integrity.
@@ -435,7 +437,8 @@ He whose self is unattached to external contacts finds the happiness that is in 
 
 **Simple Translation:** One who is not attached to external sensory experiences finds happiness within their own self. By uniting their self with the Absolute through Yoga, they enjoy a happiness that never ends.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Advances the argument: One who is not attached to external sensory experiences finds happiness within their own self.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Locates the source of the sage's equanimity: happiness found within the self rather than in external sensory contact, united with Brahman through yoga — establishing that the equal vision is not suppression but the discovery of an inexhaustible interior joy.
+
 **Contemporary Relevance:** 'Intrinsic Happiness.' Most people look for happiness in 'external contacts'—the next purchase, the next vacation, the next like. Krishna says that real, 'imperishable' happiness is an internal state. By learning to be happy *with yourself* rather than *with things*, you become independent of the world's fluctuations.
 
 **Neuroscience Perspective:** Intrinsic happiness vs. external contact is the choice between 'endogenous' and 'exogenous' joy. By generating happiness from your own 'Yoga-connection' rather than from 'stuff,' you become a self-sufficient and un-bribable human being.
@@ -454,7 +457,8 @@ For the pleasures that are born of contact are merely sources of sorrow. They ha
 
 **Simple Translation:** Pleasures that come from sensory contact are actually the birthplaces of sorrow. They have a beginning and an end, Arjuna; a wise person does not find lasting satisfaction in them.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Advances the argument: Pleasures that come from sensory contact are actually the birthplaces of sorrow.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Provides the philosophical reason why the wise do not pursue external pleasure: contact-born enjoyments have a beginning and an end, making them structurally the birthplaces of sorrow — a diagnosis that makes the sage's inner orientation a logical necessity.
+
 **Contemporary Relevance:** 'The Hedonic Treadmill.' Sensory pleasures (food, entertainment, thrills) are temporary by nature. The moment they end, they leave a gap that feels like sorrow or boredom. A wise person recognizes this pattern and doesn't mistake these temporary 'highs' for real fulfillment.
 
 **Neuroscience Perspective:** Pleasures as 'birthplaces of sorrow' is a diagnosis of 'hedonic adaptation.' Every temporary sensory high is followed by an equal and opposite low. Recognizing this 'wave-pattern' prevents the brain from being 'tricked' by temporary dopamine spikes.
@@ -473,7 +477,8 @@ He who is able to endure here, before liberation from the body, the force born o
 
 **Simple Translation:** One who is able to withstand the powerful waves of desire and anger while still living in this body, is a truly disciplined and happy person.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Advances the argument: One who is able to withstand the powerful waves of desire and anger while still living in this body, is a truly disciplined and happy person.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Identifies the specific forces — desire and anger — that threaten to overwhelm the vision of equality, and praises the one who can withstand their surge while still embodied as both disciplined and genuinely happy.
+
 **Contemporary Relevance:** 'Impulse Mastery.' Desire and anger are like sudden 'surges' of electricity. If you can stay steady and not be swept away by these internal 'waves,' you have reached the peak of human maturity. True happiness is the peace that remains when you are no longer a victim of your own impulses.
 
 **Neuroscience Perspective:** Withstanding the 'waves of desire and anger' is the peak of 'impulse inhibition.' If you can remain 'steady' (yukta) while these intense biological surges pass through your system, you have achieved the highest level of neural and personal maturity.
@@ -492,7 +497,8 @@ He who finds happiness within, who rejoices within, and who likewise has his lig
 
 **Simple Translation:** One who finds joy within, who is satisfied within, and who has their own internal light—that person has already reached the Absolute and finds ultimate freedom.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Advances the argument: One who finds joy within, who is satisfied within, and who has their own internal light—that person has already reached the Absolute and finds ultimate freedom.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Describes the highest expression of the interior life: the yogi who has made the self the sole source of joy, rest, and illumination has already become Brahman and attains brahmanirvāṇa — freedom in the Absolute, not after death but here.
+
 **Contemporary Relevance:** 'Self-Sufficient Joy.' This is the ultimate goal of personal development. Imagine not needing anyone or anything else to make you feel 'good' or 'bright.' When your source of light and joy is internal, you carry your own 'heaven' with you wherever you go.
 
 **Neuroscience Perspective:** The 'internal light' describes 'self-referential clarity.' Instead of looking outward for answers or validation, the brain looks inward to its own 'First Principles.' This 'inner glow' provides a permanent sense of direction and joy that is independent of external circumstances.
@@ -513,7 +519,8 @@ The seers, whose stains are destroyed, whose dualities are severed, whose selves
 
 **Simple Translation:** Wise thinkers reaching this ultimate freedom are those whose impurities are gone, whose doubts are cut away, who have mastered themselves, and who are dedicated to the well-being of all living beings.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Advances the argument: Wise thinkers reaching this ultimate freedom are those whose impurities are gone, whose doubts are cut away, who have mastered themselves, and who are dedicated to the well-being of all living beings.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Expands the portrait of brahmanirvāṇa to include a social dimension: the seers who attain it are not withdrawn recluses but beings whose mastery is inseparable from their dedication to the welfare of all — linking liberation with universal compassion.
+
 **Contemporary Relevance:** 'Service-Based Enlightenment.' True wisdom is not selfish. The final markers of a 'realized' person are self-control and a genuine desire to help others. Personal freedom and social contribution are perfectly linked.
 
 **Neuroscience Perspective:** Wise people who 'delight in the welfare of all' have achieve 'neural compassion.' Their reward system is no longer 'individual' but 'systemic.' They get their dopamine from seeing the 'whole system' succeed, which is a far more stable and healthy motivation.

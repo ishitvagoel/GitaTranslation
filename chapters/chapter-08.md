@@ -367,7 +367,8 @@ Those men who know that the day of Brahmā lasts for a thousand *yugas*, and the
 
 **Simple Translation:** Those who understand that a day of the Creator (Brahma) lasts for thousands of ages, and his night lasts just as long, truly understand the nature of time.
 
-**Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Opens the section by establishing those who understand that a day of the Creator (Brahma) lasts for thousands of ages, and his night lasts just as long, truly understand the nature of time.
+**Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Grounds the claim that even Brahma's world cycles by giving the actual timescale: one Brahmic day equals a thousand *yugas*, making the entire arc of civilizational history a single cosmic breath — those who grasp this scale alone truly understand why no created world is a permanent refuge.
+
 **Contemporary Relevance:** Cosmic Perspective. When we are stressed about a 'deadline' or a 'bad year,' we should remember the massive scale of time. This verse encourages us to look at our problems through the lens of 'deep time,' which makes our immediate anxieties feel much smaller and more manageable.
 
 **Neuroscience Perspective:** The concept of 'Cosmic Days and Nights' is a lesson in 'temporal framing.' By expanding the brain's 'time-horizon' to billions of years, Krishna de-activates the 'emergency-response' circuits associated with short-term, superficial deadlines and stresses.
@@ -386,7 +387,8 @@ At the coming of day, all manifest things emerge from the unmanifest; at the com
 
 **Simple Translation:** At the start of the 'Day,' all visible things come from the invisible; at the start of 'Night,' they all dissolve back into the same invisible source.
 
-**Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Advances the argument: At the start of the 'Day,' all visible things come from the invisible; at the start of 'Night,' they all dissolve back into the same invisible source.
+**Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Describes the mechanism of the cosmic cycle: all manifest existence emerges from the unmanifest at cosmic dawn and dissolves back into it at cosmic dusk — establishing that the visible world is inherently impermanent, having an invisible source as both its origin and its destination.
+
 **Contemporary Relevance:** The Rhythm of Creation. Everything has an 'on' phase and an 'off' phase. Projects begin and end; industries rise and fall. Understanding this natural 'breath' of the universe helps us accept the endings of things as a natural preparation for the next beginning.
 
 **Neuroscience Perspective:** Creation and dissolution from the 'Invisible' describe 'Information Theory' in physics. Visible matter is just a temporary 'encoding' of information from an underlying, non-material source. Understanding this prevents the brain from over-identifying with physical forms.
@@ -405,7 +407,8 @@ This very same multitude of beings, repeatedly coming into existence, dissolves 
 
 **Simple Translation:** This same multitude of beings appears over and over again, and dissolves helplessly when 'Night' falls, only to emerge again when 'Day' returns, Arjuna.
 
-**Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Closes the section with this same multitude of beings appears over and over again, and dissolves helplessly when 'Night' falls, only to emerge again when 'Day' returns, Arjuna, completing the argument's arc.
+**Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Emphasizes the involuntary nature of the cycle: beings do not choose to re-emerge — they are helplessly swept out at dawn and swept back at dusk, cycling without agency or awareness — the word *avaśaḥ* ("helpless") making the case that only liberation from the cycle, not achievement within it, is a genuine goal.
+
 **Contemporary Relevance:** The Pattern of Habit. Without wisdom, we are 'helplessly' reborn into our same old patterns and habits. We repeat the same stories because we haven't learned the 'First Principles' that allow us to break free from the mechanical cycles of nature.
 
 **Neuroscience Perspective:** Repetitive patterns 'appearing helplessly' describe 'mechanical conditioning.' Without the 'Yoga of awareness,' the brain is a slave to its own previous programming (Karma). Wisdom is the 'interrupt signal' that allows for the creation of new, free patterns.
@@ -424,7 +427,8 @@ But higher than that unmanifest is another eternal unmanifest state of being, wh
 
 **Simple Translation:** But beyond that invisible source, there is another eternal and truly invisible state that does not perish even when every other being perishes.
 
-**Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Opens the section by establishing but beyond that invisible source, there is another eternal and truly invisible state that does not perish even when every other being perishes.
+**Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Introduces a second, higher unmanifest that is ontologically distinct from the cosmic unmanifest into which beings dissolve during Brahma's night — this supreme, eternal state stands entirely outside the cycle, providing the positive alternative to the helpless repetition just described.
+
 **Contemporary Relevance:** The Absolute Foundation. Behind the 'changing' world and even behind the 'rhythms' of time, there is a constant Truth that never changes. Identifying with *this* constant provides the ultimate security that no global crisis or personal loss can touch.
 
 **Neuroscience Perspective:** The 'eternal invisible state' describes the 'Source-Context' of reality. Neurally, this provides an 'ultimate baseline' for identity. Even when every specific thought and object (the perishable) is gone, the underlying Context (the Absolute) remains.
@@ -445,7 +449,8 @@ That unmanifest is called the imperishable; they call it the supreme goal. That 
 
 **Simple Translation:** That unchanging state is called 'imperishable' and is the highest goal. That is my supreme home; those who reach it never have to return to the world of sorrow.
 
-**Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Advances the argument: That unchanging state is called 'imperishable' and is the highest goal.
+**Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Names the supreme state with its traditional designation — *akṣara*, the imperishable — and identifies it explicitly as the *paramā gati*, the highest goal, establishing that the path described throughout the chapter has this as its terminus rather than any intermediate heaven.
+
 **Contemporary Relevance:** The Permanent Upgrade. Most of our 'wins' in life are temporary. This verse describes a 'permanent upgrade' to your state of being. Once you have reached this level of clarity and peace, you never 'backslide' into your old, confused self.
 
 **Neuroscience Perspective:** The 'Permanent Upgrade' to the state of no-return describes 'irreversible neuro-optimization.' Once the brain has fully integrated the First Principles of reality, it cannot 'un-know' them. Its 'default state' has been permanently elevated beyond confusion.
@@ -464,7 +469,8 @@ That is the supreme Spirit (*puruṣa*), O Pārtha, to be attained by undivided 
 
 **Simple Translation:** That supreme Spirit, Arjuna, can be reached through undivided devotion. All beings live within it, and it spreads through everything.
 
-**Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Closes the section with that supreme Spirit, Arjuna, can be reached through undivided devotion, completing the argument's arc.
+**Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Closes the cosmic description by naming the access route: undivided devotion (*ananyayā bhakti*) is the method by which the boundless Supreme — within whom all beings dwell — can be reached, reconnecting the grand ontology back to the personal practice of chapters 8.5–8.14.
+
 **Contemporary Relevance:** The Inclusivity of Truth. The highest Truth is not 'exclusive'; it is the very environment we live in. Reaching it is not about 'going' somewhere else, but about removing the 'divisions' in our own mind through total commitment (devotion).
 
 **Neuroscience Perspective:** Divided minds cannot see the 'Unified Spirit.' Undivided devotion is 'maximal attentional coherence.' When all neural resources are directed toward the 'Context' (the Spirit) rather than the 'Content' (beings), the Truth becomes obvious and all-pervading.

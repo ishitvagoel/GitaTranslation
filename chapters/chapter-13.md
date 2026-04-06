@@ -214,7 +214,8 @@ Unswerving devotion to Me through the yoga of non-separation, resorting to solit
 
 **Simple Translation:** ...unswerving devotion to Me, preferring quiet places, and not seeking the constant company of crowds...
 
-**Argument Arc:** *True Knowledge — 20 Qualities (13.7–13.11)* — Advances the argument: ...unswerving devotion to Me, preferring quiet places, and not seeking the constant company of crowds.
+**Argument Arc:** *True Knowledge — 20 Qualities (13.7–13.11)* — Adds devotional orientation and the deliberate retreat from crowd-driven distraction, showing that the knower cultivates a directional relationship with the Absolute as part of knowledge itself.
+
 **Contemporary Relevance:** The Power of Focus and Solitude. Constant noise and social pressure prevent deep thinking. Finding time for solitude and focusing on the ultimate Truth (devotion) allows your mind to settle and your true intelligence to emerge.
 
 **Neuroscience Perspective:** Preference for 'solitude' and 'quiet places' reflects 'informational filtering.' To reach the highest state of integration, the brain must regularly disconnect from 'social noise' and 'crowd-pressure' to strengthen its own internal 'True North' through meditation.
@@ -233,7 +234,8 @@ Constancy in the knowledge of the supreme self, and insight into the purpose of 
 
 **Simple Translation:** ...constant focus on the knowledge of the Self and understanding the purpose of knowing the truth—this is what I call Knowledge. Everything else is ignorance.
 
-**Argument Arc:** *True Knowledge — 20 Qualities (13.7–13.11)* — Closes the section with ...constant focus on the knowledge of the Self and understanding the purpose of knowing the truth—this is what I call Knowledge. E, completing the argument's arc.
+**Argument Arc:** *True Knowledge — 20 Qualities (13.7–13.11)* — Closes the portrait of the knower by defining Knowledge precisely: only sustained inquiry into the Self directed toward ultimate understanding counts; everything else Krishna labels ignorance.
+
 **Contemporary Relevance:** Defining True Knowledge. Most 'information' is just data. True Knowledge is only that which leads to self-mastery and an understanding of the ultimate purpose of life. If your 'learning' doesn't make you a better, calmer person, it might just be 'sophisticated ignorance.'
 
 **Neuroscience Perspective:** Constant focus on 'Self-Knowledge' is the First Principle of 'Cognitive ROI.' Most information is 'depreciating data.' Self-knowledge is an 'appreciating asset' that increases your effectiveness in every other area of life. Everything else is 'ignorance' because it doesn't lead to freedom.
@@ -254,7 +256,8 @@ I shall declare that which is to be known, knowing which one tastes immortality:
 
 **Simple Translation:** I will now tell you what is to be known, which leads to immortality: the beginningless Absolute (Brahman), which is beyond both 'existing' and 'not existing.'
 
-**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Opens the section by establishing I will now tell you what is to be known, which leads to immortality: the beginningless Absolute (Brahman), which is beyond both 'existing' and 'not existing.
+**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Pivots from the knower's character portrait to the ultimate object of that knowledge: brahman, described as beginningless and beyond the categories of being and non-being, thereby setting the horizon toward which all the preceding virtues are oriented.
+
 **Contemporary Relevance:** The Transcendental Goal. The highest truth is so fundamental that it cannot be labeled with simple categories like 'is' or 'is not.' It is the 'source' of both. Understanding this takes you beyond the limitations of time and temporary existence.
 
 **Neuroscience Perspective:** The 'Absolute' being beyond 'existing and not existing' describes 'non-binary reality.' Neurally, the highest Truth cannot be captured by simple 'on/off' or 'true/false' labels. It is the 'Context' that makes both possible. Grasping this takes the brain beyond the limits of dualistic logic.
@@ -273,7 +276,8 @@ With hands and feet everywhere, with eyes, heads, and mouths everywhere, with ea
 
 **Simple Translation:** That Absolute has hands, feet, eyes, heads, and mouths everywhere. It exists in the world by surrounding and filling everything.
 
-**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Advances the argument: That Absolute has hands, feet, eyes, heads, and mouths everywhere.
+**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Describes brahman's omnipresence through the image of an all-limbed, all-sensing reality, establishing that it is not a remote abstraction but an all-pervading presence active in every point of the manifest world.
+
 **Contemporary Relevance:** Total Connectivity. Think of the Absolute as the 'Field' of Quantum Physics or the 'Internet' of life. It is present in every point of space and every action. You are never 'alone' or 'separate' from the source of the universe.
 
 **Neuroscience Perspective:** The Absolute having 'hands and eyes everywhere' describes 'omni-situational awareness.' Neurally, this is the recognition that the universal laws of reality are active at every point in space and time. You are always within the 'Total Field' of Truth.
@@ -292,7 +296,8 @@ Shining with the functions of all the senses, yet devoid of all the senses; unat
 
 **Simple Translation:** It seems to have the qualities of all the senses, yet it has no senses. It is unattached, yet it supports everything. It has no qualities, yet it experiences all qualities.
 
-**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Advances the argument: It seems to have the qualities of all the senses, yet it has no senses.
+**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Deepens the paradox of brahman: it illuminates every sensory quality yet is itself beyond the senses, sustaining all while remaining unattached, having no guṇas yet experiencing them — a cluster of self-contradictions that together signal transcendence.
+
 **Contemporary Relevance:** The Paradox of the Absolute. Truth is the 'silent background' that makes all 'foreground noise' possible. It supports your senses without being a sense itself. Recognizing this 'silent support' provides a deep sense of security and detachment.
 
 **Neuroscience Perspective:** Having 'no senses' but 'experiencing all qualities' describes 'transcendental integration.' The Absolute is the 'Hardware-independent Software' of the universe. It supports the sensory experience without being limited by the specific biological 'sensors' used to perceive it.
@@ -311,7 +316,8 @@ Outside and inside all beings, unmoving and also moving; incomprehensible becaus
 
 **Simple Translation:** It is both outside and inside all beings. It is both unmoving and moving. It is too subtle to be seen. It is far away, yet it is right here.
 
-**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Advances the argument: It is both outside and inside all beings.
+**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Intensifies the paradox of brahman's location: simultaneously inside and outside every being, both still and moving, far and near — its very elusiveness to ordinary perception is what marks its transcendence of spatial category.
+
 **Contemporary Relevance:** The Nearness of Truth. We often look for the meaning of life 'out there.' Krishna says it is closer than your own breath, yet further than the stars. Its 'subtlety' means you can't find it with your eyes, only with a quiet and refined mind.
 
 **Neuroscience Perspective:** Being 'outside and inside, unmoving and moving' describes 'scalar-invariance.' Truth is the same at the 'atomic' level (inside) and the 'galactic' level (outside). This 'subtlety' means it can only be detected by a brain that has been refined through discipline.

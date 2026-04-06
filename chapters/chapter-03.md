@@ -756,7 +756,8 @@ Then by what is a man impelled to perform evil, even against his will, O Vārṣ
 
 **Simple Translation:** Arjuna asked: Krishna, what is it that forces a person to do wrong things, even when they don't want to? It feels like they are being pushed by some invisible power.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Opens the section by establishing arjuna asked: Krishna, what is it that forces a person to do wrong things, even when they don't want to?.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Opens the section by posing the chapter's deepest question: if wisdom and svadharma provide the correct framework, what force overrides even the unwilling and compels wrong action? Arjuna's question demands a causal explanation, not just moral instruction — and this demand drives the section's systematic anatomization of desire.
+
 **Contemporary Relevance:** The mystery of self-sabotage. Why do we procrastinate, eat junk food, or lose our tempers even when we know better? Arjuna is asking about the biological and psychological 'glitches' that make us act against our own best interests.
 
 **Neuroscience Perspective:** Arjuna’s question about 'what forces a man to do wrong' is an inquiry into the 'mechanics of self-sabotage.' He is asking about the biological 'overrides' that make us act against our own prefrontal logic.
@@ -778,7 +779,8 @@ It is desire (*kāma*), it is anger (*krodha*), born of the quality of passion (
 
 **Simple Translation:** The Blessed Lord said: It is selfish desire and anger, which come from the quality of passion. This is the 'all-devouring enemy' that causes all the trouble in the world.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Advances the argument: The Blessed Lord said: It is selfish desire and anger, which come from the quality of passion.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Answers Arjuna's question with clinical precision: the force that compels wrong action is kāma (desire) and krodha (anger), both born of rajas. By naming the enemy and locating it within the guṇa-framework established throughout the chapter, Krishna converts a felt mystery into an identifiable, and therefore manageable, force.
+
 **Contemporary Relevance:** The source of suffering. Desire (I want this!) and its shadow, Anger (I didn't get what I wanted!), are the two forces that cloud our judgment. They are 'all-devouring' because they can never be satisfied—the more you feed them, the hungrier they get. Identifying them as the 'enemy' is the first step to controlling them.
 
 **Neuroscience Perspective:** Desire and Anger are identified as 'insatiable enemies.' These represent the 'over-active limbic system' (craving and reactivity). Because they are 'all-devouring,' feeding them only makes them stronger. Identifying them as 'external enemies' helps the brain distance itself from these urges.
@@ -797,7 +799,8 @@ As fire is covered by smoke, as a mirror by dust, as an embryo is covered by the
 
 **Simple Translation:** Just as smoke covers fire, dust covers a mirror, and a membrane covers a baby in the womb, our true knowledge is covered and hidden by selfish desire.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Advances the argument: Just as smoke covers fire, dust covers a mirror, and a membrane covers a baby in the womb, our true knowledge is covered and hidden by selfish desire.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Explains the mechanism by which desire compels wrong action: it covers knowledge. The three analogies — smoke on fire, dust on mirror, membrane on embryo — describe different degrees of obscuration, each illustrating that the underlying reality (knowledge, wisdom, Self) remains intact but hidden. This is why even the well-intentioned person acts wrongly.
+
 **Contemporary Relevance:** The 'clouding' of the mind. We are all inherently wise, but our 'vision' is blurred by our cravings and biases. When we are obsessed with getting something, we can't see the reality of the situation clearly. We need to 'wipe the mirror' of our mind to see the truth.
 
 **Neuroscience Perspective:** The metaphors of 'smoke, dust, and membrane' describe 'signal degradation.' Desire acts as 'noise' that covers the 'signal' of our true wisdom. To see the truth, we must 'clean' the interface of our senses and mind.
@@ -816,7 +819,8 @@ Knowledge is covered, O son of Kuntī, by this eternal enemy of the wise, which 
 
 **Simple Translation:** Arjuna, this insatiable fire of desire is the constant enemy of the wise. It covers up their wisdom and is never satisfied.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Advances the argument: Arjuna, this insatiable fire of desire is the constant enemy of the wise.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Sharpens the characterization of the enemy: it is specifically kāma that covers knowledge, and it is insatiable — an unquenchable fire that persists even in the wise. This prevents any complacency; the enemy does not disappear with partial awakening but must be actively countered.
+
 **Contemporary Relevance:** The treadmill of 'More.' Desire is like a fire—the more fuel you give it, the hotter it burns. In modern consumer culture, we are taught that 'more' will make us happy, but Krishna warns that this is a trap that only leads to more craving and less clarity.
 
 **Neuroscience Perspective:** Desire as an 'insatiable fire' describes the 'hedonic treadmill.' Neurally, the more you satisfy a craving, the more the 'reward-threshold' increases, requiring even more stimulus to feel happy. This is a First Principle of 'Addiction.'
@@ -835,7 +839,8 @@ The senses, the mind, and the intellect are said to be its seat. By these, it de
 
 **Simple Translation:** Desire lives in the senses, the mind, and the intellect. Using these as its base, it confuses the soul and hides its true knowledge.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Advances the argument: Desire lives in the senses, the mind, and the intellect.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Maps the enemy's territory within the human system: desire is entrenched at every level — senses, mind, and intellect — using each to delude the embodied soul from within. This anatomical mapping explains why surface-level restraint fails: if desire occupies all three cognitive faculties, attacking only one leaves the others intact.
+
 **Contemporary Relevance:** The 'hijacked' brain. Our biological tools (senses, mind, intellect) are meant to serve us, but desire 'hijacks' them. Our senses crave things, our mind obsesses over them, and our intellect justifies them. Understanding *where* the enemy lives helps us guard our internal 'territory.'
 
 **Neuroscience Perspective:** The 'seats of desire' (senses, mind, intellect) show how desire 'hijacks' the whole system. It uses our basic inputs (senses), our emotions (mind), and our logic (intellect) to serve its own ends. Self-mastery requires 'reclaiming' these three territories.
@@ -854,7 +859,8 @@ Therefore, first controlling the senses, O best of the Bharatas, slay this evil 
 
 **Simple Translation:** Therefore, Arjuna, first control your senses and destroy this evil desire, which is the destroyer of both theoretical knowledge and practical experience.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Advances the argument: Therefore, Arjuna, first control your senses and destroy this evil desire, which is the destroyer of both theoretical knowledge and practical experience.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Converts the anatomical analysis of 3.40 into a battle strategy: because desire begins in the senses, the senses are the first front of engagement. The verse's emphasis on "first" (ādau) establishes a hierarchical sequence — sense control must precede any attempt to address desire at deeper levels of mind and intellect.
+
 **Contemporary Relevance:** The importance of 'impulse control.' To achieve anything significant, we must first learn to say 'no' to our immediate sensory urges. If we can't control our basic impulses, we will never have the clarity needed to gain deep knowledge or achieve real-world results.
 
 **Neuroscience Perspective:** Controlling the senses 'first' is the First Principle of 'impulse management.' You cannot have higher realization (Vijnana) if your 'inputs' are constantly being stolen by temporary cravings. Self-control is the prerequisite for all high-level cognitive function.

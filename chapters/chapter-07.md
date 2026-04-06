@@ -313,7 +313,8 @@ The evil-doers, the deluded, and the lowest of men do not take refuge in Me; the
 
 **Simple Translation:** Those who do bad things, who are foolish, and who are the lowest among humans do not seek Me. Their wisdom has been stolen by illusion, and they have taken on a destructive (demonic) nature.
 
-**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Closes the section with those who do bad things, who are foolish, and who are the lowest among humans do not seek Me, completing the argument's arc.
+**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Closes the section by identifying those whose knowledge māyā has fully consumed: unable to seek refuge, they default into a destructive orientation — the logical endpoint of unchecked delusion.
+
 **Contemporary Relevance:** "The Loss of Moral Compass." When someone becomes obsessed with ego, power, or greed, their "wisdom is stolen." They start seeing the world in a destructive way. This is a warning that ignoring the First Principles of truth leads to a miserable and "demonic" state of existence.
 
 **Neuroscience Perspective:** The 'stolen knowledge' of evil-doers describes 'cognitive corruption' by the ego. When the amygdala (greed/fear) takes over, it 'shuts down' the prefrontal cortex's access to First Principles, leading to a state of 'functional ignorance' and destructive behavior.
@@ -332,7 +333,8 @@ Four kinds of virtuous men worship Me, Arjuna: the distressed, the seeker of kno
 
 **Simple Translation:** Four types of good people seek Me, Arjuna: those in distress, those who want knowledge, those who want success/wealth, and those who already have wisdom.
 
-**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Opens the section by establishing four types of good people seek Me, Arjuna: those in distress, those who want knowledge, those who want success/wealth, and those who already have wisdom.
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Opens the section by introducing a typology of seekers: not all who approach the Absolute do so from the same motivation, yet all four types are virtuous — the section will distinguish better from best.
+
 **Contemporary Relevance:** "Why we Seek Truth." We all have different motivations for seeking a higher purpose. Whether you are in a crisis (distress), curious (seeker of knowledge), ambitious (seeker of wealth), or already dedicated (wise), you are on the right path. It acknowledges that everyone starts from where they are.
 
 **Neuroscience Perspective:** The four types of seekers (distressed, knowledge-seeker, wealth-seeker, wise) recognize that different 'neural needs' can lead to the same Truth. Whether driven by 'pain-reduction,' 'pattern-seeking,' 'reward-seeking,' or 'pure realization,' the brain is moving toward optimization.
@@ -351,7 +353,8 @@ Of them, the man of knowledge, ever-disciplined and devoted to the One, excels. 
 
 **Simple Translation:** Among them, the wise person who is always disciplined and devoted to the One Truth is the most outstanding. I am very dear to such a person, and they are very dear to Me.
 
-**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Advances the argument: Among them, the wise person who is always disciplined and devoted to the One Truth is the most outstanding.
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Advances the argument by elevating the jñānī above the other three: unlike the distressed or ambitious seeker, the wise person seeks the Absolute for its own sake, making devotion reciprocal — Krishna is dear to him, and he is dear to Krishna.
+
 **Contemporary Relevance:** "The Power of Pure Devotion." While all seekers are good, the one who seeks the Truth for its own sake—without wanting wealth or a "fix" for their problems—is the most effective. This "pure" focus creates a powerful, reciprocal relationship with reality.
 
 **Neuroscience Perspective:** The wise person 'ever-disciplined and devoted to the One' has achieve 'neural integration.' By focusing 100% on a single, supreme goal, the brain eliminates all internal conflict and moves into a state of 'total coherence' and unshakeable clarity.
@@ -370,7 +373,8 @@ Noble are all these indeed, but the man of knowledge I consider to be My very se
 
 **Simple Translation:** All of these are indeed noble, but I consider the wise person to be My very self. Being disciplined, they are firmly established in Me as their highest goal.
 
-**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Advances the argument: All of these are indeed noble, but I consider the wise person to be My very self.
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Deepens the elevation of the jñānī from "most dear" to virtual identity with Krishna himself: the self-surrendered wise person does not merely love the Absolute — he becomes its expression.
+
 **Contemporary Relevance:** "Oneness with the Principle." When you fully understand and live by the Truth, you are no longer separate from it. You *become* an expression of that Truth. This is the ultimate "First Principle" of identity—shifting from "I am this person" to "I am an expression of the Absolute."
 
 **Neuroscience Perspective:** The wise as 'My very self' describes 'identity-convergence.' When your brain’s 'model of reality' perfectly matches the 'Truth of reality,' there is no longer any difference between 'you' and 'the Truth.' You become an autonomous expression of the universal law.
@@ -389,7 +393,8 @@ At the end of many births, the man of knowledge takes refuge in Me, [realizing t
 
 **Simple Translation:** After many lifetimes of learning, the wise person finally realizes that "The Absolute (Vasudeva) is everything" and seeks refuge in Me. Such a great soul is very rare.
 
-**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Closes the section with after many lifetimes of learning, the wise person finally realizes that "The Absolute (Vasudeva) is everything" and seeks refuge in Me, completing the argument's arc.
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Closes the section with the final synthesis of the jñānī's journey: after countless lifetimes, the wise person arrives at the realization that "Vāsudeva is all" — a completion that mirrors 7.1's opening promise of total knowledge.
+
 **Contemporary Relevance:** "The Ultimate Synthesis." This is the peak of philosophy. "Everything is One." Once you realize that every atom, every person, and every event is part of the same Absolute Reality, your search is over. You have reached the final "First Principle."
 
 **Neuroscience Perspective:** Realizing 'Vasudeva is all' is the ultimate 'unification of the world-model.' The brain no longer perceives any fundamental boundaries between 'self' and 'other,' or 'subject' and 'object.' This is the state of 'non-dual awareness' and the end of all internal friction.
@@ -410,7 +415,8 @@ Those whose knowledge has been carried away by various desires resort to other g
 
 **Simple Translation:** Those whose wisdom is stolen by various cravings seek out other "gods" (lesser goals), following different rules and restricted by their own limited nature.
 
-**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Opens the section by establishing those whose wisdom is stolen by various cravings seek out other "gods" (lesser goals), following different rules and restricted by their own limited nature.
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Opens the section by diagnosing why beings turn to lesser objects of worship: desire hijacks wisdom, and one's own constrained nature shapes the direction of one's faith — contrasting the free jñānī of the previous section.
+
 **Contemporary Relevance:** "Chasing Proxies." We often chase "lesser gods"—money, fame, comfort—thinking they will give us what only the Truth can. We are "constrained by our nature" because we follow these superficial cravings instead of our deepest purpose. This is a call to look for the "Real Thing" instead of its substitutes.
 
 **Neuroscience Perspective:** Chasing 'other gods' (lesser goals) is a form of 'attention-fragmentation.' When the brain follows superficial cravings, it is constantly 'switching contexts' and following weak reward-signals, which prevents the deep integration needed for real satisfaction.
@@ -429,7 +435,8 @@ Whatever form a devotee wishes to worship with faith, I make that very faith of 
 
 **Simple Translation:** Whatever form a person chooses to trust and follow with faith, I strengthen that faith and make it steady.
 
-**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Advances the argument: Whatever form a person chooses to trust and follow with faith, I strengthen that faith and make it steady.
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Makes a surprising turn: even misdirected faith flows through Krishna, who steadies it — establishing that all sincere worship is ontologically valid, even if spiritually limited.
+
 **Contemporary Relevance:** "The Power of Conviction." The universe supports your level of commitment. If you are 100% committed to a goal or a belief, you will find the strength to stay with it. This is a reminder that the *quality* of your commitment is what creates results, even if you are starting with a partial understanding.
 
 **Neuroscience Perspective:** The 'strengthening of faith' in whatever form chosen is a principle of 'neural commitment.' The universe (the laws of reality) reinforces whatever direction you focus on. Your 100% commitment creates its own neural momentum, regardless of the starting symbol.

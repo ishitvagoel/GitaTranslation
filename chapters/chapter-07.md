@@ -313,7 +313,7 @@ The evil-doers, the deluded, and the lowest of men do not take refuge in Me; the
 
 **Simple Translation:** Those who do bad things, who are foolish, and who are the lowest among humans do not seek Me. Their wisdom has been stolen by illusion, and they have taken on a destructive (demonic) nature.
 
-**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Closes the section by identifying those whose knowledge māyā has fully consumed: unable to seek refuge, they default into a destructive orientation — the logical endpoint of unchecked delusion.
+**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Completes the section by identifying those whose knowledge māyā has fully consumed: unable to seek refuge, they default into a destructive orientation — the logical endpoint of unchecked delusion.
 
 **Contemporary Relevance:** "The Loss of Moral Compass." When someone becomes obsessed with ego, power, or greed, their "wisdom is stolen." They start seeing the world in a destructive way. This is a warning that ignoring the First Principles of truth leads to a miserable and "demonic" state of existence.
 
@@ -393,7 +393,7 @@ At the end of many births, the man of knowledge takes refuge in Me, [realizing t
 
 **Simple Translation:** After many lifetimes of learning, the wise person finally realizes that "The Absolute (Vasudeva) is everything" and seeks refuge in Me. Such a great soul is very rare.
 
-**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Closes the section with the final synthesis of the jñānī's journey: after countless lifetimes, the wise person arrives at the realization that "Vāsudeva is all" — a completion that mirrors 7.1's opening promise of total knowledge.
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Brings the section to its culmination with the jñānī's final realization: after countless lifetimes, the wise person arrives at the insight that "Vāsudeva is all" — a completion that mirrors 7.1's opening promise of total knowledge.
 
 **Contemporary Relevance:** "The Ultimate Synthesis." This is the peak of philosophy. "Everything is One." Once you realize that every atom, every person, and every event is part of the same Absolute Reality, your search is over. You have reached the final "First Principle."
 
@@ -455,7 +455,8 @@ Endowed with that faith, he engages in the worship of that form, and from it he 
 
 **Simple Translation:** Armed with that faith, they work toward their goal and eventually get what they want. But in reality, those results are provided by Me (the laws of the Absolute) alone.
 
-**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Advances the argument: Armed with that faith, they work toward their goal and eventually get what they want.
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Presses the argument further: the worshipper of lesser forms does obtain results, but those results are ultimately dispensed by Krishna — the lesser god is a conduit, not a true source.
+
 **Contemporary Relevance:** "The Source of Results." You might think your success came from a specific person, a lucky break, or a specific tool. But Krishna points out that all results are governed by the fundamental laws of the universe. Recognizing the "True Source" of your success keeps you grounded and prevents you from becoming dependent on temporary tools or people.
 
 **Neuroscience Perspective:** Obtaining desires that are 'dispensed by Me alone' describes 'environmental causality.' You may think your 'specific god' or 'specific boss' gave you a reward, but neurally, you are just seeing the results of universal laws acting on your own efforts. Success is always systemic.
@@ -474,7 +475,8 @@ But temporary is the fruit belonging to those men of small understanding. The wo
 
 **Simple Translation:** But the rewards gained by people of small understanding are temporary. Those who seek lesser things get lesser things; but those who seek Me (the Absolute) reach Me.
 
-**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Closes the section with but the rewards gained by people of small understanding are temporary, completing the argument's arc.
+**Argument Arc:** *Worship of Lesser Gods (7.20–7.23)* — Closes by naming the decisive difference: the worshippers of lesser gods reach those gods, and their fruits are finite; only the devotees of Krishna reach Krishna — the permanent reality behind all temporary rewards.
+
 **Contemporary Relevance:** "Temporary vs. Permanent Success." Most people work for rewards that don't last (money, praise, status). Krishna calls this "small understanding." Real success is achieving a state of being (reaching Me) that is permanent and independent of external conditions. Aim for the "Infinite," not the "Finite."
 
 **Neuroscience Perspective:** The 'temporary fruits' of small understand describe 'short-term reward cycles.' Chasing temporary material goals keeps the brain in a state of 'constant hunting.' Seeking the Absolute provides a 'terminal reward' that is permanent and self-sustaining.
@@ -493,7 +495,8 @@ The unintelligent think of Me — the unmanifest — as having come into manifes
 
 **Simple Translation:** Unintelligent people think that I—the invisible and infinite—have just become a visible person. They do not know my higher nature, which is eternal and supreme.
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Opens the section by establishing unintelligent people think that I—the invisible and infinite—have just become a visible person.
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Opens the final section by naming the primary error: the unintelligent mistake the manifest form for the totality of Krishna, failing to recognize the imperishable unmanifest nature that transcends any visible appearance.
+
 **Contemporary Relevance:** "Past the Surface." Don't mistake the "symbol" for the "reality." In every situation, there is a visible part (the person, the event) and an invisible part (the underlying principles and truth). Intelligence means seeing the "Infinite" behind the "Finite."
 
 **Neuroscience Perspective:** Mistaking the 'unmanifest' for the 'manifest' is a 'category error' in the brain. It's the error of thinking that 'Truth' is just another 'Object' or 'Person.' Real intelligence sees the 'Infinite Context' behind every 'Finite Form.'
@@ -512,7 +515,8 @@ Concealed by My creative illusion (*yogamāyā*), I am not revealed to all. This
 
 **Simple Translation:** I am not visible to everyone, as I am hidden by my own creative power. This confused world does not recognize Me as the unborn and unchanging source.
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: I am not visible to everyone, as I am hidden by my own creative power.
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Explains why the error of 7.24 is so widespread: yogamāyā actively conceals the full reality, so the world's failure to recognize the unborn, imperishable ground is not accidental but a structural feature of manifestation itself.
+
 **Contemporary Relevance:** "The Hidden Truth." The deepest truths of life are not "obvious." They are hidden in plain sight, behind the "noise" of the world. Understanding requires a level of focus and sincerity that most people don't have. Truth is a "private revelation" for those who are ready to see it.
 
 **Neuroscience Perspective:** Truth being 'hidden by creative illusion' reflects the 'filter-mechanics' of the brain. The brain is evolutionarily designed to see 'useful survival objects,' not the 'underlying Absolute Truth.' Seeing the Truth requires a conscious effort to look beyond these survival filters.
@@ -531,7 +535,8 @@ I know the beings that are past, that are present, and that are to come, Arjuna;
 
 **Simple Translation:** I know everything that has happened, everything that is happening now, and everything that will happen in the future, Arjuna. But no one truly knows Me.
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: I know everything that has happened, everything that is happening now, and everything that will happen in the future, Arjuna.
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Establishes the radical asymmetry at the heart of the chapter's closing argument: Krishna comprehends all beings across all time, yet no being comprehends Krishna — this epistemic gap is the signature of the unmanifest's transcendence.
+
 **Contemporary Relevance:** "The Asymmetry of Knowledge." The Absolute Laws of reality know everything about us (our biology, our history, our potential). But we know very little about those Laws. Wisdom is the attempt to bridge this gap—to learn the Laws that already govern our existence.
 
 **Neuroscience Perspective:** The 'asymmetry of knowledge' describes the relationship between 'The System' and 'The Unit.' The universal laws (Krishna) know all data-points (past, present, future), but the individual brain (the unit) can only see a tiny fraction of that data. Wisdom is learning to trust the System's logic.
@@ -550,7 +555,8 @@ By the delusion of the dualities arising from desire and hatred, O Bhārata, all
 
 **Simple Translation:** From the very moment of birth, all beings are confused by the delusion of opposites (like/dislike) that comes from desire and hatred.
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: From the very moment of birth, all beings are confused by the delusion of opposites (like/dislike) that comes from desire and hatred.
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Identifies the psychological mechanism behind the cosmic ignorance of 7.25–7.26: desire and hatred generate the experience of duality, and this duality-confusion begins at birth, making the veil nearly universal.
+
 **Contemporary Relevance:** "The Bias of Duality." We are "born" into a world of "Us vs. Them," "Good vs. Bad," and "Win vs. Loss." This binary thinking is the source of all our confusion and conflict. Rising above these "dualities" is the only way to see the objective truth of any situation.
 
 **Neuroscience Perspective:** Bewilderment by 'desire and hatred' describes the 'bias of valence.' We are born with an instinctive 'Like/Dislike' filter that distorts our view of reality. Rising above this 'duality' is the only way to see the objective data of the world without emotional interference.
@@ -569,7 +575,8 @@ But those men of virtuous deeds whose evil has come to an end — freed from the
 
 **Simple Translation:** But those good people who have stopped doing wrong things and whose negativity has ended are freed from the confusion of opposites. They focus on Me with steady determination.
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: But those good people who have stopped doing wrong things and whose negativity has ended are freed from the confusion of opposites.
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Introduces the first positive counterpoint to the section's diagnosis of cosmic ignorance: those who have exhausted their accumulated wrongdoing are freed from the duality-delusion described in 7.27, establishing that the path to seeing the unmanifest opens through the purification of action rather than through intellect alone.
+
 **Contemporary Relevance:** "Integrity creates Clarity." Doing the "right thing" (virtuous deeds) is not just about being "nice"; it's about cleaning your own lens. When you stop acting from ego and negativity, your mind stops being "bewildered" by conflict. A clean life leads to a clear mind.
 
 **Neuroscience Perspective:** Integrity leading to 'freedom from duality' highlights 'moral-cognitive cleaning.' By acting with virtue and ending 'negativity' (sin), you remove the 'emotional noise' that keeps your brain in a state of conflict and confusion. Integrity results in Clarity.
@@ -588,7 +595,8 @@ Those who strive for liberation from old age and death, taking refuge in Me, the
 
 **Simple Translation:** Those who seek freedom from the cycle of decay and death by seeking refuge in Me, come to know the full Truth (Brahman), the nature of the Self, and the complete logic of action (Karma).
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Advances the argument: Those who seek freedom from the cycle of decay and death by seeking refuge in Me, come to know the full Truth (Brahman), the nature of the Self, and the complete logic of action (Karma).
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Specifies what the freedom from duality of 7.28 actually delivers: those who seek refuge in Krishna with liberation as their aim gain simultaneous, total knowledge of Brahman, the self, and the entire field of action — showing that surrender to the unmanifest resolves the chapter's threefold subject in a single move.
+
 **Contemporary Relevance:** "Solving for the Root Cause." Most of our problems are "surface-level" symptoms of our mortality and ignorance. By "solving" for the highest Truth, you automatically get the answers to all the smaller questions—who you are, how the world works, and why we act.
 
 **Neuroscience Perspective:** Knowing the Absolute entirely by 'seeking refuge' describes 'holistic problem-solving.' By solving for the 'Highest Level' (Brahman), you automatically get the correct settings for the 'Intermediate Levels' (the self) and the 'Lower Levels' (action). Alignment starts at the top.
@@ -607,7 +615,8 @@ Those who know Me together with the domain of beings (*adhibhūta*), the domain 
 
 **Simple Translation:** Those who recognize Me in the physical world, in the cosmic powers, and in the act of contribution—they stay connected to the Truth even at the moment of death.
 
-**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Closes the section with those who recognize Me in the physical world, in the cosmic powers, and in the act of contribution—they stay connected to the Truth even at the moment of death, completing the argument's arc.
+**Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Closes both the section and the chapter by naming the ultimate proof of knowledge: those who recognize Krishna across the three domains — physical, cosmic, and sacrificial — retain that recognition even at death, answering 7.24's opening charge against those who mistake the manifest for the whole with the portrait of those who never do.
+
 **Contemporary Relevance:** "The Final Test." Real understanding is not just for "good times." It is most valuable when everything is being taken away (death). If your understanding of Truth is so deep that it stays with you even in a crisis, then you have truly mastered the science of life.
 
 **Neuroscience Perspective:** Knowing Me 'even at the time of death' is the ultimate test of 'neural durability.' If your model of the Truth is so robust that it can withstand the total collapse of your physical and sensory environment, then you have achieve 'Absolute Sovereignty' of mind.

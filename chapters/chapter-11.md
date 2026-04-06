@@ -167,7 +167,7 @@ But you are not able to see Me with this, your own eye. I give you a divine eye;
 
 **Simple Translation:** But you cannot see Me with your normal human eyes. I will give you a 'divine eye'; now behold My supreme power!
 
-**Argument Arc:** *Krishna Grants Divine Sight (11.5–11.8)* — Closes the section by resolving the epistemological problem the previous verses raised: ordinary sight cannot access this form, so Krishna grants the *divya cakṣu* — the divine eye — making the imminent vision an act of grace rather than personal achievement.
+**Argument Arc:** *Krishna Grants Divine Sight (11.5–11.8)* — Resolves the epistemological problem the previous verses raised: ordinary sight cannot access this form, so Krishna grants the *divya cakṣu* — the divine eye — making the imminent vision an act of grace rather than personal achievement.
 
 **Contemporary Relevance:** The Need for Better Tools. To see deeper truths, we need better 'lenses' (models, logic, awareness). You can't solve a complex problem with a simple mindset. The 'divine eye' represents the upgraded perception needed to grasp the true scale of reality.
 
@@ -787,7 +787,7 @@ Droṇa, Bhīṣma, Jayadratha, Karṇa, and also other warrior heroes, already 
 
 **Simple Translation:** Drona, Bhishma, Jayadratha, Karna, and all these other heroes have already been killed by Me. Do not be afraid! Fight, and you will certainly win!
 
-**Argument Arc:** *"I Am Time" (11.32–11.34)* — Closes the section by naming the specific enemies Arjuna dreads, declaring each already slain by Time, and commanding action without fear — translating the cosmic abstraction of 11.32 into a direct personal mandate that resolves the paralysis of Chapters 1–2.
+**Argument Arc:** *"I Am Time" (11.32–11.34)* — Names the specific enemies Arjuna dreads, declaring each already slain by Time, and commands action without fear — translating the cosmic abstraction of 11.32 into a direct personal mandate that resolves the paralysis of Chapters 1–2.
 
 **Contemporary Relevance:** Action after Acceptance. Once you accept that the 'Outcome' is already handled by the laws of reality (Time), you are free to act without fear. Confidence comes from knowing that you are just 'executing' a plan that is already in motion.
 
@@ -961,7 +961,8 @@ Thinking of You merely as a friend, whatever I said rashly — "O Kṛṣṇa! O
 
 **Simple Translation:** Thinking of You only as a friend, I have rashly called You 'Kṛṣṇa,' 'Yādava,' and 'Friend,' not knowing Your greatness, either because of my negligence or my affection.
 
-**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Advances the argument: Thinking of You only as a friend, I have rashly called You 'Kṛṣṇa,' 'Yādava,' and 'Friend,' not knowing Your greatness, either because of my negligence or my affection.
+**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Pivots from cosmic praise to intimate confession: Arjuna recalls the casual familiarity with which he addressed Krishna as friend, and the revelation of the cosmic form now renders that casualness a kind of sacrilege — the contrast between former ease and present terror is the heart of his apology.
+
 **Contemporary Relevance:** The Danger of Familiarity. We often treat great opportunities or deep truths with 'casual' disrespect because we have become too familiar with them. Arjuna's apology is a reminder to maintain 'Awe' and 'Respect' for the First Principles of life, even when we work with them every day.
 
 **Neuroscience Perspective:** Apologizing for 'negligent affection' reflects 're-calibration of status.' Arjuna realized he was treating the 'Universal Law' as a 'Casual Friend.' This is a lesson in maintaining 'Awe and Respect' for First Principles even in everyday life.
@@ -984,7 +985,8 @@ And whatever disrespect I have shown You for the sake of a joke, while playing, 
 
 **Simple Translation:** I have even joked about You or been disrespectful while we were playing, resting, or eating together. I beg Your forgiveness for all of that, O immeasurable One.
 
-**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Advances the argument: I have even joked about You or been disrespectful while we were playing, resting, or eating together.
+**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Extends the apology from words into conduct: the disrespect happened not only in speech but while resting, eating, joking, whether in private or public — covering every context of their shared life and making the request for forgiveness comprehensive.
+
 **Contemporary Relevance:** Integrity in the Mundane. Integrity is not just for 'big moments'; it’s for how we behave when we are 'resting or eating.' Arjuna realizes that even his 'small' behaviors should have been aligned with the greatness of the Truth he was with.
 
 **Neuroscience Perspective:** Disrespect while 'playing, resting, or eating' targets 'mundane integrity.' Real growth is not just for 'meditation'; it’s for how we behave in the 'small moments.' Arjuna’s apology is a commitment to 'total-life integrity.'
@@ -1009,7 +1011,8 @@ You are the father of the world, of the moving and the unmoving; You are its obj
 
 **Simple Translation:** You are the Father of the whole world, the most respected Teacher, and there is no one equal to You. How could anyone be greater than You in all the three worlds?
 
-**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Advances the argument: You are the Father of the whole world, the most respected Teacher, and there is no one equal to You.
+**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Establishes the theological case for why forgiveness is simultaneously impossible to demand and necessary to receive: no one is Krishna's equal or superior who could adjudicate the offense — he is the unmatched Father-Teacher of all worlds, and only he can grant the pardon Arjuna seeks.
+
 **Contemporary Relevance:** The Absolute Standard. The Truth is the 'Final Authority.' By recognizing that nothing can be 'greater' than the fundamental laws of reality, we stop looking for 'shortcuts' or 'exceptions' and start focusing on aligning with the Absolute standard.
 
 **Neuroscience Perspective:** The 'Absolute Standard' of Truth describes 'epistemic authority.' Neurally, realizing that nothing can be 'greater than the Laws of Reality' stops the brain from looking for 'shortcuts' or 'exceptions' and forces it to follow the path of Integrity.
@@ -1032,7 +1035,8 @@ Therefore, bowing down and prostrating my body, I seek grace from You, the prais
 
 **Simple Translation:** Therefore, I bow down and prostrate myself, seeking Your grace. As a father forgives a son, a friend a friend, or a lover a beloved—please forgive me and be kind.
 
-**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Advances the argument: Therefore, I bow down and prostrate myself, seeking Your grace.
+**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Translates theological argument into embodied supplication: having established Krishna's incomparable supremacy in 11.43, Arjuna now prostrates and invokes the intimate relational modes of father, friend, and lover as the only available frameworks for requesting mercy from the infinite.
+
 **Contemporary Relevance:** The Intimacy of the Absolute. Even though the Truth is 'Infinite' and 'Powerful,' Arjuna asks for a relationship that is as 'Intimate' as a father, friend, or lover. This is a beautiful First Principle: you can be 'one' with the infinite Truth in a way that is deeply personal and supportive.
 
 **Neuroscience Perspective:** Asking for 'intimacy' (like a father/friend/lover) describes 'relational integration.' Neurally, the 'Abstract Truth' is now being integrated with the 'Emotional Safety' circuits. This makes the Absolute not just a 'fact' to be known, but a 'presence' to be lived with.
@@ -1055,7 +1059,8 @@ I am thrilled having seen what was never seen before, yet my mind is trembling w
 
 **Simple Translation:** I am thrilled to have seen this vision that no one has ever seen before, but I am also shaking with fear. Please show me Your familiar form again, O Lord!
 
-**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Advances the argument: I am thrilled to have seen this vision that no one has ever seen before, but I am also shaking with fear.
+**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Captures the simultaneous coexistence of exhilaration and terror that defines the chapter's emotional climax: Arjuna holds both the thrill of unprecedented vision and the fear of the form in a single breath, then pleads for the return of the familiar face.
+
 **Contemporary Relevance:** The Human Limit. We can only handle the 'infinite' for so long. Arjuna’s request to see the 'familiar form' is an admission that we need 'human-scale' symbols and forms to function in our daily lives, even after we have understood the infinite Truth.
 
 **Neuroscience Perspective:** Shaking with fear at the 'Unseen' vision reflects 'human bandwidth limits.' Neurally, the raw, infinite Truth is 'too much data.' We need 'human-scale' symbols and forms to function effectively in our daily physical and social reality.
@@ -1078,7 +1083,8 @@ I wish to see You just as before, wearing a diadem, holding a mace, with a discu
 
 **Simple Translation:** I want to see You as before, with Your crown and mace and discus. Please assume Your gentle, four-armed form again, O thousand-armed Universal Form!
 
-**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Closes the section with I want to see You as before, with Your crown and mace and discus, completing the argument's arc.
+**Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Closes the plea by specifying the precise form requested — crown, mace, discus, four arms — demonstrating that Arjuna has not rejected the cosmic vision but has reached the limit of what the human perceptual apparatus can sustain, making the request an act of self-knowledge rather than cowardice.
+
 **Contemporary Relevance:** Seeking Manageable Truth. Total, raw reality is too much for the human brain. We need to 'package' our insights into manageable forms (like the four-armed Krishna) so we can actually use them to guide our actions in the world.
 
 **Neuroscience Perspective:** Seeking the 'gentle, four-armed form' is a request for 'usable representations.' The brain needs a 'managed interface' (like a GUI) to work with the underlying 'Source Code' (the Universal Form). The four-armed form is the 'optimized interface' for human use.
@@ -1104,7 +1110,8 @@ By My grace, Arjuna, this supreme form has been shown to you by My own mystic po
 
 **Simple Translation:** The Blessed Lord said: By My grace and through My own power, I have shown you this supreme, universal, and infinite form which no one else has ever seen.
 
-**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Opens the section by establishing the Blessed Lord said: By My grace and through My own power, I have shown you this supreme, universal, and infinite form which no one else has ever seen.
+**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Opens the withdrawal sequence by anchoring the vision's origin in grace (*prasāda*) rather than technique: the cosmic form was shown by Krishna's own yogic power and has never been granted to any other human — framing what follows as the responsible closure of an unrepeatable event.
+
 **Contemporary Relevance:** The Rarity of Direct Vision. A direct, full experience of reality ('Vijnana') is a rare gift. Krishna reminds Arjuna that this vision was a special 'grace,' highlighting the value of the experience Arjuna just had.
 
 **Neuroscience Perspective:** Vision as 'special grace' (prasāda) highlights the 'non-linear' nature of deep realization. Neurally, while effort is required, the final 'breakthrough' into total clarity often feels like an 'unexpected gift' from the system itself.
@@ -1127,7 +1134,8 @@ Not by the Vedas, nor by sacrifices, nor by study, nor by gifts, nor by rituals,
 
 **Simple Translation:** Arjuna, not through the study of scriptures, nor rituals, nor charity, nor difficult disciplines can I be seen in this form by anyone else in the human world.
 
-**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Advances the argument: Arjuna, not through the study of scriptures, nor rituals, nor charity, nor difficult disciplines can I be seen in this form by anyone else in the human world.
+**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Establishes the exclusivity of what Arjuna has just witnessed: no accumulation of orthodox religious effort — scriptural study, ritual, charity, austerity — could have produced this vision for anyone else, making Arjuna's experience an unrepeatable act of grace rather than an earned achievement.
+
 **Contemporary Relevance:** Experience over Ritual. You can't 'study' your way into a direct experience of Truth. Books and rituals are just preparation. The actual 'Vision' of reality comes from a different level of commitment and 'grace' that goes beyond external actions.
 
 **Neuroscience Perspective:** Scriptures and rituals being 'insufficient' for the vision highlights 'experience-based priority.' You can't 'read' your way into a change of state; only a radical 'shift in awareness' (granted by the system) can provide the direct vision of reality.
@@ -1150,7 +1158,8 @@ Let there be no fear for you, nor a state of bewildered mind, having seen this t
 
 **Simple Translation:** Do not be afraid or confused by seeing this terrifying form of Mine. Be free from fear, and with a happy heart, look at My familiar form once again.
 
-**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Advances the argument: Do not be afraid or confused by seeing this terrifying form of Mine.
+**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Shifts the section's emotional register from awe and terror toward restoration: Krishna actively addresses Arjuna's fear, instructing him to release his overwhelmed state and prepare to receive the familiar form — the cosmic vision served its purpose, and it must now be metabolized rather than endured.
+
 **Contemporary Relevance:** The Return to Calm. After the 'Shock of Truth,' there must be a 'Return to Action.' Krishna calms Arjuna so he can actually *use* what he learned. The goal of seeing the 'terrifying' truth is not to stay terrified, but to become fearless in the 'familiar' world.
 
 **Neuroscience Perspective:** Moving from 'fear' to 'happy heart' is the 'Return to Action.' The goal of seeing the 'terrifying' truth is not to stay paralyzed, but to gain the 'fearlessness' needed to return to the 'gentle' world and do your duty with total clarity.
@@ -1176,7 +1185,8 @@ Having spoken thus to Arjuna, Vāsudeva (Kṛṣṇa) showed his own [four-armed
 
 **Simple Translation:** Sanjaya said: After saying this, Krishna showed His own gentle form again, comforting the terrified Arjuna.
 
-**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Advances the argument: After saying this, Krishna showed His own gentle form again, comforting the terrified Arjuna.
+**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Marks the structural pivot of the section: Sanjaya's narrating voice records the actual withdrawal of the cosmic form and Krishna's return to the gentle human appearance, confirming that the vision is reversible and that the teacher chooses his form in response to the student's capacity.
+
 **Contemporary Relevance:** The Compassionate Teacher. A true guide knows when to push the student to see the 'Infinite' and when to pull back and provide comfort. This balance of 'Intensity' and 'Compassion' is the secret to effective mentorship.
 
 **Neuroscience Perspective:** The 'Comforting Teacher' highlights the role of 'emotional regulation' in learning. A true guide pushes the student to their limit, then pulls them back into 'safety' so the new information can be processed and integrated without trauma.
@@ -1198,7 +1208,8 @@ Seeing this gentle human form of Yours, O agitator of men, now I have become com
 
 **Simple Translation:** Arjuna said: Seeing this gentle human form of Yours, I have now become calm and restored to my normal nature.
 
-**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Closes the section with seeing this gentle human form of Yours, I have now become calm and restored to my normal nature, completing the argument's arc.
+**Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Registers Arjuna's own testimony of his return to composure: the cosmic vision has been fully received and survived, and Arjuna's recovery confirms that the encounter with the infinite does not destroy the human witness — it grounds him.
+
 **Contemporary Relevance:** Grounding the Insight. Now that Arjuna is 'restored to his normal nature,' he can actually think and act. The purpose of 'enlightenment' is not to leave the human world, but to return to it with a better, calmer, and more grounded nature.
 
 **Neuroscience Perspective:** Being 'restored to normal nature' describes 'integrated enlightenment.' You don't stay in the 'high' of the vision; you return to 'normal' life, but with a brain that has been permanently re-wired by the experience. Normal is now better.
@@ -1222,7 +1233,8 @@ Very difficult to see is this form of Mine which you have seen. Even the gods ar
 
 **Simple Translation:** The Blessed Lord said: The form you have just seen is very difficult to see. Even the gods are always longing for a glimpse of it.
 
-**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Opens the section by establishing the Blessed Lord said: The form you have just seen is very difficult to see.
+**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Opens the chapter's pedagogical conclusion by reframing the vision as extraordinarily rare — even the gods perpetually long for what Arjuna has just seen — establishing the premise that what follows must explain how such access becomes possible at all.
+
 **Contemporary Relevance:** The Value of the vision. Krishna is reminding Arjuna that he has just experienced something that even 'higher beings' desire. It’s a call to treasure the deep insights we have gained, even when we return to our 'normal' lives.
 
 **Neuroscience Perspective:** The form being 'difficult to see' reflects the 'high-dimensionality' of the Truth. Even 'gods' (high-level functions) desire this vision because it is the 'ultimate optimization' of any conscious system.
@@ -1241,7 +1253,8 @@ Not by the Vedas, nor by austerity, nor by charity, nor by sacrifice can I be se
 
 **Simple Translation:** Neither by the scriptures, nor by self-discipline, nor by charity, nor by ritual can I be seen in the way you have just seen Me.
 
-**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Advances the argument: Neither by the scriptures, nor by self-discipline, nor by charity, nor by ritual can I be seen in the way you have just seen Me.
+**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Eliminates the entire category of conventional religious effort as a pathway to the vision, systematically closing off the routes a devout practitioner would naturally attempt — creating the logical pressure that demands an entirely different kind of answer in the verse that follows.
+
 **Contemporary Relevance:** The Limits of Effort. Again, Krishna emphasizes that external 'good deeds' are not enough to reach the ultimate direct experience. There is a missing ingredient that is more powerful than all the effort in the world.
 
 **Neuroscience Perspective:** Effort alone being 'insufficient' describes the 'limit of the individual ego.' You can't 'climb' to the Absolute; the ego must 'dissolve' before the vision can appear. This is the First Principle of 'Surrender.'
@@ -1260,7 +1273,8 @@ But by undivided devotion (*bhakti*) can I be known in this way, and seen in tru
 
 **Simple Translation:** But through undivided devotion (Bhakti), Arjuna, I can be truly known, seen, and entered into.
 
-**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Advances the argument: But through undivided devotion (Bhakti), Arjuna, I can be truly known, seen, and entered into.
+**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Supplies the single answer to the logical problem raised in 11.53: what no ritual or discipline can achieve, *ananya bhakti* — undivided, exclusive devotion — accomplishes, and it accomplishes it completely: not merely seeing Krishna but knowing him in truth and entering into him.
+
 **Contemporary Relevance:** The Key of Devotion. Undivided devotion ('Ananya-bhakti') is the missing ingredient. It means 100% commitment to the Truth. When you are 100% 'all-in,' the boundaries between you and the Truth dissolve, and you can 'enter into' its power.
 
 **Neuroscience Perspective:** Bhakti (devotion) as the 'only key' describes 'total system-alignment.' Undivided devotion is the neural state where '100% of resources' are focused on the Truth. This total commitment is what 'unlocks' the experience of 'entering' the Truth.
@@ -1279,7 +1293,8 @@ He who does My work, who holds Me as supreme, who is My devotee, freed from atta
 
 **Simple Translation:** The one who works for Me, considers Me the highest, is devoted to Me, is free from attachment, and holds no hatred toward any living being — that person reaches Me, Arjuna.
 
-**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Closes the section with the one who works for Me, considers Me the highest, is devoted to Me, is free from attachment, and holds no hatred toward any living being — that person reaches Me, Arjuna, completing the argument's arc.
+**Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Closes the chapter by translating the abstract principle of bhakti into five concrete behavioral qualities — purposeful action, supreme priority, devotion, non-attachment, and absence of enmity — showing that the path opened by the cosmic vision is not a mystical event but a lived orientation anyone can embody.
+
 **Contemporary Relevance:** The Five-Point Summary. After the overwhelming vision of the Universal Form, Krishna closes with the simplest possible instruction: work with purpose, stay devoted, let go of clinging, and hold no grudges. These five qualities are the practical takeaway from an entire chapter of cosmic revelation — grounding the infinite back into daily conduct.
 
 **Neuroscience Perspective:** This verse integrates action, belief, emotion, detachment, and social orientation into a single behavioral profile. Neuroscience research on prosocial behavior confirms that individuals who combine purposeful work with low attachment and low hostility show reduced cortisol levels, healthier vagal tone, and stronger social bonds. The absence of enmity is particularly significant — chronic hostility is one of the strongest predictors of cardiovascular disease and cognitive decline.

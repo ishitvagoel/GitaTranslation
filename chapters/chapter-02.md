@@ -914,7 +914,8 @@ full of desire, intent on heaven, offering rebirth as the fruit of action — ab
 
 **Simple Translation:** Driven by desire and seeking only pleasure and power, they perform complex rituals hoping for rewards in this life or the next.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: Driven by desire and seeking only pleasure and power, they perform complex rituals hoping for rewards in this life or the next.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Continues the critique by specifying the motivation behind flowery discourse: desire-driven action aimed at pleasure and dominion, which multiplies ritual without ever transcending the cycle of craving that binds the actor.
+
 **Contemporary Relevance:** This verse describes the 'transactional' approach to life. Many people do things only for the sake of an immediate reward or social status. This mindset keeps us trapped in a cycle of constant wanting and never leads to true, lasting satisfaction.
 
 **Neuroscience Perspective:** The 'desire-driven' life reflects a 'dopaminergic loop' where the brain is constantly chasing the next 'hit' of pleasure or power. This 'transactional' mode of living keeps the brain in a state of chronic 'hunger' and never leads to satisfaction.
@@ -933,7 +934,8 @@ For those attached to enjoyment and power, whose minds are carried away by that 
 
 **Simple Translation:** Those who are attached to enjoyment and power, and whose minds are stolen by such flowery words, can never achieve a steady, resolute mind in deep focus.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: Those who are attached to enjoyment and power, and whose minds are stolen by such flowery words, can never achieve a steady, resolute mind in deep focus.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Closes the critique with its negative conclusion: minds captured by enjoyment-and-power rhetoric are structurally incapable of the single-pointed resolve described in 2.41 — linking the obstruction directly back to what yoga must overcome.
+
 **Contemporary Relevance:** Addiction to comfort and status prevents mental clarity. When our primary goal is 'enjoyment and power,' our mind is constantly reacting to external stimuli, making it impossible to find the inner stillness needed for deep understanding and wise action.
 
 **Neuroscience Perspective:** Attachment to 'enjoyment and power' prevents 'Samādhi' (deep concentration). Neurally, if the 'reward circuits' are constantly over-active, the 'focus circuits' cannot settle into the deep stillness needed for high-level insight.
@@ -952,7 +954,8 @@ The Vedas deal with the domain of the three guṇas. Be beyond the three guṇas
 
 **Simple Translation:** The scriptures deal with the three qualities of nature. Rise above these qualities, Arjuna. Be free from dualities, stay established in purity, let go of the need to acquire or protect things, and stay focused on your true self.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: The scriptures deal with the three qualities of nature.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Commands a move beyond the entire domain of scriptural reward-seeking: the Vedas operate within the three guṇas, but the practitioner of karma yoga must stand outside that field — free from dualities, acquisitive anxiety, and grasping at self-maintenance.
+
 **Contemporary Relevance:** This is a call to 'transcend the game.' Most of our lives are spent chasing dualities (like/dislike, gain/loss). Krishna encourages us to reach a state where we are not defined by these external fluctuations, but are instead grounded in our own internal clarity and integrity.
 
 **Neuroscience Perspective:** Rising above the 'three qualities' (Gunas) is a call for 'self-transcendence.' It suggests that we can reach a state of 'meta-awareness' where we observe our own biological and psychological programming without being enslaved by it.
@@ -973,7 +976,8 @@ As much use as there is in a well when water floods on every side — that much 
 
 **Simple Translation:** To someone who has realized the ultimate truth, the formal rules of scripture are as useful as a small well is when there is a flood of water everywhere.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: To someone who has realized the ultimate truth, the formal rules of scripture are as useful as a small well is when there is a flood of water everywhere.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Illustrates the supersession of scripture by direct knowledge: rules and rituals serve as instruments for reaching the truth, but once the knower has access to the whole flood, the individual well of prescription becomes redundant.
+
 **Contemporary Relevance:** This is about 'firsthand experience' versus 'secondhand rules.' Once you have direct insight into a situation or your own nature, you no longer need to rely on external manuals or rigid rules to tell you how to act. Direct wisdom supersedes formal instruction.
 
 **Neuroscience Perspective:** Direct realization (seeing the 'well' in a flood) is an example of 'insight-based learning.' Once you understand the 'Core Principle,' you no longer need to rely on 'External Rules.' The brain has upgraded to a 'self-correcting' and 'autonomous' system.
@@ -992,7 +996,8 @@ Your right is to action alone, never to its fruits. Do not be one whose motive i
 
 **Simple Translation:** You have a right to your work, but never to the results of your work. Do not let the reward be your motivation, but also do not be attached to doing nothing.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: You have a right to your work, but never to the results of your work.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — States the central formula of karma yoga: the practitioner's domain is action alone, never its fruits — a four-part instruction that simultaneously forbids fruit-motivation, prohibits inaction, and thereby defines the precise space of free and binding-free engagement.
+
 **Contemporary Relevance:** This is arguably the most important verse for modern professional life. It teaches 'process-oriented' thinking. If we focus entirely on the quality of our work (which we can control) and let go of the result (which we can't), we reduce our stress and actually perform better.
 
 **Neuroscience Perspective:** The 'right to action, not to fruits' is the ultimate strategy for 'performance without pressure.' By decoupling 'effort' from 'outcome,' the brain reduces the 'anticipatory anxiety' that often impairs peak performance.
@@ -1012,7 +1017,8 @@ Established in yoga, perform actions having abandoned attachment, Dhanañjaya, b
 
 **Simple Translation:** Do your work while being established in a state of balance (Yoga), letting go of attachment. Remain the same in both success and failure. This state of mental evenness is called Yoga.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: Do your work while being established in a state of balance (Yoga), letting go of attachment.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Defines yoga operationally for the first time: not a posture or a ritual but *samatvam* — equanimity amid success and failure — giving Arjuna a concrete internal standard by which to measure every act of duty.
+
 **Contemporary Relevance:** Yoga is defined here as 'mental evenness.' In a volatile and uncertain world, the ability to remain calm and focused regardless of external success or failure is the ultimate competitive advantage and the key to personal happiness.
 
 **Neuroscience Perspective:** Yoga as 'evenness of mind' is the state of 'optimized regulation.' A brain that is 'equal in success and failure' has a highly resilient nervous system that can handle any level of environmental volatility without crashing.
@@ -1031,7 +1037,8 @@ Action is far inferior to the yoga of understanding, Dhanañjaya. Seek refuge in
 
 **Simple Translation:** Mere action is far inferior to the action performed with clear understanding. Seek refuge in wisdom. Those who act only for rewards are narrow-minded and pitiable.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: Mere action is far inferior to the action performed with clear understanding.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Establishes the hierarchy at the heart of karma yoga: unintelligent action (*karma*) is categorically inferior to action animated by understanding (*buddhi yoga*) — and to act for reward alone is precisely the pitiable condition the teaching is designed to cure.
+
 **Contemporary Relevance:** 'Busy-ness' is not the same as effectiveness. Doing things without a clear 'why' or just for a paycheck is a low state of existence. True success comes from acting with deep understanding and a clear sense of purpose.
 
 **Neuroscience Perspective:** Action without understanding is described as 'inferior.' Neurally, 'blind action' is driven by lower brain centers (habit/impulse), while 'Yoga of understanding' is driven by the prefrontal cortex. Logic must lead action.
@@ -1050,7 +1057,8 @@ One yoked with understanding casts off here both good and evil deeds. Therefore 
 
 **Simple Translation:** A person with a clear understanding rises above the concepts of 'good' and 'evil' deeds in this world. Therefore, commit yourself to Yoga. Yoga is defined as skill in action.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: A person with a clear understanding rises above the concepts of 'good' and 'evil' deeds in this world.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Delivers the payoff of buddhi yoga: because understanding severs the karmic bond, the wise person transcends the moral ledger of merit and demerit entirely — and reformulates yoga as *kauśalam*, masterful skill in action rather than ritual correctness.
+
 **Contemporary Relevance:** Yoga is 'skill in action.' This means doing what needs to be done with absolute precision, focus, and without emotional baggage. It’s the definition of a 'flow state' or being 'in the zone' where your actions are perfect and effortless.
 
 **Neuroscience Perspective:** Yoga as 'skill in action' (karmasu kauśalam) describes the 'flow state.' In this state, the 'self' (ego) disappears and the 'act' becomes perfectly efficient and precise. It is the peak of human neurological and physical integration.
@@ -1069,7 +1077,8 @@ For the wise, yoked with understanding, having abandoned the fruit born of actio
 
 **Simple Translation:** Wise people, who are focused on clear understanding and have let go of the rewards of their actions, are freed from the cycle of birth and death and reach a state that is completely free from suffering.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: Wise people, who are focused on clear understanding and have let go of the rewards of their actions, are freed from the cycle of birth and death and reach a state that is completely free from suffering.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Names the ultimate fruit of renouncing fruits: wise practitioners who act through *buddhi yoga* are freed from the rebirth-bondage that fruit-motivated action perpetuates — elevating the stakes of the entire karma yoga section from battlefield conduct to final liberation.
+
 **Contemporary Relevance:** Freedom comes from letting go of the 'results' game. When we stop obsessing over whether we will be praised or rewarded, we escape the 'bondage' of external validation and find a deep, internal state of peace that no setback can touch.
 
 **Neuroscience Perspective:** Freed from 'the bondage of rebirth' means breaking the 'repetitive neural loops' of habit and ego. By letting go of results, the brain stops reinforcing the pathways of 'craving and regret,' leading to a state of permanent mental freedom.
@@ -1088,7 +1097,8 @@ When your understanding crosses beyond the thicket of delusion, then you will be
 
 **Simple Translation:** When your understanding moves beyond the confusion of delusion, you will become indifferent to all the conflicting opinions and theories you have ever heard or will ever hear.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Advances the argument: When your understanding moves beyond the confusion of delusion, you will become indifferent to all the conflicting opinions and theories you have ever heard or will ever hear.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Describes a milestone on the path: when *buddhi* crosses beyond the thicket of delusion, the practitioner becomes immune to the authority of competing scriptural doctrines — marking the transition from external guidance to internal clarity.
+
 **Contemporary Relevance:** This is 'information immunity.' In a world of endless social media noise and expert opinions, true clarity allows you to remain unaffected by the 'latest trends' or 'conflicting advice.' You become guided by your own internal truth rather than external noise.
 
 **Neuroscience Perspective:** Indifference to 'what is to be heard' is 'cognitive independence.' Once your brain has crossed the 'thicket of delusion,' it is no longer susceptible to social pressure, trends, or conflicting expert opinions. You are 'anchored' in truth.
@@ -1107,7 +1117,8 @@ When your understanding, bewildered by scripture, stands unmoving and steady in 
 
 **Simple Translation:** When your mind, which has been confused by various conflicting teachings, becomes steady and unmoving in deep focus, then you will have achieved true Yoga.
 
-**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Closes the section with when your mind, which has been confused by various conflicting teachings, becomes steady and unmoving in deep focus, then you will have achieved true Yoga, completing the argument's arc.
+**Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Closes the section by defining its terminal goal: yoga is not a set of techniques but the state of an intellect (*buddhi*) that has become immovable in *samādhi* despite exposure to conflicting teachings — answering Arjuna's implicit question of what the method ultimately produces.
+
 **Contemporary Relevance:** Real wisdom is not 'collected knowledge' but 'steady focus.' After you have learned enough, the next step is to stop searching and start *being*. Achieving a state where your mind is no longer 'tossed about' by every new idea is the ultimate goal of mental discipline.
 
 **Neuroscience Perspective:** The mind staying 'unmoving' in concentration is the state of 'neural synchronization.' When all parts of the brain are aligned and focused on a single purpose, you achieve 'Yoga'—the ultimate state of internal and external unity.
@@ -1129,7 +1140,8 @@ What is the description of one whose wisdom is firm, who is established in deep 
 
 **Simple Translation:** Arjuna asked: Krishna, what are the characteristics of a person whose wisdom is steady and who is established in deep focus? How does such a person speak, sit, and move in the world?
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Opens the section by establishing arjuna asked: Krishna, what are the characteristics of a person whose wisdom is steady and who is established in deep focus?.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Opens the final section by transforming abstract argument into a concrete request: Arjuna asks not for more philosophy but for behavioral markers — how does the person of steady wisdom actually speak, sit, and move? — demanding that the teaching become embodied and observable.
+
 **Contemporary Relevance:** Arjuna is asking for a practical 'role model.' He wants to know how this lofty philosophy actually looks in everyday life. It’s a call for tangible examples of how a 'wise person' behaves in normal situations.
 
 **Neuroscience Perspective:** Arjuna’s questions about 'how he speaks, sits, and moves' show a desire for 'behavioral markers' of wisdom. He is looking for the 'visible output' of an 'optimized internal system,' mirroring how we look for 'performance data' in modern systems.
@@ -1151,7 +1163,8 @@ When one abandons all desires that dwell in the mind, Pārtha, content in the se
 
 **Simple Translation:** The Blessed One said: When a person lets go of all the selfish desires in their mind and finds complete satisfaction within themselves, then that person is said to have steady wisdom.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: The Blessed One said: When a person lets go of all the selfish desires in their mind and finds complete satisfaction within themselves, then that person is said to have steady wisdom.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Gives Krishna's opening answer to Arjuna's question: the *sthitaprajña* is defined first by the inner condition — all desires abandoned, contentment self-sourced — establishing that the portrait begins internally before it moves outward to speech and behavior.
+
 **Contemporary Relevance:** This is 'internal validation' vs 'external validation.' Most people are 'hungry' for something outside themselves (money, fame, love) to make them happy. A person of steady wisdom is 'already full.' They are happy by nature, not by circumstance.
 
 **Neuroscience Perspective:** Contentment 'in the self by the self' is the state of 'intrinsic reward.' Instead of needing external dopamine hits (praise, money), the brain generates its own sense of 'ok-ness' and satisfaction from its own core alignment.
@@ -1170,7 +1183,8 @@ Untroubled in mind amid sorrows, without craving amid pleasures, free from passi
 
 **Simple Translation:** One who is not disturbed by sorrow, who doesn't crave pleasure, and who is free from attachment, fear, and anger—such a person is called a sage of steady mind.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: One who is not disturbed by sorrow, who doesn't crave pleasure, and who is free from attachment, fear, and anger—such a person is called a sage of steady mind.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Extends the portrait from desire-freedom to emotional immunity: the sage is untroubled by pain, uncaptured by pleasure, and free from the reactive triad of passion, fear, and anger — specifying the affective range the steady intellect must master.
+
 **Contemporary Relevance:** This is the definition of emotional mastery. Imagine being able to handle a major crisis without panic (fear), a major success without ego (attachment), and an insult without lashing out (anger). This level of composure is the ultimate goal of modern psychological resilience.
 
 **Neuroscience Perspective:** Freedom from 'passion, fear, and anger' indicates a 'mastery of the limbic system.' A sage has trained their prefrontal cortex to provide 'top-down' regulation of the brain’s emotional centers, resulting in an unshakeable inner peace.
@@ -1189,7 +1203,8 @@ Whoever is without attachment everywhere, encountering this or that, pleasant or
 
 **Simple Translation:** Anyone who is not attached to anything, who meets both good and bad things without getting over-excited or becoming hateful, has truly steady wisdom.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: Anyone who is not attached to anything, who meets both good and bad things without getting over-excited or becoming hateful, has truly steady wisdom.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Universalizes the criterion: *sarvatra* (everywhere, in every encounter) the sage meets pleasant and unpleasant events without delight or hatred — showing that steady wisdom is not situational composure but a constant orientation that applies regardless of circumstances.
+
 **Contemporary Relevance:** This is 'equanimity in action.' It doesn't mean being a robot; it means not being a slave to your environment. You can experience 'bad luck' or 'good luck' and still remain 'yourself,' without letting those external events dictate your inner peace.
 
 **Neuroscience Perspective:** The lack of 'rejoicing or hating' indicates a 'neutrality of appraisal.' The brain accepts 'data' (pleasant or unpleasant) without the 'emotional distortion' that usually causes irrational reactions and future suffering.
@@ -1208,7 +1223,8 @@ When one withdraws the senses from the objects of sense on every side, as a tort
 
 **Simple Translation:** Just as a tortoise pulls its limbs into its shell, a person of steady wisdom can withdraw their senses from the distractions of the world at will.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: Just as a tortoise pulls its limbs into its shell, a person of steady wisdom can withdraw their senses from the distractions of the world at will.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Introduces the faculty that makes equanimity possible: voluntary sense-withdrawal, rendered through the tortoise image — the capacity to retract attention from its objects at will, which is the practical mechanism behind the emotional self-mastery described in the preceding verses.
+
 **Contemporary Relevance:** This is the ability to 'unplug.' In a world of constant notifications and sensory overload, the skill of consciously withdrawing your attention from distractions and focusing inward is essential for mental health and deep work.
 
 **Neuroscience Perspective:** The tortoise metaphor describes 'voluntary attention withdrawal.' This is the ability to consciously 'disconnect' from sensory triggers to maintain internal focus. It’s the ultimate defense against an 'attention-economy' world.
@@ -1227,7 +1243,8 @@ Sense objects turn away from the embodied one who does not feed on them — exce
 
 **Simple Translation:** If you stop indulging your senses, the objects of desire may go away, but the 'craving' for them remains. This craving only disappears when you experience a higher, more fulfilling reality.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: If you stop indulging your senses, the objects of desire may go away, but the 'craving' for them remains.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Complicates the simple prescription of sense-withdrawal: abstinence removes objects but leaves *rasa* (the residual taste for them) intact — showing that the tortoise technique is necessary but insufficient, and that only direct vision of the supreme dissolves craving at its root.
+
 **Contemporary Relevance:** You can't just 'suppress' your bad habits with willpower alone; you have to 'replace' them with something better. True freedom from an addiction or a negative desire only comes when you find a deeper source of meaning and satisfaction.
 
 **Neuroscience Perspective:** The 'taste' (craving) only leaving when the 'Supreme' is seen shows that 'suppression' is not 'transformation.' To change a deep-seated neural habit (craving), you must provide the brain with a 'higher reward' (Truth) that makes the old habit obsolete.
@@ -1248,7 +1265,8 @@ For even of a striving, discerning person, Kaunteya, the turbulent senses seize 
 
 **Simple Translation:** Arjuna, the senses are so powerful and turbulent that they can forcibly carry away the mind of even a wise person who is trying their best to control them.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: Arjuna, the senses are so powerful and turbulent that they can forcibly carry away the mind of even a wise person who is trying their best to control them.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Escalates the danger: even a *vipaścita* (discerning person) actively striving for control can be overrun by the senses — a sobering qualification that prevents complacency and explains why the method must go deeper than effort alone.
+
 **Contemporary Relevance:** This is a warning about 'overconfidence in willpower.' We must respect the power of our biological urges and environmental triggers. Even the most disciplined person can be led astray if they are not constantly vigilant.
 
 **Neuroscience Perspective:** The 'turbulent senses' seizing the mind is a description of 'limbic hijack.' It’s a warning that our biological urges are incredibly powerful and can override even a wise person’s logic if they are not constantly vigilant.
@@ -1267,7 +1285,8 @@ Having restrained all of them, one should sit disciplined, intent on me. For the
 
 **Simple Translation:** A person should control all their senses and stay focused on the highest reality. One who has their senses under control truly has steady wisdom.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: A person should control all their senses and stay focused on the highest reality.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Provides the answer to 2.60's danger: the remedy for the senses' overwhelming force is not greater willpower but redirection — restraining all senses while remaining *mat-paraḥ* (intent on the highest) — locating devotional orientation as the stabilizing anchor for sense-control.
+
 **Contemporary Relevance:** Self-discipline is the foundation of wisdom. Without the ability to manage our impulses and focus our attention on what truly matters, we remain scattered and reactive. True freedom is not being able to do whatever we want, but having the power to do what is right.
 
 **Neuroscience Perspective:** Restraining the senses and being 'intent on Me' is 'centralized focus.' By anchoring the mind in a single, supreme 'True North,' you provide the brain with a stable reference point that keeps all the 'sub-systems' (senses) in check.
@@ -1286,7 +1305,8 @@ When a person contemplates sense objects, attachment to them arises. From attach
 
 **Simple Translation:** When you keep thinking about things you want, you become attached to them. This attachment turns into a strong craving, and when that craving is blocked, it turns into anger.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: When you keep thinking about things you want, you become attached to them.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Opens the section's causal analysis of inner collapse: by tracing the chain from contemplation to attachment to desire to anger, this verse explains mechanically why the unguarded mind deteriorates — establishing the logical basis for all the discipline instructions that precede and follow.
+
 **Contemporary Relevance:** This is the 'anatomy of an impulse.' It shows how a simple thought can spiral into an emotional crisis. By understanding this process, we can catch ourselves at the 'thinking' stage before it becomes an uncontrollable emotion like anger.
 
 **Neuroscience Perspective:** The 'ladder of downfall' (thought -> attachment -> desire -> anger) is a perfect map of a 'neural chain reaction.' By understanding this sequence, we can intervene at the 'thought' stage before the brain is overwhelmed by 'anger.'
@@ -1306,7 +1326,8 @@ From anger comes delusion; from delusion, confusion of memory; from confusion of
 
 **Simple Translation:** Anger leads to delusion, and delusion makes you forget what you have learned. When your memory is confused, your ability to reason is destroyed. And when you lose your reason, you are completely lost.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: Anger leads to delusion, and delusion makes you forget what you have learned.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Completes the causal chain begun in 2.62 by extending it to total annihilation of the self: anger produces delusion, delusion destroys memory, and memory-loss destroys *buddhi* — the very faculty of discrimination that karma yoga depends upon — showing that sensory indulgence is not merely unpleasant but self-defeating.
+
 **Contemporary Relevance:** This explains why we make terrible decisions when we are angry. Anger 'blinds' us, making us forget our values and long-term goals. Protecting our ability to reason is the most important thing we can do in a crisis.
 
 **Neuroscience Perspective:** The progression from 'anger -> delusion -> loss of memory -> destruction of reason' describes the 'shutting down' of the prefrontal cortex under intense stress. Anger literally 'blinds' and 'stupefies' the executive brain, leading to a total loss of character.
@@ -1326,7 +1347,8 @@ But moving among sense objects with senses free from attraction and aversion, un
 
 **Simple Translation:** But a self-controlled person, who moves through the world with senses free from both attraction and dislike, reaches a state of internal clarity and peace.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: But a self-controlled person, who moves through the world with senses free from both attraction and dislike, reaches a state of internal clarity and peace.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Turns the argument from negative diagnosis to positive model: after the ruin-chain of 2.62–63, this verse shows the alternative — the *vidheyātmā* (self-governed person) who moves through sensory experience without being governed by it and thereby attains *prasāda* (clarity, grace).
+
 **Contemporary Relevance:** This is 'engaged detachment.' It doesn't mean hiding from the world, but living in it without being controlled by it. You can enjoy things and face difficulties while keeping your internal compass steady.
 
 **Neuroscience Perspective:** Moving with 'senses free from attraction and aversion' is 'engaged detachment.' The brain continues to process sensory data but has 'neutralized' the emotional triggers, allowing for perfectly objective action in the world.
@@ -1345,7 +1367,8 @@ In clarity, the destruction of all sorrows arises. For the one of clear mind, un
 
 **Simple Translation:** In this state of internal clarity, all sorrows disappear. For someone with a clear mind, wisdom quickly becomes stable and permanent.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: In this state of internal clarity, all sorrows disappear.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Delivers the positive consequence that mirrors the destruction described in 2.63: where anger-chains destroy *buddhi*, *prasāda* (clarity) eradicates all sorrow and rapidly establishes *buddhi* in its rightful place — completing the contrast between the two paths.
+
 **Contemporary Relevance:** Clarity is the antidote to suffering. Most of our pain comes from our *interpretation* of events, not the events themselves. When the mind is clear and peaceful, we see things as they are, and sorrow loses its grip on us.
 
 **Neuroscience Perspective:** The 'destruction of all sorrows' through clarity is the result of 'optimal mental health.' When the mind is 'prasanna' (clear and bright), it no longer generates the 'pain-narratives' that we experience as chronic sorrow and suffering.
@@ -1364,7 +1387,8 @@ There is no understanding for the undisciplined, and no meditation for the undis
 
 **Simple Translation:** An undisciplined person has no real understanding and no ability to focus. Without focus, there is no peace; and without peace, how can there be any happiness?
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: An undisciplined person has no real understanding and no ability to focus.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Demonstrates by negation the entire chain of conditions the portrait requires: the undisciplined (*ayukta*) has no *buddhi*, no contemplation, no peace, and therefore no happiness — proving by structural logic that the qualities of the *sthitaprajña* are not optional refinements but the only path to well-being.
+
 **Contemporary Relevance:** This is a logical chain for well-being. Happiness requires peace, peace requires focus, and focus requires discipline. If we want to be happy, we must start by disciplining our mind and our habits.
 
 **Neuroscience Perspective:** The logic 'No discipline -> No focus -> No peace -> No happiness' is a First Principle of 'well-being architecture.' Happiness is a 'top-level' result that is only possible if the 'foundational' levels of discipline and peace are in place.
@@ -1383,7 +1407,8 @@ For when the mind runs after the wandering senses, it carries away one's wisdom 
 
 **Simple Translation:** If your mind constantly follows your wandering senses, it will sweep away your wisdom just as a strong wind blows a boat off its course on the water.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: If your mind constantly follows your wandering senses, it will sweep away your wisdom just as a strong wind blows a boat off its course on the water.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Supplies the image that explains how *buddhi* is lost: the mind that chases its roving senses becomes an instrument of dispersion, sweeping away *prajñā* as wind drives a boat off course — making vivid why sensory obedience destroys the very faculty on which karma yoga depends.
+
 **Contemporary Relevance:** This is about 'mental drift.' If we let every notification, craving, or mood dictate our attention, we lose our sense of direction and purpose. We must be the 'captain' of our mind, not just a passenger being blown about by sensory triggers.
 
 **Neuroscience Perspective:** The mind 'running after the senses' is the state of 'mental drift' and 'low-level distractibility.' Like a wind blowing a boat, these external triggers sweep away our 'executive control' and leave us helpless and without direction.
@@ -1402,7 +1427,8 @@ Therefore, mighty-armed one, one whose senses are completely restrained from the
 
 **Simple Translation:** Therefore, Arjuna, one who has completely pulled back their senses from the distractions of the world has truly steady wisdom.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: Therefore, Arjuna, one who has completely pulled back their senses from the distractions of the world has truly steady wisdom.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Draws the *tasmāt* (therefore) conclusion from the preceding danger-and-image sequence: complete withdrawal of the senses from their objects is the criterion by which steady wisdom (*prajñā pratiṣṭhitā*) is recognized — closing the argument's sustained focus on sense-mastery before the section shifts to higher images.
+
 **Contemporary Relevance:** This is the final word on sensory control. It’s a call to be the master of our own attention. In an economy that profits from stealing our attention, the ability to control it is the ultimate act of self-sovereignty.
 
 **Neuroscience Perspective:** The 'restraint of senses from their objects' is the final word on 'attentional sovereignty.' The person who controls their own attention owns their own life. It is the most important skill for anyone living in a world of constant distraction.
@@ -1421,7 +1447,8 @@ What is night for all beings — in that the self-controlled one is awake. That 
 
 **Simple Translation:** What most people see as 'darkness' (internal growth, self-control), the wise person sees as 'light.' And what most people see as 'light' (material chasing, sensory pleasure), the wise person sees as 'darkness.'
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: What most people see as 'darkness' (internal growth, self-control), the wise person sees as 'light.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Introduces the paradox of inverted perception: the sage and the ordinary person inhabit opposite value-worlds — what appears as waking reality to the crowd is darkness to the sage, and vice versa — demonstrating that *sthitaprajña* is not merely more disciplined but differently oriented at the most fundamental level.
+
 **Contemporary Relevance:** This is about 'different values.' A wise person doesn't follow the crowd. They are 'awake' to things that others ignore (like integrity and inner peace) and 'asleep' to things that others obsess over (like fame and superficial trends).
 
 **Neuroscience Perspective:** The 'day/night' paradox describes 'conflicting value-systems.' What the average person’s brain sees as a 'reward' (status, pleasure), the wise person’s brain sees as 'noise.' What the wise person sees as 'valuable' (peace, truth), the average person ignores.
@@ -1444,7 +1471,8 @@ As waters enter the ocean, ever being filled yet standing unmoved — so too, th
 
 **Simple Translation:** Just as the ocean stays still even though many rivers flow into it, a wise person remains peaceful even though many desires and thoughts enter their mind. Peace is for such a person, not for someone who chases after every desire.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: Just as the ocean stays still even though many rivers flow into it, a wise person remains peaceful even though many desires and thoughts enter their mind.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Offers the ocean image to resolve the paradox: the sage does not prevent desires from arising but remains unmoved as they flow in — the key distinction is between the *kāmakāmī* (desire-seeker) who is tossed by desire and the sage whose vastness absorbs it without disturbance.
+
 **Contemporary Relevance:** This is the image of 'vastness.' We should aim to have a mind as vast as the ocean. We don't have to stop 'having' thoughts or desires; we just have to be so grounded and vast that they don't disturb our fundamental peace.
 
 **Neuroscience Perspective:** The ocean metaphor describes 'vast emotional capacity.' We should aim for a mind so 'vast' that even intense thoughts and desires (rivers) don't overflow or disturb our fundamental state of 'stillness' and peace.
@@ -1463,7 +1491,8 @@ The person who moves about having abandoned all desires, free from craving, with
 
 **Simple Translation:** The person who lives without selfish desires, without craving, without 'mine and yours,' and without ego—that person reaches true peace.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Advances the argument: The person who lives without selfish desires, without craving, without 'mine and yours,' and without ego—that person reaches true peace.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Specifies the internal structure of the ocean-like sage: desires are absent not suppressed, craving extinct, possessiveness (*mamā*) and ego (*ahaṅkāra*) dissolved — naming the precise conditions that allow the peace-without-disturbance described in 2.70.
+
 **Contemporary Relevance:** This is the formula for modern minimalist living—not just with physical things, but with the ego. Letting go of the need to 'own' things and the need to be 'important' is the fastest way to end anxiety and find lasting contentment.
 
 **Neuroscience Perspective:** Abandoning 'mine' and 'I' (possessiveness and ego) is 'egolytic transformation.' By reducing the size of the 'self-referential' model in the brain, you eliminate the source of most human stress, which is the constant need to defend or expand the ego.
@@ -1482,7 +1511,8 @@ This is the state of Brahman, Pārtha. Having attained it, one is not deluded. E
 
 **Simple Translation:** This is the state of ultimate reality, Arjuna. Once you reach it, you are never confused again. If you stay in this state, even at the moment of death, you reach eternal freedom.
 
-**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Closes the section with this is the state of ultimate reality, Arjuna, completing the argument's arc.
+**Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Closes the entire chapter by naming what the portrait has been pointing toward: *brāhmī sthiti*, the state of Brahman — both the culmination of steady wisdom and the ground from which even death cannot dislodge the liberated person, connecting the chapter's practical ethics to its ultimate metaphysical horizon.
+
 **Contemporary Relevance:** This is the 'final goal.' It’s the realization that we are part of something eternal and infinite. Having this perspective changes everything—it makes us fearless in life and peaceful at its end, knowing that we have finally understood our true nature.
 
 **Neuroscience Perspective:** The 'State of Brahman' is the 'ultimate neural integration.' It is a state of 'total certainty' and 'zero delusion' that remains steady even at death. It is the final achievement of a perfectly trained and aligned human mind.

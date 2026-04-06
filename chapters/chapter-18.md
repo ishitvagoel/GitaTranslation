@@ -713,7 +713,8 @@ That by which a fool does not abandon sleep, fear, grief, despondency, and arrog
 
 **Simple Translation:** The firmness by which a fool refuses to give up sleep, fear, grief, depression, and arrogance—that is dull (Tamasic) firmness.
 
-**Argument Arc:** *Three Types of Firmness (18.33–18.35)* — Closes the section with the firmness by which a fool refuses to give up sleep, fear, grief, depression, and arrogance—that is dull (Tamasic) firmness, completing the argument's arc.
+**Argument Arc:** *Three Types of Firmness (18.33–18.35)* — Closes the dhṛti taxonomy at its lowest register: tāmasic firmness is will perversely deployed to maintain destructive states — sleep, fear, grief, despondency, arrogance — stubborn adherence to the very habits that prevent growth.
+
 **Contemporary Relevance:** Stubbornness in Failure. This is 'anti-willpower.' It’s being 'firm' in your bad habits. When someone says 'I can't help it, I'm just like this,' they are using Tamasic firmness to justify their own stagnation and misery.
 
 **Neuroscience Perspective:** Tamasic firmness (refusal to give up sleep/grief/arrogance) is 'Willpower as Inertia.' It’s the brain being 'firm' in its own stagnation. Neurally, this is the 'stubbornness of habit' that prevents any new or better patterns from forming.
@@ -732,7 +733,8 @@ Now hear from Me of the threefold happiness, O best of the Bharatas. That in whi
 
 **Simple Translation:** Now listen to the three kinds of happiness, Arjuna. Through practice, one finds joy in this and reaches the end of all sorrow.
 
-**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Opens the section by establishing now listen to the three kinds of happiness, Arjuna.
+**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Opens the final sub-category of the guṇa taxonomy by announcing that happiness (sukha) itself is subject to the three-fold analysis — framing the climactic question of what pleasure is truly worth pursuing.
+
 **Contemporary Relevance:** The Definition of Real Joy. Krishna defines happiness as something that 'reaches the end of sorrow.' If your 'fun' just leads to a 'hangover' (physical or emotional), it’s not real happiness. Real joy is a sustainable state of being.
 
 **Neuroscience Perspective:** Happiness that 'reaches the end of sorrow' is 'Sustainable Well-Being.' Krishna defines real joy as a 'state-change' rather than a 'temporary hit.' It’s the peace that remains when all the 'stress-circuits' (sorrow) are neutralized.
@@ -751,7 +753,8 @@ Which at first is like poison but in the end is like nectar; that happiness is d
 
 **Simple Translation:** Happiness that feels like poison at first but ends like nectar—born from the clarity of one's own intellect—is called pure (Sattvic).
 
-**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Advances the argument: Happiness that feels like poison at first but ends like nectar—born from the clarity of one's own intellect—is called pure (Sattvic).
+**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Defines sāttvika happiness through its temporal inversion: painful at the outset (discipline, practice), then transforming into lasting nectar — identifying inner clarity as its origin rather than any external stimulus.
+
 **Contemporary Relevance:** The Hard Start. This is the 'First Principle' of all great things: they are hard at the beginning. Exercise, study, and discipline feel 'poisonous' to the ego at first, but they result in the 'nectar' of health, wisdom, and peace. Trust the 'Hard Start.'
 
 **Neuroscience Perspective:** Sattvic happiness (poison first, nectar last) describes 'delayed gratification.' Neurally, you endure the 'pain' of discipline (poison) to achieve the 'reward' of clarity and health (nectar). This is the 'First Principle' of all sustainable human achievement.
@@ -770,7 +773,8 @@ That which arises from the contact of the senses with their objects, which at fi
 
 **Simple Translation:** Happiness that comes from the senses meeting their objects—which feels like nectar at first but ends like poison—is called passionate (Rajasic).
 
-**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Advances the argument: Happiness that comes from the senses meeting their objects—which feels like nectar at first but ends like poison—is called passionate (Rajasic).
+**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Reverses the temporal sequence for rājasic happiness: pleasant at first contact (sensory gratification), then degrading into bitterness — the mirror inversion of sāttvika joy, locating its origin entirely in sense-object contact.
+
 **Contemporary Relevance:** The Easy Start. This is the trap of all addictions and 'quick fixes.' They feel great in the moment (nectar), but they always lead to a crash or regret (poison). This is a warning to be suspicious of 'easy' happiness.
 
 **Neuroscience Perspective:** Rajasic happiness (nectar first, poison last) describes 'immediate gratification.' This is the 'Addiction Loop.' The quick dopamine hit (nectar) is always followed by a 'crash' or 'regret' (poison). The wise brain avoids this 'bait.'
@@ -789,7 +793,8 @@ That happiness which deludes the self both at the beginning and in its consequen
 
 **Simple Translation:** Happiness that confuses the soul from start to finish—arising from sleep, laziness, and negligence—is called dull (Tamasic).
 
-**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Closes the section with happiness that confuses the soul from start to finish—arising from sleep, laziness, and negligence—is called dull (Tamasic), completing the argument's arc.
+**Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Closes the guṇa taxonomy by describing tāmasic happiness as self-delusion from start to finish — arising from sleep, negligence, and inertia, it offers neither the sāttvika transformation nor even the rājasic initial pleasure.
+
 **Contemporary Relevance:** The Fake Joy. This is the 'happiness' of checking out or avoiding life. It’s the joy of 'giving up.' Krishna calls it a delusion (mohanam) because it isn't really joy—it’s just the temporary absence of effort, which leads to a wasted life.
 
 **Neuroscience Perspective:** Tamasic happiness (delusion from start to finish) is 'Artificial Comfort.' The 'joy' of laziness, sleep, and avoidance is a 'neuro-delusion.' It feels like 'rest' but it's actually 'decay.' It provides zero growth and 100% confusion.
@@ -808,7 +813,8 @@ There is no entity on earth, nor again in heaven among the gods, which could be 
 
 **Simple Translation:** There is no being on earth or even among the gods in heaven who is free from these three qualities born of nature.
 
-**Argument Arc:** *Duties by Nature (18.40–18.44)* — Opens the section by establishing there is no being on earth or even among the gods in heaven who is free from these three qualities born of nature.
+**Argument Arc:** *Duties by Nature (18.40–18.44)* — Bridges the guṇa taxonomy and the social-duty analysis: the universality of guṇa-conditioning applies even to gods, establishing that nobody stands outside the system before the varṇa analysis begins.
+
 **Contemporary Relevance:** Universal Constraint. Everyone is playing the same game with the same three cards (Gunas). This realization is the basis for universal empathy: we are all struggling with the same internal forces. Mastery is not about 'deleting' the Gunas, but about learning to play the cards well.
 
 **Neuroscience Perspective:** The 'Universal Constraint' of Gunas is a lesson in 'biological humility.' No human or 'god' is free from the laws of nature. This realization allows us to stop 'fighting the game' and start 'mastering the rules' of our own psychology.
@@ -827,7 +833,8 @@ Of brahmins, kṣatriyas, vaiśyas, and śūdras, O scorcher of foes, the action
 
 **Simple Translation:** The duties of thinkers, leaders, providers, and service-workers are distributed based on the qualities (Gunas) born of their own inherent nature, Arjuna.
 
-**Argument Arc:** *Duties by Nature (18.40–18.44)* — Advances the argument: The duties of thinkers, leaders, providers, and service-workers are distributed based on the qualities (Gunas) born of their own inherent nature, Arjuna.
+**Argument Arc:** *Duties by Nature (18.40–18.44)* — Introduces the fourfold varṇa scheme rooted not in birth but in svabhāva-generated guṇas — establishing that social function flows organically from innate psychological constitution, setting up the three verses of role-specific elaboration.
+
 **Contemporary Relevance:** The First Principle of Social Function. Society naturally organizes itself into four roles: Intellectual (Brahmin), Leadership (Kshatriya), Commercial (Vaishya), and Support (Shudra). These are not 'ranks' but 'functions.' Finding your role based on your inherent nature (svabhāva) is the key to both social harmony and personal satisfaction.
 
 **Neuroscience Perspective:** Social function based on 'inherent nature' (svabhāva) describes 'optimal functional fit.' The system works best when each 'brain-type' (Guna-balance) performs the role it is 'neurally wired' for. This is the First Principle of systemic efficiency.
@@ -849,7 +856,8 @@ Tranquility, restraint, austerity, purity, patience, and rectitude; knowledge, r
 
 **Simple Translation:** Mental peace, self-control, discipline, purity, patience, honesty, knowledge, realization, and trust—these are the natural duties of a thinker (Brahmin).
 
-**Argument Arc:** *Duties by Nature (18.40–18.44)* — Advances the argument: Mental peace, self-control, discipline, purity, patience, honesty, knowledge, realization, and trust—these are the natural duties of a thinker (Brahmin).
+**Argument Arc:** *Duties by Nature (18.40–18.44)* — Specifies the brahmin's natural function: nine internally oriented qualities — tranquility through faith — characterizing the intellect-dominated temperament whose service to society is wisdom and spiritual knowledge.
+
 **Contemporary Relevance:** The Intellectual Profile. If you are a teacher, researcher, or guide, your value comes from your 'internal quality.' You can't lead with wisdom if your mind is chaotic or dishonest. Integrity is the 'First Principle' of the intellectual role.
 
 **Neuroscience Perspective:** The Thinker’s Profile (peace, honesty, knowledge) describes a brain optimized for 'Information and Integrity.' If you are a guide, your 'internal quality' is your 'product.' Neurally, you must maintain 'high-Sattva' to be effective in this role.
@@ -868,7 +876,8 @@ Valor, vigor, firmness, skill, and also not fleeing in battle; generosity and lo
 
 **Simple Translation:** Bravery, vigor, firmness, skill, not running away from battle, generosity, and a natural sense of leadership—these are the duties of a leader (Kshatriya).
 
-**Argument Arc:** *Duties by Nature (18.40–18.44)* — Advances the argument: Bravery, vigor, firmness, skill, not running away from battle, generosity, and a natural sense of leadership—these are the duties of a leader (Kshatriya).
+**Argument Arc:** *Duties by Nature (18.40–18.44)* — Specifies the kṣatriya's natural function: externally directed energies of valor, vigor, skill, and lordly generosity — the rajas-dominant temperament whose service to society is protection, governance, and courageous presence.
+
 **Contemporary Relevance:** The Leadership Profile. If you are in a position of power, your duty is to protect and lead. This requires raw 'vigor' (tejah) and the 'firmness' (dhriti) to stay in the fight when others quit. Leadership is an act of courage and service.
 
 **Neuroscience Perspective:** The Leader’s Profile (bravery, vigor, firmness) describes a brain optimized for 'Action and Protection.' Neurally, this requires 'high-Rajas' (energy) regulated by 'high-Sattva' (integrity). Leadership is 'regulated power.'
@@ -887,7 +896,8 @@ Agriculture, cow-protection, and trade constitute the action of a vaiśya, born 
 
 **Simple Translation:** Agriculture, trade, and business are the duties of a provider (Vaishya). Work that consists of support and service is the duty of a worker (Shudra).
 
-**Argument Arc:** *Duties by Nature (18.40–18.44)* — Closes the section with agriculture, trade, and business are the duties of a provider (Vaishya), completing the argument's arc.
+**Argument Arc:** *Duties by Nature (18.40–18.44)* — Completes the four-function taxonomy by assigning agriculture, trade, and service to the Vaiśya and Śūdra, demonstrating that every social role — including the most materially productive and supportive — is rooted in inherent nature and carries its own path to perfection.
+
 **Contemporary Relevance:** The Foundation of Economy. Providing resources (Vaishya) and providing support (Shudra) are the building blocks of any economy. No role is 'lesser'—the system fails if the providers stop building or the workers stop supporting. Every role is an expression of the same universal order.
 
 **Neuroscience Perspective:** Providers and Workers describe 'the Support Grid.' Neurally, these roles focus on 'External Resource Management' and 'Operational Support.' These are the 'foundational layers' that make the higher intellectual and leadership layers possible.
@@ -907,7 +917,8 @@ Devoted to his own specific action, a man attains perfection. Hear how he finds 
 
 **Simple Translation:** By being dedicated to their own specific duty, a person reaches perfection. Listen to how one reaches perfection through their own work.
 
-**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Opens the section by establishing by being dedicated to their own specific duty, a person reaches perfection.
+**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Opens the section with a pivotal claim: perfection is not the exclusive domain of the renunciant but is accessible through dedicated engagement with one's own work, setting up the question of how ordinary duty leads to the highest realization.
+
 **Contemporary Relevance:** Niche Perfection. You don't have to be a 'genius' or a 'hero' to reach the highest state. You just have to be 100% committed to your own specific 'lane' in life. Perfection is found *in* your work, not by escaping from it.
 
 **Neuroscience Perspective:** Perfection through 'dedication to one's own duty' describes 'Niche-Optimization.' Neurally, if you focus 100% on your specific 'lane,' you achieve a level of 'Flow' and 'Mastery' that is equivalent to any other path. Excellence is role-neutral.
@@ -926,7 +937,8 @@ He from whom is the origin of beings, by whom all this is pervaded — by worshi
 
 **Simple Translation:** By worshipping the Source of all beings—who spreads through everything—through the performance of one's own duty, a person finds perfection.
 
-**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Advances the argument: By worshipping the Source of all beings—who spreads through everything—through the performance of one's own duty, a person finds perfection.
+**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Answers the question raised in 18.45 by providing the theological mechanism: ordinary duty becomes the path to perfection when it is performed as worship of the all-pervading Source, transforming work from a mundane activity into a sacred one.
+
 **Contemporary Relevance:** Work as Worship. This is the ultimate integration. You don't have to go to a temple to 'worship.' Your 'temple' is your desk, your shop, or your home. When you do your work with total integrity as a contribution to the universe, you are practicing the highest form of spirituality.
 
 **Neuroscience Perspective:** Work as Worship describes 'Sacred Functionalism.' Neurally, you transform a 'material task' into a 'transcendental act' by dedicating its 'output' to the universal Source. This 'tagging' of work provides infinite meaning to every small duty.
@@ -945,7 +957,8 @@ Better is one's own *dharma*, though deficient in quality, than the *dharma* of 
 
 **Simple Translation:** It is better to do your own duty, even if you do it imperfectly, than to do someone else's duty perfectly. By doing the work that matches your nature, you incur no negativity.
 
-**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Advances the argument: It is better to do your own duty, even if you do it imperfectly, than to do someone else's duty perfectly.
+**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Reinforces the section's thesis by reasserting the principle of svadharma over paradharma: authenticity to one's own nature, even imperfect, is morally and spiritually superior to a flawless performance of another's role, countering any temptation to abandon one's own path.
+
 **Contemporary Relevance:** Authentic Failure over Inauthentic Success. Copying someone else's life because it looks 'better' is a recipe for internal conflict and stress. Staying true to your own nature—even if it seems 'lesser' to others—keeps you clean and aligned with the Truth. Be yourself.
 
 **Neuroscience Perspective:** Authentic Failure over Inauthentic Success is a First Principle of 'neural alignment.' Trying to 'mimic' another’s role creates 'cognitive dissonance.' Doing your own 'imperfect' duty keeps your system 'integrated' and 'clean.'
@@ -966,7 +979,8 @@ One should not abandon the action born of one's nature, O son of Kuntī, even if
 
 **Simple Translation:** One should not give up the work born of their own nature, even if it has flaws. All actions are surrounded by flaws, just as fire is surrounded by smoke.
 
-**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Advances the argument: One should not give up the work born of their own nature, even if it has flaws.
+**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Provides the pragmatic ground for the svadharma principle: since all action is inherently flawed (as fire is always accompanied by smoke), the demand for perfect duty is illusory, removing the last excuse for abandoning one's own nature-born work.
+
 **Contemporary Relevance:** Accepting Imperfection. No job or project is 'perfect.' Every 'fire' (success) has some 'smoke' (problems, stress, flaws). If you keep quitting because you find a flaw, you will never finish anything. Wisdom is learning to keep the fire burning despite the smoke.
 
 **Neuroscience Perspective:** Accepting 'Fire and Smoke' is a lesson in 'realistic expectations.' Neurally, you learn to process 'problems' as 'systemic noise' rather than 'mission-failures.' You keep working because you know the 'Fire' (the result) requires the 'Smoke' (the struggle).
@@ -985,7 +999,8 @@ He whose intellect is unattached everywhere, whose self is conquered, from whom 
 
 **Simple Translation:** With an unattached intellect everywhere, having mastered the self and with desires gone, one reaches the supreme perfection of 'Actionlessness' through renunciation.
 
-**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Closes the section with with an unattached intellect everywhere, having mastered the self and with desires gone, one reaches the supreme perfection of 'Actionlessness' through renunciation, completing the argument's arc.
+**Argument Arc:** *Perfection Through One's Own Duty (18.45–18.49)* — Closes the section by revealing the inner attitude that transforms duty into liberation: it is not the abandonment of action but the inner state of non-attachment, self-mastery, and desirelessness that produces naiṣkarmya — the supreme perfection that prepares the practitioner for the ascent to brahman described in the next section.
+
 **Contemporary Relevance:** The State of 'Naishkarmya'. This is the 'Master Level.' You are fully active in the world, but internally you are 'actionless' (at peace). You are like a perfectly balanced wheel—spinning at high speed but perfectly still at the center. This is reached through detachment and self-mastery.
 
 **Neuroscience Perspective:** The state of 'Actionlessness' (Naishkarmya) is 'Perfect Internal Stability.' Your brain is performing massive tasks in the world, but your internal 'observer' has achieved 'zero-friction.' You are active but perfectly still. This is the peak of human operating efficiency.
@@ -1004,7 +1019,8 @@ Learn from Me in brief, O son of Kuntī, how he who has attained perfection atta
 
 **Simple Translation:** Learn from Me briefly, Arjuna, how one who has reached this perfection also reaches the Absolute—which is the highest peak of knowledge.
 
-**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Opens the section by establishing learn from Me briefly, Arjuna, how one who has reached this perfection also reaches the Absolute—which is the highest peak of knowledge.
+**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Opens a new stage in the argument: the karma-yogī who has attained naiṣkarmya-siddhi still has a further ascent available — to brahman itself — and Krishna promises to reveal this transition briefly, marking the shift from active duty to the highest contemplative realization.
+
 **Contemporary Relevance:** The Final Transition. Krishna is now showing how to move from 'Professional Mastery' to 'Universal Realization.' There is a final 'upgrade' from being a master of your role to being one with the Source of all roles.
 
 **Neuroscience Perspective:** The 'Highest Peak of Knowledge' is the move from 'doing well' to 'being true.' Krishna is now showing how to move beyond the 'professional self' to the 'absolute Self'—the final stage of human cognitive evolution.
@@ -1023,7 +1039,8 @@ Endowed with a completely purified intellect, restraining the self with firmness
 
 **Simple Translation:** Possessing a purified intellect, controlling the self with firmness, letting go of sensory noise, and casting aside both like and dislike...
 
-**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Advances the argument: Possessing a purified intellect, controlling the self with firmness, letting go of sensory noise, and casting aside both like and dislike.
+**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Begins enumerating the specific inner disciplines required for the ascent to brahman: purified intellect, firm self-restraint, and renunciation of sensory attachment and the push-pull of like and dislike — the foundational clearing of mental distortion.
+
 **Contemporary Relevance:** Cleaning the Interface. To perceive the Absolute, you must 'clean the lens' of your mind. This involves removing the 'static' of sensory static and the 'distortion' of personal bias (like/dislike). This refined mental state is necessary for the final insight.
 
 **Neuroscience Perspective:** Cleaning the Interface (purified intellect, letting go of noise) describes 'Total Signal Clarity.' Neurally, you are 'muting' the dualities of 'like and dislike' so your brain can perceive the Absolute Truth without any personal distortion.
@@ -1042,7 +1059,8 @@ Dwelling in solitude, eating lightly, with speech, body, and mind controlled, co
 
 **Simple Translation:** Seeking solitude, eating lightly, with speech, body, and mind under control, constantly practicing meditation and grounded in detachment...
 
-**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Advances the argument: Seeking solitude, eating lightly, with speech, body, and mind under control, constantly practicing meditation and grounded in detachment.
+**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Extends the list of prerequisites for brahman-realization from inner attitudes to outer disciplines: solitude, moderation in food, bodily and verbal restraint, and constant meditation — showing that the transition to the highest knowledge requires a restructuring of one's entire way of life.
+
 **Contemporary Relevance:** The Monk-Executive Routine. This is a formula for extreme mental clarity. 1. Solitude (unplugging). 2. Light intake (biological health). 3. Total control (discipline). 4. Detachment (objectivity). Whether you are a CEO or a monk, these habits create an unshakeable mind.
 
 **Neuroscience Perspective:** The Monk-Executive Routine (solitude, light food, meditation) describes 'Total System Recalibration.' By regulating your 'inputs' (food/noise) and 'processing' (meditation), you maintain a state of 'peak detachment' and 'peak readiness.'
@@ -1061,7 +1079,8 @@ Having relinquished egoism, force, arrogance, desire, anger, and possessiveness,
 
 **Simple Translation:** Having given up ego, power, arrogance, desire, anger, and the need to own things—free from 'mine' and peaceful—one is fit to be the Absolute.
 
-**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Advances the argument: Having given up ego, power, arrogance, desire, anger, and the need to own things—free from 'mine' and peaceful—one is fit to be the Absolute.
+**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Identifies the psychological obstructions that must be relinquished before brahman-realization is possible: ego, force, pride, desire, anger, and possessiveness — the complete dissolution of the self-asserting personality that stands between the individual and the Absolute.
+
 **Contemporary Relevance:** The Baggage-Free Life. Ego and possessiveness are 'extra weight.' By dropping these heavy psychological burdens, you become 'fit' (kalpate) for the highest reality. You become as light and vast as the truth itself.
 
 **Neuroscience Perspective:** The Baggage-Free Life (giving up ego, pride, 'mine') is 'Minimalist Neural Mapping.' Most of our 'brain-power' is wasted on defending the 'Ego.' By deleting these unnecessary sub-routines, you become 'Fit for Brahman'—vast, light, and peaceful.
@@ -1080,7 +1099,8 @@ Having become Brahman, with a serene self, he neither grieves nor desires. Equal
 
 **Simple Translation:** Having become the Absolute, with a peaceful self, one neither grieves nor craves. Being equal toward all living beings, one reaches supreme devotion to Me.
 
-**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Advances the argument: Having become the Absolute, with a peaceful self, one neither grieves nor craves.
+**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Describes the experiential hallmarks of brahman-realization: the cessation of grief and craving, equanimity toward all beings, and — crucially — the spontaneous arising of supreme devotion to Krishna, linking the jñāna path directly to the bhakti teaching that follows.
+
 **Contemporary Relevance:** The State of Equanimity. When you are 'full' of Truth, you stop 'wanting' (no craving) and 'regretting' (no grief). You see the same essence in everyone. This level of balance is the prerequisite for 'Supreme Devotion'—total alignment with reality.
 
 **Neuroscience Perspective:** Equanimity toward 'all beings' is the state of 'Social-Neural Unity.' Neurally, the brain has stopped 'separating' itself from others. This balance is the prerequisite for 'Supreme Devotion'—the total alignment of the human system with reality.
@@ -1099,7 +1119,8 @@ By devotion he comes to know Me, how great and who I am in truth; then, having k
 
 **Simple Translation:** Through devotion, one truly understands Me—how great I am and who I am in truth. Then, knowing Me in truth, they immediately enter into Me.
 
-**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Closes the section with through devotion, one truly understands Me—how great I am and who I am in truth, completing the argument's arc.
+**Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Closes the section by revealing that brahman-knowledge is not the final destination: it is devotion (bhakti) that grants true understanding of Krishna in his fullness, and that understanding leads to complete absorption in him — the highest knowledge resolves into the highest love, transitioning the argument into the surrender teaching of the next section.
+
 **Contemporary Relevance:** Merging with the Principle. Truth is not just a 'fact' to be known; it's a 'state' to be entered. By understanding the First Principles of the universe through 100% commitment (devotion), you stop being a 'spectator' and start being an 'expression' of that Truth.
 
 **Neuroscience Perspective:** Merging with the Principle (knowing Me, entering Me) describes 'System-Identity Convergence.' Neurally, the distinction between 'the learner' and 'the truth' disappears. You become a 'living expression' of the universal laws. You are the Truth in action.
@@ -1118,7 +1139,8 @@ Even while continually performing all actions, taking refuge in Me, by My grace 
 
 **Simple Translation:** Even while constantly performing all types of actions, if a person takes refuge in Me, they reach the eternal and unchanging state by My grace.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Opens the section by establishing even while constantly performing all types of actions, if a person takes refuge in Me, they reach the eternal and unchanging state by My grace.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Opens the culminating theological section by asserting that active life need not be abandoned: even unceasing worldly action, when performed with refuge in Krishna, is carried by divine grace to the eternal goal — reframing surrender not as withdrawal but as the foundation of all activity.
+
 **Contemporary Relevance:** Grace as a Multiplier. This is a promise for the 'busy person.' You don't have to quit your active life. If your 'refuge' (your ultimate foundation) is the Truth, you will reach the goal even in the middle of a busy career. Integrity acts as 'grace' that accelerates your progress.
 
 **Neuroscience Perspective:** Grace as a 'Multiplier' for the busy person recognizes that 'Refuge' (alignment) is more powerful than 'Activity.' If your foundation is Truth, your brain reaches the goal regardless of the 'volume' of work. Integrity is the 'Fast-Track.'
@@ -1137,7 +1159,8 @@ Renouncing all actions in Me with your mind, holding Me as the supreme goal, res
 
 **Simple Translation:** Mentally surrendering all actions to Me, holding Me as the highest goal, and using the Yoga of discernment, fix your mind constantly on Me.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Advances the argument: Mentally surrendering all actions to Me, holding Me as the highest goal, and using the Yoga of discernment, fix your mind constantly on Me.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Specifies the inner practice of surrender: mentally dedicating all actions to Krishna while using buddhi-yoga to maintain continuous focus on him — showing that surrender is not passive resignation but a rigorous discipline of constant mental reorientation.
+
 **Contemporary Relevance:** Cognitive Outsourcing. Stop carrying the weight of your actions on your own ego. 'Outsource' the ownership to the Truth. This doesn't mean you stop trying; it means you stop 'worrying' because you have dedicated the results to a higher principle.
 
 **Neuroscience Perspective:** Cognitive Outsourcing (surrendering actions to Me) is the First Principle of 'Ego-Management.' You 'upload' the burden of ownership to the Truth. This doesn't stop your effort; it stops your 'anxiety,' making you a more powerful and peaceful 'instrument.'
@@ -1156,7 +1179,8 @@ With your mind fixed on Me, you shall overcome all difficulties by My grace. But
 
 **Simple Translation:** With your mind fixed on Me, you will overcome all obstacles by My grace. But if you refuse to listen because of your ego, you will be lost.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Advances the argument: With your mind fixed on Me, you will overcome all obstacles by My grace.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Presents the positive consequence of mind-fixed surrender alongside its negative counterpart: grace dissolves all obstacles for the surrendered practitioner, while ego-driven refusal leads to ruin — making explicit the stakes of Arjuna's choice between alignment and self-will.
+
 **Contemporary Relevance:** The Choice: Ego or Truth. This is the ultimate fork in the road. Alignment with Truth (grace) makes obstacles manageable. Alignment with Ego (pride) makes even simple things impossible. Your ego is the only thing that can actually 'ruin' you.
 
 **Neuroscience Perspective:** Alignment vs. Ego (Grace vs. Loss) is the ultimate 'Executive Choice.' Neurally, aligning with Truth (Grace) provides 'predictive success' over obstacles. Aligning with Ego (Pride) leads to 'predictive failure' and the eventual ruin of the individual's mental model.
@@ -1175,7 +1199,8 @@ If, taking refuge in egoism, you think "I will not fight," this resolve of yours
 
 **Simple Translation:** If, out of ego, you think 'I will not fight,' your resolution is useless. Your own nature will force you to act.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Advances the argument: If, out of ego, you think 'I will not fight,' your resolution is useless.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Confronts Arjuna's original refusal directly: his ego-driven decision not to fight is not a free choice but a self-deceiving illusion, because prakṛti will override the ego's resolution — exposing ego-will as both spiritually and practically ineffective.
+
 **Contemporary Relevance:** The Futility of Denial. You cannot run away from your 'Svabhāva' (nature). If you are a 'warrior' or a 'leader' by nature, you will eventually find yourself leading or fighting, even if you try to hide. Authenticity is not a choice; it’s an inevitable law of your own being.
 
 **Neuroscience Perspective:** The Futility of Denial highlights that 'Nature' (Svabhāva) is an 'Inevitable Force.' You can't 'logic' your way out of your own biological and psychological programming. Authentic living is not a choice; it’s a requirement of your own 'hard-wired' nature.
@@ -1196,7 +1221,8 @@ Bound by your own action born of your inherent nature, O son of Kuntī, that whi
 
 **Simple Translation:** Bound by your own past actions born of your nature, you will end up doing the very thing you are trying to avoid out of confusion.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Advances the argument: Bound by your own past actions born of your nature, you will end up doing the very thing you are trying to avoid out of confusion.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Deepens the critique of ego-resistance by adding the weight of karmic momentum: Arjuna is already bound by svabhāva-born karma and will be compelled to fight regardless — making willing surrender to Krishna the only form of genuine freedom available to him.
+
 **Contemporary Relevance:** The Momentum of Nature. Your nature is like a powerful river. You can try to swim against it for a while, but eventually, its momentum will carry you. Wisdom is learning to 'steer' your nature toward a good goal rather than wasting energy trying to stop the river.
 
 **Neuroscience Perspective:** The Momentum of Nature describes 'neural path-dependency.' Your past choices and inherent traits create a 'current' that you will eventually follow. Wisdom is 'steering' this current toward a good goal, rather than fighting against your own nature.
@@ -1215,7 +1241,8 @@ The Lord stands in the region of the heart of all beings, Arjuna, causing all be
 
 **Simple Translation:** The Lord lives in the heart of every being, Arjuna, causing all beings to turn around by His mysterious power, as if they were mounted on a machine.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Advances the argument: The Lord lives in the heart of every being, Arjuna, causing all beings to turn around by His mysterious power, as if they were mounted on a machine.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Provides the ontological basis for surrender: the Īśvara already dwells within every heart and orchestrates all beings through māyā, so surrender to Krishna is not submission to an external power but alignment with the intelligence already governing one's own existence from within.
+
 **Contemporary Relevance:** The Ghost in the Machine. This is a First Principle of existence: our physical and mental systems are like 'machines' (yantra) driven by biological and natural laws. The Absolute lives at the center of this machine. Understanding that you are 'mounted on a machine' helps you detach from your mechanical urges and find the 'Driver' within.
 
 **Neuroscience Perspective:** The 'Ghost in the Machine' identifies the 'Core Observer' within the 'Biological System.' Neurally, your body and mind are a 'yantra' (machine) driven by Natural Law. Realizing you are the 'Driver' (the Lord within) allows you to detach from the machine's 'drama.'
@@ -1234,7 +1261,8 @@ Take refuge in Him alone with your whole being, O Bhārata. By His grace you sha
 
 **Simple Translation:** Seek refuge in Him alone with your whole being, Arjuna. By His grace, you will find supreme peace and an eternal home.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Advances the argument: Seek refuge in Him alone with your whole being, Arjuna.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Translates the ontological insight of 18.61 into a concrete directive: because the Īśvara is the inner governor of all beings, total refuge in him — with one's whole being — is the logical response, promising supreme peace and the eternal abode as its fruit.
+
 **Contemporary Relevance:** The Strategy of Surrender. When the 'machine' of life becomes too complex or difficult, the best strategy is to surrender to the 'Designer' of the machine. By aligning your whole being with the highest Truth, you stop fighting the system and start being supported by it.
 
 **Neuroscience Perspective:** Surrendering to the 'Designer' is the 'Final Meta-Strategy.' When the complexity of the 'life-machine' becomes overwhelming, align your whole being with the Source of the machine's code (Truth). This alignment provides 'Supreme Peace.'
@@ -1253,7 +1281,8 @@ Thus has knowledge, more secret than the secret, been declared to you by Me. Hav
 
 **Simple Translation:** Thus, I have shared with you the most secret of all knowledge. Reflect on it deeply and completely, and then do whatever you wish.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Closes the section with thus, I have shared with you the most secret of all knowledge, completing the argument's arc.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Closes the section with a formal declaration that the secret teaching has been fully delivered, then releases Arjuna to deliberate and choose freely — preserving his autonomy even after the most comprehensive instruction, setting the stage for an even deeper secret to follow in 18.64.
+
 **Contemporary Relevance:** The Sovereignty of Free Will. This is one of the most important verses in the Gita. After giving all the advice, Krishna doesn't demand obedience. He tells Arjuna to 'reflect deeply' and then make his own choice. This is the First Principle of true teaching: it empowers the student to decide for themselves.
 
 **Neuroscience Perspective:** The Sovereignty of Free Will (do whatever you wish) is the First Principle of 'Autonomous Mastery.' A true guide doesn't 'command'; he 'empowers.' Krishna gives Arjuna the 'Source Code' and then leaves the 'Execute' button in Arjuna's own hands.
@@ -1274,7 +1303,8 @@ Hear again My supreme word, the most secret of all. Because you are firmly belov
 
 **Simple Translation:** Hear again my supreme word—the deepest secret of all. Because you are so dear to Me, I am telling you this for your own good.
 
-**Argument Arc:** *The Supreme Secret (18.64–18.66)* — Opens the section by establishing hear again my supreme word—the deepest secret of all.
+**Argument Arc:** *The Supreme Secret (18.64–18.66)* — Opens a final, intimate disclosure: Krishna signals that what follows surpasses even the teachings already given, and grounds this ultimate instruction not in duty or cosmic law but in personal love — "because you are dear to Me" — shifting the register from philosophy to relationship.
+
 **Contemporary Relevance:** The Motive of Truth. Truth is shared because of 'Priya' (love/affection). The universe 'wants' you to succeed. This final secret is a summary of the most effective way to live a human life.
 
 **Neuroscience Perspective:** Truth shared because of 'Affection' (Priya) describes 'Nurturing Information.' The universe is not 'indifferent'; its laws are designed for our success. This final secret is the 'best' possible configuration for a human mind.
@@ -1293,7 +1323,8 @@ Fix your mind on Me, be devoted to Me, sacrifice to Me, bow down to Me. You shal
 
 **Simple Translation:** Fix your mind on Me, be devoted to Me, work for Me, and bow down to Me. You will certainly come to Me; I promise you this, because you are dear to Me.
 
-**Argument Arc:** *The Supreme Secret (18.64–18.66)* — Advances the argument: Fix your mind on Me, be devoted to Me, work for Me, and bow down to Me.
+**Argument Arc:** *The Supreme Secret (18.64–18.66)* — Delivers the supreme secret itself in its most concentrated form: a fourfold practice of total orientation toward Krishna (mind, devotion, action, humility), backed by Krishna's personal promise of reunion — a guarantee not offered anywhere else in the Gītā.
+
 **Contemporary Relevance:** The Fourfold Commitment. 1. Attention (Mind). 2. Passion (Devotion). 3. Action (Sacrifice). 4. Humility (Bow down). When you align these four, you become a 'closed loop' of purpose. Success is no longer a 'goal'; it becomes an inevitable state of being.
 
 **Neuroscience Perspective:** The Fourfold Commitment (Mind, Devotion, Work, Humility) is 'Total System Closing.' When your attention, passion, energy, and ego are all 'locked' onto the Truth, the system becomes 'unshakeable.' Success is no longer a 'goal'; it is an 'output' of your state.
@@ -1312,7 +1343,8 @@ Abandoning all *dharmas*, take refuge in Me alone. I will liberate you from all 
 
 **Simple Translation:** Give up all other 'Dharmas' (rules/paths) and take refuge in Me alone. I will liberate you from all mistakes and negativity; do not grieve.
 
-**Argument Arc:** *The Supreme Secret (18.64–18.66)* — Closes the section with give up all other 'Dharmas' (rules/paths) and take refuge in Me alone, completing the argument's arc.
+**Argument Arc:** *The Supreme Secret (18.64–18.66)* — Closes the section — and effectively the Gītā's doctrinal core — with the carama śloka: after eighteen chapters of differentiated dharmas, Krishna dissolves all frameworks into a single act of unconditional surrender, promising to bear full responsibility for liberation, removing even the burden of guilt.
+
 **Contemporary Relevance:** The Ultimate Reset. 'Abandoning all Dharmas' doesn't mean becoming lawless; it means letting go of your *attachment* to specific rules and social roles. When you take refuge in the absolute Truth itself, you move beyond 'right and wrong' into a state of pure alignment. This is the end of all guilt and grief.
 
 **Neuroscience Perspective:** The Ultimate Reset (Abandon all Dharmas) is 'De-Conditional Freedom.' Neurally, you let go of 'specific rules' and 'roles' to align with the 'Universal Law' itself. This removes all 'moral friction' (sin) and 'existential weight' (grief). You are finally 'Free.'
@@ -1334,7 +1366,8 @@ This is never to be spoken by you to one who is without austerity, nor to one wh
 
 **Simple Translation:** This secret should never be shared with someone who lacks discipline, who is not devoted, who doesn't want to learn, or who speaks ill of Me.
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Opens the section by establishing this secret should never be shared with someone who lacks discipline, who is not devoted, who doesn't want to learn, or who speaks ill of Me.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Opens the transmission-protocol section by defining, through negation, the four disqualifications for receiving this supreme teaching — a protective measure that also implicitly defines the ideal recipient as one with discipline, devotion, genuine desire to learn, and freedom from resentment toward the Divine.
+
 **Contemporary Relevance:** Protecting the Information. Deep wisdom is powerful and can be dangerous if misunderstood. It requires a 'prepared mind' to be used correctly. This is a warning to share high-level 'First Principles' only with those who have shown the character to handle them.
 
 **Neuroscience Perspective:** Protecting the Information recognizes 'Receiver-Readiness.' Deep First Principles are 'high-energy data' that require a 'stable substrate' (discipline and trust) to be used correctly. Sharing them with an 'unprepared mind' causes noise and confusion.
@@ -1353,7 +1386,8 @@ He who will teach this supreme secret among My devotees, showing supreme devotio
 
 **Simple Translation:** Anyone who shares this supreme secret among My devotees, showing pure devotion to Me, will undoubtedly reach Me.
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Advances the argument: Anyone who shares this supreme secret among My devotees, showing pure devotion to Me, will undoubtedly reach Me.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Turns from prohibition to positive mandate: the act of transmitting this supreme teaching among qualified devotees is itself the highest devotional act, and carries the same liberating fruit as the teaching itself — making the teacher's path equivalent to the practitioner's path.
+
 **Contemporary Relevance:** The Multiplier Effect. Sharing wisdom is the highest form of service. When you help others understand the 'Source Code' of life, you accelerate your own growth. Teaching is the fastest way to master a subject.
 
 **Neuroscience Perspective:** The Multiplier Effect of Teaching highlights that 'Wisdom is Social.' Neurally, sharing the 'Source Code' with others 'hard-wires' it into your own system. Teaching is the ultimate form of 'mastery through contribution.'
@@ -1372,7 +1406,8 @@ And among men there is no one who does what is more pleasing to Me than he, nor 
 
 **Simple Translation:** Among all humans, there is no one who does a more pleasing service to Me than this, and no one on earth will be dearer to Me.
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Advances the argument: Among all humans, there is no one who does a more pleasing service to Me than this, and no one on earth will be dearer to Me.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Escalates the reward: not only does the transmitter reach Krishna (18.68), but they become uniquely the most beloved of all humans — an extraordinary affirmation that underscores the supreme value Krishna places on the living propagation of this knowledge.
+
 **Contemporary Relevance:** The Value of an Educator. Providing 'Clarity' to the world is the most valuable contribution a human can make. By helping others remove their 'darkness' (ignorance), you align perfectly with the creative and illuminating purpose of the universe.
 
 **Neuroscience Perspective:** The Value of an Educator reflects the 'Illumination Duty' of humans. Neurally, helping others 'remove their darkness' is the highest use of human intelligence. By providing 'Clarity,' you become the most valuable unit in the universal system.
@@ -1391,7 +1426,8 @@ And he who will study this sacred dialogue of ours, by him I would be worshipped
 
 **Simple Translation:** And anyone who studies this sacred dialogue between us—I consider that person to have worshipped Me through the 'Sacrifice of Knowledge.'
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Advances the argument: And anyone who studies this sacred dialogue between us—I consider that person to have worshipped Me through the 'Sacrifice of Knowledge.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Extends the merit of engagement from teaching to disciplined study: the one who contemplates this dialogue is declared to have performed jñāna-yajña — the sacrifice of knowledge — elevating intellectual study of the Gītā itself into a complete spiritual practice.
+
 **Contemporary Relevance:** Study as Worship. Thinking deeply about these principles is an act of 'Jnana-Yajna' (Knowledge-Sacrifice). It’s not just 'reading'; it's a transformative process that burns away your old biases and builds a new, wiser identity.
 
 **Neuroscience Perspective:** Study as 'Sacrifice' describes 'Neuro-Synthesis.' Neurally, 'thinking deeply' about these principles is an act of 'self-reprogramming.' You are 'burning away' old, flawed models and building a new, high-integrity 'Brahman-model' of life.
@@ -1410,7 +1446,8 @@ Even the man who merely hears it, full of faith and free from malice — he too,
 
 **Simple Translation:** Even a person who simply listens to this with faith and without judgment will be freed and reach the happy worlds of the righteous.
 
-**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Closes the section with even a person who simply listens to this with faith and without judgment will be freed and reach the happy worlds of the righteous, completing the argument's arc.
+**Argument Arc:** *Who Should Hear This Teaching (18.67–18.71)* — Closes the section by extending the merit all the way down to faithful listening: even the most minimal form of engagement — hearing with faith and without malice — purifies and liberates, demonstrating that this teaching is accessible at every level of capacity and not reserved only for advanced practitioners.
+
 **Contemporary Relevance:** The Low Barrier to Entry. Even 'passive listening' is beneficial if it is done with an open and sincere heart. The 'vibration' of truth has a purifying effect, even before you fully understand every detail. Sincerity is the 'minimum viable product' for growth.
 
 **Neuroscience Perspective:** Low Barrier to Entry highlights the 'Power of Vibration.' Even 'listening without judgment' (unprejudiced openness) starts the 're-wiring' process. Truth has a 'magnetic' quality that begins to organize the brain even before total understanding.
@@ -1429,7 +1466,8 @@ Has this been heard by you, O Pārtha, with a one-pointed mind? Has your delusio
 
 **Simple Translation:** Have you heard this with a one-pointed mind, Arjuna? Has your confusion born of ignorance been destroyed?
 
-**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Opens the section by establishing have you heard this with a one-pointed mind, Arjuna?.
+**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Opens the closing exchange by having Krishna check the reception of his teaching: the two questions — "Was your attention one-pointed?" and "Has your delusion been destroyed?" — establish the pedagogical standard by which the entire dialogue is to be evaluated.
+
 **Contemporary Relevance:** The Final Check-in. Krishna asks for 'Feedback.' Did the teaching work? Was the attention 'one-pointed' (ekagrena)? Real learning requires a 'feedback loop' to ensure the 'First Principles' have actually been received and the 'Darkness' has been removed.
 
 **Neuroscience Perspective:** The Final Check-in targets 'Attentional Integrity.' Krishna asks: 'Was your attention one-pointed?' and 'Is your confusion gone?' Real education requires this 'closed-loop' feedback to ensure the information has been correctly received and the 'Noise' (delusion) removed.
@@ -1451,7 +1489,8 @@ My delusion is destroyed; memory has been regained by me through Your grace, O u
 
 **Simple Translation:** Arjuna said: My confusion is gone! I have regained my clarity through Your grace. I stand firm, my doubts are destroyed, and I will act according to Your word.
 
-**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Advances the argument: My confusion is gone!.
+**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Provides the climactic answer to Krishna's question and resolves the problem that opened the entire Gītā: Arjuna's moha (delusion) — which paralyzed him in Chapter 1 — has been destroyed by grace, and he commits to action, proving that the dialogue has accomplished its transformative purpose.
+
 **Contemporary Relevance:** The End of Paralysis. This is the goal of the entire 700-verse dialogue. Arjuna moves from 'paralysis and despair' to 'clarity and action.' He doesn't say 'I'm happy now'; he says 'I will act.' Wisdom is only real when it results in clear, decisive action.
 
 **Neuroscience Perspective:** The End of Paralysis (confusion is gone, I will act) is the state of 'Functional Alignment.' Arjuna doesn't say 'I'm enlightened'; he says 'I will execute Your word.' Wisdom is only real when it results in a 'Decisive Neural Output' (Action).
@@ -1473,7 +1512,8 @@ Thus I have heard this wonderful dialogue between Vāsudeva (Kṛṣṇa) and th
 
 **Simple Translation:** Sanjaya said: Thus I have heard this wonderful and hair-raising dialogue between Krishna and the great-souled Arjuna.
 
-**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Advances the argument: Thus I have heard this wonderful and hair-raising dialogue between Krishna and the great-souled Arjuna.
+**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Shifts the narrative frame from the battlefield dialogue back to Sanjaya's report to Dhṛtarāṣṭra, and his characterization of the exchange as "wonderful and hair-raising" signals that the teaching's power is not merely intellectual but has a visceral, awe-producing quality that transcends the listener.
+
 **Contemporary Relevance:** The Power of Testimony. Sanjaya, the neutral observer, confirms the intensity of the experience. Great truths should be 'hair-raising' (romaharshanam) because they challenge our very core and reveal a much larger reality.
 
 **Neuroscience Perspective:** The Power of Testimony highlights the 'Hair-Raising' intensity of Truth. When a brain encounters its own 'First Principles' on a cosmic scale, the experience is so intense that it produces a 'piloerection' response (romaharshanam)—the physiological signature of total awe.
@@ -1492,7 +1532,8 @@ By the grace of Vyāsa I heard this supreme secret, this yoga, directly from K�
 
 **Simple Translation:** By the grace of the sage Vyasa, I have heard this supreme secret of Yoga directly from Krishna, the Lord of Yoga, as He spoke it Himself.
 
-**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Advances the argument: By the grace of the sage Vyasa, I have heard this supreme secret of Yoga directly from Krishna, the Lord of Yoga, as He spoke it Himself.
+**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Authenticates the transmission: Sanjaya discloses that his miraculous ability to witness and report the dialogue was itself a gift of Vyāsa's grace, underscoring that the Gītā reaches its audience not by accident but through a chain of grace — from Krishna to Vyāsa to Sanjaya to Dhṛtarāṣṭra and the reader.
+
 **Contemporary Relevance:** Direct Access. Truth is most powerful when it is 'Direct' (sakshat). Sanjaya highlights the privilege of hearing the 'Source' without any filters. We should always strive to get as close to the 'Original Principles' as possible.
 
 **Neuroscience Perspective:** Direct Access (Krishna, the Lord of Yoga, speaking Himself) describes 'Source-Level Data.' Truth is most powerful when it is 'Direct' (sakshat). We should always strive to bypass the 'commentaries' and go straight to the 'Original Laws' of existence.
@@ -1511,7 +1552,8 @@ O King, remembering again and again this wonderful and holy dialogue between Ke�
 
 **Simple Translation:** O King, as I remember this wonderful and holy dialogue over and over again, I rejoice again and again.
 
-**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Advances the argument: O King, as I remember this wonderful and holy dialogue over and over again, I rejoice again and again.
+**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Reveals a secondary effect of the teaching: for Sanjaya the witness, repeated remembrance of the dialogue continues to produce fresh joy — demonstrating that genuine wisdom is not exhausted upon first hearing but deepens and nourishes every time it is revisited.
+
 **Contemporary Relevance:** The Joy of Contemplation. Once you have received a great truth, 'remembering' it becomes a source of constant joy. It’s like a 'mental treasure' that you can revisit whenever you need inspiration or peace.
 
 **Neuroscience Perspective:** The Joy of Contemplation describes 'Persistent Reward.' Once you have 'encoded' these principles, the act of 'remembering' them triggers a 'joy-signal.' Real wisdom is a 'mental asset' that provides infinite 'dopamine-interest' for the rest of your life.
@@ -1530,7 +1572,8 @@ And remembering again and again that exceedingly wonderful form of Hari, great i
 
 **Simple Translation:** And as I remember that exceedingly wonderful form of Krishna, my amazement is great and I rejoice over and over.
 
-**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Advances the argument: And as I remember that exceedingly wonderful form of Krishna, my amazement is great and I rejoice over and over.
+**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Adds the visual dimension to Sanjaya's ongoing awe: it is not only the words of the dialogue but the memory of Krishna's extraordinary form (the cosmic vision of Chapter 11) that continues to produce wonder, reinforcing that the Gītā's teaching is inseparable from direct perception of the Divine.
+
 **Contemporary Relevance:** Awe as a Permanent State. Real wisdom doesn't 'wear off.' The 'Vismaya' (amazement) of understanding the scale of the Absolute is a permanent upgrade to your life's quality. You live in a state of constant, quiet wonder.
 
 **Neuroscience Perspective:** Awe as a Permanent State (amazement again and again) describes 'Infinite Scale Recognition.' Realizing the scale of the Absolute is a 'one-way' street. Once your brain has seen the 'Infinite,' it can never go back to being 'small.' You live in a state of constant, quiet 'Amazement.'
@@ -1549,7 +1592,8 @@ Wherever there is Kṛṣṇa, the Lord of Yoga, and wherever there is Pārtha, 
 
 **Simple Translation:** Wherever Krishna, the master of Yoga, and Arjuna, the great archer, are together — there you will find prosperity, victory, abundance, and unwavering justice. This is my firm conviction.
 
-**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Closes the section with wherever Krishna, the master of Yoga, and Arjuna, the great archer, are together — there you will find prosperity, victory, abundance, and unwavering justice, completing the argument's arc.
+**Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Closes the entire Gītā with Sanjaya's formula of four fruits — prosperity, victory, abundance, and unwavering justice — that manifest wherever divine wisdom (Krishna) and dedicated human action (Arjuna) are united, sealing the chapter's and the epic's central thesis that the union of knowledge and skillful action is the source of all flourishing.
+
 **Contemporary Relevance:** The Partnership of Wisdom and Action. The Gita closes with a universal formula: when higher truth (Krishna) and committed human effort (Arjuna) come together, success is inevitable. This is not about one person or one event — it's a principle. In any endeavor, the combination of clear understanding and disciplined execution produces lasting results. Sanjaya's conviction is the final message: align with truth, act with courage, and the outcome will take care of itself.
 
 **Neuroscience Perspective:** The pairing of wisdom and action mirrors what neuroscience calls the integration of the 'knowing' and 'doing' networks — the prefrontal planning regions and the motor-execution circuits. Peak performance in any domain emerges when cognitive clarity (understanding the goal) and skilled action (executing with discipline) operate in concert rather than in conflict. Sanjaya's unshakeable conviction also reflects a well-consolidated belief state — when evidence, experience, and insight converge, the brain generates a stable confidence that does not waver under pressure.

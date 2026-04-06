@@ -24,7 +24,8 @@ He who performs bounden duty without depending on the fruit of action — he is 
 
 **Simple Translation:** The Blessed Lord said: One who does the work they are supposed to do, without being dependent on the results, is a true renouncer and a true Yogi. It’s not just about giving up external rituals or stopping all activities.
 
-**Argument Arc:** *True Renunciation (6.1–6.4)* — Opens the section by establishing the Blessed Lord said: One who does the work they are supposed to do, without being dependent on the results, is a true renouncer and a true Yogi.
+**Argument Arc:** *True Renunciation (6.1–6.4)* — Opens the chapter by immediately redefining who counts as a sannyāsi and a yogi: the criterion is inner independence from results, not the external abandonment of fire and ritual — establishing from the first verse that Chapter 6 is about inner renunciation, not outer asceticism.
+
 **Contemporary Relevance:** 'The Professional Ascetic.' You don't have to quit your job or move to the mountains to be 'spiritual.' True renunciation is a mental state where you perform your duties excellently but are not emotionally dependent on praise, bonuses, or success. This makes you both a high-performer and a peaceful person.
 
 **Neuroscience Perspective:** The 'Professional Ascetic' mindset describes a state of 'functional detachment.' By performing duty without depending on the results, the brain prevents the chronic 'cortisol-spikes' associated with performance anxiety. This allows the prefrontal cortex to remain clear and focused on execution rather than reward-monitoring.
@@ -45,7 +46,8 @@ That which they call renunciation, know that to be yoga, O son of Pāṇḍu; fo
 
 **Simple Translation:** Arjuna, understand that what is called 'renunciation' is actually the same as 'Yoga.' No one can be a Yogi unless they have let go of their selfish motivations and hidden agendas.
 
-**Argument Arc:** *True Renunciation (6.1–6.4)* — Advances the argument: Arjuna, understand that what is called 'renunciation' is actually the same as 'Yoga.
+**Argument Arc:** *True Renunciation (6.1–6.4)* — Removes the last terminological distinction: sannyāsa and yoga are identical names for the same inner state, because no one can be a true yogi who has not renounced selfish purpose (saṅkalpa) — making motivation the single dividing line.
+
 **Contemporary Relevance:** 'Integrity of Intent.' You can't achieve deep focus or mental clarity if your mind is full of 'sankalpa'—selfish plans and desires. True discipline (Yoga) requires a clean, honest intention. If your motives are selfish, your mind will always be noisy and distracted.
 
 **Neuroscience Perspective:** Renunciation of 'selfish purpose' (saṅkalpa) is the key to mental quietude. Neurally, 'sankalpa' is the engine of the 'narrative self' (Default Mode Network). When you let go of ego-driven plans, the brain's 'chatter' stops, making true discipline (Yoga) possible.
@@ -64,7 +66,8 @@ For the sage who wishes to ascend to yoga, action is said to be the means; for h
 
 **Simple Translation:** For someone who wants to reach the state of Yoga, work is the path. But for someone who has already reached that state, calmness and peace are the way to stay there.
 
-**Argument Arc:** *True Renunciation (6.1–6.4)* — Advances the argument: For someone who wants to reach the state of Yoga, work is the path.
+**Argument Arc:** *True Renunciation (6.1–6.4)* — Maps the two-stage path of the yogi: for the aspiring practitioner, action is the means of ascent; once the state of yoga is reached, tranquility becomes the sustaining means — showing that renunciation is not the starting point but the arriving point.
+
 **Contemporary Relevance:** 'Stages of Mastery.' When you are starting out, you need to 'do the work'—you need discipline, action, and effort to train your mind. But once you have achieved mastery, your greatest asset is your 'stillness.' High-level performance eventually becomes a form of calm, effortless flow.
 
 **Neuroscience Perspective:** The transition from 'action as means' to 'tranquility as means' describes the process of 'neural automation.' Initially, effortful action is needed to train the brain (Yoga). Once the patterns are established, 'stillness' becomes the optimal state for maintaining high-level integration.
@@ -83,7 +86,8 @@ When one does not cling to the objects of the senses or to actions, and has reno
 
 **Simple Translation:** A person is said to have reached Yoga when they no longer cling to sensory pleasures or their own actions, and have let go of all selfish plans.
 
-**Argument Arc:** *True Renunciation (6.1–6.4)* — Closes the section with A person is said to have reached Yoga when they no longer cling to sensory pleasures or their own actions, and have let go of all selfish plans, completing the argument's arc.
+**Argument Arc:** *True Renunciation (6.1–6.4)* — Closes by giving the precise definition of "having ascended to yoga": no clinging to sense-objects, no clinging to actions themselves, and the full renunciation of all selfish purpose — a triple criterion that completes the section's redefinition of sannyāsa.
+
 **Contemporary Relevance:** 'Detached Mastery.' This is the point where you do your best but don't 'need' anything from the world to feel complete. You are not 'addicted' to your work or your comforts. You act from a place of freedom rather than a place of craving.
 
 **Neuroscience Perspective:** Non-attachment to objects and actions is the state of 'neural sovereignty.' The brain has effectively 'de-coupled' its happiness from external triggers. You operate in the world, but your internal state is governed by 'top-down' executive control rather than 'bottom-up' sensory craving.
@@ -102,7 +106,8 @@ One should uplift oneself by the self; one should not degrade oneself. For the s
 
 **Simple Translation:** You must lift yourself up with your own mind; do not let yourself down. Your own mind can be your best friend, or it can be your worst enemy.
 
-**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Opens the section by establishing you must lift yourself up with your own mind; do not let yourself down.
+**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Opens by placing full responsibility for liberation on the practitioner's own agency: the self must be the agent of its own elevation — and the warning "do not degrade yourself" immediately introduces the dark possibility that the very same self can be one's worst enemy.
+
 **Contemporary Relevance:** 'Self-Responsibility.' This is the most powerful psychological First Principle. You are responsible for your own mental state. No one else can 'save' you or 'destroy' you as effectively as your own thoughts and habits can. You have the power to be your own greatest supporter or your own worst saboteur.
 
 **Neuroscience Perspective:** The principle 'the self is the friend/enemy of the self' is the ultimate law of 'neuroplasticity.' Your thoughts and habits literally reshape your brain. You can 'friend' yourself by building healthy, focused neural pathways, or 'enemy' yourself by reinforcing pathways of distraction and reactivity.
@@ -124,7 +129,8 @@ The self is the friend of him by whom the self has been conquered by the self; b
 
 **Simple Translation:** For someone who has mastered their mind, the mind is a helpful friend. But for someone whose mind is out of control, that same mind acts like an enemy, working against them.
 
-**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Advances the argument: For someone who has mastered their mind, the mind is a helpful friend.
+**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Resolves the paradox introduced in 6.5 by identifying the determining variable: whether the self has been conquered by the self — the unconquered self actively works against the person like a hostile enemy, while the conquered self becomes a reliable ally.
+
 **Contemporary Relevance:** 'The Disciplined Mind.' An undisciplined mind is full of anxiety, craving, and distraction—it’s like living with a bully inside your own head. A disciplined mind is focused, calm, and reliable—it’s like having a master strategist as a partner. The difference is 'victory' over your own impulses.
 
 **Neuroscience Perspective:** A 'conquered self' is a 'regulated self.' When the prefrontal cortex successfully manages the limbic system, the brain acts as a unified, 'friendly' partner. An unconquered self is a 'fragmented self,' where different brain regions are in constant conflict, creating the internal experience of an 'enemy.'

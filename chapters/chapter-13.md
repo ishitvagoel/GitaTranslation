@@ -356,7 +356,8 @@ That is the light of lights, said to be beyond darkness. It is knowledge, the ob
 
 **Simple Translation:** It is the Light of all lights, and it is said to be beyond all darkness. It is Knowledge itself, the Object of knowledge, and the Goal of knowledge, living in the hearts of all.
 
-**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Advances the argument: It is the Light of all lights, and it is said to be beyond all darkness.
+**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Culminates the description with brahman as the self-luminous light of awareness seated in every heart — the source of all knowing, simultaneously knower, known, and the act of knowing itself.
+
 **Contemporary Relevance:** The Internal Sun. Every bit of 'clarity' or 'intelligence' you have comes from this internal source. It is the ultimate destination of all your learning. By looking inward, you find the 'Light' that makes everything else understandable.
 
 **Neuroscience Perspective:** The 'Light of all lights' identifies the Absolute as the 'Source of Awareness.' Every 'thought' or 'perception' you have is powered by this internal 'Light.' By looking for the 'Knower' behind the 'Thought,' you find the ultimate goal of all knowledge.
@@ -375,7 +376,8 @@ Thus the field, knowledge, and the object of knowledge have been briefly declare
 
 **Simple Translation:** Thus I have briefly described the Field, Knowledge, and what is to be Known. My devotee, understanding this, becomes fit to reach My state of being.
 
-**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Closes the section with thus I have briefly described the Field, Knowledge, and what is to be Known, completing the argument's arc.
+**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Seals the section with a three-part summary — field, knowledge-virtues, object of knowledge — and declares that a devotee who grasps all three becomes fit for the divine state, closing the chapter's first expository half.
+
 **Contemporary Relevance:** The Roadmap to Completion. This verse summarizes the chapter's first half. If you understand the World (Field), the Method (Knowledge), and the Source (Known), you have the complete blueprint for human excellence and freedom.
 
 **Neuroscience Perspective:** Summarizing Field, Knowledge, and Known describes 'blueprint completion.' Once the brain has mapped the 'What' (Field), the 'How' (Knowledge), and the 'Goal' (Known), it has the complete 'spec' needed to achieve the highest human state.
@@ -394,7 +396,8 @@ Know that both material nature (*prakṛti*) and spirit (*puruṣa*) are without
 
 **Simple Translation:** Understand that both Material Nature (Prakriti) and Spirit (Purusha) are without beginning. All changes and qualities are born from Material Nature.
 
-**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Opens the section by establishing understand that both Material Nature (Prakriti) and Spirit (Purusha) are without beginning.
+**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Introduces the ontological dualism as an eternal and co-primordial pair: neither puruṣa nor prakṛti began; all modifications and guṇas belong to prakṛti alone, establishing the ground for the distinction between witness and field.
+
 **Contemporary Relevance:** The Two Primordial Forces. Everything in the universe is a combination of 'Matter' (Prakriti) and 'Consciousness' (Purusha). Matter is the stuff that changes; Consciousness is the observer that stays the same. Knowing this helps you separate your 'changing' life from your 'unchanging' self.
 
 **Neuroscience Perspective:** Nature (Prakriti) and Spirit (Purusha) as 'beginningless' describes the 'primordial duality.' Neurally, this helps you distinguish between 'The Environment' (that which changes) and 'The Observer' (that which is). This distinction is the source of absolute mental stability.
@@ -413,7 +416,8 @@ Material nature is said to be the cause in the production of effects and instrum
 
 **Simple Translation:** Material Nature is the cause behind all physical actions and instruments. Spirit is the cause behind the experience of pleasure and pain.
 
-**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Advances the argument: Material Nature is the cause behind all physical actions and instruments.
+**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Assigns causal roles precisely: prakṛti is the cause of all bodily actions and instruments; puruṣa is the cause of the experience of pleasure and pain — a functional division that explains why the witness-self need not claim authorship of the body's acts.
+
 **Contemporary Relevance:** Identifying the 'Engine' and the 'Driver'. Your body and environment (Nature) perform the actions. Your awareness (Spirit) is what feels the results. This clarifies accountability: the 'machine' does the work, but the 'observer' feels the impact. Mastery is learning to drive the machine well.
 
 **Neuroscience Perspective:** Nature as 'cause of instruments' and Spirit as 'cause of experience' defines 'functional accountability.' Your brain/body (instruments) do the work, but your Awareness (Spirit) is the 'Enjoyer' of the results. Mastery is training the instruments to serve the Spirit's joy.
@@ -432,7 +436,8 @@ For the spirit situated in material nature experiences the *guṇas* born of mat
 
 **Simple Translation:** Spirit, when living in Material Nature, experiences the qualities born of that nature. Attachment to these qualities is what causes rebirth in good or bad situations.
 
-**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Advances the argument: Spirit, when living in Material Nature, experiences the qualities born of that nature.
+**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Identifies attachment to the guṇas as the mechanism of bondage: puruṣa, though simply witnessing, becomes entangled when it mistakes guṇa-experiences for its own nature, and this entanglement is what drives birth in good and bad conditions.
+
 **Contemporary Relevance:** The Trap of Identification. When the 'Observer' starts thinking it *is* the 'Machine' and gets attached to its states (moods, possessions, success), it gets trapped in repetitive cycles. Freedom comes from observing the 'qualities' without getting stuck to them.
 
 **Neuroscience Perspective:** Attachment to 'qualities' (Gunas) causes 'repetitive stress.' When the Spirit 'identifies' with the temporary states of Nature (moods, success, failure), it gets trapped in the 'Karma-loop.' Freedom comes from 'observing' the qualities without 'owning' them.
@@ -451,7 +456,8 @@ The spectator, the permitter, the sustainer, the enjoyer, the great Lord, and th
 
 **Simple Translation:** The Supreme Spirit in this body is also called the Witness, the Consenter, the Sustainer, the Enjoyer, the Great Lord, and the Highest Self.
 
-**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Advances the argument: The Supreme Spirit in this body is also called the Witness, the Consenter, the Sustainer, the Enjoyer, the Great Lord, and the Highest Self.
+**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Elevates the puruṣa from individual witness to the Supreme Self (paramātman), listing six names that reveal its full dignity — witness, permitter, sustainer, enjoyer, mahéśvara — suggesting that the individual knower and the cosmic Lord share the same transcendent identity.
+
 **Contemporary Relevance:** The many roles of Consciousness. Your inner awareness is not just a passive camera. It is the witness of your life, the one who gives 'permission' for your actions, and the ultimate enjoyer of your experiences. It is the 'High-Level Executive' of your existence.
 
 **Neuroscience Perspective:** The Supreme Spirit as 'Witness and Consenter' describes 'High-Level Monitoring.' Your core awareness acts as the 'Supervisor' of your life. By identifying with this Supervisor rather than the 'Worker' (ego), you gain a perspective of total authority and peace.

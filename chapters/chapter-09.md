@@ -24,7 +24,8 @@ To you, who are free from malice, I shall declare this most profound secret: kno
 
 **Simple Translation:** The Blessed Lord said: To you, who do not complain or judge, I will tell the deepest secret: the combination of theoretical knowledge and direct experience. Knowing this will free you from all misfortune.
 
-**Argument Arc:** *The Royal Secret (9.1–9.3)* — Opens the section by establishing the Blessed Lord said: To you, who do not complain or judge, I will tell the deepest secret: the combination of theoretical knowledge and direct experience.
+**Argument Arc:** *The Royal Secret (9.1–9.3)* — Opens the chapter with a promise calibrated to the listener: because Arjuna is free from malice (*anasūyave*), he is fit to receive the most confidential teaching, pairing the content (supreme knowledge) with the prerequisite disposition required to receive it.
+
 **Contemporary Relevance:** Open-mindedness as a prerequisite. Deep wisdom can only be shared with someone who is 'anasuyave' (free from the habit of complaining and judging). When you approach learning with a clear, unbiased mind, you can receive the 'First Principles' that solve life's biggest problems.
 
 **Neuroscience Perspective:** Teaching the 'deepest secret' to one who is 'non-judgmental' (anasuyave) highlights the role of 'open-mindedness' in cognitive restructuring. Neurally, a judgmental mind is closed to new data due to pre-existing 'confirmation bias.' Removing this bias is the first step to receiving transformative information.
@@ -43,7 +44,8 @@ This is the royal knowledge, the royal secret, the supreme purifier; to be under
 
 **Simple Translation:** This is the king of sciences, the king of secrets, and the ultimate purifier. It is understood through direct experience, it is aligned with your duty, it is joyful to practice, and its results never fade.
 
-**Argument Arc:** *The Royal Secret (9.1–9.3)* — Advances the argument: This is the king of sciences, the king of secrets, and the ultimate purifier.
+**Argument Arc:** *The Royal Secret (9.1–9.3)* — Characterizes the teaching across five dimensions — king of sciences, king of secrets, supreme purifier, directly experiential, and imperishable — building the case that this knowledge is categorically superior to every other form of learning before revealing its content.
+
 **Contemporary Relevance:** The Attributes of Real Truth. Any philosophy worth your time should be: 1. Practical (experiential), 2. Ethical (dharma), 3. Joyful (not a miserable burden), and 4. Sustainable (imperishable). If a 'solution' doesn't have these qualities, it’s not the 'Royal Knowledge.'
 
 **Neuroscience Perspective:** The 'Royal Knowledge' being 'joyful to practice' (susukhaṃ kartum) describes 'intrinsic motivation.' When a system of thought provides immediate experiential rewards (joy) and aligns with the brain's internal logic (Dharma), the 'learning-rate' is maximized and the behavior becomes self-sustaining.
@@ -62,7 +64,8 @@ Men who lack faith in this *dharma*, O scorcher of foes, failing to attain Me, r
 
 **Simple Translation:** Arjuna, those who have no trust in this path fail to reach Me and remain trapped in the repetitive cycle of birth and death.
 
-**Argument Arc:** *The Royal Secret (9.1–9.3)* — Closes the section with arjuna, those who have no trust in this path fail to reach Me and remain trapped in the repetitive cycle of birth and death, completing the argument's arc.
+**Argument Arc:** *The Royal Secret (9.1–9.3)* — Closes the introduction by naming the consequence of rejecting the teaching: those who lack faith in this *dharma* simply return to the cycle of rebirth — the stark negative stakes that make the promise of 9.1–9.2 feel urgent rather than merely attractive.
+
 **Contemporary Relevance:** The Cost of Cynicism. If you don't trust the fundamental laws of reality (like focus and integrity), you can't use them to grow. You remain stuck in the same old patterns and mistakes, never reaching a state of permanent freedom.
 
 **Neuroscience Perspective:** The 'lack of trust' leading back to the cycle of death describes the state of 'cognitive stagnation.' Neurally, without trust in higher principles, the brain defaults to its primitive survival instincts and repetitive emotional loops, preventing any real evolution of consciousness.
@@ -81,7 +84,8 @@ By Me, in My unmanifest form, this entire universe is pervaded. All beings are s
 
 **Simple Translation:** I spread through this entire universe in my invisible form. All beings exist within Me, but I am not limited or contained by them.
 
-**Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Opens the section by establishing I spread through this entire universe in my invisible form.
+**Argument Arc:** *Krishna Pervades All (9.4–9.10)* — States the foundational paradox that the entire section will unpack: all beings exist within Krishna yet Krishna does not exist within them — asserting his unmanifest pervasion of the universe while simultaneously refusing to be contained by it.
+
 **Contemporary Relevance:** The 'Operating System' of the Universe. Think of the Absolute as the 'space' in which everything happens. Everything is 'in' space, but space is not 'in' the things it contains. Recognizing this helps us see that we are part of a massive, divine context.
 
 **Neuroscience Perspective:** All beings existing in the 'unmanifest form' of the Absolute describes the 'systemic context' of reality. Neurally, this encourages a 'field-based' model of identity—realizing that you are an individual unit within a much larger, invisible field of laws and energy.

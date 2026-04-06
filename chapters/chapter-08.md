@@ -529,7 +529,8 @@ Smoke, night, the dark fortnight, the six months of the sun's southern course �
 
 **Simple Translation:** Smoke, night, the waning moon, the sun's southern path—one who departs during these times of 'shadow' reaches a temporary reward and then returns.
 
-**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Advances the argument: Smoke, night, the waning moon, the sun's southern path—one who departs during these times of 'shadow' reaches a temporary reward and then returns.
+**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Describes the smoky path (*pitṛyāna*): smoke, night, dark fortnight, southern solstice — symbols of dimming and descent that carry the yogi only to the lunar world, from which he returns after merit is exhausted, showing that even meritorious yogis can cycle back if their realization is incomplete.
+
 **Contemporary Relevance:** Departing in Confusion. If you leave a situation while you are still 'in the dark'—full of anger, confusion, or unresolved issues (smoke)—you will eventually find yourself back in a similar situation because you haven't learned the lesson.
 
 **Neuroscience Perspective:** Departing in 'Smoke' describes 'Low-Awareness Transitions.' If you leave while 'clouded' by anger or confusion (smoke), the 'unresolved patterns' remain in your system, leading to a 'return' to similar challenges until they are processed.
@@ -550,7 +551,8 @@ For these two paths of the world, the bright and the dark, are considered eterna
 
 **Simple Translation:** These two paths—the path of light and the path of darkness—are considered eternal in this world. One leads to freedom, and the other leads back to the cycle.
 
-**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Advances the argument: These two paths—the path of light and the path of darkness—are considered eternal in this world.
+**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Elevates the two paths from calendar coincidences to eternal cosmological structures: by declaring them *śāśvate* (eternal), this verse establishes that the binary of liberation and return is not an arbitrary teaching but the permanent architecture of reality itself.
+
 **Contemporary Relevance:** The Two Modes of Living. You are always on one of two paths: the path of 'growing clarity' or the path of 'repetitive confusion.' Every choice you make is either taking you toward permanent freedom or back into your old loops.
 
 **Neuroscience Perspective:** The 'Path of Light' and 'Path of Darkness' are the two fundamental 'neural trajectories.' Every choice you make is either 'illuminating' (increasing clarity) or 'obfuscating' (increasing confusion). You are always building one of these two futures.
@@ -569,7 +571,8 @@ Knowing these two paths, O Pārtha, no yogi is deluded. Therefore, at all times,
 
 **Simple Translation:** Arjuna, no Yogi who truly understands these two paths is ever confused again. Therefore, stay disciplined in Yoga at all times!
 
-**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Closes the section with arjuna, no Yogi who truly understands these two paths is ever confused again, completing the argument's arc.
+**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Draws the practical conclusion: the yogi who understands both paths is never deluded about the meaning of any departure or transition — and therefore should remain steadfast in yoga at all times, circling back to the chapter's core imperative of unbroken practice.
+
 **Contemporary Relevance:** The Immunity of Understanding. Once you see the 'First Principles' of how your mind and the world work (the two paths), you can no longer be 'tricked' by temporary drama. This understanding makes you unshakeable and always disciplined.
 
 **Neuroscience Perspective:** Understanding the two paths provides 'immune-logical security.' Once you see the 'First Principles' of how your choices create your future, your brain stops being 'tricked' by temporary ego-temptations and stays committed to the path of light.

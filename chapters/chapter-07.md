@@ -313,7 +313,7 @@ The evil-doers, the deluded, and the lowest of men do not take refuge in Me; the
 
 **Simple Translation:** Those who do bad things, who are foolish, and who are the lowest among humans do not seek Me. Their wisdom has been stolen by illusion, and they have taken on a destructive (demonic) nature.
 
-**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Closes the section by identifying those whose knowledge māyā has fully consumed: unable to seek refuge, they default into a destructive orientation — the logical endpoint of unchecked delusion.
+**Argument Arc:** *Māyā Deludes the World (7.13–7.15)* — Completes the section by identifying those whose knowledge māyā has fully consumed: unable to seek refuge, they default into a destructive orientation — the logical endpoint of unchecked delusion.
 
 **Contemporary Relevance:** "The Loss of Moral Compass." When someone becomes obsessed with ego, power, or greed, their "wisdom is stolen." They start seeing the world in a destructive way. This is a warning that ignoring the First Principles of truth leads to a miserable and "demonic" state of existence.
 
@@ -393,7 +393,7 @@ At the end of many births, the man of knowledge takes refuge in Me, [realizing t
 
 **Simple Translation:** After many lifetimes of learning, the wise person finally realizes that "The Absolute (Vasudeva) is everything" and seeks refuge in Me. Such a great soul is very rare.
 
-**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Closes the section with the final synthesis of the jñānī's journey: after countless lifetimes, the wise person arrives at the realization that "Vāsudeva is all" — a completion that mirrors 7.1's opening promise of total knowledge.
+**Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Brings the section to its culmination with the jñānī's final realization: after countless lifetimes, the wise person arrives at the insight that "Vāsudeva is all" — a completion that mirrors 7.1's opening promise of total knowledge.
 
 **Contemporary Relevance:** "The Ultimate Synthesis." This is the peak of philosophy. "Everything is One." Once you realize that every atom, every person, and every event is part of the same Absolute Reality, your search is over. You have reached the final "First Principle."
 

@@ -579,7 +579,8 @@ The sage who has controlled his senses, mind, and intellect, who is intent on li
 
 **Simple Translation:** ...the wise person who has mastered their senses, mind, and intellect, and who has let go of selfish desire, fear, and anger, is truly free forever.
 
-**Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Advances the argument: ...the wise person who has mastered their senses, mind, and intellect, and who has let go of selfish desire, fear, and anger, is t.
+**Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Identifies the inner conditions that must accompany the outer posture of 5.27: mastery of senses, mind, and intellect, with desire, fear, and anger fully departed — this is the muni who is permanently free, not merely temporarily tranquil.
+
 **Contemporary Relevance:** 'The Definition of Freedom.' Freedom is not having everything you want; it is having nothing that can control you. If desire, fear, and anger no longer dictate your choices, you are the most powerful and free person on earth.
 
 **Neuroscience Perspective:** Mastery of senses, mind, and intellect is the state of 'top-level hierarchical control.' When desire, fear, and anger are no longer 'driving the bus,' the true Self is finally free to direct the human system toward its highest potential.
@@ -598,7 +599,8 @@ Knowing Me as the enjoyer of sacrifices and austerities, the great lord of all w
 
 **Simple Translation:** Understanding that the Absolute is the ultimate goal of all efforts, the sovereign of all worlds, and the true friend of every living being, one finds ultimate peace.
 
-**Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Closes the section with understanding that the Absolute is the ultimate goal of all efforts, the sovereign of all worlds, and the true friend of every living being, one finds ultimate peace, completing the argument's arc.
+**Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Closes Chapter 5 by naming the object of the meditating yogi's knowing: Krishna as the enjoyer of all sacrifice and austerity, the great lord of worlds, and the friend of all beings — the recognition of which produces peace and sets the stage for Chapter 6's systematic meditation teaching.
+
 **Contemporary Relevance:** 'Universal Trust.' Peace comes from realizing that you are not alone and the universe is not hostile. When you see the fundamental reality as a 'friend' and the destination of all your work, your anxiety disappears and is replaced by a deep, grounded sense of security.
 
 **Neuroscience Perspective:** Knowing the Truth as 'the friend of all' is the ultimate 'trust signal.' This thought de-activates the brain's 'hyper-vigilance' and 'threat-detection' systems, replacing them with a deep, grounded sense of peace and universal cooperation.

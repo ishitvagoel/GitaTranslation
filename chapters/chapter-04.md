@@ -775,7 +775,8 @@ As a well-kindled fire turns fuel to ashes, Arjuna, so does the fire of knowledg
 
 **Simple Translation:** Just as a blazing fire turns wood into ashes, the fire of knowledge turns all the 'residue' of your past actions into ashes.
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Advances the argument: Just as a blazing fire turns wood into ashes, the fire of knowledge turns all the 'residue' of your past actions into ashes.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Supplies the metaphysical mechanism that justifies 4.36's radical promise: knowledge destroys karma not gradually but completely, the way a kindled fire reduces all fuel to ash regardless of quantity. The jñānāgni simile makes the destruction of karma structurally total, not partial — establishing why knowledge is the supreme purifier.
+
 **Contemporary Relevance:** 'Clearing the Baggage.' We often carry the weight of our past failures or successes (Karma). Knowledge 'burns' this weight away. It allows us to act in the present moment with a clean slate, unburdened by the 'fuel' of our previous ego-driven deeds.
 
 **Neuroscience Perspective:** The 'fire of knowledge' turning 'karma to ashes' describes 'rapid neural pruning.' A deep, direct realization of truth can instantly 'de-activate' the old emotional pathways of guilt and debt, clearing the brain for a clean start.
@@ -794,7 +795,8 @@ Indeed, there is no purifier in this world equal to knowledge. One who is perfec
 
 **Simple Translation:** There is nothing in this world as purifying as knowledge. A person who is perfected in Yoga eventually finds this knowledge arising naturally within themselves.
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Advances the argument: There is nothing in this world as purifying as knowledge.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Crystallizes the chapter's central claim into an unqualified superlative: no other purifier — ritual, sacrifice, tapas, or renunciation — equals knowledge. This is the section's thesis statement, completing the typology of sacrifices from 4.25–4.33 by declaring the knowledge-sacrifice supreme over all the forms listed there.
+
 **Contemporary Relevance:** 'Knowledge as Internal Tech.' We try to 'clean' our lives with external things—money, relationships, vacations. But the only thing that truly 'purifies' our perspective and ends our suffering is understanding the truth. This wisdom isn't 'out there'; it’s something you discover within yourself through practice.
 
 **Neuroscience Perspective:** Knowledge as the 'supreme purifier' reflects its role in 'unbiased perception.' By removing the 'tinted lenses' of our biases and delusions, knowledge allows the brain to see reality clearly, resulting in a state of 'purity' or 'objectivity.'
@@ -813,7 +815,8 @@ A man of faith attains knowledge, being devoted to it and having his senses cont
 
 **Simple Translation:** A person who has trust (faith), who is dedicated, and who has controlled their senses, attains this knowledge. And once they have knowledge, they reach supreme peace immediately.
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Advances the argument: A person who has trust (faith), who is dedicated, and who has controlled their senses, attains this knowledge.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Specifies the conditions under which the supreme purifier becomes accessible: śraddhā (faith), tatparaḥ (single-minded dedication), and saṃyatendriya (sense-control). By linking these three prerequisites directly to supreme peace, the verse establishes that knowledge-as-purifier is not passive but is the result of active inner preparation.
+
 **Contemporary Relevance:** 'The Path to Peace.' Peace is not an accident; it’s a result. If you have the trust to start, the focus to continue, and the discipline to control your impulses, knowledge will come. And where there is real knowledge, peace follows automatically.
 
 **Neuroscience Perspective:** Faith, devotion, and sensory control are the three ingredients for 'rapid realization.' Faith provides the 'direction'; devotion provides the 'energy'; and sensory control provides the 'focus.' Together, they lead to supreme peace 'without delay.'
@@ -832,7 +835,8 @@ The ignorant, the faithless, and the doubting soul are ruined. Neither this worl
 
 **Simple Translation:** The person who is ignorant, who has no trust, and who is always doubting, is ruined. For someone who is always doubting, there is no happiness in this world or any other.
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Advances the argument: The person who is ignorant, who has no trust, and who is always doubting, is ruined.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Provides the negative counterpart to 4.39's prerequisites: ignorance, faithlessness, and doubt produce not purification but ruin in all three worlds. The pairing forces a stark choice — the same teaching either liberates (with faith) or condemns (with doubt) — sharpening Arjuna's personal urgency to commit.
+
 **Contemporary Relevance:** 'The Paralysis of Doubt.' Constant skepticism and lack of commitment (doubting soul) prevent any real progress. If you never 'buy in' to a path or a principle, you spend your whole life in a state of hesitation and anxiety. Real happiness requires the courage to trust and commit.
 
 **Neuroscience Perspective:** The 'ruin' of the doubter targets 'chronic indecision' and 'neural fragmentation.' Constant doubt keeps the brain in a state of 'analysis paralysis,' preventing it from ever reaching a state of 'completion' or happiness.
@@ -851,7 +855,8 @@ Actions do not bind him who has renounced actions through yoga, whose doubts are
 
 **Simple Translation:** Arjuna, actions do not trap a person who has surrendered their work through Yoga, whose doubts have been cut away by knowledge, and who is truly self-possessed.
 
-**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Advances the argument: Arjuna, actions do not trap a person who has surrendered their work through Yoga, whose doubts have been cut away by knowledge, and who is truly self-possessed.
+**Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Synthesizes the section's three threads — yoga (surrendered action), jñāna (doubt-cutting knowledge), and ātmavat (self-possession) — into a single portrait of the person whom actions cannot bind. This is the positive resolution that contrasts with 4.40's ruin: all three qualities together produce the one who acts without karma accumulating.
+
 **Contemporary Relevance:** 'The Invincible Professional.' Imagine a person whose work is a form of practice (Yoga), who knows exactly what they are doing and why (knowledge), and who cannot be rattled (self-possessed). Such a person is truly free; they can do massive things in the world without any of it 'sticking' to them or causing them stress.
 
 **Neuroscience Perspective:** Cutting doubts with 'the sword of knowledge' is an instruction for 'decisive cognitive closure.' Once you have analyzed a situation using First Principles, you must 'cut the loop' of thinking and move into action to avoid mental stagnation.

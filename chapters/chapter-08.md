@@ -381,6 +381,8 @@ Those men who know that the day of Brahmā lasts for a thousand *yugas*, and the
 
 **Neuroscience Perspective:** The concept of 'Cosmic Days and Nights' is a lesson in 'temporal framing.' By expanding the brain's 'time-horizon' to billions of years, Krishna de-activates the 'emergency-response' circuits associated with short-term, superficial deadlines and stresses.
 
+**Common Misreading:** "Cosmic cycles have nothing to do with present practice." Actually, the vastness of time (a day of Brahmā = 4.32 billion years) directly grounds the practical teaching: if even the highest created realms cycle, the motivation to seek the unconditioned becomes urgent for any serious practitioner.
+
 ---
 
 ### 8.18
@@ -440,6 +442,8 @@ But higher than that unmanifest is another eternal unmanifest state of being, wh
 **Contemporary Relevance:** The Absolute Foundation. Behind the 'changing' world and even behind the 'rhythms' of time, there is a constant Truth that never changes. Identifying with *this* constant provides the ultimate security that no global crisis or personal loss can touch.
 
 **Neuroscience Perspective:** The 'eternal invisible state' describes the 'Source-Context' of reality. Neurally, this provides an 'ultimate baseline' for identity. Even when every specific thought and object (the perishable) is gone, the underlying Context (the Absolute) remains.
+
+**Common Misreading:** "The unmanifest beyond is a different deity from Krishna." Actually, the Akṣara (imperishable) is explicitly identified as Krishna's own supreme state in 8.21 — not a separate divine being but the highest expression of the same reality already present in this teaching.
 
 > **Note:** Kṛṣṇa distinguishes between the cosmic unmanifest (the latent *prakṛti* into which the universe dissolves during Brahmā's night) and the absolute unmanifest (the supreme Spirit which is entirely beyond the cycle of cosmic time).
 
@@ -522,6 +526,8 @@ Fire, light, day, the bright fortnight, the six months of the sun's northern cou
 **Contemporary Relevance:** Departing in Clarity. This is a metaphor for leaving a situation while you are 'in the light'—meaning you have full awareness, clarity, and knowledge. When you end a project or a relationship with total clarity, you move on to a higher state.
 
 **Neuroscience Perspective:** Departing in 'Light' describes 'High-Awareness Transitions.' When you leave a job, a project, or a life with total clarity and no 'unresolved data,' your brain moves into a higher state of integration and freedom.
+
+**Common Misreading:** "The bright path means dying in daytime or during the northern solstice." Actually, the bright and dark paths (*devayāna/pitṛyāna*) are symbolic of the inner orientation at the time of death — the quality of awareness, not literal astronomical conditions.
 
 ---
 

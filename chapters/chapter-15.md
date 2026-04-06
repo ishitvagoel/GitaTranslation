@@ -29,6 +29,8 @@ They speak of an imperishable sacred fig tree (*aśvattha*) with its roots above
 
 **Neuroscience Perspective:** The 'upside-down tree' mirrors what cognitive science calls top-down processing — the way abstract goals, beliefs, and values shape how we perceive and act in the physical world. Prefrontal regions that hold long-term goals exert powerful influence over sensory and motor systems below. Understanding the deep values that govern your behavior is the key to mastering its outcomes.
 
+**Common Misreading:** "The cosmic tree represents the material world as evil or illusory — something to be condemned." Actually, the aśvattha is described as *eternal* (*avyayam*) — it is real and ancient. It must be *cut* in order to find what transcends it, but the teaching frames it as a diagnostic (understanding its form) not as a condemnation.
+
 > **Note:** The upside-down tree is a striking metaphor from the Upaniṣads. Its "root above" is the transcendent absolute (Brahman), and its branches growing downward represent the sprawling, manifest universe of *saṃsāra*. The Vedic hymns are mere leaves—the surface of this cosmic tree.
 
 ---
@@ -160,6 +162,8 @@ A fraction of Myself, having become a living soul in the world of the living, et
 **Contemporary Relevance:** The Divine Spark. You are not just a 'body'; you are a 'fragment' of the Absolute reality. This fragment 'pulls' the senses and mind together to create your personality. Recognizing your 'divine origin' changes your entire sense of self-worth and potential.
 
 **Neuroscience Perspective:** The 'binding problem' in neuroscience asks how separate sensory streams — sight, sound, touch — become a single unified experience. Something integrates these inputs into a coherent sense of 'being here.' This verse's image of a conscious fragment drawing the senses together mirrors that unsolved puzzle: awareness itself seems to be the organizing principle behind perception.
+
+**Common Misreading:** "The soul is a fragment — therefore it is lesser than or inferior to Krishna." Actually, *mamaivāṃśaḥ* means a portion of Krishna's *own* nature — the same substance in a different mode of expression, not a diluted or lesser copy. The subsequent verses confirm the soul's identity with the divine source.
 
 > **Note:** A key verse for understanding individual consciousness (*jīva*). The individual soul is explicitly identified as an eternal "fraction" (*aṃśa*) of the divine, which then acquires psychological faculties (mind and senses) from material nature.
 
@@ -321,6 +325,8 @@ And I am seated in the heart of all; from Me come memory, knowledge, and their l
 
 **Neuroscience Perspective:** Memory consolidation, learning, and even adaptive forgetting are all governed by processes largely outside conscious control — hippocampal replay during sleep, synaptic pruning, and neurotransmitter regulation. We don't manufacture these abilities; they arise from biological and physical laws we didn't design. This humbling recognition aligns with the verse's claim: the deepest cognitive functions point beyond the individual ego to something more fundamental.
 
+**Common Misreading:** "Krishna enters every being as a separate divine observer watching from inside." Actually, Krishna dwells in hearts as the *ātman* — the innermost self, the very ground of cognition. He is not a separate watcher *inside* beings; he is the knowing-itself that makes memory, knowledge, and forgetting possible.
+
 ---
 
 ### 15.16
@@ -339,6 +345,8 @@ There are two spirits (*puruṣa*) in the world: the perishable and the imperish
 **Contemporary Relevance:** The Dual Nature of Reality. Everything you can see and touch will eventually end (Perishable). But the 'essence' or 'context' in which it happened is constant (Imperishable). Knowing which is which helps you invest your time and energy wisely.
 
 **Neuroscience Perspective:** The brain's reward system tends to overvalue immediate, tangible stimuli — what behavioral economists call 'present bias.' Training the mind to distinguish between what is transient and what is enduring requires strengthening prefrontal circuits involved in long-term planning over the pull of short-term dopamine signals. This capacity for temporal discounting — weighing lasting value over fleeting reward — is the neural basis of the wisdom this verse describes.
+
+**Common Misreading:** "The Kṣara (mutable) and Akṣara (immutable) are two separate divine entities." Actually, both are aspects of the *same* reality — the changing world of manifestation and its unchanging ground — which the next verse (15.17) then transcends with a *third* category, Puruṣottama, that pervades and supports both.
 
 ---
 

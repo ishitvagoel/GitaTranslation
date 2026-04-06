@@ -53,7 +53,9 @@ Both renunciation and the yoga of action lead to the highest good. But of the tw
 
 **Contemporary Relevance:** 'Action is the better Teacher.' While both paths lead to the same goal, actively engaging with the world is more practical and effective for most people. Working with discipline and detachment is a faster way to grow than trying to forcefully 'quit' your responsibilities.
 
-**Neuroscience Perspective:** Krishna’s preference for 'Yoga of Action' recognizes that active engagement provides more 'feedback data' for the brain to learn detachment. It’s easier to train the 'executive override' in real-world scenarios than in a vacuum of inaction.
+**Neuroscience Perspective:** Krishna’s preference for ‘Yoga of Action’ recognizes that active engagement provides more ‘feedback data’ for the brain to learn detachment. It’s easier to train the ‘executive override’ in real-world scenarios than in a vacuum of inaction.
+
+**Common Misreading:** "Renunciation and karma yoga are two separate spiritual career tracks — choose one." Actually, Krishna has just said both lead to the *same* result; the preference for karma yoga is practical (suited to Arjuna’s current situation and temperament), not a permanent verdict that renunciation is inferior.
 
 ---
 
@@ -154,6 +156,8 @@ He who is endowed with yoga, whose self is purified, who has mastered the self, 
 **Contemporary Relevance:** 'The Empathetic High-Performer.' This is the profile of a perfect leader. They are disciplined (Yoga), honest (pure heart), self-controlled (mastered senses), and deeply empathetic (sees self in others). Because they act for the good of all and not for their own ego, they are never 'tainted' by the stress and politics of their work.
 
 **Neuroscience Perspective:** The 'Empathetic High-Performer' profile describes a brain with 'high global integration.' By identifying with the 'Self of all beings,' the person reduces their own 'ego-defense' activation, allowing for clear, powerful, and selfless behavior in any social system.
+
+**Common Misreading:** "Karma yoga is for householders and worldly people; only monks achieve true renunciation." Actually, the karma-yogin described here — purified, self-mastered, seeing all in the Self — is declared already free (*na lipyate*). The distinction is internal orientation, not social role or lifestyle.
 
 ---
 
@@ -277,6 +281,8 @@ Having renounced all actions by the mind, the embodied one sits happily in the n
 
 **Neuroscience Perspective:** Living in the 'nine-gated city' without thinking you are the 'Doer' is the peak of 'situational awareness.' You manage the 'body-machine' with total precision, but because you don't 'own' its failures or successes, you remain in a state of constant, internal 'Happiness.'
 
+**Common Misreading:** "The self renounces action by withdrawing from life into the body." Actually, the renunciation is *mental* — the self does not cause action and does not receive its fruits because it was never the true doer. The body continues to act; what changes is the identification of the witnessing self with those actions.
+
 > **Note:** "Nine-gated city" (*navadvāre pure*) is a classic metaphor for the human body, possessing nine openings (eyes, ears, nostrils, mouth, and organs of excretion and generation).
 
 ---
@@ -381,6 +387,8 @@ The wise look with an equal eye upon a brahmin endowed with learning and humilit
 
 **Neuroscience Perspective:** Seeing the same life-force in all beings is the ultimate 'prejudice-filter.' Neurally, this disables the 'in-group/out-group' bias of the amygdala, replacing it with a 'universal recognition' signal that is the foundation of total social and ethical integrity.
 
+**Common Misreading:** "All beings are literally equal in every respect, so no distinctions should be made." Actually, the sage *sees* (*paśyati*) with equal perception — recognizing the same Brahman as the ground of all — but this metaphysical insight does not collapse all practical, ethical, or situational distinctions into sameness.
+
 > **Note:** *samadarśinaḥ* — "seeing equally." True wisdom recognizes the same spiritual reality across the entire spectrum of social hierarchy and biological species.
 
 ---
@@ -462,6 +470,8 @@ For the pleasures that are born of contact are merely sources of sorrow. They ha
 **Contemporary Relevance:** 'The Hedonic Treadmill.' Sensory pleasures (food, entertainment, thrills) are temporary by nature. The moment they end, they leave a gap that feels like sorrow or boredom. A wise person recognizes this pattern and doesn't mistake these temporary 'highs' for real fulfillment.
 
 **Neuroscience Perspective:** Pleasures as 'birthplaces of sorrow' is a diagnosis of 'hedonic adaptation.' Every temporary sensory high is followed by an equal and opposite low. Recognizing this 'wave-pattern' prevents the brain from being 'tricked' by temporary dopamine spikes.
+
+**Common Misreading:** "The Gita forbids pleasure — all enjoyment is sinful." Actually, the verse diagnoses contact-born pleasures as *structurally* impermanent and therefore insufficient for lasting happiness — not morally forbidden. The teaching is about wise discrimination, not prohibition.
 
 ---
 
@@ -564,6 +574,8 @@ Keeping external contacts outside, fixing the gaze between the eyebrows, making 
 **Contemporary Relevance:** 'The Focus Protocol.' This is a technical instruction for deep concentration. By physically and mentally 'unplugging' from the world and regulating our biology (breath), we create the physiological state necessary for deep thought and internal discovery.
 
 **Neuroscience Perspective:** The 'Focus Protocol' describes 'sensory gating' and 'autonomic regulation.' By shutting out the 'outside' and regulating the 'inside' (breath), you create the optimal 'brain-state' for deep work, problem-solving, and existential discovery.
+
+**Common Misreading:** "Meditation means blanking the mind of all content." Actually, the instruction is to *redirect* attention — withdrawing it from external objects and fixing it between the brows, while equalizing the breath. This is a re-orientation of attention, not suppression of consciousness.
 
 ---
 

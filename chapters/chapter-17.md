@@ -27,7 +27,9 @@ Those who, having cast aside the injunctions of the scriptures, worship endowed 
 **Argument Arc:** *Three Types of Faith (17.1–17.6)* — Opens the section by establishing arjuna asked: Krishna, what is the state of those who ignore the formal rules of scriptures but still perform their work with faith?.
 **Contemporary Relevance:** Integrity over Rules. This is a very modern question: 'Can I be a good person and grow spiritually even if I don't follow a specific religion or set of rules?' Arjuna is asking if 'internal sincerity' (faith) is more important than 'external ritual.'
 
-**Neuroscience Perspective:** Arjuna's question about 'Faith vs. Rules' highlights the brain's 'internal-external' calibration. He is asking if 'internal sincerity' (the neural state of faith) can compensate for a lack of 'external information' (rules of scripture). It’s an inquiry into the priority of 'intent' over 'protocol.'
+**Neuroscience Perspective:** Arjuna’s question about ‘Faith vs. Rules’ highlights the brain’s ‘internal-external’ calibration. He is asking if ‘internal sincerity’ (the neural state of faith) can compensate for a lack of ‘external information’ (rules of scripture). It’s an inquiry into the priority of ‘intent’ over ‘protocol.’
+
+**Common Misreading:** "Worship done without scripture is always invalid and lesser." Actually, the question is about genuine faith (*śraddhā*) in those who worship sincerely without knowing the formal rules. Krishna’s answer affirms that sincere faith has its own natural form determined by one’s inner constitution — the chapter honors the reality of such worship.
 
 > **Note:** Arjuna poses a critical sociological and theological question. What happens to the person who possesses genuine spiritual sincerity (*śraddhā*) but does not follow orthodox scriptural rules?
 
@@ -71,6 +73,8 @@ The faith of everyone is according to his disposition, O Bhārata. Man is made o
 **Contemporary Relevance:** The First Principle of Identity. 'You are what you believe.' Your core convictions and the things you trust determine your actions, your personality, and your destiny. This is a call to audit your deepest beliefs, as they are the 'code' that runs your life.
 
 **Neuroscience Perspective:** The First Principle 'You are what you believe' describes 'identity-encoding.' Your core beliefs act as the 'OS' of your brain, determining how you filter information, process rewards, and execute actions. You literally 'become' the neural patterns of your deepest convictions.
+
+**Common Misreading:** "A person's faith is permanently fixed by their birth-nature and cannot change." Actually, the verse is descriptive of current tendencies, not a fatalistic decree — the entire teaching of the Gita is an invitation to *transform* one's disposition. Awareness of one's current faith is the starting point for its elevation.
 
 ---
 
@@ -226,6 +230,8 @@ That sacrifice which is offered by those not desiring the fruit, according to th
 
 **Neuroscience Perspective:** Work done as 'duty without reward' is the peak of 'prefrontal executive control.' Neurally, this is the ability to act based on 'internal principles' (Dharma) rather than 'external bribes' (rewards). This 'clean signal' maximizes mental peace and effectiveness.
 
+**Common Misreading:** "Sattvic sacrifice requires elaborate Vedic fire-ritual performance." Actually, *sāttvika yajña* is defined by inner motivation — done as duty (*niyatam*), without desire for reward, with focused mind (*samāhita-cetasā*). The outer form matters far less than this inner orientation.
+
 ---
 
 ### 17.12
@@ -321,6 +327,8 @@ Serenity of mind, gentleness, silence, self-restraint, and purity of existence �
 
 **Neuroscience Perspective:** Internal Sovereignty (peace, gentleness, silence) describes 'Default Mode Network regulation.' By practicing 'mental silence' and 'purity of intent,' the brain shuts down its 'egoic noise,' resulting in a state of supreme internal health and clarity.
 
+**Common Misreading:** "Mental austerity (*manas-tapas*) means suppressing all thoughts." Actually, the verse defines it as *prasāda* (serenity), *saumyatva* (gentleness), *mauna* (silence), *ātma-vinigraha* (self-restraint), and *bhāva-saṃśuddhi* (purity of feeling) — cultivation of positive inner qualities, not suppression of consciousness.
+
 > **Note:** "Silence" (*mauna*) here is placed under austerity of the *mind*, not speech. True silence is the cessation of internal mental chatter, not just the physical withholding of words.
 
 ---
@@ -398,6 +406,8 @@ That gift which is given with the thought "it must be given," to one who does no
 **Contemporary Relevance:** The First Principle of Charity. True giving is not a 'trade.' It is an act of acknowledging your responsibility to the system. By giving to someone who *cannot* pay you back, you are practicing 'Pure Contribution' and breaking the ego's 'transactional' habit.
 
 **Neuroscience Perspective:** Pure Contribution describes 'allocentric reward processing.' By giving without the possibility of return, the brain 'rewires' its reward system from 'selfish taking' to 'systemic giving.' This breaks the ego's 'transactional' habit and fosters deep internal freedom.
+
+**Common Misreading:** "Sattvic charity must be given only to renunciants or religious institutions." Actually, the criterion is *a-pratikāra* (one who cannot return the gift) at the right place, time, and to a worthy recipient (*deśe kāle ca pātre ca*) — the emphasis is on disinterested giving, not restriction to religious contexts.
 
 ---
 
@@ -552,5 +562,7 @@ Whatever is offered in the fire, given, or performed as austerity, or whatever i
 **Contemporary Relevance:** Faith as the 'Multiplier'. You can do all the 'right' things, but if you don't have 'Internal Sincerity' (Shraddha), your work is 'ASAT' (zero/nothing). Faith is the '1' that makes all the zeros of your actions count. Without a sincere heart, even perfect work is hollow.
 
 **Neuroscience Perspective:** Faith as the 'Multiplier' recognizes 'subjective intent' as the 'Primary Variable.' Without 'Shraddha' (internal sincerity), an act has no 'neural depth'—it is 'ASAT' (zero). Integrity is the 'multiplier' that makes all your external actions count for your growth.
+
+**Common Misreading:** "Actions without scriptural authorization are automatically sinful and Asat." Actually, the verse says *aśraddhayā* — the criterion for Asat is *absence of faith*, not absence of scriptural sanction. Sincerity of heart is the essential variable — a direct answer to Arjuna's original question.
 
 > **Note:** The chapter concludes by answering Arjuna's opening question. Even technically correct actions are completely nullified ("Asat") if performed without the internal disposition of faith (*śraddhā*).

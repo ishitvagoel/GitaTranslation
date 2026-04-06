@@ -246,6 +246,8 @@ In whatever way people approach Me, in that same way I reciprocate with them. Me
 
 **Neuroscience Perspective:** The principle of 'divine reciprocity' reflects the brain's 'input-output' logic. The universe acts as a mirror to our own neural 'intent.' If you approach reality with sincerity, your 'search-circuits' find truth; if you approach with greed, they find drama.
 
+**Common Misreading:** "God rewards loyalty to one tradition and punishes those who seek elsewhere." Actually, the verse explicitly states the *opposite*: Krishna responds proportionately to *all* approaches, affirming that "people everywhere follow My path in all their different ways" — a radical inclusivism, not exclusivism.
+
 > **Note:** Kṛṣṇa establishes the principle of divine reciprocity. The "path" (*vartma*) is universal; all seek the same source, but through diverse modes of approach.
 
 ---
@@ -391,6 +393,8 @@ He who sees inaction in action, and action in inaction — he is intelligent amo
 
 **Neuroscience Perspective:** Seeing 'inaction in action' describes the 'flow state'—performing at high speed while the internal 'observer' remains perfectly still. Seeing 'action in inaction' is recognizing that the 'internal chatter' of the mind is still a form of work, even if the body is still.
 
+**Common Misreading:** "Non-action (*akarman*) means physical inactivity or withdrawal from work." Actually, the verse defines non-action as acting without the sense of being the ego-owner of the act — it is a quality of inner relationship to action, not its physical absence.
+
 > **Note:** The central paradox of Karma Yoga. Inaction in action refers to the absence of egoic agency during performance; action in inaction refers to the subtle mental activity that persists even during physical stillness.
 
 ---
@@ -514,6 +518,8 @@ Brahman is the offering; Brahman is the oblation; by Brahman is the oblation pou
 **Contemporary Relevance:** 'Holistic Awareness.' This is about seeing the 'divine' or 'universal' in every single detail of your day. If the computer you're using, the coffee you're drinking, and the email you're writing are all seen as part of the same universal energy, then every moment becomes sacred and purposeful.
 
 **Neuroscience Perspective:** Seeing 'Brahman' in the act, the actor, and the goal is 'non-dual cognitive integration.' In this state, the brain collapses the distinction between 'Subject' and 'Object,' leading to a sense of total 'oneness' and unshakeable purpose.
+
+**Common Misreading:** "This verse is about Vedic fire-ritual mechanics." Actually, the verse re-describes *all of reality* as a sacrificial offering — every element of perception and action as Brahman giving itself to Brahman. Ritual fire (if it appears) is just one instance of this universal principle.
 
 > **Note:** Kṛṣṇa redefines *yajña* (sacrifice). It is no longer an external ritual but a total cognitive absorption where the actor, the action, and the objects are all realized as the Absolute (*Brahman*).
 
@@ -699,6 +705,8 @@ Superior to the sacrifice of material objects is the sacrifice of knowledge, O s
 
 **Neuroscience Perspective:** The 'sacrifice of knowledge' being superior to 'material sacrifice' highlights that 'cognitive software' is more valuable than 'physical hardware.' A single, deep insight can transform your entire life more effectively than any amount of money or stuff.
 
+**Common Misreading:** "Knowledge-sacrifice is a mental technique one adds to one's spiritual toolkit." Actually, its superiority lies in dissolving the sense of being a separate doer — it is the *fruition* of all other practices, not an additional technique. All ritual and physical sacrifices culminate in this understanding.
+
 ---
 
 ### 4.34
@@ -840,6 +848,8 @@ The ignorant, the faithless, and the doubting soul are ruined. Neither this worl
 **Contemporary Relevance:** 'The Paralysis of Doubt.' Constant skepticism and lack of commitment (doubting soul) prevent any real progress. If you never 'buy in' to a path or a principle, you spend your whole life in a state of hesitation and anxiety. Real happiness requires the courage to trust and commit.
 
 **Neuroscience Perspective:** The 'ruin' of the doubter targets 'chronic indecision' and 'neural fragmentation.' Constant doubt keeps the brain in a state of 'analysis paralysis,' preventing it from ever reaching a state of 'completion' or happiness.
+
+**Common Misreading:** "The doubting person is spiritually unworthy and should be excluded." Actually, the verse addresses *saṃśayātman* — specifically doubt about the Self — which creates perpetual inner division. The remedy is inquiry and knowledge (taught throughout this chapter), not rejection of the doubter.
 
 ---
 

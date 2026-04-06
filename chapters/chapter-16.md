@@ -138,6 +138,8 @@ There are two creations of beings in this world: the divine and the demonic. The
 
 **Neuroscience Perspective:** Binary Analysis (Divine vs. Demonic) is a 'feature-detection' strategy. The brain learns to recognize 'destructive patterns' (demonic) vs. 'constructive patterns' (divine) in itself and others. This clear categorization is necessary for wise navigation of the social world.
 
+**Common Misreading:** "Everyone is clearly either divine or demonic — this chapter divides humanity into two fixed camps." Actually, the two tendencies exist as *potentials* within every person. The teaching describes orientations and their consequences, not permanent ontological categories.
+
 ---
 
 ### 16.7
@@ -197,6 +199,8 @@ Holding fast to this view, these ruined souls of small intellect and fierce deed
 **Contemporary Relevance:** The Consequence of Nihilism. People who don't believe in a higher order or truth eventually become destructive. If you think the world is 'just stuff' to be used, you treat people like things and the environment like garbage. This mindset is the root cause of global crises.
 
 **Neuroscience Perspective:** The Consequence of Nihilism is 'social and environmental entropy.' If you see the world as 'just stuff' to be used, you treat people like objects and the world like trash. This mindset triggers 'anti-social' neural states that eventually lead to the destruction of the person's own social and physical environment.
+
+**Common Misreading:** "Demonic people are a distinct biological or spiritual class who have always been evil and cannot change." Actually, the demonic outlook is a *worldview* — atheistic materialism combined with ego-supremacy — that any person can slip into. The verse describes a mode of orientation and its consequences, not an immutable identity.
 
 ---
 
@@ -427,6 +431,8 @@ Threefold is this gate of hell, destructive of the self: desire (*kāma*), anger
 **Contemporary Relevance:** The Toxic Trio. This is the most practical summary of the chapter. If you want to avoid a life of suffering (hell), you must guard these three gates. Desire (I want!), Anger (I'm mad!), and Greed (I need more!) are the 'Root Causes' of all human misery.
 
 **Neuroscience Perspective:** The 'Toxic Trio' (Desire, Anger, Greed) are the three 'Master Inhibitors' of human intelligence. They act as 'gates to hell' because they consistently override the prefrontal cortex and cause the brain to act in ways that lead to suffering and bondage.
+
+**Common Misreading:** "The three gates of hell are moral sins requiring divine punishment." Actually, the verse uses *ātmanaḥ apāna* — they are destroyers *of the self* — because they corrupt discriminative intelligence. The framework is psychological and causal, not punitive: these states cause self-destruction, not retribution.
 
 ---
 

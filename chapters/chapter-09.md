@@ -90,6 +90,8 @@ By Me, in My unmanifest form, this entire universe is pervaded. All beings are s
 
 **Neuroscience Perspective:** All beings existing in the 'unmanifest form' of the Absolute describes the 'systemic context' of reality. Neurally, this encourages a 'field-based' model of identity—realizing that you are an individual unit within a much larger, invisible field of laws and energy.
 
+**Common Misreading:** "Krishna literally pervades all physical matter like a substance filling space." Actually, *tatam* (pervading) refers to the ground of being — brahman as the unmanifest foundation of existence, not a material substance filling space.
+
 > **Note:** A classic articulation of panentheism. The Absolute contains the world, but the world does not contain or exhaust the Absolute.
 
 ---
@@ -150,6 +152,8 @@ All beings, O son of Kuntī, go into My material nature (*prakṛti*) at the end
 **Contemporary Relevance:** The Ultimate Cycle. Everything in the universe has a 'reset' button. From the life of a star to the lifecycle of an idea, everything returns to its source before starting fresh. Accepting these large-scale 'resets' helps us deal with the smaller endings in our own lives.
 
 **Neuroscience Perspective:** Beings dissolving and re-emerging from 'My nature' describes the 'macro-cycles of energy.' Neurally, this helps accept the 'death' of old projects, ideas, or lives as a natural 'recycling' of information before it is re-encoded into new forms.
+
+**Common Misreading:** "The universe is literally destroyed and rebuilt by God as an engineer's project." Actually, the dissolution and manifestation describe the cosmic rhythm of appearance and withdrawal — not a mechanical blueprint but the dynamic of manifestation itself flowing from one divine source.
 
 ---
 
@@ -226,6 +230,8 @@ The deluded despise Me when I have taken a human form, not knowing My supreme na
 **Contemporary Relevance:** Mistaking the Form for the Essence. People often judge a great idea, a great person, or a great opportunity based on its 'packaging.' Wisdom is the ability to look past the human or material form to see the 'supreme nature' and value hidden within.
 
 **Neuroscience Perspective:** Mistaking the 'Source' for a 'Human Form' is a 'representational error.' The brain easily gets stuck on 'symbols' and 'avatars,' forgetting the 'Infinite Principle' they represent. Wisdom is the ability to maintain the 'essence-focus' even when the form is mundane.
+
+**Common Misreading:** "Krishna's divine nature is hidden inside His human form." Actually, the divine is not hidden but unrecognized — those who fail to see it are clouded by delusion (*mohitaṃ*). The supreme nature is fully present and fully visible to those whose perception is not obstructed.
 
 ---
 
@@ -404,6 +410,8 @@ The knowers of the three Vedas, the drinkers of soma, whose sins are purified, w
 
 **Neuroscience Perspective:** Transactional rituals for 'heavenly pleasure' describes 'conditional reward-seeking.' While it gets results, it is a 'fragile' strategy because the brain is still a slave to 'external conditions' and 'temporary highs.' It is 'low-level' optimization.
 
+**Common Misreading:** "The Vedic path leads only to temporary heaven and should be abandoned." Actually, the verse contrasts limited goal-seeking with unlimited surrender — the Vedic path is shown as partial when motivated only by desired results, not condemned as invalid.
+
 ---
 
 ### 9.21
@@ -523,6 +531,8 @@ Whoever offers Me with devotion a leaf, a flower, a fruit, or water, I accept th
 **Contemporary Relevance:** Intent over Complexity. You don't need a massive budget or complex rituals to be 'spiritual' or successful. A small, simple act done with 100% integrity and devotion is more powerful than a massive, ego-driven project. It’s the 'Quality' of the intent that matters, not the 'Quantity' of the gift.
 
 **Neuroscience Perspective:** Accepting a 'leaf, flower, or water' with devotion highlights 'intent-based reward.' The Absolute system (Krishna) rewards the 'integrity of the signal' (devotion) rather than the 'magnitude of the data' (the gift). Integrity is the only variable that matters.
+
+**Common Misreading:** "Simple devotees get a lesser version of liberation than those who perform elaborate rituals." Actually, the offering of a leaf, flower, fruit, or water with sincere devotion (*bhaktyā prayacchati*) is received directly by Krishna — devotion is not graded by material worth, and simplicity is precisely the point.
 
 > **Note:** A radical democratization of religious practice. The elaborate, expensive, and caste-restricted Vedic sacrifices are superseded by simple offerings made with sincere devotion (*bhakti*).
 

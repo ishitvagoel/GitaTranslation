@@ -113,6 +113,8 @@ Behold My forms, O Pārtha, by the hundreds and by the thousands, of various kin
 
 **Neuroscience Perspective:** Krishna's command to 'behold hundreds and thousands of forms' is an instruction for 'cognitive expansion.' By overwhelming the brain's 'categorization filters' with infinite variety, Krishna breaks the ego's tendency to simplify and control reality, forcing it into a state of 'radical openness.'
 
+**Common Misreading:** "Krishna's cosmic form is His 'real' or ontologically superior form." Actually, the viśvarūpa is a revealed form granted by special divine sight — not a superior ontological status. After the vision, Krishna returns to His gentle two-armed form, which Arjuna explicitly prefers and Krishna accommodates.
+
 ---
 
 ### 11.6
@@ -767,6 +769,8 @@ Therefore, arise! Win glory! Having conquered the enemies, enjoy a prosperous ki
 
 **Neuroscience Perspective:** Being 'just the instrument' (nimitta-mātraṃ) is the ultimate 'performance-unburdening.' By realizing you are an 'interface' rather than the 'Source,' you can act with 100% precision and 0% ego-driven anxiety. This is the peak of 'detached mastery.'
 
+**Common Misreading:** "Because time destroys all, individual actions don't matter." Actually, the logic is precisely reversed: because all warriors are already slain by time, Arjuna's action becomes instrumental rather than futile — he is urged to act, not to withdraw.
+
 > **Note:** *nimittamātraṃ bhava* — "be merely the instrument." Kṛṣṇa resolves the tension of Arjuna's agency. Arjuna is not the author of life and death; he is merely invited to consciously participate in a divine mechanism that is already in motion.
 
 ---
@@ -1041,6 +1045,8 @@ Therefore, bowing down and prostrating my body, I seek grace from You, the prais
 
 **Neuroscience Perspective:** Asking for 'intimacy' (like a father/friend/lover) describes 'relational integration.' Neurally, the 'Abstract Truth' is now being integrated with the 'Emotional Safety' circuits. This makes the Absolute not just a 'fact' to be known, but a 'presence' to be lived with.
 
+**Common Misreading:** "Arjuna's fear at the cosmic vision means he has fully realized Krishna's transcendence." Actually, his fear is an emotional response to an overwhelming experience — the subsequent teaching is specifically about achieving the stability of devotion, not remaining in permanent awe or terror.
+
 ---
 
 ### 11.45
@@ -1115,6 +1121,8 @@ By My grace, Arjuna, this supreme form has been shown to you by My own mystic po
 **Contemporary Relevance:** The Rarity of Direct Vision. A direct, full experience of reality ('Vijnana') is a rare gift. Krishna reminds Arjuna that this vision was a special 'grace,' highlighting the value of the experience Arjuna just had.
 
 **Neuroscience Perspective:** Vision as 'special grace' (prasāda) highlights the 'non-linear' nature of deep realization. Neurally, while effort is required, the final 'breakthrough' into total clarity often feels like an 'unexpected gift' from the system itself.
+
+**Common Misreading:** "The cosmic form should be the object of ongoing meditation." Actually, after granting the vision, Krishna returns to His personal form and calls it most accessible — devotion to the gentle personal form is the recommended path, not perpetual contemplation of the terrifying cosmic form.
 
 ---
 
@@ -1278,6 +1286,8 @@ But by undivided devotion (*bhakti*) can I be known in this way, and seen in tru
 **Contemporary Relevance:** The Key of Devotion. Undivided devotion ('Ananya-bhakti') is the missing ingredient. It means 100% commitment to the Truth. When you are 100% 'all-in,' the boundaries between you and the Truth dissolve, and you can 'enter into' its power.
 
 **Neuroscience Perspective:** Bhakti (devotion) as the 'only key' describes 'total system-alignment.' Undivided devotion is the neural state where '100% of resources' are focused on the Truth. This total commitment is what 'unlocks' the experience of 'entering' the Truth.
+
+**Common Misreading:** "Only ascetics who renounce the world can truly know Krishna." Actually, the verse says *ananya-bhakti* (undivided devotion) is the means — devotion is the access route, and it is not restricted to world-renouncers but available to anyone who can practice it wholeheartedly.
 
 ---
 

@@ -879,7 +879,8 @@ The senses are said to be superior; superior to the senses is the mind; superior
 
 **Simple Translation:** The senses are powerful, but the mind is more powerful than the senses. The intellect is more powerful than the mind, and the Soul (the Self) is even more powerful than the intellect.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Advances the argument: The senses are powerful, but the mind is more powerful than the senses.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Provides the metaphysical map that makes 3.41's strategy intelligible: senses, mind, intellect, and Self form a hierarchy of ascending power, with each level capable of governing the one below it. This hierarchy is the instrument of liberation — knowing the Self is above the intellect means the battle with desire can ultimately be won from the inside out.
+
 **Contemporary Relevance:** The hierarchy of the self. This is a map for self-mastery. Don't let your senses run your mind; don't let your wandering mind run your intellect; and finally, let your highest, most authentic Self (your core values and purpose) guide your intellect. When you live from the 'highest' level, the 'lower' levels naturally fall into place.
 
 **Neuroscience Perspective:** The hierarchy 'Senses < Mind < Intellect < Self' is a 'functional organization chart' of the human system. Mastery is achieved when the 'highest' level (the Self/Purpose) manages the lower levels, rather than the lower levels (senses) running the whole show.
@@ -900,7 +901,8 @@ Thus, knowing that which is beyond the intellect, steadying the self by the Self
 
 **Simple Translation:** Knowing that which is even higher than the intellect, and using your highest Self to steady your lower self, destroy this difficult enemy that takes the form of desire.
 
-**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Closes the section with knowing that which is even higher than the intellect, and using your highest Self to steady your lower self, destroy this difficult enemy that takes the form of desire, completing the argument's arc.
+**Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Closes the chapter with the ultimate prescription: use the Self — the level above even the intellect — to stabilize all the lower levels and slay desire at its root. The chapter ends where it began (with Arjuna's paralysis), but now Arjuna has a complete causal account of what blocks right action and the precise instrument — ātmānam ātmanā — to defeat it.
+
 **Contemporary Relevance:** 'Transcendent focus.' When you connect with your deepest purpose—the 'Self' beyond your ego—you gain a level of strength that your normal mind doesn't have. This higher connection allows you to overcome even the strongest addictions and cravings. It’s the ultimate secret to winning the internal battle of life.
 
 **Neuroscience Perspective:** Steadying the 'self by the Self' is the ultimate 'self-referential' loop of focus. By identifying with your 'highest potential' (the Absolute Self), you gain the 'leverage' needed to override even the most powerful biological cravings (Desire).

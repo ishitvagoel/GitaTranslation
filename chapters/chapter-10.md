@@ -674,7 +674,8 @@ Of letters I am the letter A, and of compounds I am the dual compound (*dvandva*
 
 **Simple Translation:** Of letters, I am the letter A; of grammar, I am the dual compound. I am imperishable Time, and the Creator whose face is in every direction.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: Of letters, I am the letter A; of grammar, I am the dual compound.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Grounds divine presence in the most elemental unit of language (the letter A, from which all speech unfolds) and in the grammatical structure that holds opposites together (the dual compound), then identifies Krishna with imperishable Time and the creator who faces all directions — showing the divine as the foundation of all meaning-making and the sustainer of all perspectives simultaneously.
+
 **Contemporary Relevance:** The Foundation of Language. The letter 'A' is the start of all speech. Truth is the 'foundation' of every communication. This verse encourages us to look for the simplest, most basic elements of any system—that is where the most power lives.
 
 **Neuroscience Perspective:** Being the 'Letter A' identifies the Absolute with the 'foundational component.' Truth is the 'prime element' from which all complex communications and systems are built. Simplicity is divinity.
@@ -693,7 +694,8 @@ I am all-devouring death, and the origin of things yet to be. Among feminine qua
 
 **Simple Translation:** I am all-devouring death, and also the source of everything that will exist in the future. Among feminine qualities, I am fame, prosperity, speech, memory, intelligence, firmness, and patience.
 
-**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Advances the argument: I am all-devouring death, and also the source of everything that will exist in the future.
+**Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Presents the most dialectically complete pair in the catalogue: death that consumes everything that exists, and the generative origin of everything yet to come — together spanning the full arc of time, while feminine excellences (fame, speech, memory, patience) show the divine pervading the inner life of character itself.
+
 **Contemporary Relevance:** The Qualities of Character. This list—Fame, Prosperity, Speech, Memory, Intelligence, Firmness, Patience—is a blueprint for a high-quality human being. Recognizing these as 'divine' qualities encourages us to cultivate them as our own highest nature.
 
 **Neuroscience Perspective:** Identifying with 'Fame, Prosperity, Memory, and Patience' is a blueprint for 'character-architecture.' These are the 'high-quality outputs' of a brain that is perfectly aligned with the Truth. They are the 'divine' goals of human development.

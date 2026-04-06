@@ -489,7 +489,8 @@ Now I will declare the time at which departing yogis go to non-return, and also 
 
 **Simple Translation:** Now I will tell you about the times when departing practitioners reach a state of no-return, and when they reach a state of return.
 
-**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Opens the section by establishing now I will tell you about the times when departing practitioners reach a state of no-return, and when they reach a state of return.
+**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Introduces a new dimension to the teaching on death: having described what to practice (8.5–8.14) and where one goes (8.15–8.22), Krishna now adds the question of which cosmic currents govern whether a departing soul returns or does not — framing the two paths as the chapter's final structural element.
+
 **Contemporary Relevance:** The Timing of Transition. This introduces the concept that even *when* and *how* we leave a situation affects our future path. It's a call to be mindful of the 'energy' and 'clarity' we have during moments of transition.
 
 **Neuroscience Perspective:**  Mindful transitions describe the 'legacy effect' of internal energy. Neurally, the 'mental state' at the moment of leaving a situation acts as the 'seed' for the next situation. Awareness during transitions is a master-skill of conscious living.
@@ -508,7 +509,8 @@ Fire, light, day, the bright fortnight, the six months of the sun's northern cou
 
 **Simple Translation:** Light, day, the waxing moon, the sun's northern path—those who depart during these times of 'clarity' and know the Absolute, go to the Absolute.
 
-**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Advances the argument: Light, day, the waxing moon, the sun's northern path—those who depart during these times of 'clarity' and know the Absolute, go to the Absolute.
+**Argument Arc:** *Two Paths After Death (8.23–8.27)* — Describes the luminous path (*devayāna*): fire, light, day, bright fortnight, northern solstice — a constellation of ascending solar symbols that carries the knower of Brahman directly to Brahman without return, representing the path of complete realization.
+
 **Contemporary Relevance:** Departing in Clarity. This is a metaphor for leaving a situation while you are 'in the light'—meaning you have full awareness, clarity, and knowledge. When you end a project or a relationship with total clarity, you move on to a higher state.
 
 **Neuroscience Perspective:** Departing in 'Light' describes 'High-Awareness Transitions.' When you leave a job, a project, or a life with total clarity and no 'unresolved data,' your brain moves into a higher state of integration and freedom.

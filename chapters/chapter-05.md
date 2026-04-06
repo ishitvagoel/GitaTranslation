@@ -539,7 +539,8 @@ For the ascetics who are free from desire and anger, whose minds are controlled,
 
 **Simple Translation:** For those who are free from desire and anger, whose minds are controlled, and who have realized their true self, ultimate freedom exists in every direction.
 
-**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Closes the section with for those who are free from desire and anger, whose minds are controlled, and who have realized their true self, ultimate freedom exists in every direction, completing the argument's arc.
+**Argument Arc:** *The Vision of Equality (5.18–5.26)* — Closes with the fullest statement of the liberated state's reach: for the self-knowing ascetic free of desire and anger, Brahman-freedom is not a distant destination but omnipresent in every direction — making the equal vision total and unconditional.
+
 **Contemporary Relevance:** 'Omnipresent Freedom.' When you have mastered your internal world, the external world stops being a prison. You don't have to 'go' anywhere to be free; freedom is right here, right now, in every situation you find yourself in.
 
 **Neuroscience Perspective:** Absolute freedom existing 'everywhere' for the self-controlled means the 'brain-environment' boundary has dissolved. When you own your own mind, the external world stops being a source of 'stress' or 'bondage.' You are free in every direction you look.
@@ -558,7 +559,8 @@ Keeping external contacts outside, fixing the gaze between the eyebrows, making 
 
 **Simple Translation:** Shutting out all external distractions, focusing the attention, and regulating the breath into a steady, equal rhythm...
 
-**Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Opens the section by establishing shutting out all external distractions, focusing the attention, and regulating the breath into a steady, equal rhythm.
+**Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Pivots from the philosophical vision of equality to its embodied practice: the concrete postures of withdrawal — sensory exclusion, focused gaze, equalized breath — that constitute the meditating yogi's preparation and bridge the chapter toward the full meditation teaching of Chapter 6.
+
 **Contemporary Relevance:** 'The Focus Protocol.' This is a technical instruction for deep concentration. By physically and mentally 'unplugging' from the world and regulating our biology (breath), we create the physiological state necessary for deep thought and internal discovery.
 
 **Neuroscience Perspective:** The 'Focus Protocol' describes 'sensory gating' and 'autonomic regulation.' By shutting out the 'outside' and regulating the 'inside' (breath), you create the optimal 'brain-state' for deep work, problem-solving, and existential discovery.

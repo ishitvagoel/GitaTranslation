@@ -336,7 +336,8 @@ Undivided, yet situated as if divided among beings; That is to be known as the s
 
 **Simple Translation:** It is undivided, yet it appears divided among all beings. It should be known as the sustainer, the consumer, and the creator of all.
 
-**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Advances the argument: It is undivided, yet it appears divided among all beings.
+**Argument Arc:** *The Object of Knowledge — Brahman (13.12–13.18)* — Resolves the apparent plurality of distinct beings back into a single undivided reality, identifying brahman simultaneously as sustainer, devourer, and creator — the full cosmic life-cycle contained within the one.
+
 **Contemporary Relevance:** The Unity of Life. We see billions of separate 'lives,' but it's all one 'Life' being expressed. Understanding this 'indivisible' nature of reality is the cure for loneliness and the foundation of universal compassion.
 
 **Neuroscience Perspective:** Being 'undivided among the divided' is 'universal pattern-recognition.' Neurally, you see the 'One Life' being expressed through billions of 'Individual Forms.' This is the ultimate cure for loneliness and the neural basis for universal compassion.

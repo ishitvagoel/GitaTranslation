@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 15
 title: "Chapter 15 — Puruṣottamayogaḥ (पुरुषोत्तमयोगः)"  
 ---
 

@@ -13,12 +13,16 @@
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     
     <script>
-      // Apply saved theme immediately to prevent flash
+      // Apply saved theme and font scale immediately to prevent flash
       (function() {
         var theme = localStorage.getItem('theme') || 'light';
         document.documentElement.setAttribute('data-theme', theme);
+        var scales = { small: '0.875', medium: '1', large: '1.175' };
+        var scale = localStorage.getItem('font-scale') || 'medium';
+        document.documentElement.style.setProperty('--font-scale', scales[scale] || '1');
       })();
     </script>
+    {% if page.chapter_num %}<meta name="chapter-num" content="{{ page.chapter_num }}">{% endif %}
     
     {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
@@ -32,6 +36,7 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
+        {%- include chapter-nav.html -%}
       </div>
     </main>
 

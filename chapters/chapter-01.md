@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 1
 title: "Chapter 1 — Arjunaviṣādayogaḥ (अर्जुनविषादयोगः)"  
 ---
 

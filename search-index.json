@@ -1,0 +1,6 @@
+---
+layout: null
+---
+{% assign chapters = "01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18" | split: "," %}
+{% assign english_titles = "Arjuna's Despair,Discernment,Selfless Action,Wisdom and Action,Renunciation,Meditation,Knowledge and Realization,The Imperishable Absolute,The Royal Secret,Divine Manifestations,The Universal Form,Devotion,The Field and Knower,The Three Qualities,The Supreme Person,Divine and Demonic,The Three Kinds of Faith,Freedom through Renunciation" | split: "," %}
+[{% for chapter_num in chapters %}{% assign index = forloop.index0 %}{% assign chnum = chapter_num | plus: 0 %}{"num":{{ chnum }},"title":"{{ english_titles[index] }}","url":"{{ site.baseurl }}/chapters/chapter-{{ chapter_num }}"}{% unless forloop.last %},{% endunless %}{% endfor %}]

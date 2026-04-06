@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 9
 title: "Chapter 9 — Rājavidyārājaguhyayogaḥ (राजविद्याराजगुह्ययोगः)"  
 ---
 

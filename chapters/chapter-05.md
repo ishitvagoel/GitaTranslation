@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 5
 title: "Chapter 5 — Karmasaṃnyāsayogaḥ (कर्मसंन्यासयोगः)"  
 ---
 

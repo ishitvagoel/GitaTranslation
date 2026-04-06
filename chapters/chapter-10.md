@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 10
 title: "Chapter 10 — Vibhūtiyogaḥ (विभूतियोगः)"  
 ---
 

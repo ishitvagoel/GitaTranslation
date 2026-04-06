@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 17
 title: "Chapter 17 — Śraddhātrayavibhāgayogaḥ (श्रद्धात्रयविभागयोगः)"  
 ---
 

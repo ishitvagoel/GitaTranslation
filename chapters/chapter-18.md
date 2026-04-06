@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 18
 title: "Chapter 18 — Mokṣasaṃnyāsayogaḥ (मोक्षसंन्यासयोगः)"  
 ---
 

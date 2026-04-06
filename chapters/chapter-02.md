@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 2
 title: "Chapter 2 — Sāṅkhyayogaḥ (साङ्ख्ययोगः)"  
 ---
 

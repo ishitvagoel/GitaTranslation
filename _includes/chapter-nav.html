@@ -1,0 +1,38 @@
+{% if page.chapter_num %}
+  {% assign prev_num = page.chapter_num | minus: 1 %}
+  {% assign next_num = page.chapter_num | plus: 1 %}
+  {% assign prev_str = prev_num | prepend: "00" | slice: -2, 2 %}
+  {% assign next_str = next_num | prepend: "00" | slice: -2, 2 %}
+
+  {% assign english_titles = "Arjuna's Despair,Discernment,Selfless Action,Wisdom and Action,Renunciation,Meditation,Knowledge and Realization,The Imperishable Absolute,The Royal Secret,Divine Manifestations,The Universal Form,Devotion,The Field and Knower,The Three Qualities,The Supreme Person,Divine and Demonic,The Three Kinds of Faith,Freedom through Renunciation" | split: "," %}
+  {% assign prev_title = english_titles[prev_num | minus: 1] %}
+  {% assign next_title = english_titles[next_num | minus: 1] %}
+
+<nav class="chapter-nav" aria-label="Chapter navigation">
+  <div class="chapter-nav-inner">
+    {% if page.chapter_num > 1 %}
+    <a href="{{ site.baseurl }}/chapters/chapter-{{ prev_str }}" class="chapter-nav-link chapter-nav-prev">
+      <span class="chapter-nav-arrow">←</span>
+      <span class="chapter-nav-text">
+        <span class="chapter-nav-label">Previous</span>
+        <span class="chapter-nav-title">Chapter {{ prev_num }} · {{ prev_title }}</span>
+      </span>
+    </a>
+    {% else %}
+    <div></div>
+    {% endif %}
+
+    {% if page.chapter_num < 18 %}
+    <a href="{{ site.baseurl }}/chapters/chapter-{{ next_str }}" class="chapter-nav-link chapter-nav-next">
+      <span class="chapter-nav-text">
+        <span class="chapter-nav-label">Next</span>
+        <span class="chapter-nav-title">Chapter {{ next_num }} · {{ next_title }}</span>
+      </span>
+      <span class="chapter-nav-arrow">→</span>
+    </a>
+    {% else %}
+    <div></div>
+    {% endif %}
+  </div>
+</nav>
+{% endif %}

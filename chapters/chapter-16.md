@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 16
 title: "Chapter 16 — Daivāsurasampadvibhāgayogaḥ (दैवासुरसम्पद्विभागयोगः)"  
 ---
 

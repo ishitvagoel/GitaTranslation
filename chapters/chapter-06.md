@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 6
 title: "Chapter 6 — Dhyānayogaḥ (ध्यानयोगः)"  
 ---
 

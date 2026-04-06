@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 14
 title: "Chapter 14 — Guṇatrayavibhāgayogaḥ (गुणत्रयविभागयोगः)"  
 ---
 

@@ -7,13 +7,16 @@
     <ul>
       {% assign chapters = "01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18" | split: "," %}
       {% assign titles = "Arjuna's Despair,Discernment,Selfless Action,Wisdom and Action,Renunciation,Meditation,Knowledge and Realization,The Imperishable Absolute,The Royal Secret,Divine Manifestations,The Universal Form,Devotion,The Field and Knower,The Three Qualities,The Supreme Person,Divine and Demonic,The Three Kinds of Faith,Freedom through Renunciation" | split: "," %}
-      
+
       {% for chapter_num in chapters %}
         {% assign index = forloop.index0 %}
         {% assign title = titles[index] %}
-        <li class="{% if page.url contains chapter_num %}active{% endif %}">
+        {% assign num_int = chapter_num | plus: 0 %}
+        <li class="{% if page.url contains chapter_num %}active{% endif %}" data-chapter="{{ num_int }}">
           <a href="{{ site.baseurl }}/chapters/chapter-{{ chapter_num }}">
-            <span class="chapter-num">{{ chapter_num }}</span> {{ title }}
+            <span class="chapter-num">{{ chapter_num }}</span>
+            <span class="chapter-title-text">{{ title }}</span>
+            <span class="chapter-read-badge" aria-label="Read" title="Read">✓</span>
           </a>
         </li>
       {% endfor %}
@@ -21,6 +24,7 @@
   </nav>
   <div class="sidebar-footer">
     <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/search">Search</a>
     <a href="{{ site.baseurl }}/glossary">Glossary</a>
     <a href="{{ site.baseurl }}/METHODOLOGY">Methodology</a>
   </div>

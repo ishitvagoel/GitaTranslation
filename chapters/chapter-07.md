@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 7
 title: "Chapter 7 — Jñānavijñānayogaḥ (ज्ञानविज्ञानयोगः)"  
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 11
 title: "Chapter 11 — Viśvarūpadarśanayogaḥ (विश्वरूपदर्शनयोगः)"  
 ---
 

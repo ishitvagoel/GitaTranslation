@@ -5,13 +5,51 @@
       <span></span>
       <span></span>
     </button>
-    
+
     <div class="header-title">
       <a href="{{ site.baseurl }}/">{{ site.title }}</a>
     </div>
 
+    <div class="header-center">
+      {% if page.chapter_num %}
+      <input id="jump-verse-input" class="jump-verse-input" type="text" placeholder="Jump to verse…" aria-label="Jump to verse number" autocomplete="off" />
+      <span id="verse-progress" class="verse-progress" aria-live="polite" style="display:none"></span>
+      {% endif %}
+    </div>
+
     <div class="header-actions">
+      {% if page.chapter_num %}
+      <div class="font-size-controls" aria-label="Font size">
+        <button class="font-size-btn" data-scale="small" title="Small text" aria-label="Small font size">A</button>
+        <button class="font-size-btn font-size-btn--mid" data-scale="medium" title="Medium text" aria-label="Medium font size">A</button>
+        <button class="font-size-btn font-size-btn--lg" data-scale="large" title="Large text" aria-label="Large font size">A</button>
+      </div>
+      {% endif %}
+      <button id="shortcuts-btn" class="shortcuts-btn" title="Keyboard shortcuts (?)" aria-label="Keyboard shortcuts">?</button>
       {% include theme-toggle.html %}
     </div>
   </div>
 </header>
+
+<!-- Keyboard Shortcuts Modal -->
+<div id="shortcuts-modal" class="shortcuts-modal" role="dialog" aria-modal="true" aria-label="Keyboard shortcuts">
+  <div class="shortcuts-modal-box">
+    <div class="shortcuts-modal-header">
+      <h3>Keyboard Shortcuts</h3>
+      <button class="shortcuts-close" aria-label="Close shortcuts">×</button>
+    </div>
+    <dl class="shortcuts-list">
+      <dt><kbd>[</kbd></dt><dd>Previous chapter</dd>
+      <dt><kbd>]</kbd></dt><dd>Next chapter</dd>
+      <dt><kbd>/</kbd></dt><dd>Jump to verse</dd>
+      <dt><kbd>?</kbd></dt><dd>Show this help</dd>
+      <dt><kbd>Esc</kbd></dt><dd>Close sidebar / modal</dd>
+    </dl>
+  </div>
+</div>
+
+<script>
+document.getElementById('shortcuts-btn').addEventListener('click', () => {
+  document.getElementById('shortcuts-modal').classList.toggle('open');
+});
+</script>

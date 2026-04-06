@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 3
 title: "Chapter 3 — Karmayogaḥ (कर्मयोगः)"  
 ---
 

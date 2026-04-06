@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 12
 title: "Chapter 12 — Bhaktiyogaḥ (भक्तियोगः)"  
 ---
 

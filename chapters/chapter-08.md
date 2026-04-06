@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 8
 title: "Chapter 8 — Akṣarabrahmayogaḥ (अक्षरब्रह्मयोगः)"  
 ---
 

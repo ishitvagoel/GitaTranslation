@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 13
 title: "Chapter 13 — Kṣetrakṣetrajñavibhāgayogaḥ (क्षेत्रक्षेत्रज्ञविभागयोगः)"  
 ---
 

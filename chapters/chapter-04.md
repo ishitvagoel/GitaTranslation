@@ -1,5 +1,6 @@
 ---
 layout: default
+chapter_num: 4
 title: "Chapter 4 — Jñānakarmasaṃnyāsayogaḥ (ज्ञानकर्मसंन्यासयोगः)"  
 ---
 

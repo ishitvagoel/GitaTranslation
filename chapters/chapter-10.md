@@ -30,6 +30,8 @@ Again, O mighty-armed one, hear My supreme word, which I, desiring your welfare,
 
 **Neuroscience Perspective:** The request to 'listen to supreme words' for 'welfare' describes the state of 'receptive alignment.' Neurally, when the listener trusts the source, the brain's 'defensive filters' are lowered, allowing the prefrontal cortex to fully process and integrate complex, life-altering First Principles.
 
+**Common Misreading:** "This chapter is a list of divine boastings." Actually, the vibhūtis are pedagogical — Krishna uses examples of excellence as conceptual anchors so that Arjuna can recognize the divine in whatever is most magnificent in his daily experience.
+
 ---
 
 ### 10.2
@@ -172,6 +174,8 @@ I am the origin of all; from Me everything proceeds. Thinking thus, the wise wor
 
 **Neuroscience Perspective:** Realizing the Source behind all creation leads to 'devotion with internal feeling.' This is the state of 'integrated conviction.' Neurally, the abstract logic of the source (the One) is now reinforced by the emotional reward centers (the feeling), creating a unified mental state.
 
+**Common Misreading:** "Those who know Krishna's origin form a spiritual elite closed to others." Actually, the verse describes a shift in orientation available to anyone — knowing Krishna as the source of all makes worship deeply devotional rather than superficial, and this knowledge is what the whole chapter aims to share.
+
 ---
 
 ### 10.9
@@ -231,6 +235,8 @@ Out of compassion for them alone, I, abiding in their own self, destroy the dark
 **Contemporary Relevance:** The Internal Light. You don't have to 'find' the truth; you just have to remove the 'darkness' (ignorance). The Absolute reality acting within you 'lights the lamp.' It’s a promise that sincerity is always rewarded with clarity.
 
 **Neuroscience Perspective:** Destroying the 'darkness of ignorance' with the 'lamp of knowledge' describes 'top-down cognitive restructuring.' Living Truth within the self (the light) over-writes the old, fearful narratives of the ego (the darkness), resulting in a permanent state of clarity.
+
+**Common Misreading:** "Krishna removes ignorance by a miraculous external intervention." Actually, the lamp of knowledge is lit *within* them (*antaḥ-stho*) — the divine illuminates from inside, working through the devotee's own awareness rather than as an external force overriding their agency.
 
 ---
 
@@ -420,6 +426,8 @@ I am the self, O Guḍākeśa, seated in the heart of all beings; I am the begin
 
 **Neuroscience Perspective:** Being the 'Self in the heart' is the ultimate 'internalized anchor.' Identifying the 'universal source' with your own 'core awareness' provides a neural reference point that is always available, from start to finish.
 
+**Common Misreading:** "The Self (ātman) inside all beings is a separate deity from Krishna." Actually, the self dwelling in the hearts of all beings is identified here with Krishna — confirming the non-duality between individual awareness and the supreme self rather than introducing a new figure.
+
 ---
 
 ### 10.21
@@ -459,6 +467,8 @@ Of the Vedas I am the Sāmaveda; of the gods I am Vāsava (Indra). Of the senses
 **Contemporary Relevance:** The Essence of Function. Krishna is the 'music' in the scriptures, the 'leadership' in the gods, the 'coordinator' (mind) in the senses, and 'life' (consciousness) in beings. Look for the 'core function' that makes a system work—that is the Absolute at work.
 
 **Neuroscience Perspective:** Being 'consciousness' in beings identifies the Absolute with the 'animating principle' itself. Neurally, this is the move from 'studying the brain' to 'realizing the consciousness' that makes the brain's functions possible.
+
+**Common Misreading:** "This is a list of favorites showing Krishna's preferences among created things." Actually, the vibhūtis are peak expressions — whatever is the most refined or most excellent in any domain is where the divine is most recognizable, not a ranking of favorites.
 
 ---
 
@@ -740,6 +750,8 @@ I am the gambling of the deceitful; I am the splendor of the splendid. I am vict
 
 **Neuroscience Perspective:** Being 'Victory and Resolve' identifies the Absolute with 'successful outcomes and commitment.' When you feel 'strong and winning,' realize that energy is a universal gift, which prevents the build-up of the small ego.
 
+**Common Misreading:** "Gambling is endorsed because Krishna identifies with it." Actually, Krishna identifies with the gambling of the deceitful (*dyūtaṃ chalayatām*) as a *peak expression* within that domain — the list describes the highest intensity in each category, not a moral endorsement of the activities themselves.
+
 ---
 
 ### 10.37
@@ -802,6 +814,8 @@ And whatever is the seed of all beings, that am I, Arjuna. There is no being, wh
 
 **Neuroscience Perspective:** Being the 'Seed' identifies the Absolute with 'causal essence.' Just as the whole tree is in the seed, the whole universe is in the Truth. Understanding the 'Seed' is the ultimate 'shortcut' to understanding the 'Universe.'
 
+**Common Misreading:** "Krishna says he is everything, so all distinctions are irrelevant." Actually, while Krishna is the seed of all, the world's distinctions still function — the teaching is about recognizing the ground beneath all phenomena, not collapsing everything into undifferentiated sameness.
+
 ---
 
 ### 10.40
@@ -861,5 +875,7 @@ But what need is there for you to know all this multiplicity, Arjuna? I stand su
 **Contemporary Relevance:** Simplicity of Scale. After listing all the complex manifestations, Krishna brings it back to one simple fact: the Absolute is so powerful that this entire massive universe is just a 'tiny fraction' of its reality. This puts our own 'huge' problems into a much more manageable perspective.
 
 **Neuroscience Perspective:** Sustaining the universe with 'one small part' is the ultimate 're-normalization' of scale. Neurally, this thought collapses the 'huge problems' of our world into 'tiny details' of the Absolute reality, resulting in an unshakeable sense of peace and security.
+
+**Common Misreading:** "One verse or one insight can replace the entire teaching of this chapter." Actually, 'a single fraction of Myself sustains this entire universe' is the capstone of an extended inquiry — it is a conclusion that carries its full weight only for a mind that has followed the complete argument, not a shortcut around it.
 
 > **Note:** The chapter climaxes not with the exhaustive list, but with its sudden minimization. The entire known cosmos—with all its supreme manifestations—is sustained by merely a fraction (*ekāṃśa*) of the divine reality.

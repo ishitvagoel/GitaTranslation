@@ -54,6 +54,8 @@ And know Me also as the knower of the field in all fields, O Bhārata. The knowl
 
 **Neuroscience Perspective:** Krishna as the 'Knower in all Fields' describes 'Universal Awareness.' Neurally, this encourages a model of consciousness where the individual 'observer' is realized as a localized instance of a single, universal 'Information Field.' This realization is the cure for isolation and separate-ego stress.
 
+**Common Misreading:** "The knower of the field is just Arjuna (the individual self)." Actually, Krishna explicitly identifies himself as the knower in all fields (*sarvakṣetreṣu*) — the individual self and the universal Self are brought into relation here, not equated nor kept separate.
+
 ---
 
 ### 13.3
@@ -262,6 +264,8 @@ I shall declare that which is to be known, knowing which one tastes immortality:
 
 **Neuroscience Perspective:** The 'Absolute' being beyond 'existing and not existing' describes 'non-binary reality.' Neurally, the highest Truth cannot be captured by simple 'on/off' or 'true/false' labels. It is the 'Context' that makes both possible. Grasping this takes the brain beyond the limits of dualistic logic.
 
+**Common Misreading:** "Brahman is described here as a philosophical abstraction." Actually, the descriptions that follow — neither being nor non-being, the light of all lights, seated in the heart of all — point to a living reality that is accessible in contemplation, not merely a theoretical concept.
+
 ---
 
 ### 13.13
@@ -321,6 +325,8 @@ Outside and inside all beings, unmoving and also moving; incomprehensible becaus
 **Contemporary Relevance:** The Nearness of Truth. We often look for the meaning of life 'out there.' Krishna says it is closer than your own breath, yet further than the stars. Its 'subtlety' means you can't find it with your eyes, only with a quiet and refined mind.
 
 **Neuroscience Perspective:** Being 'outside and inside, unmoving and moving' describes 'scalar-invariance.' Truth is the same at the 'atomic' level (inside) and the 'galactic' level (outside). This 'subtlety' means it can only be detected by a brain that has been refined through discipline.
+
+**Common Misreading:** "Brahman is external to the body and world." Actually, the verse explicitly says it is *bahir antaś ca* — outside and inside all beings — and it moves and stands still; it saturates existence from within, not as something located elsewhere.
 
 ---
 
@@ -462,6 +468,8 @@ The spectator, the permitter, the sustainer, the enjoyer, the great Lord, and th
 
 **Neuroscience Perspective:** The Supreme Spirit as 'Witness and Consenter' describes 'High-Level Monitoring.' Your core awareness acts as the 'Supervisor' of your life. By identifying with this Supervisor rather than the 'Worker' (ego), you gain a perspective of total authority and peace.
 
+**Common Misreading:** "The soul is a passive observer with no role in experience." Actually, the Puruṣa is named both *bhoktā* (experiencer) and *upadraṣṭā* (witness) — it is present to experience without being enslaved by it; witnessing and experiencing are not opposites but complementary aspects of the same consciousness.
+
 ---
 
 ### 13.23
@@ -500,6 +508,8 @@ By meditation some see the self in the self by the self; others by the yoga of k
 **Contemporary Relevance:** Many Paths to the Same Peak. Whether you are a 'Meditation person,' a 'Logic person,' or a 'Doing person,' the destination is the same. The universe provides multiple 'interfaces' for the same Truth to accommodate our different temperaments.
 
 **Neuroscience Perspective:** Multiple paths (meditation, logic, action) recognize 'neural diversity.' The brain can reach 'optimal integration' through 'internal focus' (meditation), 'analytical modeling' (logic), or 'embodied service' (action). The universe is temperament-inclusive.
+
+**Common Misreading:** "There is only one valid path to Self-realization." Actually, the verse explicitly lists meditation, *sāṅkhya* (discrimination), and karma yoga as three distinct legitimate routes — the teaching is deliberately pluralistic, accommodating different psychological temperaments.
 
 ---
 
@@ -576,6 +586,8 @@ For seeing the Lord established equally everywhere, he does not destroy the self
 **Contemporary Relevance:** The End of Self-Sabotage. When you recognize your own 'divine' essence in others, you stop competing, hating, and hurting yourself or others. 'Destroying the self with the self' refers to self-sabotage caused by ego and division. Unity is the path to the peak.
 
 **Neuroscience Perspective:** Seeing the Lord 'equally everywhere' prevents 'Self-Sabotage.' When you recognize the same life-force in others as in yourself, the 'us vs. them' competitive circuitry is disabled. You stop 'hurting yourself' by hurting others, leading to systemic harmony.
+
+**Common Misreading:** "The liberated person sees God everywhere equally, dissolving all distinctions." Actually, seeing the same Īśvara (*samavasthitam*) in all beings is a metaphysical insight about the ground of existence — it does not collapse functional or ethical distinctions but reveals the shared source beneath them.
 
 ---
 
@@ -671,6 +683,8 @@ Just as the one sun illuminates this entire world, so does the Lord of the field
 **Contemporary Relevance:** The Illuminating Power of Awareness. Without your awareness, your world doesn't exist for you. You are the 'Sun' of your own life. By focusing your 'light' (attention) wisely, you can illuminate and understand every part of your experience.
 
 **Neuroscience Perspective:** The 'Sun' metaphor describes 'centralized illumination.' Your awareness is the 'light-source' that makes your world exist. By focusing this 'light' (attention) with total integrity, you can understand and master every 'field' you enter.
+
+**Common Misreading:** "The self is like the sun — bright and warm." Actually, the analogy is specifically about *non-contamination*: the sun illuminates a muddy puddle without becoming muddy; the ātman illuminates all experience — including suffering and error — without absorbing or being stained by those qualities.
 
 ---
 

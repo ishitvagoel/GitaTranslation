@@ -131,7 +131,9 @@ Among these, *sattva*, being pure, is luminous and free from disease; it binds b
 
 **Contemporary Relevance:** The 'Golden Handcuffs'. Even being a 'good' and 'knowledgeable' person can be a trap if you become arrogant or attached to your own 'goodness.' This is a warning that the ego can hide even in our best qualities.
 
-**Neuroscience Perspective:** Sattva (Goodness) as 'illuminating and healthy' describes the state of 'optimal executive function.' Neurally, this is a state of high signal-to-noise ratio. However, the 'attachment to knowledge' is a warning about the ego’s ability to hijack even our most positive mental states.
+**Neuroscience Perspective:** Sattva (Goodness) as ‘illuminating and healthy’ describes the state of ‘optimal executive function.’ Neurally, this is a state of high signal-to-noise ratio. However, the ‘attachment to knowledge’ is a warning about the ego’s ability to hijack even our most positive mental states.
+
+**Common Misreading:** "Sattva is the best quality and should be maximized." Actually, the verse states that sattva *binds* (*badhnāti*) through attachment to happiness and knowledge — even the purest mode of being becomes a golden cage if one clings to it rather than transcending it entirely.
 
 > **Note:** A profound psychological insight. Even the highest, purest state of the mind (*sattva*) is a binding force if the ego identifies with "being happy" or "being knowledgeable."
 
@@ -194,6 +196,8 @@ Sattva attaches one to happiness, rajas to action, O Bhārata; but tamas, having
 **Contemporary Relevance:** Identifying the 'Hook'. Each quality has its own way of catching you. Knowing *why* you are acting—whether for comfort (Sattva), for a win (Rajas), or just out of habit (Tamas)—helps you regain control over your life.
 
 **Neuroscience Perspective:** The specific 'hooks' of the Gunas (Happiness, Action, Mistake) show how the environment 'tags' our awareness. By knowing which 'tag' is currently pulling your attention, you can use your prefrontal cortex to 'detach' from the Guna and regain control.
+
+**Common Misreading:** "Rajas is the source of all ambition and should be eliminated." Actually, rajas and tamas are described as forces that dominate in turns — the teaching is not about eliminating ambition as such, but about transcending the oscillation between these states rather than privileging any one of them.
 
 ---
 
@@ -294,6 +298,8 @@ When the embodied one goes to dissolution (death) while *sattva* has increased, 
 **Contemporary Relevance:** Ending in Clarity. Transitions matter. If you end a project or a life in a state of 'Sattva' (clarity and peace), your next step will naturally be at a higher level. Always strive to end things on a 'high note' of integrity.
 
 **Neuroscience Perspective:** The psychological state in which you leave a situation shapes what you carry into the next one. Research on 'mood-congruent memory' shows that the emotional state at the time of an experience determines which memories consolidate most strongly. Transitioning from any situation — a job, a relationship, a phase of life — while in a state of clarity and integrity means the neural patterns you carry forward are constructive rather than reactive.
+
+**Common Misreading:** "Death in a Sattvic state guarantees a high rebirth automatically." Actually, the upward movement to pure worlds reflects the guṇa-state at death as a tendency and trajectory — it is not a mechanical guarantee independent of one's deeper orientation and the full context of one's life.
 
 ---
 
@@ -414,6 +420,8 @@ Having transcended these three *guṇas* which are the origin of the body, the e
 **Contemporary Relevance:** Transcending Biology. You are not your body or your moods. By 'transcending' the three qualities, you stop being a victim of your biological and psychological programming. You reach a state of permanent, unshakeable freedom.
 
 **Neuroscience Perspective:** Advanced meditators show a remarkable ability to observe arousal states — calm, agitation, lethargy — without being captured by them. Neuroimaging reveals that this 'witnessing' capacity involves decoupling the prefrontal observer from limbic and autonomic fluctuations. The result is not suppression of these states, but a stable awareness that persists regardless of which state is active — a form of psychological freedom from the body's automatic mood cycles.
+
+**Common Misreading:** "Transcending the guṇas means becoming emotionless." Actually, freedom from the guṇas (*guṇātīta*) means acting without being driven by their compulsions — the subsequent portrait (14.22–14.25) shows the freed person still experiencing the guṇa-states but not hating or craving them; presence, discernment, and love remain, just not as reactions to conditioning.
 
 ---
 

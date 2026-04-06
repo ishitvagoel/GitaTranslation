@@ -75,6 +75,8 @@ In this world, a twofold basis of steadying was previously taught by me, O sinle
 
 **Neuroscience Perspective:** Krishna identifies two distinct neural 'temperaments': the analytical path (theoretical/intellectual) and the active path (practical/action-based). This recognizes that different individuals have different 'baseline neural connectivity,' requiring varied methods to reach the same state of optimization.
 
+**Common Misreading:** "Krishna says knowledge is for some people and action is for others, permanently and exclusively." Actually, the division is by temperamental path (*niṣṭhā*), not fixed identity — both paths lead to the same goal and the Gita consistently describes their ultimate convergence in the liberated sage.
+
 > **Note:** *niṣṭhā* — basis, foundation, or state of being established. It refers to the fundamental orientation of one's spiritual practice.
 
 ---
@@ -217,6 +219,8 @@ anena prasaviṣyadhvam eṣa vo 'stv iṣṭakāmadhuk // 10 //
 **Contemporary Relevance:** The universe operates on a principle of 'giving and receiving.' In modern economics and ecology, we see that sustainable growth only happens when there is a mutual exchange of value. The 'spirit of sacrifice' is actually the secret to long-term prosperity.
 
 **Neuroscience Perspective:** The 'spirit of sacrifice' as a source of prosperity is a First Principle of 'reciprocal altruism.' Evolutionarily, the human brain is wired to thrive in systems of mutual benefit. 'Contribution' is the strategic key to long-term systemic stability and individual success.
+
+**Common Misreading:** "Sacrifice (*yajña*) here means Vedic fire rituals performed by priests." Actually, yajña in this verse refers to the cosmic principle of mutual sustenance through which the Creator established existence itself — any offering-in-relationship, any act of contribution to a larger whole, participates in this principle.
 
 Having created people together with sacrifice, the Lord of Progeny previously said: "By this shall you procreate; let this be your cow-of-plenty for desired objects."
 
@@ -422,7 +426,9 @@ Indeed, Janaka and others attained perfection through action alone. Even conside
 
 **Contemporary Relevance:** Leadership by example. Even if you don't 'need' to work for yourself, you should work for the benefit of society. Your actions help hold the world together. This is the responsibility of the 'wise' to help those who are still learning.
 
-**Neuroscience Perspective:** Leadership by example (lokasaṃgraha) is an act of 'social modeling.' The brain’s mirror neuron system allows it to influence the behavior of others through action. Wise leaders continue to work to provide a 'stable neural template' for the rest of society to follow.
+**Neuroscience Perspective:** Leadership by example (lokasaṃgraha) is an act of ‘social modeling.’ The brain’s mirror neuron system allows it to influence the behavior of others through action. Wise leaders continue to work to provide a ‘stable neural template’ for the rest of society to follow.
+
+**Common Misreading:** "Only kings and great rulers need to worry about lokasaṃgraha — setting an example is a leader’s burden, not an ordinary person’s." Actually, the principle of world-welfare applies to anyone whose actions influence others — which is everyone. The king is cited as the clearest case, not the only case.
 
 > **Note:** *lokasaṃgraha* — the holding together, maintenance, or welfare of the world. Kṛṣṇa introduces the social and cosmic dimension of action here.
 
@@ -445,6 +451,8 @@ Whatever a superior person does, that very thing other people do. Whatever stand
 **Contemporary Relevance:** The power of influence. If you are in a position of authority (parent, boss, influencer), your behavior sets the 'culture' for everyone else. Integrity at the top is the only way to ensure integrity throughout the system.
 
 **Neuroscience Perspective:** The 'power of influence' describes how social hierarchies are maintained in the brain. We are neurally programmed to 'imitate the leader.' High-level integrity at the top of a hierarchy is the most efficient way to regulate the behavior of the entire system.
+
+**Common Misreading:** "The wise person must perform only actions that others can copy, imposing a uniform standard." Actually, lokasaṃgraha means acting for the welfare of the collective by modeling integrity — not mandating conformity. The principle calls for role-modeling authentic duty, not dictating that all others act identically.
 
 ---
 
@@ -569,6 +577,8 @@ Actions are performed in every way by the qualities (*guṇas*) of nature (*prak
 **Contemporary Relevance:** This is 'the illusion of agency.' Our bodies, brains, and environments are all part of a massive natural process. When we take too much personal credit (or too much personal blame), we are ignoring the countless biological and environmental factors that made the action possible. Humility comes from seeing the 'big picture' of nature.
 
 **Neuroscience Perspective:** The 'illusion of agency' (I am the doer) is a byproduct of the brain's 'self-model.' While necessary for basic survival, this 'ego-narrative' becomes a source of stress and pride. Understanding that 'Nature is the real doer' allows for a more relaxed and objective performance.
+
+**Common Misreading:** "The guṇas are external forces acting on a passive, innocent self." Actually, the guṇas are the very fabric of prakṛti — they constitute the field in which the self operates. The teaching is about seeing through the *ahaṅkāra's* illusion of ownership of action, not about escaping external pressure.
 
 > **Note:** *ahaṅkāra* — the "I-maker" or ego-principle. Kṛṣṇa distinguishes between the objective movement of the *guṇas* and the subjective delusion of agency.
 

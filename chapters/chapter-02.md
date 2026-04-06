@@ -496,6 +496,8 @@ Just as a person casts off worn-out garments and puts on other new ones, so the 
 
 **Neuroscience Perspective:** The 'changing clothes' metaphor is a powerful 'visual reappraisal' tool. It allows the brain to process death not as a 'deletion' of data but as a 're-formatting' or 'transfer' of the essential core, which significantly reduces the grief response.
 
+**Common Misreading:** "The soul automatically gets a better body in the next life — the metaphor promises improvement." Actually, the simile says only that the self acquires *new* embodiment as one takes on new garments; the teaching here is about continuity and non-destruction, not a guarantee of upgrade.
+
 ---
 
 ### 2.23
@@ -968,6 +970,8 @@ The Vedas deal with the domain of the three guṇas. Be beyond the three guṇas
 
 **Neuroscience Perspective:** Rising above the 'three qualities' (Gunas) is a call for 'self-transcendence.' It suggests that we can reach a state of 'meta-awareness' where we observe our own biological and psychological programming without being enslaved by it.
 
+**Common Misreading:** "Krishna rejects the Vedas here." Actually, he instructs going *beyond* the three-guṇa framework of ritual Vedism that promises heavenly rewards — not rejecting Vedic wisdom as a whole. The goal is to move from transactional religion (rewards for rites) to self-grounded action.
+
 > **Note:** *niryogakṣema* — beyond *yoga* (acquiring what one lacks) and *kṣema* (preserving what one has). This does not negate effort but attachment to outcomes. *nityasattvasthaḥ* is striking: even while transcending the three guṇas, the instruction is to be grounded in *sattva* — an apparent tension that later chapters develop.
 
 ---
@@ -1031,6 +1035,8 @@ Established in yoga, perform actions having abandoned attachment, Dhanañjaya, b
 
 **Neuroscience Perspective:** Yoga as 'evenness of mind' is the state of 'optimized regulation.' A brain that is 'equal in success and failure' has a highly resilient nervous system that can handle any level of environmental volatility without crashing.
 
+**Common Misreading:** "Yoga means physical postures and breathing exercises." Actually, this verse gives the Gita's own explicit definition: yoga is *samatvam* — evenness of mind in action — a mental orientation toward equanimity, not a physical practice. Physical yoga traditions developed centuries later and draw on a different context.
+
 ---
 
 ### 2.49
@@ -1070,6 +1076,8 @@ One yoked with understanding casts off here both good and evil deeds. Therefore 
 **Contemporary Relevance:** Yoga is 'skill in action.' This means doing what needs to be done with absolute precision, focus, and without emotional baggage. It’s the definition of a 'flow state' or being 'in the zone' where your actions are perfect and effortless.
 
 **Neuroscience Perspective:** Yoga as 'skill in action' (karmasu kauśalam) describes the 'flow state.' In this state, the 'self' (ego) disappears and the 'act' becomes perfectly efficient and precise. It is the peak of human neurological and physical integration.
+
+**Common Misreading:** "Yoga as 'skill in action' means technical proficiency or professional excellence." Actually, the skill (*kauśalam*) here is specifically the inner capacity to act without being bound by the karmic consequences of the act — freedom from the ego's entanglement with outcome, not mere competence.
 
 ---
 
@@ -1177,6 +1185,8 @@ When one abandons all desires that dwell in the mind, Pārtha, content in the se
 
 **Neuroscience Perspective:** Contentment 'in the self by the self' is the state of 'intrinsic reward.' Instead of needing external dopamine hits (praise, money), the brain generates its own sense of 'ok-ness' and satisfaction from its own core alignment.
 
+**Common Misreading:** "The wise person has no desires whatsoever — all wanting is eliminated." Actually, the verse specifies abandoning *kāmān manogatān* — desires as compulsive mental cravings. Freedom from craving (kāma) is not the same as the absence of all motivation, preference, or purposive action, which remain available to the sage.
+
 ---
 
 ### 2.56
@@ -1277,7 +1287,9 @@ For even of a striving, discerning person, Kaunteya, the turbulent senses seize 
 
 **Contemporary Relevance:** This is a warning about 'overconfidence in willpower.' We must respect the power of our biological urges and environmental triggers. Even the most disciplined person can be led astray if they are not constantly vigilant.
 
-**Neuroscience Perspective:** The 'turbulent senses' seizing the mind is a description of 'limbic hijack.' It’s a warning that our biological urges are incredibly powerful and can override even a wise person’s logic if they are not constantly vigilant.
+**Neuroscience Perspective:** The ‘turbulent senses’ seizing the mind is a description of ‘limbic hijack.’ It’s a warning that our biological urges are incredibly powerful and can override even a wise person’s logic if they are not constantly vigilant.
+
+**Common Misreading:** "This verse says even the wise inevitably fail — sensory control is ultimately impossible." Actually, the verse warns of danger precisely to motivate the remedy that follows in 2.61: restraining the senses and directing attention to the supreme — the warning is a call to a deeper method, not a counsel of despair.
 
 ---
 
@@ -1484,6 +1496,8 @@ As waters enter the ocean, ever being filled yet standing unmoved — so too, th
 **Contemporary Relevance:** This is the image of 'vastness.' We should aim to have a mind as vast as the ocean. We don't have to stop 'having' thoughts or desires; we just have to be so grounded and vast that they don't disturb our fundamental peace.
 
 **Neuroscience Perspective:** The ocean metaphor describes 'vast emotional capacity.' We should aim for a mind so 'vast' that even intense thoughts and desires (rivers) don't overflow or disturb our fundamental state of 'stillness' and peace.
+
+**Common Misreading:** "The teaching says desires must be eliminated before peace is possible." Actually, the ocean analogy describes desires *entering* the sage without causing disturbance — desires may arise, but the mind remains like an ocean that is unmoved. The contrast is with the *kāmakāmī* who actively chases desire, not someone in whom desires merely appear.
 
 ---
 

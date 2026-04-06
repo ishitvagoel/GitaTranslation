@@ -30,6 +30,8 @@ Those devotees who, being ever-disciplined, worship You thus, and those who wors
 
 **Neuroscience Perspective:** The choice between 'Personal' and 'Abstract' focus reflects the brain's 'representational preference.' Neurally, focusing on a personal form (Bhakti) leverages the 'social brain' and 'emotional safety' circuits, while focusing on the Absolute (Jnana) requires high-level abstract reasoning and 'non-dual' processing. Arjuna asks which is more effective for human growth.
 
+**Common Misreading:** "Devotees of the personal form are superior to worshippers of the formless." Actually, Krishna's answer affirms that devotees of the personal form are more easily established (*yuktatamāḥ*), not that worshippers of the formless are inferior or following an invalid path.
+
 > **Note:** Arjuna frames a classic theological dilemma: which path is superior—the worship of a personal, manifest deity (*saguṇa bhakti*) or the contemplation of the impersonal, unmanifest absolute (*nirguṇa dhyāna*)?
 
 ---
@@ -111,6 +113,8 @@ Greater is the tribulation for those whose minds are attached to the unmanifest;
 **Contemporary Relevance:** Psychological Realism. We are biological beings with senses. Trying to ignore our biology and focus only on the 'invisible' is like trying to swim against a very strong current. Krishna warns that while it's possible, it is much more difficult than having a 'human-scale' focus.
 
 **Neuroscience Perspective:** The 'greater struggle' for those focused on the invisible Absolute reflects 'biological constraint.' The human brain is evolutionarily wired to perceive 'objects and forms.' Trying to override these primal visual and conceptual filters is neurally 'expensive' and prone to failure for those living in a physical body.
+
+**Common Misreading:** "Devotion to a formless Absolute is impossible for embodied beings." Actually, the verse says it is *more difficult* (*duḥkham*) for those in a body — harder, not impossible; it is the harder path, not an invalid one.
 
 > **Note:** Kṛṣṇa affirms that both paths lead to the same ultimate reality (verse 4), but he declares the path of the unmanifest to be psychologically much harder (*kleśa*) for humans, who are naturally conditioned by embodied existence.
 

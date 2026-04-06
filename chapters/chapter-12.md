@@ -24,7 +24,8 @@ Those devotees who, being ever-disciplined, worship You thus, and those who wors
 
 **Simple Translation:** Arjuna asked: Some devotees focus on You as a person, while others focus on the invisible and unchanging Absolute. Which of these two paths is the best for mastering Yoga?
 
-**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Opens the section by establishing arjuna asked: Some devotees focus on You as a person, while others focus on the invisible and unchanging Absolute.
+**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Opens the chapter with a question that frames everything that follows: Arjuna identifies two types of practitioner and asks which path is superior, setting up the entire chapter's inquiry into the relationship between personal devotion and abstract contemplation.
+
 **Contemporary Relevance:** Concrete vs. Abstract. We all learn differently. Some people need a personal role model or a 'face' to focus on (Concrete), while others prefer pure logic and abstract principles (Abstract). Arjuna is asking which 'interface' for reality is more effective for human growth.
 
 **Neuroscience Perspective:** The choice between 'Personal' and 'Abstract' focus reflects the brain's 'representational preference.' Neurally, focusing on a personal form (Bhakti) leverages the 'social brain' and 'emotional safety' circuits, while focusing on the Absolute (Jnana) requires high-level abstract reasoning and 'non-dual' processing. Arjuna asks which is more effective for human growth.
@@ -48,7 +49,8 @@ Those who, fixing their mind on Me, worship Me, ever-disciplined and endowed wit
 
 **Simple Translation:** The Blessed Lord said: Those who fix their minds on Me and worship Me with constant discipline and supreme faith—I consider them the most fully disciplined of all.
 
-**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Advances the argument: The Blessed Lord said: Those who fix their minds on Me and worship Me with constant discipline and supreme faith—I consider them the most fully disciplined of all.
+**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Delivers Krishna's direct answer to Arjuna's question: devotees of the personal form, united by supreme faith, are the most fully disciplined — establishing a clear preference before the impersonal path is addressed, giving the section its argumentative direction.
+
 **Contemporary Relevance:** The Power of Single-Pointedness. Krishna favors the 'personal' path not because it's 'truer,' but because it’s easier for the human mind to focus on. 100% focus on a 'Divine Idea' or a 'Universal Guide' is the fastest way to achieve mental integration.
 
 **Neuroscience Perspective:** Krishna favors the 'personal' path because it is more 'neurally accessible.' By fixing the mind on a supreme Person, the brain uses its existing 'attachment and bonding' hardware to achieve a state of 'maximal attentional coherence' (faith), which is the most efficient path to mental integration.

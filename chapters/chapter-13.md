@@ -476,7 +476,8 @@ He who thus knows the spirit and material nature together with the *guṇas*, in
 
 **Simple Translation:** Anyone who truly understands the Spirit and Material Nature along with its qualities, will not be born again, no matter how they are currently living.
 
-**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Closes the section with anyone who truly understands the Spirit and Material Nature along with its qualities, will not be born again, no matter how they are currently living, completing the argument's arc.
+**Argument Arc:** *Purusha and Prakriti (13.19–13.23)* — Delivers the liberating consequence of the entire dualistic analysis: genuine understanding of puruṣa and prakṛti, together with the guṇas, cuts the root of rebirth regardless of one's current mode of living.
+
 **Contemporary Relevance:** Knowledge as the Ultimate 'Get Out of Jail Free' Card. Once you truly 'see' the difference between your changing circumstances and your unchanging self, you are free. Your current external life doesn't matter as much as your internal clarity. This realization breaks the cycle of repetitive suffering.
 
 **Neuroscience Perspective:** Understanding the 'Spirit and Nature' leads to 'loop-breaking.' Neurally, once you 'see through' the mechanical nature of the ego and its habits, the 're-birth loop' of repetitive failure is broken. You are free, regardless of your external circumstances.

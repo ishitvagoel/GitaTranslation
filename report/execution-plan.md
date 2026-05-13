@@ -2,7 +2,7 @@
 
 ## Context
 
-This project produces a complete, first-principles English translation of all 18 chapters (~700 verses) of the Bhagavad Gītā from Sanskrit, using the BORI Critical Edition. The translation is independent of all existing translations, free of imported theological frameworks, and preserves the philosophical density of the original.
+This project produces a complete, first-principles English translation of all 18 chapters (701 verses) of the Bhagavad Gītā from Sanskrit, using the BORI Critical Edition. The translation is independent of all existing translations, free of imported theological frameworks, and preserves the philosophical density of the original.
 
 ## Project Structure
 

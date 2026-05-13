@@ -5,7 +5,7 @@ title: Home
 
 # Bhagavad Gita: A First-Principles English Translation
 
-A fresh English translation of the complete Bhagavad Gita (18 chapters, 700 verses), translated directly from Sanskrit using the BORI Critical Edition as the primary source text.
+A fresh English translation of the complete Bhagavad Gita (18 chapters, 701 verses), translated directly from Sanskrit using the BORI Critical Edition as the primary source text.
 
 ## Principles
 

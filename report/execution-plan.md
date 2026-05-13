@@ -16,7 +16,7 @@ GitaTranslation/
 ├── report/
 │   └── execution-plan.md            (this document)
 ├── chapters/
-│   ├── chapter-01.md  (46 verses)   ├── chapter-10.md  (42 verses)
+│   ├── chapter-01.md  (47 verses)   ├── chapter-10.md  (42 verses)
 │   ├── chapter-02.md  (72 verses)   ├── chapter-11.md  (55 verses)
 │   ├── chapter-03.md  (43 verses)   ├── chapter-12.md  (20 verses)
 │   ├── chapter-04.md  (42 verses)   ├── chapter-13.md  (34 verses)
@@ -85,7 +85,7 @@ Each verse contains:
 
 | Ch | Sanskrit Title | IAST | Verses | Phase |
 |----|--------------|------|--------|-------|
-| 1 | अर्जुनविषादयोगः | Arjunaviṣādayogaḥ | 46 | 1 |
+| 1 | अर्जुनविषादयोगः | Arjunaviṣādayogaḥ | 47 | 1 |
 | 2 | साङ्ख्ययोगः | Sāṅkhyayogaḥ | 72 | 1 |
 | 3 | कर्मयोगः | Karmayogaḥ | 43 | 1 |
 | 4 | ज्ञानकर्मसंन्यासयोगः | Jñānakarmasaṃnyāsayogaḥ | 42 | 1 |

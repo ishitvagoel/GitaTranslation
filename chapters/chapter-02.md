@@ -28,7 +28,7 @@ To him, thus overcome by pity, his eyes filled with tears and troubled, desponde
 
 **Contemporary Relevance:** This verse describes a state of total emotional collapse. In modern life, we often find ourselves paralyzed by "paralysis by analysis" or emotional overwhelm when facing a difficult choice. Krishna's response marks the transition from silent suffering to an active search for clarity.
 
-**Neuroscience Perspective:** Overwhelming grief and tears are signs of 'limbic dominance,' where the emotional processing centers of the brain (amygdala and hypothalamus) override the prefrontal cortex. This creates a state of physiological and cognitive distress, preventing effective decision-making.
+**Neuroscience Perspective:** Acute psychological stress disproportionately impairs prefrontal-cortex function while leaving amygdala-driven responses intact (Arnsten, 2009). Arjuna's tearful collapse is the behavioural signature of this stress-induced shift away from deliberative control.
 
 ---
 
@@ -51,7 +51,7 @@ Whence has this faintheartedness come upon you at this critical moment — unwor
 
 **Contemporary Relevance:** Krishna's first words are a "reality check." When we are in a crisis, our emotions can make us act in ways that are inconsistent with our true values and potential. This is a call to recognize when our current behavior is beneath our capabilities and detrimental to our long-term goals.
 
-**Neuroscience Perspective:** Krishna’s use of 'faintheartedness' (kaśmalam) targets Arjuna's social and self-identity circuits. Calling out behavior that is 'unworthy' initiates a 'cognitive interrupt,' forcing the brain to evaluate its current emotional state against its higher values and self-image.
+**Neuroscience Perspective:** Self-discrepancy theory (Higgins, 1987) holds that pointing out a gap between an actual self and an ideal self reliably motivates corrective action. Calling Arjuna's behaviour "unworthy" creates exactly this kind of discrepancy between his self-image as a warrior and his present paralysis.
 
 ---
 
@@ -71,7 +71,7 @@ Do not yield to unmanliness, Pārtha — it does not befit you. Abandon this pet
 
 **Contemporary Relevance:** This is a powerful command for self-correction. It reminds us that "strength" is not the absence of fear, but the refusal to be ruled by it. By calling Arjuna a "conqueror," Krishna reminds him of his past successes to help him overcome his current hesitation.
 
-**Neuroscience Perspective:** The command to 'stand up' and 'abandon weakness' is an instruction for 'executive override.' It encourages the prefrontal cortex to assert control over the amygdala’s fear response, moving the brain from a passive, reactive state to an active, goal-oriented one.
+**Neuroscience Perspective:** Imperative verbal commands from a trusted source can recruit goal-directed control circuits — work on prefrontal regulation of amygdala reactivity shows that explicit reappraisal and goal framing measurably reduce amygdala response (Ochsner & Gross, 2005). "Stand up" is the operational form of that goal cue.
 
 ---
 
@@ -94,7 +94,7 @@ How shall I fight Bhīṣma and Droṇa in battle with arrows, Madhusūdana — 
 
 **Contemporary Relevance:** This verse highlights the conflict between personal respect and professional duty. In modern life, we may find it hard to challenge a mentor or a respected colleague even when they are on the wrong side of an issue or a necessary change.
 
-**Neuroscience Perspective:** Arjuna’s conflict about attacking his teachers reflects the struggle between 'social bonding' (oxytocin-mediated) and 'abstract duty.' The brain is literally torn between the neural pathways of personal affection and the higher-order circuits of professional responsibility.
+**Neuroscience Perspective:** Conflict between in-group attachments and impartial moral norms is a classic dual-process tension in moral psychology (Greene, 2007). Personal attachments — supported by oxytocinergic affiliation systems — compete with the more deliberative reasoning needed to follow an abstract duty.
 
 ---
 
@@ -118,7 +118,7 @@ Better indeed to eat the food of begging in this world than to slay these teache
 
 **Contemporary Relevance:** This reflects the moral cost of success. If we achieve our goals by compromising our core values or harming those we love, the resulting success will feel hollow and "stained." It’s a reminder that the path to a goal is just as important as the goal itself.
 
-**Neuroscience Perspective:** The thought of 'pleasures smeared with blood' activates the brain's 'moral disgust' mechanism. This is a powerful neural signal that prevents the brain from being motivated by rewards (dopamine) that are associated with a violation of core ethical boundaries.
+**Neuroscience Perspective:** Moral and physical disgust share insular substrates (Chapman et al., 2009), so contemplating rewards "smeared with blood" recruits visceral aversion that competes directly with the anticipated reward signal — a tension that often resolves in favour of disgust avoidance.
 
 ---
 
@@ -142,7 +142,7 @@ And we do not know which is better for us — that we should conquer or that the
 
 **Contemporary Relevance:** This is the ultimate "lose-lose" scenario. It captures the deep ambiguity of many complex conflicts where there is no easy or obviously "right" choice, and any outcome seems to carry a heavy personal price.
 
-**Neuroscience Perspective:** The 'lose-lose' scenario Arjuna describes is a state of 'decision paralysis' caused by 'conflicting predictive models.' The brain cannot find a path that leads to a positive survival or reward outcome, causing the entire motivation system to stall.
+**Neuroscience Perspective:** Approach-avoidance conflict, first characterised by Miller (1944), produces measurable behavioural paralysis when an organism faces a stimulus that is simultaneously positively and negatively valenced. Arjuna's "either way we lose" framing is a textbook double-avoidance configuration.
 
 ---
 
@@ -166,7 +166,7 @@ My nature afflicted by the fault of pity, my mind confused about dharma — I as
 
 **Contemporary Relevance:** This is the moment of total surrender to a higher wisdom. In modern life, it represents the point where we admit our ego cannot solve a problem and we become truly open to learning and mentorship. It is the beginning of a transformation.
 
-**Neuroscience Perspective:** Arjuna’s admission of confusion and surrender to a teacher is an act of 'cognitive offloading.' By admitting he cannot solve the problem, he opens up his neural pathways to 'top-down' guidance from an outside source, which reduces the cognitive load of the crisis.
+**Neuroscience Perspective:** Cognitive offloading — outsourcing demanding mental work to external sources — is a documented strategy under high cognitive load (Risko & Gilbert, 2016). Submitting to a teacher as decision-maker offloads the unresolvable computation Arjuna has been running internally.
 
 > **Note:** *kārpaṇya* — from *kṛpaṇa* (pitiable, wretched) — here denotes not compassion but a debilitating pity that paralyzes action. Kṛṣṇa's subsequent teaching reframes Arjuna's *kṛpā* (1.28) as a defect (*doṣa*) rather than a virtue.
 
@@ -192,7 +192,7 @@ For I do not see what could drive away this grief that dries up my senses — ev
 
 **Contemporary Relevance:** Material success cannot heal emotional or existential pain. This verse is a powerful reminder that no amount of money, power, or status can resolve an internal crisis of meaning or morality.
 
-**Neuroscience Perspective:** The realization that 'unrivalled kingship' cannot drive away grief shows the limits of the brain's reward system. Dopamine from material success cannot resolve the deeper existential or moral 'pain signals' processed in the anterior cingulate cortex.
+**Neuroscience Perspective:** Hedonic adaptation research (Brickman & Campbell, 1971; Lyubomirsky, 2011) finds that material gains — even very large ones — produce only transient changes in well-being. Arjuna's recognition that kingship cannot resolve his grief anticipates this finding by a couple of millennia.
 
 ---
 
@@ -215,7 +215,7 @@ Having spoken thus to Hṛṣīkeśa, Guḍākeśa, the scorcher of foes, said t
 
 **Contemporary Relevance:** This is the peak of resistance. After explaining his reasons, Arjuna shuts down. In modern life, this is the "checked out" stage where a person feels so overwhelmed that they simply stop trying.
 
-**Neuroscience Perspective:** Arjuna’s 'I will not fight' and subsequent silence is a 'freeze' response. When the brain can neither fight nor flee the emotional conflict, it enters a state of 'learned helplessness' or total withdrawal to protect the system from further stress.
+**Neuroscience Perspective:** The refusal-and-silence pattern is the freeze pole of the fight-flight-freeze repertoire (Porges, 2007), and prolonged inescapable conflict can drift toward Seligman and Maier's (1967) learned-helplessness pattern, in which the organism stops attempting any response.
 
 ---
 
@@ -235,7 +235,7 @@ To him, despondent between the two armies, Hṛṣीkeśa, as if smiling, spoke
 
 **Contemporary Relevance:** Krishna's "smile" is crucial. It represents a perspective of calm amidst chaos. In modern mentorship, it’s the role of the guide to remain composed and even slightly detached to help the person in crisis see that their "huge problem" has a solution they just can't see yet.
 
-**Neuroscience Perspective:** Krishna’s 'smile' amidst the chaos is a signal of 'non-reactivity.' Neurally, this models a state where the observer remains in a high-level executive mode, unaffected by the 'emotional contagion' of the other person’s distress.
+**Neuroscience Perspective:** Emotional contagion — the automatic catching of others' affective states — is well documented (Hatfield, Cacioppo, & Rapson, 1993). Krishna's smile in the face of Arjuna's collapse signals that he is not being pulled into this contagion, modelling the regulatory stance the teaching will then describe.
 
 ---
 
@@ -258,7 +258,7 @@ You grieve for those who should not be grieved for, yet you speak words of wisdo
 
 **Contemporary Relevance:** Krishna is pointing out a 'category error.' We often worry about things that are inherently changeable or temporary as if they were permanent. Real wisdom is knowing what is worth our emotional energy and what is just a natural part of life's cycle.
 
-**Neuroscience Perspective:** The 'wise do not grieve' instruction is a call for 'radical cognitive reappraisal.' It suggests moving the focus from the 'temporary form' (the body) to the 'underlying principle' (the soul), which changes the neural processing of loss from 'catastrophe' to 'natural transition.'
+**Neuroscience Perspective:** Cognitive reappraisal — actively reinterpreting an emotionally charged event — reliably reduces both the subjective intensity and the neural correlates of negative affect (Ochsner & Gross, 2005). Reframing death as transition rather than annihilation is a strong-form reappraisal of exactly this kind.
 
 **Common Misreading:** "Krishna dismisses all grief as ignorance." Actually, he dismisses *misplaced* grief — grief directed at the eternal self as though it were destructible. The teaching addresses the root cause of suffering without claiming that grief itself is impossible or that sorrow about genuine impermanence is wrong.
 
@@ -280,9 +280,9 @@ There was never a time when I did not exist, nor you, nor these rulers of men; n
 
 **Argument Arc:** *The Eternal Self (2.11–2.25)* — Introduces the first metaphysical premise: personal identity persists without interruption across past, present, and future — a claim that, if accepted, immediately undermines Arjuna's fear that killing will annihilate persons who matter.
 
-**Contemporary Relevance:** This is the core of 'First Principles' thinking about identity. It suggests that our fundamental essence—beyond our current roles, bodies, and names—is eternal. In modern terms, it’s a call to identify with our deep, unchanging self rather than our temporary, shifting circumstances.
+**Contemporary Relevance:** The verse asks us to locate identity in something more stable than current roles, bodies, and names. In modern terms, it is a call to identify with the continuous core of selfhood rather than with its momentary, shifting expressions.
 
-**Neuroscience Perspective:** The concept of 'eternal existence' challenges the brain’s 'temporal finiteness' bias. By expanding the timeline of identity beyond a single life, the brain reduces its immediate 'survival anxiety' and can process the current conflict with more detachment.
+**Neuroscience Perspective:** Terror Management Theory (Greenberg, Solomon, & Pyszczynski, 1986) finds that reminders of mortality predictably increase anxiety and defensive behaviour. Symbolic immortality belief — including doctrines of a non-perishable self — is one of the empirically documented buffers against this effect.
 
 ---
 
@@ -302,8 +302,6 @@ Just as the embodied one in this body passes through childhood, youth, and old a
 
 **Contemporary Relevance:** Change is the only constant. We don't mourn the 'death' of our childhood self when we become adults; we see it as growth. Applying this perspective to life’s larger transitions helps us navigate major changes with less fear and more composure.
 
-**Neuroscience Perspective:** The analogy of 'childhood, youth, and old age' leverages the brain’s 'pattern recognition' systems. By showing that 'identity' persists through radical physical changes, Krishna helps the brain build a neural model of a self that is independent of the body.
-
 ---
 
 ### 2.14
@@ -322,7 +320,7 @@ Contacts of the senses with their objects, Kaunteya, giving cold and heat, pleas
 
 **Contemporary Relevance:** This is the foundation of emotional resilience. Our feelings are often just physiological responses to external triggers. By recognizing their 'impermanence,' we can avoid being slaves to our moods and stay focused on our long-term purpose.
 
-**Neuroscience Perspective:** Sensory contacts producing heat/cold or pleasure/pain are described as 'impermanent.' This is an instruction for 'sensory gating'—teaching the brain to label sensory signals as 'temporary data' rather than 'permanent reality,' which reduces their emotional impact.
+**Neuroscience Perspective:** Labelling and accepting transient sensations is one of the core mechanisms studied in mindfulness research: noting "this is a sensation, and it will pass" reduces amygdala reactivity to aversive stimuli (Creswell et al., 2007). The verse prescribes precisely this stance.
 
 ---
 
@@ -342,8 +340,6 @@ The person whom these do not torment, bull among men — steady in pain and plea
 
 **Contemporary Relevance:** Equilibrium is a superpower. In a world that is constantly trying to trigger our emotions (through news, social media, or stress), the ability to remain 'steady' is what allows us to make clear decisions and lead effectively.
 
-**Neuroscience Perspective:** Equanimity in pain and pleasure is the state of 'neural homeostasis.' By training the brain to remain steady regardless of external stimuli, one strengthens the 'regulatory circuits' that prevent the emotional extremes of 'highs and lows.'
-
 ---
 
 ### 2.16
@@ -361,8 +357,6 @@ The unreal has no being; the real has no non-being. The boundary between these t
 **Argument Arc:** *The Eternal Self (2.11–2.25)* — Lays the ontological foundation for the entire section: the seers distinguish between what exists changelessly (sat) and what merely appears and perishes (asat) — the distinction that makes grief for a body philosophically incoherent.
 
 **Contemporary Relevance:** This is a call to distinguish between 'noise' and 'signal.' Most of our daily stresses are 'unreal' in the sense that they won't matter in a year. Focusing on what is 'real'—our values, our growth, our impact—is the key to a meaningful life.
-
-**Neuroscience Perspective:** Distinguishing between 'real' and 'unreal' is a First Principle of 'ontological filtering.' The brain learns to filter out 'noise' (temporary appearances) and focus on 'signal' (permanent truths), leading to a more efficient and stable mental model of the world.
 
 > **Note:** *anta* here means "boundary" or "conclusion" — the definitive distinction between *sat* (what is) and *asat* (what is not). This is the ontological foundation of the chapter's argument.
 
@@ -384,8 +378,6 @@ Know that to be indestructible by which all this is pervaded. No one can bring a
 
 **Contemporary Relevance:** There is a fundamental 'life force' or 'consciousness' that connects everything. Recognizing this interconnectedness can reduce our sense of isolation and help us see that we are part of something much larger and more enduring than our individual ego.
 
-**Neuroscience Perspective:** The idea of an 'indestructible' essence that pervades everything is a concept of 'universal connectivity.' Neurally, this helps move from a 'competitive/separate' self-model to a 'collaborative/unified' model, reducing the stress associated with individual survival.
-
 ---
 
 ### 2.18
@@ -403,8 +395,6 @@ These bodies of the eternal embodied one — who is indestructible and immeasura
 **Argument Arc:** *The Eternal Self (2.11–2.25)* — Draws the first practical conclusion from the ontological argument: since bodies alone are perishable and the embodied self is not, Arjuna's duty-call follows directly — making this the argument's first pivot from metaphysics toward action.
 
 **Contemporary Relevance:** Don't let the fear of 'losing' something temporary prevent you from doing what is right. When we realize that our core identity cannot be damaged by external outcomes, we gain the courage to face our challenges head-on.
-
-**Neuroscience Perspective:** The body is described as 'having an end,' while the soul is 'eternal.' This 'separation of variables' allows the brain to accept the inevitable loss of the physical while maintaining the integrity of the essential, which provides the courage needed for action.
 
 ---
 
@@ -424,7 +414,7 @@ Whoever thinks this a killer and whoever thinks this killed — both of them do 
 
 **Contemporary Relevance:** This is a radical shift in perspective. It challenges our basic assumptions about life and death. It suggests that while we must act in the world, we should not take the 'drama' of life so literally that we lose sight of the deeper, untouchable reality.
 
-**Neuroscience Perspective:** Rejecting the concepts of 'killer' and 'killed' is a radical shift in 'agency attribution.' It suggests that the 'essential self' is a non-participant in the mechanical transformations of matter, which prevents the build-up of 'moral trauma' during necessary conflict.
+**Neuroscience Perspective:** Moral-injury research (Litz et al., 2009) finds that lasting psychological harm from violent acts is mediated not by the act alone but by the agent's attribution of responsibility and identity to that act. Disidentifying the essential self from the role of killer is the kind of reattribution moral-injury treatment seeks to make possible.
 
 **Common Misreading:** "Since the soul cannot be killed, all violence is ethically neutral." Actually, the verse addresses the ātman's ontological nature — what the self *is* — not a blanket permission for any action. The ethical teaching on right action comes separately and depends on dharma, not on the soul's indestructibility.
 
@@ -450,7 +440,7 @@ It is never born and never dies; nor, having once been, does it ever cease to be
 
 **Contemporary Relevance:** This is the ultimate statement of existential security. If our core is truly 'primeval' and 'eternal,' then we have nothing to fear from the passage of time or the end of our physical form. It’s a profound source of peace and strength.
 
-**Neuroscience Perspective:** The soul being 'never born and never dies' is the ultimate 'existential safety signal.' This thought shuts down the 'existential dread' circuitry in the brain, allowing for peak performance and absolute fearlessness in the face of physical danger.
+**Neuroscience Perspective:** Beliefs about literal or symbolic immortality are among the most powerful documented buffers against death anxiety (Solomon, Greenberg, & Pyszczynski, 2015). The doctrine of an unborn, undying self functions as exactly this kind of buffer.
 
 ---
 
@@ -470,7 +460,7 @@ Whoever knows this to be indestructible, eternal, unborn, and imperishable — h
 
 **Contemporary Relevance:** This verse addresses the moral burden of action. It suggests that a deep understanding of reality changes our relationship with the outcomes of our deeds. It’s not an excuse for negligence, but a reminder that our true essence is beyond the reach of worldly harm.
 
-**Neuroscience Perspective:** Knowing the soul as 'imperishable' changes the brain's 'risk assessment.' If the core of being cannot be destroyed, then the 'fear of death' (the ultimate survival threat) is neurally neutralized, making duty-bound action much easier.
+**Neuroscience Perspective:** The fear of personal annihilation is among the most arousing of threats and reliably narrows risk-taking (Becker, 1973). A worldview in which the core self is non-perishable predictably loosens this constraint on duty-bound action — one of the documented social functions of immortality beliefs in Terror Management research.
 
 ---
 
@@ -494,7 +484,7 @@ Just as a person casts off worn-out garments and puts on other new ones, so the 
 
 **Contemporary Relevance:** This is perhaps the most famous metaphor in the Gita. In modern life, it helps us view 'ending' as 'transitioning.' Whether it's a job, a project, or life itself, seeing it as a change of 'clothing' for our true self reduces the pain of loss and helps us move forward.
 
-**Neuroscience Perspective:** The 'changing clothes' metaphor is a powerful 'visual reappraisal' tool. It allows the brain to process death not as a 'deletion' of data but as a 're-formatting' or 'transfer' of the essential core, which significantly reduces the grief response.
+**Neuroscience Perspective:** Concrete, visualisable metaphors are an especially effective form of cognitive reappraisal: Ochsner and Gross (2005) found that reframing a negative stimulus by imagining a different scenario reduces both subjective distress and amygdala activation. The clothes-and-body image gives this reframe a graspable form.
 
 **Common Misreading:** "The soul automatically gets a better body in the next life — the metaphor promises improvement." Actually, the simile says only that the self acquires *new* embodiment as one takes on new garments; the teaching here is about continuity and non-destruction, not a guarantee of upgrade.
 
@@ -516,8 +506,6 @@ Weapons do not cut this, fire does not burn this, waters do not wet this, and wi
 
 **Contemporary Relevance:** Our core essence is 'untouchable' by physical or emotional weapons. No matter what external trauma or difficulty we face, our fundamental soul remains intact. This realization is a powerful source of resilience during hard times.
 
-**Neuroscience Perspective:** The soul being 'uncuttable' and 'unburnable' reinforces the 'invulnerability model' of the self. This helps create a neural 'firewall' against external trauma, ensuring that the core identity remains intact regardless of what happens to the physical body.
-
 ---
 
 ### 2.24
@@ -535,8 +523,6 @@ This cannot be cut, cannot be burned, cannot be wetted, and cannot be dried. It 
 **Argument Arc:** *The Eternal Self (2.11–2.25)* — Consolidates 2.23's four-element test into a unified positive description, adding the qualities of omnipresence, stability, and eternality — completing the portrait of the ātman as something entirely beyond the reach of any physical or temporal force.
 
 **Contemporary Relevance:** While the world is in a constant state of flux and 'movement,' our true self is 'stable and immovable.' Finding that 'still point' within ourselves is what allows us to stay grounded even when everything around us is changing or collapsing.
-
-**Neuroscience Perspective:** The soul as 'all-pervading, stable, and immovable' provides a 'fixed point' for the mind. In a world of constant sensory flux, having a neural 'anchor' in the concept of an unchanging self prevents mental drift and chronic uncertainty.
 
 ---
 
@@ -556,8 +542,6 @@ This is said to be unmanifest, unthinkable, and unchangeable. Therefore, knowing
 
 **Contemporary Relevance:** We spend so much energy worrying about things we can see and touch. This verse reminds us that the most important part of us—the soul—is beyond the reach of physical changes. Understanding this helps us let go of the 'drama' of the physical world.
 
-**Neuroscience Perspective:** The soul as 'unmanifest and unthinkable' moves the identity beyond the reach of the 'analytical mind' (which is prone to worry). By identifying with something the mind cannot even grasp, the brain finds a state of 'meta-peace' that is beyond logic.
-
 ---
 
 ### 2.26
@@ -575,8 +559,6 @@ And even if you think this is eternally born and eternally dies, even so, mighty
 **Argument Arc:** *Even If Mortal (2.26–2.30)* — Opens a strategic concession: Krishna grants the materialist premise for the sake of argument — even if the self were wholly mortal, grief would still be unwarranted — demonstrating that his conclusion survives regardless of which metaphysics Arjuna accepts.
 
 **Contemporary Relevance:** This is a brilliant piece of logic. Krishna says that even if we take the most 'materialist' view of life—that everything just ends at death—grief is still unproductive. It's a call to logic and composure, regardless of one's metaphysical beliefs.
-
-**Neuroscience Perspective:** The 'materialist' argument (even if the soul dies) is a form of 'logical grounding.' It uses the brain's own logic to show that grief is unproductive in *any* world-model, thereby using 'rationality' to bypass 'emotionality.'
 
 > **Note:** Kṛṣṇa now concedes Arjuna's possible materialist view for the sake of argument: even if the self is not eternal, grief is still unwarranted. The argument works on both metaphysical assumptions.
 
@@ -598,7 +580,7 @@ For death is certain for one who is born, and birth is certain for one who has d
 
 **Contemporary Relevance:** This is about accepting reality as it is. Fighting against the 'unavoidable' is a major source of human suffering. By accepting the natural cycles of life and death, we can focus our energy on what we *can* change: our actions and our attitude.
 
-**Neuroscience Perspective:** Accepting 'inevitable cycles' (birth and death) reduces 'resistance stress.' The brain experiences less suffering when it stops 'fighting' a known and unavoidable law of nature. Acceptance is the neural path to efficiency.
+**Neuroscience Perspective:** Acceptance — the cognitive move from resisting an unwanted reality to acknowledging it — is associated with reduced amygdala reactivity and lower self-reported distress in regulation studies (Lieberman et al., 2007; Hayes et al., 2006). The verse prescribes this strategy directly.
 
 ---
 
@@ -617,8 +599,6 @@ Beings are unmanifest in their beginning, manifest in their middle, and unmanife
 **Argument Arc:** *Even If Mortal (2.26–2.30)* — Widens the perspective to the whole arc of existence: since beings emerge from the unmanifest and return to it, their visible middle interval provides no special claim on permanence — and no cause for lamentation at its ending.
 
 **Contemporary Relevance:** This is a call to humility. Our lives are just small, 'visible' moments in a much larger, 'invisible' timeline. Understanding our place in this vastness can help us take our individual problems less personally and with more grace.
-
-**Neuroscience Perspective:** The 'unmanifest-manifest-unmanifest' cycle is a First Principle of 'systems theory.' Recognizing that our visible life is just a small segment of a larger, invisible process helps the brain maintain a 'humility filter' and avoid over-identifying with temporary drama.
 
 ---
 
@@ -642,7 +622,7 @@ Someone sees this as a wonder, another likewise speaks of it as a wonder, anothe
 
 **Contemporary Relevance:** The mystery of consciousness and the 'self' remains the deepest puzzle of human existence. This verse encourages us to stay curious and 'in wonder' about the deep questions of life, rather than thinking we have all the answers.
 
-**Neuroscience Perspective:** The 'wonder' of the soul reflects the limits of the brain's 'representational capacity.' Some truths are so fundamental that the brain can only process them as 'awe' or 'mystery,' which is a healthy state of 'openness' rather than 'dogmatic closure.'
+**Neuroscience Perspective:** Awe — the response to vastness that requires accommodation of one's existing mental schemas — has measurable downstream effects: reduced self-focus, increased prosociality, and altered time perception (Keltner & Haidt, 2003; Piff et al., 2015). The verse's repeated "as a wonder" tags exactly this affect.
 
 ---
 
@@ -662,8 +642,6 @@ The embodied one in the body of every being is eternally inviolable, Bhārata. T
 
 **Contemporary Relevance:** This is the final conclusion of the metaphysical argument. If every living being has an eternal, untouchable soul, then our ultimate perspective should be one of peace and duty, rather than fear and grief.
 
-**Neuroscience Perspective:** The final conclusion that the soul is 'inviolable' is the 'ultimate reassurance.' This neural 'all-clear' signal provides the foundation for the entire rest of the Gita's teaching on action and duty. Safety is internal.
-
 ---
 
 ### 2.31
@@ -682,7 +660,7 @@ And considering your own dharma, you should not waver. For a kṣatriya, nothing
 
 **Contemporary Relevance:** This shifts the focus from metaphysics to social responsibility. We all have 'roles' in society (dharma). When we avoid the challenges that come with our specific role, we fail ourselves and our community. This is a call to step up to the responsibilities we have accepted.
 
-**Neuroscience Perspective:** Focusing on 'Dharma' (duty) provides a 'normative framework' for action. The brain performs better when it has a clear 'rule-set' to follow, as this reduces the cognitive load of constantly deciding what is right in every moment.
+**Neuroscience Perspective:** Decision-making with explicit rules consumes substantially less working-memory capacity than deliberating each instance from scratch (Bechara et al., 1997; Smith & Kosslyn, 2007). A clear conception of dharma functions as exactly this kind of rule-based shortcut.
 
 **Common Misreading:** "Warrior duty here is a hereditary caste obligation Arjuna cannot refuse." Actually, the call is to *svadharma* as one's authentic psychological nature and role; the context is fitness for action and moral coherence, not an unchallengeable birth-right that overrides all other ethical considerations.
 
@@ -704,7 +682,7 @@ Arriving by chance, an open gate to heaven — fortunate are the kṣatriyas, P�
 
 **Contemporary Relevance:** Opportunities for meaningful action often arrive unannounced. When we are presented with a chance to stand up for what is right or to tackle a major problem, we should see it as a 'fortunate' opportunity for growth and impact, rather than a burden to be avoided.
 
-**Neuroscience Perspective:** Seeing a challenge as an 'open gate' is an act of 'reframing.' By changing the label of a situation from 'threat' to 'opportunity,' the brain switches from 'cortisol mode' (stress) to 'dopamine mode' (reward and growth).
+**Neuroscience Perspective:** Blascovich and Mendes (2010) showed that appraising the same demanding situation as a "challenge" rather than a "threat" produces measurably different cardiovascular responses — more efficient cardiac output, lower vascular resistance. Reframing battle as an "open gate to heaven" is a strong appraisal shift of this kind.
 
 ---
 
@@ -724,8 +702,6 @@ But if you do not undertake this righteous war, then, having abandoned your own 
 
 **Contemporary Relevance:** Inaction is also an action. When we avoid a necessary conflict or a difficult duty, we are making a choice that has consequences for our character and our reputation. True 'wrong' often comes from what we *didn't* do when we had the chance.
 
-**Neuroscience Perspective:** The warning about 'abandoning duty' targets the brain’s 'social accountability' and 'self-integrity' circuits. The 'pain' of violating one's own values is often greater than the 'pain' of performing a difficult duty.
-
 ---
 
 ### 2.34
@@ -744,7 +720,7 @@ And beings will speak of your undying dishonor. For one who has been esteemed, d
 
 **Contemporary Relevance:** This is a call to protect our integrity. Our reputation is not just about what others think, but about our consistency with our own values. Losing that integrity (dishonor) can be a fate worse than physical failure because it destroys our inner sense of worth.
 
-**Neuroscience Perspective:** The fear of 'dishonor' (akīrti) leverages the brain's 'social status' and 'belonging' circuitry. Humans are socially wired to avoid disgrace, which the brain processes as a severe 'exclusion threat,' making integrity a survival priority.
+**Neuroscience Perspective:** Social exclusion and reputational damage activate the same anterior cingulate regions implicated in physical pain (Eisenberger, Lieberman, & Williams, 2003). Krishna's appeal to the prospect of dishonour leans on this neural overlap — disgrace is processed as a kind of injury.
 
 ---
 
@@ -764,8 +740,6 @@ The great chariot-warriors will think you have withdrawn from battle out of fear
 
 **Contemporary Relevance:** Our reasons for avoiding a challenge (like Arjuna's 'compassion') are often interpreted by others as simple fear or weakness. While we shouldn't live for the approval of others, we must be aware that our choices send a message about our character to the world.
 
-**Neuroscience Perspective:** The concern about 'being held lightly' reflects the brain's sensitivity to 'social credibility.' Our effectiveness in any system depends on how others perceive our courage and competence. This is a First Principle of 'Influence.'
-
 ---
 
 ### 2.36
@@ -784,7 +758,7 @@ Your enemies will say many unspeakable things, disparaging your ability. What co
 
 **Contemporary Relevance:** This is the social consequence of failing to act. In the professional world, failing to step up can lead to loss of credibility and respect, which is often harder to recover from than a simple mistake or a physical setback.
 
-**Neuroscience Perspective:** Hurtful words from enemies act as 'social pain signals.' Krishna uses the threat of this pain to motivate Arjuna to act, showing that avoiding a necessary conflict can lead to a more prolonged and painful social outcome.
+**Neuroscience Perspective:** Verbal insult is processed in regions overlapping with those active during physical pain (Eisenberger, 2012). Anticipating long-term verbal abuse from one's rivals is, in this sense, anticipating prolonged injury — a motivational lever Krishna deploys deliberately.
 
 ---
 
@@ -804,8 +778,6 @@ Slain, you will attain heaven; victorious, you will enjoy the earth. Therefore a
 
 **Contemporary Relevance:** This is a 'no-lose' mindset. If you act with integrity, either the outcome is successful, or you grow from the attempt. The only real failure is refusing to try. It’s an encouragement to move forward with total commitment.
 
-**Neuroscience Perspective:** The 'no-lose' scenario (heaven or earth) is a 'binary reward model.' By ensuring a positive outcome in either case (success or death with integrity), Krishna removes the 'fear of loss' that causes hesitation and paralysis.
-
 ---
 
 ### 2.38
@@ -824,7 +796,7 @@ Making pleasure and pain, gain and loss, victory and defeat the same — then en
 
 **Contemporary Relevance:** This is the secret to detached action. By detaching our inner state from external results, we can perform our tasks with 100% focus and 0% anxiety. This is the definition of professional excellence and mental peace.
 
-**Neuroscience Perspective:** Equanimity in 'gain and loss' is the definition of 'detachment.' Neurally, this means the brain stops 'hyper-focusing' on external results and instead focuses on the 'integrity of the act.' This reduces anxiety and improves execution.
+**Neuroscience Perspective:** Decoupling attention from outcomes is a documented feature of expert performance under pressure: experienced athletes and surgeons show reduced anticipatory anxiety and more efficient motor execution when they focus on process rather than result (Beilock & Carr, 2001).
 
 **Common Misreading:** "Equanimity means emotional coldness or indifference to outcomes." Actually, samatvam is freedom from *compulsive* attachment to results, not absence of engagement or care — the fully engaged warrior who acts with full commitment but without ego-investment in winning is the model, not the passionless bystander.
 
@@ -846,8 +818,6 @@ This understanding has been set forth for you according to Sāṅkhya; now hear 
 
 **Contemporary Relevance:** Theory (Sāṅkhya) is useless without practice (Yoga). Krishna is now moving from 'what to think' to 'how to act.' It reminds us that we need both a clear philosophy and a practical method to navigate life successfully.
 
-**Neuroscience Perspective:** Moving from 'Sāṅkhya' (theory) to 'Yoga' (practice) is the transition from 'mapping' to 'navigation.' The brain needs both a mental model and a set of practical tools to translate knowledge into effective action in the world.
-
 > **Note:** *sāṅkhya* here refers to the method of analytical discrimination just presented (the metaphysics of self and body), not the formal Sāṅkhya darśana of Kapila. *yoga* refers to the practical discipline that follows. The two are presented as complementary perspectives, not rival schools.
 
 ---
@@ -868,7 +838,7 @@ Here there is no loss of effort, and no reverse outcome exists. Even a little of
 
 **Contemporary Relevance:** Personal growth and ethical action are never 'wasted.' Unlike material projects that can fail completely, any internal work we do—learning to be steady, acting with integrity—is a permanent gain that reduces our anxiety and fear, no matter what happens externally.
 
-**Neuroscience Perspective:** The 'no loss of effort' principle encourages 'long-term neuroplasticity.' Knowing that every small effort at self-improvement is permanent helps the brain stay committed to the 'long game' of personal growth and ethical living.
+**Neuroscience Perspective:** Long-term skill development depends on cumulative neuroplastic change: each repetition strengthens specific cortical and subcortical pathways, with measurable structural and functional effects after sustained practice (Draganski et al., 2004; Pascual-Leone et al., 2005). Krishna's promise that no effort is lost matches this cumulative dynamic.
 
 ---
 
@@ -888,7 +858,7 @@ The understanding of the resolute is single-pointed here, joy of the Kurus. But 
 
 **Contemporary Relevance:** Focus is the key to effectiveness. In the modern age of distraction, the ability to maintain 'single-pointed' focus on a goal is a rare and powerful skill. A scattered mind wastes energy on unimportant details, while a resolute mind achieves its purpose.
 
-**Neuroscience Perspective:** The 'single-pointed' focus (vyavasāyātmikā buddhi) is the optimal state for 'executive function.' By reducing 'multi-tasking' and scattered thoughts, the brain achieves a state of high coherence and maximum problem-solving power.
+**Neuroscience Perspective:** Sustained, single-target attention recruits a dorsolateral prefrontal and parietal network and is degraded by multitasking, which carries measurable switch costs (Monsell, 2003). The resolute, single-pointed orientation Krishna recommends maps onto this attentional configuration.
 
 ---
 
@@ -908,8 +878,6 @@ The undiscerning utter this flowery speech, Pārtha — delighting in the letter
 
 **Contemporary Relevance:** This is a warning against literalism and superficiality. In modern life, we are often bombarded with 'flowery' promises—marketing slogans, political rhetoric, or simplistic 'life hacks.' Wisdom requires looking beyond the surface to the deeper truth.
 
-**Neuroscience Perspective:** The critique of 'flowery speech' is a warning against 'superficial patterns.' The brain can easily be distracted by beautiful words or easy answers that have no substance. Wisdom requires 'deep-structure' analysis beyond surface-level aesthetics.
-
 ---
 
 ### 2.43
@@ -928,7 +896,7 @@ full of desire, intent on heaven, offering rebirth as the fruit of action — ab
 
 **Contemporary Relevance:** This verse describes the 'transactional' approach to life. Many people do things only for the sake of an immediate reward or social status. This mindset keeps us trapped in a cycle of constant wanting and never leads to true, lasting satisfaction.
 
-**Neuroscience Perspective:** The 'desire-driven' life reflects a 'dopaminergic loop' where the brain is constantly chasing the next 'hit' of pleasure or power. This 'transactional' mode of living keeps the brain in a state of chronic 'hunger' and never leads to satisfaction.
+**Neuroscience Perspective:** Dopaminergic signalling tracks anticipated reward rather than received reward — what Berridge and Robinson (1998) labelled "wanting" rather than "liking." This dissociation explains why a desire-driven life produces persistent craving even as actual satisfaction stays out of reach.
 
 ---
 
@@ -948,8 +916,6 @@ For those attached to enjoyment and power, whose minds are carried away by that 
 
 **Contemporary Relevance:** Addiction to comfort and status prevents mental clarity. When our primary goal is 'enjoyment and power,' our mind is constantly reacting to external stimuli, making it impossible to find the inner stillness needed for deep understanding and wise action.
 
-**Neuroscience Perspective:** Attachment to 'enjoyment and power' prevents 'Samādhi' (deep concentration). Neurally, if the 'reward circuits' are constantly over-active, the 'focus circuits' cannot settle into the deep stillness needed for high-level insight.
-
 ---
 
 ### 2.45
@@ -968,7 +934,7 @@ The Vedas deal with the domain of the three guṇas. Be beyond the three guṇas
 
 **Contemporary Relevance:** This is a call to 'transcend the game.' Most of our lives are spent chasing dualities (like/dislike, gain/loss). Krishna encourages us to reach a state where we are not defined by these external fluctuations, but are instead grounded in our own internal clarity and integrity.
 
-**Neuroscience Perspective:** Rising above the 'three qualities' (Gunas) is a call for 'self-transcendence.' It suggests that we can reach a state of 'meta-awareness' where we observe our own biological and psychological programming without being enslaved by it.
+**Neuroscience Perspective:** Vago and Silbersweig (2012) describe self-awareness, self-regulation, and self-transcendence as nested capacities trained by contemplative practice, each engaging progressively more decentred forms of self-reference in cortical midline structures and the default-mode network. The verse points toward this transcendence level.
 
 **Common Misreading:** "Krishna rejects the Vedas here." Actually, he instructs going *beyond* the three-guṇa framework of ritual Vedism that promises heavenly rewards — not rejecting Vedic wisdom as a whole. The goal is to move from transactional religion (rewards for rites) to self-grounded action.
 
@@ -992,8 +958,6 @@ As much use as there is in a well when water floods on every side — that much 
 
 **Contemporary Relevance:** This is about 'firsthand experience' versus 'secondhand rules.' Once you have direct insight into a situation or your own nature, you no longer need to rely on external manuals or rigid rules to tell you how to act. Direct wisdom supersedes formal instruction.
 
-**Neuroscience Perspective:** Direct realization (seeing the 'well' in a flood) is an example of 'insight-based learning.' Once you understand the 'Core Principle,' you no longer need to rely on 'External Rules.' The brain has upgraded to a 'self-correcting' and 'autonomous' system.
-
 ---
 
 ### 2.47
@@ -1012,7 +976,7 @@ Your right is to action alone, never to its fruits. Do not be one whose motive i
 
 **Contemporary Relevance:** This is arguably the most important verse for modern professional life. It teaches 'process-oriented' thinking. If we focus entirely on the quality of our work (which we can control) and let go of the result (which we can't), we reduce our stress and actually perform better.
 
-**Neuroscience Perspective:** The 'right to action, not to fruits' is the ultimate strategy for 'performance without pressure.' By decoupling 'effort' from 'outcome,' the brain reduces the 'anticipatory anxiety' that often impairs peak performance.
+**Neuroscience Perspective:** Anticipatory anxiety about outcomes degrades performance through working-memory interference (Beilock & Carr, 2005). Decoupling effort from the fruit it might yield removes precisely this interference, freeing cognitive resources for the task itself.
 
 **Common Misreading:** "Don't care about results." Actually, the teaching forbids letting results be your *motivation* — effort, quality, and care remain essential; only attachment to outcomes must be released.
 ---
@@ -1033,7 +997,7 @@ Established in yoga, perform actions having abandoned attachment, Dhanañjaya, b
 
 **Contemporary Relevance:** Yoga is defined here as 'mental evenness.' In a volatile and uncertain world, the ability to remain calm and focused regardless of external success or failure is the ultimate competitive advantage and the key to personal happiness.
 
-**Neuroscience Perspective:** Yoga as 'evenness of mind' is the state of 'optimized regulation.' A brain that is 'equal in success and failure' has a highly resilient nervous system that can handle any level of environmental volatility without crashing.
+**Neuroscience Perspective:** Resilience research (Charney, 2004; Southwick & Charney, 2012) identifies stable affective responding across success and adversity as one of the core neurobiological markers of psychological resilience, supported by efficient prefrontal regulation of limbic reactivity.
 
 **Common Misreading:** "Yoga means physical postures and breathing exercises." Actually, this verse gives the Gita's own explicit definition: yoga is *samatvam* — evenness of mind in action — a mental orientation toward equanimity, not a physical practice. Physical yoga traditions developed centuries later and draw on a different context.
 
@@ -1055,7 +1019,7 @@ Action is far inferior to the yoga of understanding, Dhanañjaya. Seek refuge in
 
 **Contemporary Relevance:** 'Busy-ness' is not the same as effectiveness. Doing things without a clear 'why' or just for a paycheck is a low state of existence. True success comes from acting with deep understanding and a clear sense of purpose.
 
-**Neuroscience Perspective:** Action without understanding is described as 'inferior.' Neurally, 'blind action' is driven by lower brain centers (habit/impulse), while 'Yoga of understanding' is driven by the prefrontal cortex. Logic must lead action.
+**Neuroscience Perspective:** Dual-process accounts (Kahneman, 2011; Evans & Stanovich, 2013) distinguish fast, automatic responding from slower, reflective deliberation. Krishna's preference for action guided by understanding endorses the deliberative track, which depends on prefrontal control over default habitual responding.
 
 ---
 
@@ -1075,7 +1039,7 @@ One yoked with understanding casts off here both good and evil deeds. Therefore 
 
 **Contemporary Relevance:** Yoga is 'skill in action.' This means doing what needs to be done with absolute precision, focus, and without emotional baggage. It’s the definition of a 'flow state' or being 'in the zone' where your actions are perfect and effortless.
 
-**Neuroscience Perspective:** Yoga as 'skill in action' (karmasu kauśalam) describes the 'flow state.' In this state, the 'self' (ego) disappears and the 'act' becomes perfectly efficient and precise. It is the peak of human neurological and physical integration.
+**Neuroscience Perspective:** Csikszentmihalyi's (1990) flow state — total absorption in skilled activity with reduced self-monitoring — has neural correlates in transient hypofrontality of self-referential regions (Dietrich, 2004). Krishna's "skill in action" describes this configuration directly.
 
 **Common Misreading:** "Yoga as 'skill in action' means technical proficiency or professional excellence." Actually, the skill (*kauśalam*) here is specifically the inner capacity to act without being bound by the karmic consequences of the act — freedom from the ego's entanglement with outcome, not mere competence.
 
@@ -1097,7 +1061,7 @@ For the wise, yoked with understanding, having abandoned the fruit born of actio
 
 **Contemporary Relevance:** Freedom comes from letting go of the 'results' game. When we stop obsessing over whether we will be praised or rewarded, we escape the 'bondage' of external validation and find a deep, internal state of peace that no setback can touch.
 
-**Neuroscience Perspective:** Freed from 'the bondage of rebirth' means breaking the 'repetitive neural loops' of habit and ego. By letting go of results, the brain stops reinforcing the pathways of 'craving and regret,' leading to a state of permanent mental freedom.
+**Neuroscience Perspective:** Repetitive self-referential thinking — rumination about past outcomes and craving for future ones — is associated with elevated activity in the default-mode network and predicts negative affect (Whitfield-Gabrieli & Ford, 2012; Hamilton et al., 2015). Releasing attachment to results loosens this loop.
 
 ---
 
@@ -1117,8 +1081,6 @@ When your understanding crosses beyond the thicket of delusion, then you will be
 
 **Contemporary Relevance:** This is 'information immunity.' In a world of endless social media noise and expert opinions, true clarity allows you to remain unaffected by the 'latest trends' or 'conflicting advice.' You become guided by your own internal truth rather than external noise.
 
-**Neuroscience Perspective:** Indifference to 'what is to be heard' is 'cognitive independence.' Once your brain has crossed the 'thicket of delusion,' it is no longer susceptible to social pressure, trends, or conflicting expert opinions. You are 'anchored' in truth.
-
 ---
 
 ### 2.53
@@ -1136,8 +1098,6 @@ When your understanding, bewildered by scripture, stands unmoving and steady in 
 **Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Closes the section by defining its terminal goal: yoga is not a set of techniques but the state of an intellect (*buddhi*) that has become immovable in *samādhi* despite exposure to conflicting teachings — answering Arjuna's implicit question of what the method ultimately produces.
 
 **Contemporary Relevance:** Real wisdom is not 'collected knowledge' but 'steady focus.' After you have learned enough, the next step is to stop searching and start *being*. Achieving a state where your mind is no longer 'tossed about' by every new idea is the ultimate goal of mental discipline.
-
-**Neuroscience Perspective:** The mind staying 'unmoving' in concentration is the state of 'neural synchronization.' When all parts of the brain are aligned and focused on a single purpose, you achieve 'Yoga'—the ultimate state of internal and external unity.
 
 ---
 
@@ -1160,8 +1120,6 @@ What is the description of one whose wisdom is firm, who is established in deep 
 
 **Contemporary Relevance:** Arjuna is asking for a practical 'role model.' He wants to know how this lofty philosophy actually looks in everyday life. It’s a call for tangible examples of how a 'wise person' behaves in normal situations.
 
-**Neuroscience Perspective:** Arjuna’s questions about 'how he speaks, sits, and moves' show a desire for 'behavioral markers' of wisdom. He is looking for the 'visible output' of an 'optimized internal system,' mirroring how we look for 'performance data' in modern systems.
-
 ---
 
 ### 2.55
@@ -1183,7 +1141,7 @@ When one abandons all desires that dwell in the mind, Pārtha, content in the se
 
 **Contemporary Relevance:** This is 'internal validation' vs 'external validation.' Most people are 'hungry' for something outside themselves (money, fame, love) to make them happy. A person of steady wisdom is 'already full.' They are happy by nature, not by circumstance.
 
-**Neuroscience Perspective:** Contentment 'in the self by the self' is the state of 'intrinsic reward.' Instead of needing external dopamine hits (praise, money), the brain generates its own sense of 'ok-ness' and satisfaction from its own core alignment.
+**Neuroscience Perspective:** Self-Determination Theory (Deci & Ryan, 2000) distinguishes intrinsic from extrinsic motivation, and finds that intrinsic motivation — satisfaction generated by the activity itself rather than by external reward — is associated with greater well-being and persistence. The sage's "contentment in the self" is intrinsic motivation at the limit.
 
 **Common Misreading:** "The wise person has no desires whatsoever — all wanting is eliminated." Actually, the verse specifies abandoning *kāmān manogatān* — desires as compulsive mental cravings. Freedom from craving (kāma) is not the same as the absence of all motivation, preference, or purposive action, which remain available to the sage.
 
@@ -1205,7 +1163,7 @@ Untroubled in mind amid sorrows, without craving amid pleasures, free from passi
 
 **Contemporary Relevance:** This is the definition of emotional mastery. Imagine being able to handle a major crisis without panic (fear), a major success without ego (attachment), and an insult without lashing out (anger). This level of composure is the ultimate goal of modern psychological resilience.
 
-**Neuroscience Perspective:** Freedom from 'passion, fear, and anger' indicates a 'mastery of the limbic system.' A sage has trained their prefrontal cortex to provide 'top-down' regulation of the brain’s emotional centers, resulting in an unshakeable inner peace.
+**Neuroscience Perspective:** Effective prefrontal regulation of amygdala-driven affect is well established (Ochsner & Gross, 2005). The sage's stable freedom from passion, fear, and anger is a behavioural marker of consistently engaged top-down regulation rather than its momentary recruitment.
 
 ---
 
@@ -1225,7 +1183,7 @@ Whoever is without attachment everywhere, encountering this or that, pleasant or
 
 **Contemporary Relevance:** This is 'equanimity in action.' It doesn't mean being a robot; it means not being a slave to your environment. You can experience 'bad luck' or 'good luck' and still remain 'yourself,' without letting those external events dictate your inner peace.
 
-**Neuroscience Perspective:** The lack of 'rejoicing or hating' indicates a 'neutrality of appraisal.' The brain accepts 'data' (pleasant or unpleasant) without the 'emotional distortion' that usually causes irrational reactions and future suffering.
+**Neuroscience Perspective:** Equanimity — meeting both pleasant and unpleasant input without strong approach or aversion — is the regulatory orientation trained in mindfulness-based interventions and is associated with reduced amygdala reactivity (Desbordes et al., 2012). The sage's posture toward fortune and adversity is this orientation generalised.
 
 ---
 
@@ -1245,7 +1203,7 @@ When one withdraws the senses from the objects of sense on every side, as a tort
 
 **Contemporary Relevance:** This is the ability to 'unplug.' In a world of constant notifications and sensory overload, the skill of consciously withdrawing your attention from distractions and focusing inward is essential for mental health and deep work.
 
-**Neuroscience Perspective:** The tortoise metaphor describes 'voluntary attention withdrawal.' This is the ability to consciously 'disconnect' from sensory triggers to maintain internal focus. It’s the ultimate defense against an 'attention-economy' world.
+**Neuroscience Perspective:** Top-down attentional control — the ability to disengage from salient external stimuli to maintain an internal task set — is a core executive function localised in the dorsolateral prefrontal and parietal cortex (Corbetta & Shulman, 2002). The tortoise withdrawing its limbs is an apt image for it.
 
 ---
 
@@ -1265,7 +1223,7 @@ Sense objects turn away from the embodied one who does not feed on them — exce
 
 **Contemporary Relevance:** You can't just 'suppress' your bad habits with willpower alone; you have to 'replace' them with something better. True freedom from an addiction or a negative desire only comes when you find a deeper source of meaning and satisfaction.
 
-**Neuroscience Perspective:** The 'taste' (craving) only leaving when the 'Supreme' is seen shows that 'suppression' is not 'transformation.' To change a deep-seated neural habit (craving), you must provide the brain with a 'higher reward' (Truth) that makes the old habit obsolete.
+**Neuroscience Perspective:** Pure suppression of a thought tends to rebound — Wegner's (1994) ironic-process research found that suppressed urges return more strongly. Durable change in craving instead comes from re-valuation: substituting a stronger or more meaningful goal for the old one (Volkow et al., 2017).
 
 > **Note:** *rasa* — "taste, relish, lingering attraction." The point is that abstinence can suppress the objects but not the residual pull toward them. That deeper pull only ceases upon direct realization (*paraṁ dṛṣṭvā*).
 
@@ -1287,7 +1245,7 @@ For even of a striving, discerning person, Kaunteya, the turbulent senses seize 
 
 **Contemporary Relevance:** This is a warning about 'overconfidence in willpower.' We must respect the power of our biological urges and environmental triggers. Even the most disciplined person can be led astray if they are not constantly vigilant.
 
-**Neuroscience Perspective:** The ‘turbulent senses’ seizing the mind is a description of ‘limbic hijack.’ It’s a warning that our biological urges are incredibly powerful and can override even a wise person’s logic if they are not constantly vigilant.
+**Neuroscience Perspective:** Under strong emotional or appetitive stimulation, amygdala-driven processing can override prefrontal regulation rapidly — LeDoux's (1996) "low road" of subcortical threat processing reaches motor output before cortical evaluation completes. Even the wise are not immune; vigilance is required.
 
 **Common Misreading:** "This verse says even the wise inevitably fail — sensory control is ultimately impossible." Actually, the verse warns of danger precisely to motivate the remedy that follows in 2.61: restraining the senses and directing attention to the supreme — the warning is a call to a deeper method, not a counsel of despair.
 
@@ -1309,8 +1267,6 @@ Having restrained all of them, one should sit disciplined, intent on me. For the
 
 **Contemporary Relevance:** Self-discipline is the foundation of wisdom. Without the ability to manage our impulses and focus our attention on what truly matters, we remain scattered and reactive. True freedom is not being able to do whatever we want, but having the power to do what is right.
 
-**Neuroscience Perspective:** Restraining the senses and being 'intent on Me' is 'centralized focus.' By anchoring the mind in a single, supreme 'True North,' you provide the brain with a stable reference point that keeps all the 'sub-systems' (senses) in check.
-
 ---
 
 ### 2.62
@@ -1329,7 +1285,7 @@ When a person contemplates sense objects, attachment to them arises. From attach
 
 **Contemporary Relevance:** This is the 'anatomy of an impulse.' It shows how a simple thought can spiral into an emotional crisis. By understanding this process, we can catch ourselves at the 'thinking' stage before it becomes an uncontrollable emotion like anger.
 
-**Neuroscience Perspective:** The 'ladder of downfall' (thought -> attachment -> desire -> anger) is a perfect map of a 'neural chain reaction.' By understanding this sequence, we can intervene at the 'thought' stage before the brain is overwhelmed by 'anger.'
+**Neuroscience Perspective:** Rumination on a thwarted desire reliably escalates anger; Bushman (2002) found that brooding amplifies aggressive affect rather than venting it. The verse's chain — dwelling on an object → attachment → desire → anger — anticipates this iterative escalation and recommends early interruption.
 
 **Common Misreading:** "Ordinary thinking about an object causes ruin." Actually, this verse describes the specific cascade of *obsessive craving*: prolonged dwelling on desired objects, not normal reflection or discernment.
 ---
@@ -1350,7 +1306,7 @@ From anger comes delusion; from delusion, confusion of memory; from confusion of
 
 **Contemporary Relevance:** This explains why we make terrible decisions when we are angry. Anger 'blinds' us, making us forget our values and long-term goals. Protecting our ability to reason is the most important thing we can do in a crisis.
 
-**Neuroscience Perspective:** The progression from 'anger -> delusion -> loss of memory -> destruction of reason' describes the 'shutting down' of the prefrontal cortex under intense stress. Anger literally 'blinds' and 'stupefies' the executive brain, leading to a total loss of character.
+**Neuroscience Perspective:** Intense anger and acute stress measurably impair prefrontal-dependent functions, including working memory and reasoning (Arnsten, 2009; Hermans et al., 2014). The cascade from anger to confusion to memory loss to "destruction of reason" tracks this empirically documented degradation.
 
 **Common Misreading:** "Any desire leads to destruction." Actually, this continues the craving-chain: obsessive attachment escalates to anger, which destroys discriminative intelligence — it describes compulsion, not ordinary desire.
 ---
@@ -1369,9 +1325,7 @@ But moving among sense objects with senses free from attraction and aversion, un
 
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Turns the argument from negative diagnosis to positive model: after the ruin-chain of 2.62–63, this verse shows the alternative — the *vidheyātmā* (self-governed person) who moves through sensory experience without being governed by it and thereby attains *prasāda* (clarity, grace).
 
-**Contemporary Relevance:** This is 'engaged detachment.' It doesn't mean hiding from the world, but living in it without being controlled by it. You can enjoy things and face difficulties while keeping your internal compass steady.
-
-**Neuroscience Perspective:** Moving with 'senses free from attraction and aversion' is 'engaged detachment.' The brain continues to process sensory data but has 'neutralized' the emotional triggers, allowing for perfectly objective action in the world.
+**Contemporary Relevance:** This is participation without dependence. It does not mean hiding from the world, but moving through it without being controlled by it — engaging with both pleasures and difficulties while keeping the internal compass steady.
 
 ---
 
@@ -1391,8 +1345,6 @@ In clarity, the destruction of all sorrows arises. For the one of clear mind, un
 
 **Contemporary Relevance:** Clarity is the antidote to suffering. Most of our pain comes from our *interpretation* of events, not the events themselves. When the mind is clear and peaceful, we see things as they are, and sorrow loses its grip on us.
 
-**Neuroscience Perspective:** The 'destruction of all sorrows' through clarity is the result of 'optimal mental health.' When the mind is 'prasanna' (clear and bright), it no longer generates the 'pain-narratives' that we experience as chronic sorrow and suffering.
-
 ---
 
 ### 2.66
@@ -1410,8 +1362,6 @@ There is no understanding for the undisciplined, and no meditation for the undis
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Demonstrates by negation the entire chain of conditions the portrait requires: the undisciplined (*ayukta*) has no *buddhi*, no contemplation, no peace, and therefore no happiness — proving by structural logic that the qualities of the *sthitaprajña* are not optional refinements but the only path to well-being.
 
 **Contemporary Relevance:** This is a logical chain for well-being. Happiness requires peace, peace requires focus, and focus requires discipline. If we want to be happy, we must start by disciplining our mind and our habits.
-
-**Neuroscience Perspective:** The logic 'No discipline -> No focus -> No peace -> No happiness' is a First Principle of 'well-being architecture.' Happiness is a 'top-level' result that is only possible if the 'foundational' levels of discipline and peace are in place.
 
 ---
 
@@ -1431,8 +1381,6 @@ For when the mind runs after the wandering senses, it carries away one's wisdom 
 
 **Contemporary Relevance:** This is about 'mental drift.' If we let every notification, craving, or mood dictate our attention, we lose our sense of direction and purpose. We must be the 'captain' of our mind, not just a passenger being blown about by sensory triggers.
 
-**Neuroscience Perspective:** The mind 'running after the senses' is the state of 'mental drift' and 'low-level distractibility.' Like a wind blowing a boat, these external triggers sweep away our 'executive control' and leave us helpless and without direction.
-
 ---
 
 ### 2.68
@@ -1450,8 +1398,6 @@ Therefore, mighty-armed one, one whose senses are completely restrained from the
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Draws the *tasmāt* (therefore) conclusion from the preceding danger-and-image sequence: complete withdrawal of the senses from their objects is the criterion by which steady wisdom (*prajñā pratiṣṭhitā*) is recognized — closing the argument's sustained focus on sense-mastery before the section shifts to higher images.
 
 **Contemporary Relevance:** This is the final word on sensory control. It’s a call to be the master of our own attention. In an economy that profits from stealing our attention, the ability to control it is the ultimate act of self-sovereignty.
-
-**Neuroscience Perspective:** The 'restraint of senses from their objects' is the final word on 'attentional sovereignty.' The person who controls their own attention owns their own life. It is the most important skill for anyone living in a world of constant distraction.
 
 ---
 
@@ -1471,7 +1417,7 @@ What is night for all beings — in that the self-controlled one is awake. That 
 
 **Contemporary Relevance:** This is about 'different values.' A wise person doesn't follow the crowd. They are 'awake' to things that others ignore (like integrity and inner peace) and 'asleep' to things that others obsess over (like fame and superficial trends).
 
-**Neuroscience Perspective:** The 'day/night' paradox describes 'conflicting value-systems.' What the average person’s brain sees as a 'reward' (status, pleasure), the wise person’s brain sees as 'noise.' What the wise person sees as 'valuable' (peace, truth), the average person ignores.
+**Neuroscience Perspective:** What counts as reward is itself learned, and individual differences in valuation produce reliably different ventromedial prefrontal responses to the same stimulus (Bartra, McGuire, & Kable, 2013). The verse's "day/night" reversal between sage and worldly person is two value functions reading the same world.
 
 ---
 
@@ -1495,8 +1441,6 @@ As waters enter the ocean, ever being filled yet standing unmoved — so too, th
 
 **Contemporary Relevance:** This is the image of 'vastness.' We should aim to have a mind as vast as the ocean. We don't have to stop 'having' thoughts or desires; we just have to be so grounded and vast that they don't disturb our fundamental peace.
 
-**Neuroscience Perspective:** The ocean metaphor describes 'vast emotional capacity.' We should aim for a mind so 'vast' that even intense thoughts and desires (rivers) don't overflow or disturb our fundamental state of 'stillness' and peace.
-
 **Common Misreading:** "The teaching says desires must be eliminated before peace is possible." Actually, the ocean analogy describes desires *entering* the sage without causing disturbance — desires may arise, but the mind remains like an ocean that is unmoved. The contrast is with the *kāmakāmī* who actively chases desire, not someone in whom desires merely appear.
 
 ---
@@ -1517,7 +1461,7 @@ The person who moves about having abandoned all desires, free from craving, with
 
 **Contemporary Relevance:** This is the formula for modern minimalist living—not just with physical things, but with the ego. Letting go of the need to 'own' things and the need to be 'important' is the fastest way to end anxiety and find lasting contentment.
 
-**Neuroscience Perspective:** Abandoning 'mine' and 'I' (possessiveness and ego) is 'egolytic transformation.' By reducing the size of the 'self-referential' model in the brain, you eliminate the source of most human stress, which is the constant need to defend or expand the ego.
+**Neuroscience Perspective:** Reduced self-referential processing — operationalised as decreased default-mode network activity and "ego dissolution" — is consistently observed in deep contemplative states and in some pharmacological studies (Brewer et al., 2011; Carhart-Harris et al., 2014). Releasing "mine" and "I" describes the experiential side of this shift.
 
 ---
 
@@ -1536,7 +1480,5 @@ This is the state of Brahman, Pārtha. Having attained it, one is not deluded. E
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Closes the entire chapter by naming what the portrait has been pointing toward: *brāhmī sthiti*, the state of Brahman — both the culmination of steady wisdom and the ground from which even death cannot dislodge the liberated person, connecting the chapter's practical ethics to its ultimate metaphysical horizon.
 
 **Contemporary Relevance:** This is the 'final goal.' It’s the realization that we are part of something eternal and infinite. Having this perspective changes everything—it makes us fearless in life and peaceful at its end, knowing that we have finally understood our true nature.
-
-**Neuroscience Perspective:** The 'State of Brahman' is the 'ultimate neural integration.' It is a state of 'total certainty' and 'zero delusion' that remains steady even at death. It is the final achievement of a perfectly trained and aligned human mind.
 
 > **Note:** *brahmanirvāṇa* — "extinction in Brahman" — combines an Upaniṣadic term (*brahman*) with a term more commonly associated with Buddhist soteriology (*nirvāṇa*). The compound is distinctive to the Gītā and appears again at 5.24–26. It denotes final liberation without privileging either tradition's technical usage.

@@ -12,3 +12,6 @@ current state of the project. See the top-level `README.md`,
   Implemented; the live site matches the spec.
 - `ui-ux-implementation-plan.md` — step-by-step plan for the same
   overhaul. All checkboxes ticked.
+- `execution-plan.md` — original pre-execution plan for the full
+  translation project. All phases finished and verification checklist
+  complete; preserved here for project history.

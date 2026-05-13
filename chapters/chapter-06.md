@@ -111,7 +111,7 @@ One should uplift oneself by the self; one should not degrade oneself. For the s
 **Neuroscience Perspective:** Use-dependent plasticity is a well-established property of the nervous system: repeated patterns of activity gradually restructure synaptic and even gross anatomical connectivity (Draganski et al., 2004; Pascual-Leone et al., 2005). One's own habits of thought are, over time, one's own most consequential builders or saboteurs.
 
 **Common Misreading:** "Spiritual progress is purely self-reliant willpower." Actually, the self is both the means of elevation *and* the source of degradation — the teaching points to inner alignment and discipline, not individual bootstrapping.
-> **Note:** A pivotal psychological principle in the Gītā. The lower, egoic self can be the greatest obstacle, but the disciplined, higher self is the agent of its own salvation.
+> **Note:** A pivotal psychological principle in the Gītā. The undisciplined self can be the greatest obstacle, while the disciplined self is the agent of its own salvation.
 
 ---
 
@@ -864,7 +864,7 @@ But the yogi who strives with effort, whose stains are completely cleansed, bein
 **Simple Translation:** But the practitioner who strives with great effort, whose heart is cleansed, and who reaches perfection over a long period, finally attains the highest goal.
 
 **Argument Arc:** *The Failed Yogi (6.37–6.45)* — Closes the section with but the practitioner who strives with great effort, whose heart is cleansed, and who reaches perfection over a long period, finally attains the highest goal, completing the argument's arc.
-**Contemporary Relevance:** 'The Long Game.' Perfection takes time. This is a call for 'radical persistence.' If you keep cleaning your mind and keep trying, you are guaranteed to reach the top. It’s a marathon, not a sprint.
+**Contemporary Relevance:** The long game. Perfection takes time, and the verse is a call for sustained persistence. Continual purification of mind and effort — over an extended horizon — is what reaches the highest goal. It is a marathon rather than a sprint.
 
 ---
 

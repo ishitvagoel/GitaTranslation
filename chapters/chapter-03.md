@@ -28,7 +28,7 @@ If you consider knowledge to be superior to action, Janārdana, then why do you 
 
 **Contemporary Relevance:** This is the classic 'intellectual's dilemma.' Many people think that personal growth or 'mindfulness' means withdrawing from the world or avoiding difficult professional duties. Arjuna is asking why he has to 'get his hands dirty' if the goal is mental peace.
 
-**Neuroscience Perspective:** Arjuna’s dilemma reflects the 'conflict of interest' between the brain's 'contemplative network' (Default Mode Network) and the 'executive control network' (Central Executive Network). He is asking how to maintain the benefits of meditation (internal stillness) while being forced into high-stakes action (external chaos).
+**Neuroscience Perspective:** Network neuroscience identifies two large-scale systems whose activity is typically anticorrelated: the default-mode network (active during internally directed cognition) and the dorsal attention / central-executive network (active during externally directed task performance) (Fox et al., 2005). Arjuna's question is a request to integrate these two modes.
 
 > **Note:** Arjuna highlights a perceived tension in Kṛṣṇa's previous discourse between the cultivation of *buddhi* (intellect/insight) and the demand for *karma* (action/battle).
 
@@ -50,7 +50,7 @@ With words that seem equivocal, you as if confuse my understanding. Tell me with
 
 **Contemporary Relevance:** When we are overwhelmed with information and conflicting advice, we often seek a 'magic bullet' or a single, simple instruction. Arjuna's request reflects our modern desire for clarity and a straightforward 'how-to' guide for life's complex problems.
 
-**Neuroscience Perspective:** The request for 'certainty' (ekaṃ niścitya) is a survival mechanism of the brain to reduce 'prediction error' and cognitive load. In a complex, ambiguous environment, the brain seeks a simple, singular heuristic to guide behavior and minimize the stress of constant decision-making.
+**Neuroscience Perspective:** Reducing uncertainty is a central drive in predictive-processing accounts of the brain (Friston, 2010): perception and decision-making both work to minimise prediction error. Arjuna's request for a single decisive principle is a request to lower exactly this uncertainty load.
 
 ---
 
@@ -72,8 +72,6 @@ In this world, a twofold basis of steadying was previously taught by me, O sinle
 **Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Opens Krishna's response by dismantling the false either/or: there are two valid paths, jñāna-yoga and karma-yoga, each suited to a different temperament. This establishes that Arjuna's question was misconceived — the issue is not which is better in the abstract, but which fits the person.
 
 **Contemporary Relevance:** Different temperaments require different approaches. Some people learn and grow through study and analysis (the 'thinkers'), while others grow through experience and work (the 'doers'). Krishna validates both paths, showing that there is no 'one size fits all' for success or peace.
-
-**Neuroscience Perspective:** Krishna identifies two distinct neural 'temperaments': the analytical path (theoretical/intellectual) and the active path (practical/action-based). This recognizes that different individuals have different 'baseline neural connectivity,' requiring varied methods to reach the same state of optimization.
 
 **Common Misreading:** "Krishna says knowledge is for some people and action is for others, permanently and exclusively." Actually, the division is by temperamental path (*niṣṭhā*), not fixed identity — both paths lead to the same goal and the Gita consistently describes their ultimate convergence in the liberated sage.
 
@@ -97,8 +95,6 @@ Not by abstaining from undertakings of action does a person attain freedom from 
 
 **Contemporary Relevance:** Quitting is not the same as being free. Many people think that if they could just stop working or leave their responsibilities, they would be happy. Krishna warns that true freedom is an internal state, not a result of external avoidance.
 
-**Neuroscience Perspective:** The warning that 'abstaining from action' does not lead to 'freedom from action' highlights that the brain is never truly inactive. Even in physical stillness, the 'background processing' of the mind continues. True freedom is a state of 'neural detachment' from results, not the cessation of movement.
-
 ---
 
 ### 3.5
@@ -116,8 +112,6 @@ For no one ever remains even for a moment without performing action; indeed, eve
 **Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Deepens the case against inaction by grounding it in nature (prakṛti): no embodied being is ever truly inactive because the guṇas compel action constantly. Since action is unavoidable, the only real choice is how to act.
 
 **Contemporary Relevance:** Action is inevitable. Even sitting still is an action (breathing, thinking). Since we *must* act, the real question is not 'Should I act?' but 'How should I act?' We are all biological machines in constant motion; we should learn to direct that motion wisely.
-
-**Neuroscience Perspective:** The fact that 'everyone is made to act helplessly' describes the 'autonomic' and 'instinctual' systems of the brain. Much of our behavior is driven by 'Gunas' (biological traits and environmental triggers) that operate below the level of conscious awareness. Action is a biological necessity.
 
 ---
 
@@ -137,7 +131,7 @@ One who, restraining the organs of action, sits with the mind dwelling on the ob
 
 **Contemporary Relevance:** This is a warning against 'performative' behavior. If we act disciplined on the outside but are full of craving and distraction on the inside, we are not growing—we are just lying to ourselves. Integrity means aligning our inner thoughts with our outer actions.
 
-**Neuroscience Perspective:** The 'hypocrite' (mithyācāraḥ) describes a state of 'internal-external decoupling.' Stopping physical action while the mind remains obsessed with desire creates 'cognitive dissonance' and chronic internal stress. Integrity requires the alignment of the motor cortex with the internal mental state.
+**Neuroscience Perspective:** Behaving inconsistently with one's privately held attitudes produces cognitive dissonance (Festinger, 1957) and measurable physiological arousal (Croyle & Cooper, 1983). The "hypocrite" who restrains action while the mind still chases its objects is the textbook configuration that generates this dissonance.
 
 ---
 
@@ -157,7 +151,7 @@ But one who, controlling the senses with the mind, undertakes the discipline of 
 
 **Contemporary Relevance:** This is 'controlled engagement.' The most effective modern leaders and professionals are those who can work hard and stay focused, but remain emotionally calm and 'unattached' to praise, blame, or the final result.
 
-**Neuroscience Perspective:** Using the 'mind to control the senses' is the definition of 'top-down' executive control. By training the prefrontal cortex to regulate the more primitive sensory and emotional centers, the brain achieves a state of 'unattached excellence' (asaktaḥ), which is optimal for high-level performance.
+**Neuroscience Perspective:** Top-down attentional control — prefrontal regulation of sensory and motivational processing — is a well-characterised executive function (Miller & Cohen, 2001). Acting with disciplined senses and unattached engagement is the behavioural form of consistently engaged top-down control.
 
 ---
 
@@ -177,7 +171,7 @@ Perform your allotted action, for action is superior to non-action; even the mai
 
 **Contemporary Relevance:** Doing your duty is a fundamental requirement of life. 'Self-care' often starts with simply doing the basic tasks required of us. Inactivity leads to stagnation and decay, both physically and mentally.
 
-**Neuroscience Perspective:** The instruction 'action is superior to non-action' reflects the brain's need for 'purposeful engagement' to maintain health. The 'maintenance of the body' depends on the nervous system's ability to coordinate physical and mental tasks. Stagnation leads to neural and physical atrophy.
+**Neuroscience Perspective:** Purposeful activity and sustained goal pursuit are predictors of physical and cognitive health across the lifespan (Hill & Turiano, 2014); enforced inactivity and lack of meaningful engagement are associated with cognitive decline and worse health outcomes. The verse's preference for engaged action over withdrawal aligns with this evidence.
 
 ---
 
@@ -197,7 +191,7 @@ This world is bound by action except for that action performed for the sake of s
 
 **Contemporary Relevance:** Shift your mindset from 'What's in it for me?' to 'What can I contribute?' When we work purely for our own ego or gain, every setback feels like a personal attack. When we work to contribute to a larger cause, we feel lighter and more resilient.
 
-**Neuroscience Perspective:** Action done as a 'sacrifice' (contribution) shifts the brain from 'egocentric' processing to 'allocentric' (other-centered) processing. This shift reduces the activation of the 'self-defense' and 'greed' circuits, resulting in a state of flow and reduced performance anxiety.
+**Neuroscience Perspective:** Decety and Sommerville (2003) distinguish self-perspective from other-perspective taking and find that prosocial framing reliably engages the latter. Acting "as sacrifice" — for the sake of something beyond personal gain — is exactly this kind of perspective shift, with documented downstream reductions in self-focused anxiety.
 
 ---
 
@@ -218,7 +212,7 @@ anena prasaviṣyadhvam eṣa vo 'stv iṣṭakāmadhuk // 10 //
 
 **Contemporary Relevance:** The universe operates on a principle of 'giving and receiving.' In modern economics and ecology, we see that sustainable growth only happens when there is a mutual exchange of value. The 'spirit of sacrifice' is actually the secret to long-term prosperity.
 
-**Neuroscience Perspective:** The 'spirit of sacrifice' as a source of prosperity is a First Principle of 'reciprocal altruism.' Evolutionarily, the human brain is wired to thrive in systems of mutual benefit. 'Contribution' is the strategic key to long-term systemic stability and individual success.
+**Neuroscience Perspective:** Reciprocal altruism — cooperation under expectation of return — is one of the most-studied dynamics in evolutionary game theory (Trivers, 1971; Nowak, 2006). Sustained mutual contribution is, in this literature, the most stable strategy for both individual and collective fitness over time.
 
 **Common Misreading:** "Sacrifice (*yajña*) here means Vedic fire rituals performed by priests." Actually, yajña in this verse refers to the cosmic principle of mutual sustenance through which the Creator established existence itself — any offering-in-relationship, any act of contribution to a larger whole, participates in this principle.
 
@@ -244,8 +238,6 @@ Nourish the gods with this; may those gods nourish you. Mutually nourishing one 
 
 **Contemporary Relevance:** This is 'systems thinking.' We are not isolated individuals; we are part of a massive, interconnected system. When we take care of the system (the environment, our community, our team), the system takes care of us. Success is a collaborative, circular process.
 
-**Neuroscience Perspective:** The 'mutual nourishment' of humans and cosmic forces describes a 'feedback loop' in a complex system. Neurally, this encourages an 'interconnected' mental model where the individual realizes that their well-being is dependent on the health of the larger environment.
-
 > **Note:** *bhāvayatā* — from the causative of √bhū. In this context, it implies sustaining, nourishing, or causing to thrive through sacrificial offerings.
 
 ---
@@ -266,7 +258,7 @@ For the gods, nourished by sacrifice, will grant you the enjoyments you desire. 
 
 **Contemporary Relevance:** This is a warning against 'freeloading' or exploitative behavior. We receive so much from nature and society (clean air, infrastructure, knowledge). If we only consume without contributing back, we are breaking the ethical balance of the world. Gratitude and reciprocity are essential for a healthy life.
 
-**Neuroscience Perspective:** Calling someone a 'thief' who consumes without giving back targets the brain's 'social fairness' and 'reciprocity' mechanisms. The brain experiences a 'moral penalty' signal when it recognizes its own parasitic behavior, which serves as a deterrent against exploitation.
+**Neuroscience Perspective:** Unfair distributions of effort and reward elicit reliable activity in anterior insula and anterior cingulate — the same circuits engaged by physical pain and disgust (Sanfey et al., 2003). Labelling unreciprocated consumption as theft draws on this built-in unfairness response.
 
 ---
 
@@ -286,8 +278,6 @@ The virtuous who eat the remnants of sacrifice are released from all sins. But t
 
 **Contemporary Relevance:** This is about the 'order of priorities.' If we satisfy our own needs only after we have contributed to others, our consumption is healthy and guilt-free. But consumption that is purely self-centered leads to isolation and a sense of internal emptiness ('eating sin').
 
-**Neuroscience Perspective:** Eating the 'remnants of sacrifice' vs. 'eating sin' describes the neural reward of 'guilt-free consumption.' Satisfying one's needs *after* fulfilling social duties creates a clean dopamine signal, while purely selfish gratification leads to chronic internal conflict (sin).
-
 ---
 
 ### 3.14
@@ -305,8 +295,6 @@ Beings arise from food; the production of food arises from rain; rain arises fro
 **Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Traces the causal chain from individual action upward through sacrifice, rain, food, and life itself, demonstrating that the cosmic cycle is not mythological but structurally dependent on human participation in yajña.
 
 **Contemporary Relevance:** This verse describes the 'cycle of life' and our role in it. It shows how our individual actions directly impact the massive environmental and social cycles that sustain us. It's a call to ecological and social responsibility.
-
-**Neuroscience Perspective:** The 'cycle of food and rain' is a lesson in 'causal mapping.' By understanding the physical and social cycles that sustain life, the brain develops 'systems intelligence,' allowing it to act in ways that support the long-term survival of the whole system.
 
 ---
 
@@ -326,8 +314,6 @@ Know that action originates from Brahman (the Veda), and Brahman originates from
 
 **Contemporary Relevance:** Every act of service or contribution connects us to something 'divine' or universal. When we act selflessly, we are not just 'doing work'; we are participating in the creative process of the universe itself. This gives even small tasks a profound sense of meaning.
 
-**Neuroscience Perspective:** Tracing action back to the 'Absolute' (Brahman) provides a 'transcendental anchor' for duty. When the brain views its daily tasks as an expression of universal principles, it experiences a 'meaning-boost' that significantly increases resilience and endurance.
-
 ---
 
 ### 3.16
@@ -345,8 +331,6 @@ He who does not follow the wheel thus set in motion in this world — living in 
 **Argument Arc:** *The Wheel of Sacrifice (3.10–3.16)* — Closes the section by issuing the moral verdict: the person who opts out of the wheel — living only for sensory pleasure — lives a life that is not merely unfulfilling but actively futile. This makes non-participation in yajña a moral failure, not merely a personal choice, completing the section's argument.
 
 **Contemporary Relevance:** This is a critique of the 'pure consumer' lifestyle. A life that consists only of taking and enjoying, without giving or building, is inherently hollow. True fulfillment comes from being an active, contributing part of the 'wheel' of life.
-
-**Neuroscience Perspective:** The 'wheel of contribution' is a model of 'participatory evolution.' Anyone who stays 'outside' this wheel by living only for sensory pleasure is effectively 'disconnected' from the source of life's meaning, leading to a state of 'neural entropy' and existential futility.
 
 ---
 
@@ -366,7 +350,7 @@ But for the man who delights only in the Self, who is satisfied with the Self, a
 
 **Contemporary Relevance:** This describes the state of 'intrinsic motivation.' When you are already happy and content, you don't work because you *have to* get something; you work as an expression of your own nature. Your work becomes a joy rather than a burden.
 
-**Neuroscience Perspective:** The person 'satisfied in the Self alone' has achieved 'intrinsic dopamine regulation.' Their internal state is no longer dependent on external 'hits' of success or validation. This is the ultimate state of 'neural independence' and unshakeable happiness.
+**Neuroscience Perspective:** Intrinsic motivation — engagement driven by the activity's own value rather than by external reward — is associated with both higher well-being and reduced reliance on extrinsic reinforcement (Deci & Ryan, 2000). The self-satisfied sage embodies the limit of this profile.
 
 ---
 
@@ -386,8 +370,6 @@ For him, there is no purpose in action done, nor any in action not done in this 
 
 **Contemporary Relevance:** This is 'emotional independence.' Imagine being so grounded that your happiness doesn't depend on your boss's praise, your salary, or your social status. This person acts with total freedom because they are already 'complete.'
 
-**Neuroscience Perspective:** Having 'no dependence on any object' means the brain has completed its 'de-addiction' from the world. The person acts with total freedom because their 'self-worth' is not being gambled on the outcome of any external event. This is the peak of psychological security.
-
 ---
 
 ### 3.19
@@ -406,7 +388,7 @@ Therefore, always perform that action which must be done, without attachment. Fo
 
 **Contemporary Relevance:** This is the practical advice: 'Do your best, forget the rest.' Since we are not yet 'perfectly content' (like the person in v17), we must practice detachment while working. This practice is the path to that higher state of freedom.
 
-**Neuroscience Perspective:** Performing action 'without attachment' is the 'Golden Rule' of productivity. By focusing 100% on the quality of the 'act' and 0% on the ego-driven 'reward,' the brain enters a 'flow state' where performance is maximized and stress is minimized.
+**Neuroscience Perspective:** Csikszentmihalyi's (1990) flow research finds that absorption in the activity itself — rather than in its rewards — produces the optimal experience associated with high performance and low anxiety. The verse's "act without attachment" is this configuration as a moral instruction.
 
 ---
 
@@ -426,7 +408,7 @@ Indeed, Janaka and others attained perfection through action alone. Even conside
 
 **Contemporary Relevance:** Leadership by example. Even if you don't 'need' to work for yourself, you should work for the benefit of society. Your actions help hold the world together. This is the responsibility of the 'wise' to help those who are still learning.
 
-**Neuroscience Perspective:** Leadership by example (lokasaṃgraha) is an act of ‘social modeling.’ The brain’s mirror neuron system allows it to influence the behavior of others through action. Wise leaders continue to work to provide a ‘stable neural template’ for the rest of society to follow.
+**Neuroscience Perspective:** Observational learning is among the most robust ways humans acquire complex behaviour (Bandura, 1977): people imitate high-status models, especially when those models are seen to behave consistently. Leadership by example exploits this — though claims about a dedicated mirror-neuron substrate in humans remain contested (Hickok, 2014).
 
 **Common Misreading:** "Only kings and great rulers need to worry about lokasaṃgraha — setting an example is a leader’s burden, not an ordinary person’s." Actually, the principle of world-welfare applies to anyone whose actions influence others — which is everyone. The king is cited as the clearest case, not the only case.
 
@@ -450,7 +432,7 @@ Whatever a superior person does, that very thing other people do. Whatever stand
 
 **Contemporary Relevance:** The power of influence. If you are in a position of authority (parent, boss, influencer), your behavior sets the 'culture' for everyone else. Integrity at the top is the only way to ensure integrity throughout the system.
 
-**Neuroscience Perspective:** The 'power of influence' describes how social hierarchies are maintained in the brain. We are neurally programmed to 'imitate the leader.' High-level integrity at the top of a hierarchy is the most efficient way to regulate the behavior of the entire system.
+**Neuroscience Perspective:** Status hierarchies shape attention asymmetrically: high-status individuals receive more sustained observation, and their actions are imitated more readily (Henrich & Gil-White, 2001). The verse's claim that the masses follow the great is a recognition of this prestige-bias dynamic.
 
 **Common Misreading:** "The wise person must perform only actions that others can copy, imposing a uniform standard." Actually, lokasaṃgraha means acting for the welfare of the collective by modeling integrity — not mandating conformity. The principle calls for role-modeling authentic duty, not dictating that all others act identically.
 
@@ -472,8 +454,6 @@ There is no duty for Me to perform in the three worlds, Pārtha, nor is there an
 
 **Contemporary Relevance:** This is the definition of 'pure action.' Krishna works not out of need, but out of choice and for the sake of the system. It challenges the idea that we should only work when we 'need' something. Work can be a purposeful expression of our nature rather than a desperate hunt for survival.
 
-**Neuroscience Perspective:** Krishna’s 'pure action' without need is a model of 'non-utilitarian motivation.' It shows that action can be a joyful expression of 'being' rather than a desperate attempt at 'becoming.' This removes the 'deficiency-stress' that drives most human work.
-
 ---
 
 ### 3.23
@@ -492,8 +472,6 @@ For if I did not ever engage in action untiringly, men would follow My path in e
 
 **Contemporary Relevance:** The responsibility of power. The more influential you are, the less you can afford to be lazy or negligent. Your 'downtime' is seen by others as permission to quit. True leadership requires constant, tireless engagement.
 
-**Neuroscience Perspective:** The 'responsibility of power' highlights the brain's role in 'norm-setting.' If the highest-level 'exemplar' quits, the entire group's 'motivation-baseline' drops. Constant, tireless engagement is required to maintain the group's collective momentum.
-
 ---
 
 ### 3.24
@@ -511,8 +489,6 @@ These worlds would fall into ruin if I did not perform action; I would be the au
 **Argument Arc:** *Leading by Example (3.21–3.26)* — Escalates 3.23's consequence from social disruption to cosmic collapse: Krishna's withdrawal would author not just disorder but the total unraveling of beings and worlds. This grounds the obligation to act in the gravest possible stakes, extending the argument beyond personal ethics to cosmic stewardship.
 
 **Contemporary Relevance:** This is 'accountability.' If the core processes of a society or organization stop, the whole system collapses into chaos. Krishna acts to prevent this entropy. It reminds us that our small daily duties are what keep the 'world' (our family, our office, our country) from falling apart.
-
-**Neuroscience Perspective:** The threat of 'world-ruin' and 'confusion' (entropy) is the ultimate 'systemic alarm.' The brain is wired to avoid chaos. Krishna acts to maintain 'predictability and order,' which are the essential requirements for any brain to function safely and effectively.
 
 > **Note:** *saṅkara* — confusion or intermixture. In this context, it refers to the breakdown of the cosmic and social order (*dharma*) that sustains the worlds.
 
@@ -534,8 +510,6 @@ As the ignorant act, attached to action, O Bhārata, so should the wise act, una
 
 **Contemporary Relevance:** 'Intensity without attachment.' You don't have to be 'greedy' to be productive. You can be a high-performer driven by service and quality rather than ego and bonus checks. The 'output' looks the same, but the 'inner experience' is completely different.
 
-**Neuroscience Perspective:** Wise people act with 'intensity without attachment.' This is 'High-Engagement/Low-Stress' performance. It combines the 'energy' of the ignorant (who act out of greed) with the 'clarity' of the wise (who act out of service), resulting in optimal systemic health.
-
 ---
 
 ### 3.26
@@ -554,7 +528,7 @@ The wise should not create a confusion of the intellect (*buddhibheda*) in the i
 
 **Contemporary Relevance:** Meet people where they are. If someone is motivated by money or status, don't just tell them 'money doesn't matter'—that will only confuse them. Instead, show them how to do *excellent* work. Your example of excellence will eventually lead them to deeper motivations.
 
-**Neuroscience Perspective:** Not 'confusing the ignorant' is a lesson in 'cognitive empathy.' A wise leader understands the 'mental limits' of their team and doesn't force high-level philosophy on those who aren't ready. They encourage others by modeling 'excellent action' in a way that is relatable.
+**Neuroscience Perspective:** Adjusting communication to a listener's current mental model — what mentalizing research calls audience-design (Sperber & Wilson, 1986; Frith & Frith, 2006) — is a core social-cognitive skill. The verse's instruction not to unsettle those of partial knowledge is exactly this principle applied to teaching.
 
 > **Note:** *buddhibheda* — a fracturing or disturbance of the discernment. The wise lead not by theoretical instruction that negates action, but by exemplary performance of action.
 
@@ -576,7 +550,7 @@ Actions are performed in every way by the qualities (*guṇas*) of nature (*prak
 
 **Contemporary Relevance:** This is 'the illusion of agency.' Our bodies, brains, and environments are all part of a massive natural process. When we take too much personal credit (or too much personal blame), we are ignoring the countless biological and environmental factors that made the action possible. Humility comes from seeing the 'big picture' of nature.
 
-**Neuroscience Perspective:** The 'illusion of agency' (I am the doer) is a byproduct of the brain's 'self-model.' While necessary for basic survival, this 'ego-narrative' becomes a source of stress and pride. Understanding that 'Nature is the real doer' allows for a more relaxed and objective performance.
+**Neuroscience Perspective:** Wegner's (2002) work on the illusion of conscious will found that the felt sense of authoring an action is itself a construction, often dissociable from the underlying motor causation. Recognising that nature's qualities, not "I," are doing the work loosens the grip of this construction.
 
 **Common Misreading:** "The guṇas are external forces acting on a passive, innocent self." Actually, the guṇas are the very fabric of prakṛti — they constitute the field in which the self operates. The teaching is about seeing through the *ahaṅkāra's* illusion of ownership of action, not about escaping external pressure.
 
@@ -600,8 +574,6 @@ But the knower of the truth, O mighty-armed one, concerning the divisions of qua
 
 **Contemporary Relevance:** 'Observational detachment.' When you see a conflict or a success as just 'variables interacting,' you can stay calm. It’s like watching a chemical reaction or a complex weather pattern—you can observe it, participate in it, and even direct it, without letting it destroy your inner peace.
 
-**Neuroscience Perspective:** The knower of truth sees 'qualities operating among qualities.' This is 'objective system-monitoring.' By viewing a conflict or a task as a set of interacting variables rather than a 'personal drama,' the brain remains calm and makes better strategic choices.
-
 ---
 
 ### 3.29
@@ -619,8 +591,6 @@ Those deluded by the qualities of nature become attached to the actions of the q
 **Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Introduces a social corollary to the guṇa-knowledge: those still confused by their nature remain attached, and the fully knowing person must not unsettle them. This begins the section's turn toward the pedagogy of wisdom — the knower has a responsibility not to destabilize those at a different stage.
 
 **Contemporary Relevance:** Respect the learning curve. Everyone is on their own journey of understanding. Forcing 'high-level' philosophy on someone who is just trying to survive or succeed can be harmful. Patience and compassionate leadership mean letting people grow at their own pace.
-
-**Neuroscience Perspective:** Patience with those of 'incomplete knowledge' is an act of 'social regulation.' Everyone has their own 'learning rate' based on their previous experience and biology. Forcing 'total truth' prematurely can cause a 'neural crash' in others; compassionate leadership allows for gradual growth.
 
 ---
 
@@ -640,7 +610,7 @@ Surrendering all actions to Me with a mind fixed on the Self, being free from ho
 
 **Contemporary Relevance:** 'Working without the fever.' Mental fever is the anxiety, stress, and desperation we feel when we are too attached to an outcome. Krishna's final advice for this section is to work with total commitment, but with a cool, calm, and surrendered mind.
 
-**Neuroscience Perspective:** Working 'without mental fever' (vigata-jvara) is the state of 'optimized arousal.' 'Mental fever' is the over-activation of the sympathetic nervous system (anxiety). By surrendering the outcome to a higher principle, the brain maintains the perfect 'cool' state for high-stakes decision-making.
+**Neuroscience Perspective:** Performance is reliably degraded by excessive sympathetic arousal (Yerkes & Dodson, 1908) and improved by techniques that engage parasympathetic activity, including reduced rumination about outcomes (Thayer & Lane, 2000). The verse's instruction to act without "mental fever" prescribes this physiological configuration.
 
 > **Note:** *vigata-jvaraḥ* — literally "one whose fever has gone." It signifies a state of mental clarity and emotional composure, free from the "heat" of anxiety or agitation.
 
@@ -662,8 +632,6 @@ Those men who constantly practice this teaching of Mine with faith and without c
 
 **Contemporary Relevance:** Trust the process. When we find a principle that works, we should apply it consistently and without constant second-guessing. Skepticism is good for research, but when it's time to act, 'uncomplaining faith' in our chosen strategy allows us to perform with full power and without internal friction.
 
-**Neuroscience Perspective:** Faith without 'caviling' (complaining) is 'unfiltered commitment.' Constant second-guessing creates 'cognitive friction' that slows down execution. Once a principle is chosen, 'complaint-free' practice allows the brain to perform at full power.
-
 ---
 
 ### 3.32
@@ -681,8 +649,6 @@ But those who, caviling, do not practice My teaching — know them to be deluded
 **Argument Arc:** *Action Belongs to the Gunas (3.27–3.35)* — Supplies the negative contrast to 3.31: those who reject the teaching with complaint are ruined in all knowledge. The pairing of 3.31 and 3.32 creates a fork — faithful practice leads to liberation; cynical rejection leads to complete disorientation. This sharpens the urgency of Arjuna's choice.
 
 **Contemporary Relevance:** The danger of cynicism. Rejecting sound principles of life and work out of ego or laziness leads to a 'ruined' mindset. When we ignore the fundamental rules of reality (like reciprocity and focus), we eventually lose our way and our effectiveness.
-
-**Neuroscience Perspective:** The 'ruin' of the cynical targets the 'loss of predictive reliability.' If a person rejects all sound principles out of pride, their brain loses its ability to navigate reality effectively, leading to a state of 'chronic confusion' and systemic failure.
 
 ---
 
@@ -702,7 +668,7 @@ Even a man of knowledge acts according to his own nature (*prakṛti*). All bein
 
 **Contemporary Relevance:** Authenticity vs. Repression. We all have inherent traits and temperaments. Trying to 'force' yourself to be someone you're not is a waste of energy and usually fails. Real growth comes from *directing* your natural energy toward a higher purpose, not from trying to 'kill' your natural personality.
 
-**Neuroscience Perspective:** The futility of 'repression' (nigrahaḥ) highlights that 'willpower alone' is not enough to change deep-seated biological traits. Real transformation requires 'alignment' and 'direction' of one's nature, not a violent attempt to suppress it.
+**Neuroscience Perspective:** Pure suppression is an unreliable change strategy: Wegner's (1994) ironic-process research found that suppressed thoughts rebound, and the effort of suppression itself can deplete subsequent self-control (Muraven & Baumeister, 2000). Sustainable transformation works with one's nature rather than against it.
 
 > **Note:** *nigrahaḥ* — repression or forceful suppression. Kṛṣṇa suggests that mere suppression of natural tendencies is futile; transformation must come through the alignment of action with one's inherent nature.
 
@@ -724,7 +690,7 @@ Attachment (*rāga*) and aversion (*dveṣa*) are fixed in the objects of each s
 
 **Contemporary Relevance:** Emotional intelligence. We cannot stop ourselves from *feeling* attracted to some things and repelled by others—that's biological. But we *can* stop ourselves from being *controlled* by those feelings. Wisdom is the space between the feeling and the reaction.
 
-**Neuroscience Perspective:** The 'adversaries' of attachment and aversion describe the brain's 'approach/avoidance' biases. If we are controlled by our 'likes and dislikes,' we are predictable and easy to manipulate. Wisdom is the ability to act 'independently' of these primal biological pulls.
+**Neuroscience Perspective:** Approach and avoidance motivations are basic axes of behavioural control with distinct neural substrates and personality correlates (Gray, 1982; Elliot & Thrash, 2002). Being habitually driven by likes and dislikes makes one's actions predictable; recognising the pull as a "trap" is the first step in regulating it.
 
 ---
 
@@ -744,7 +710,7 @@ Better is one's own duty (*svadharma*), though imperfect, than another's duty we
 
 **Contemporary Relevance:** Find your own lane. In a world of social media comparison, we often try to copy someone else's 'perfect' life or career. Krishna warns that this is 'fraught with danger.' True fulfillment and security only come from being authentic to your own purpose, even if it feels 'imperfect' compared to others.
 
-**Neuroscience Perspective:** The danger of 'another's duty' reflects 'misalignment-stress.' Your brain is 'wired' for certain tasks (Svadharma). Trying to be someone else creates a state of 'chronic neural mismatch,' which is exhausting and leads to failure. Find your own optimal 'functional fit.'
+**Neuroscience Perspective:** Person-environment fit research (Holland, 1997; Kristof-Brown et al., 2005) finds that occupants of roles poorly matched to their dispositions show lower performance and higher chronic stress. The verse's preference for one's own dharma — even if imperfectly performed — over another's is this finding made into a principle.
 
 **Common Misreading:** "One must follow the duty assigned at birth." Actually, *svadharma* here refers to one's authentic inner nature and temperament, not a hereditary caste role assigned by birth.
 > **Note:** *svadharma* — one's own inherent duty or path, determined by one's nature. This is a pivotal ethical injunction: authenticity to one's own nature is superior to the imitation of another's perfection.
@@ -770,8 +736,6 @@ Then by what is a man impelled to perform evil, even against his will, O Vārṣ
 
 **Contemporary Relevance:** The mystery of self-sabotage. Why do we procrastinate, eat junk food, or lose our tempers even when we know better? Arjuna is asking about the biological and psychological 'glitches' that make us act against our own best interests.
 
-**Neuroscience Perspective:** Arjuna’s question about 'what forces a man to do wrong' is an inquiry into the 'mechanics of self-sabotage.' He is asking about the biological 'overrides' that make us act against our own prefrontal logic.
-
 ---
 
 ### 3.37
@@ -793,7 +757,7 @@ It is desire (*kāma*), it is anger (*krodha*), born of the quality of passion (
 
 **Contemporary Relevance:** The source of suffering. Desire (I want this!) and its shadow, Anger (I didn't get what I wanted!), are the two forces that cloud our judgment. They are 'all-devouring' because they can never be satisfied—the more you feed them, the hungrier they get. Identifying them as the 'enemy' is the first step to controlling them.
 
-**Neuroscience Perspective:** Desire and Anger are identified as 'insatiable enemies.' These represent the 'over-active limbic system' (craving and reactivity). Because they are 'all-devouring,' feeding them only makes them stronger. Identifying them as 'external enemies' helps the brain distance itself from these urges.
+**Neuroscience Perspective:** Externalising craving and anger as adversaries is a documented self-regulation strategy: psychological distancing from urges (e.g., labelling them as third-person events) reduces their behavioural pull and engages prefrontal regulatory circuits (Kross & Ayduk, 2017). Naming desire and anger as enemies operationalises this distance.
 
 ---
 
@@ -813,8 +777,6 @@ As fire is covered by smoke, as a mirror by dust, as an embryo is covered by the
 
 **Contemporary Relevance:** The 'clouding' of the mind. We are all inherently wise, but our 'vision' is blurred by our cravings and biases. When we are obsessed with getting something, we can't see the reality of the situation clearly. We need to 'wipe the mirror' of our mind to see the truth.
 
-**Neuroscience Perspective:** The metaphors of 'smoke, dust, and membrane' describe 'signal degradation.' Desire acts as 'noise' that covers the 'signal' of our true wisdom. To see the truth, we must 'clean' the interface of our senses and mind.
-
 ---
 
 ### 3.39
@@ -833,7 +795,7 @@ Knowledge is covered, O son of Kuntī, by this eternal enemy of the wise, which 
 
 **Contemporary Relevance:** The treadmill of 'More.' Desire is like a fire—the more fuel you give it, the hotter it burns. In modern consumer culture, we are taught that 'more' will make us happy, but Krishna warns that this is a trap that only leads to more craving and less clarity.
 
-**Neuroscience Perspective:** Desire as an 'insatiable fire' describes the 'hedonic treadmill.' Neurally, the more you satisfy a craving, the more the 'reward-threshold' increases, requiring even more stimulus to feel happy. This is a First Principle of 'Addiction.'
+**Neuroscience Perspective:** Solomon's (1980) opponent-process theory and later reward-system research (Koob & Le Moal, 2008) describe how repeated stimulation of reward circuitry shifts the baseline upward, so that the same dose produces less satisfaction and withdrawal produces more discomfort. Desire is, in this sense, a fire that grows by feeding.
 
 ---
 
@@ -853,8 +815,6 @@ The senses, the mind, and the intellect are said to be its seat. By these, it de
 
 **Contemporary Relevance:** The 'hijacked' brain. Our biological tools (senses, mind, intellect) are meant to serve us, but desire 'hijacks' them. Our senses crave things, our mind obsesses over them, and our intellect justifies them. Understanding *where* the enemy lives helps us guard our internal 'territory.'
 
-**Neuroscience Perspective:** The 'seats of desire' (senses, mind, intellect) show how desire 'hijacks' the whole system. It uses our basic inputs (senses), our emotions (mind), and our logic (intellect) to serve its own ends. Self-mastery requires 'reclaiming' these three territories.
-
 ---
 
 ### 3.41
@@ -873,7 +833,7 @@ Therefore, first controlling the senses, O best of the Bharatas, slay this evil 
 
 **Contemporary Relevance:** The importance of 'impulse control.' To achieve anything significant, we must first learn to say 'no' to our immediate sensory urges. If we can't control our basic impulses, we will never have the clarity needed to gain deep knowledge or achieve real-world results.
 
-**Neuroscience Perspective:** Controlling the senses 'first' is the First Principle of 'impulse management.' You cannot have higher realization (Vijnana) if your 'inputs' are constantly being stolen by temporary cravings. Self-control is the prerequisite for all high-level cognitive function.
+**Neuroscience Perspective:** Early-life self-regulatory capacity predicts a wide range of later outcomes — academic, financial, and health-related (Mischel, Shoda, & Rodriguez, 1989; Moffitt et al., 2011). Krishna's instruction to discipline the senses before pursuing higher knowledge reflects this sequencing: regulation is upstream of insight.
 
 ---
 
@@ -892,8 +852,6 @@ The senses are said to be superior; superior to the senses is the mind; superior
 **Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Provides the metaphysical map that makes 3.41's strategy intelligible: senses, mind, intellect, and Self form a hierarchy of ascending power, with each level capable of governing the one below it. This hierarchy is the instrument of liberation — knowing the Self is above the intellect means the battle with desire can ultimately be won from the inside out.
 
 **Contemporary Relevance:** The hierarchy of the self. This is a map for self-mastery. Don't let your senses run your mind; don't let your wandering mind run your intellect; and finally, let your highest, most authentic Self (your core values and purpose) guide your intellect. When you live from the 'highest' level, the 'lower' levels naturally fall into place.
-
-**Neuroscience Perspective:** The hierarchy 'Senses < Mind < Intellect < Self' is a 'functional organization chart' of the human system. Mastery is achieved when the 'highest' level (the Self/Purpose) manages the lower levels, rather than the lower levels (senses) running the whole show.
 
 > **Note:** Kṛṣṇa defines the hierarchy of consciousness: Senses (*indriya*) < Mind (*manas*) < Intellect (*buddhi*) < Self (*ātman/puruṣa*). True mastery comes from being established in the highest principle.
 
@@ -914,7 +872,5 @@ Thus, knowing that which is beyond the intellect, steadying the self by the Self
 **Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Closes the chapter with the ultimate prescription: use the Self — the level above even the intellect — to stabilize all the lower levels and slay desire at its root. The chapter ends where it began (with Arjuna's paralysis), but now Arjuna has a complete causal account of what blocks right action and the precise instrument — ātmānam ātmanā — to defeat it.
 
 **Contemporary Relevance:** 'Transcendent focus.' When you connect with your deepest purpose—the 'Self' beyond your ego—you gain a level of strength that your normal mind doesn't have. This higher connection allows you to overcome even the strongest addictions and cravings. It’s the ultimate secret to winning the internal battle of life.
-
-**Neuroscience Perspective:** Steadying the 'self by the Self' is the ultimate 'self-referential' loop of focus. By identifying with your 'highest potential' (the Absolute Self), you gain the 'leverage' needed to override even the most powerful biological cravings (Desire).
 
 > **Note:** *ātmānam ātmanā* — "the self by the Self." This implies using the higher, enlightened intellect (*buddhi*) or the realization of the absolute Self to stabilize the lower, fluctuating mind and senses.

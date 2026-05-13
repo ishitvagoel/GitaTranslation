@@ -1,6 +1,6 @@
 # Bhagavad Gita: A First-Principles English Translation
 
-A fresh English translation of the complete Bhagavad Gita (18 chapters, 700 verses), translated directly from Sanskrit using the BORI Critical Edition as the primary source text.
+A fresh English translation of the complete Bhagavad Gita (18 chapters, 701 verses), translated directly from Sanskrit using the BORI Critical Edition as the primary source text.
 
 ## Principles
 
@@ -19,7 +19,7 @@ Bhagavad Gītā, critically edited text from the Bhandarkar Oriental Research In
 
 | Chapter | Sanskrit Title | IAST | Verses |
 |---------|--------------|------|--------|
-| [1](chapters/chapter-01.md) | अर्जुनविषादयोगः | Arjunaviṣādayogaḥ | 46 |
+| [1](chapters/chapter-01.md) | अर्जुनविषादयोगः | Arjunaviṣādayogaḥ | 47 |
 | [2](chapters/chapter-02.md) | साङ्ख्ययोगः | Sāṅkhyayogaḥ | 72 |
 | [3](chapters/chapter-03.md) | कर्मयोगः | Karmayogaḥ | 43 |
 | [4](chapters/chapter-04.md) | ज्ञानकर्मसंन्यासयोगः | Jñānakarmasaṃnyāsayogaḥ | 42 |

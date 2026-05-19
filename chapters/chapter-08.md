@@ -26,9 +26,9 @@ What is that Brahman? What is the supreme self (*adhyātma*)? What is action (*k
 
 **Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Launches the chapter by firing six definitional questions in two verses, demanding that Krishna clarify the technical terms introduced at the close of Chapter 7 before Arjuna can grasp the teaching on dying with the right awareness.
 
-**Contemporary Relevance:** Clarifying technical terms. Before we can master a field, we must understand its vocabulary. Arjuna is asking for clear definitions of the 'First Principles' of existence so he can navigate his life and duty with precision.
+**Contemporary Relevance:** Clarifying technical terms. Before mastering any field, one must understand its vocabulary. Arjuna is asking for clear definitions of the underlying categories of existence so that he can navigate his life and duty with precision.
 
-**Neuroscience Perspective:** Arjuna’s request for definitions is a 'categorical alignment' process. The brain needs a clear 'ontology' (a map of what things are) to operate efficiently. By defining Brahman, Adhyatma, Karma, etc., Krishna provides the First Principles needed for high-level neural processing of existence.
+**Neuroscience Perspective:** Stable category structure measurably aids reasoning and recall (Murphy, 2002): when learners are given clear definitions before complex material, comprehension and retention improve. Arjuna's request for definitions before instruction is this principle applied to metaphysics.
 
 > **Note:** Arjuna systematically asks for definitions of the six technical terms Kṛṣṇa introduced at the very end of Chapter 7 (verses 29-30).
 
@@ -49,8 +49,6 @@ Who and how is the domain of sacrifice (*adhiyajña*) here in this body, O slaye
 **Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Adds the seventh and most urgent question: who governs sacrifice within the body itself, and how can that inner lord be known at the critical moment of death? This shifts the inquiry from cosmology to practice.
 
 **Contemporary Relevance:** The 'Exit Strategy' of life. We all want to know how to maintain our clarity and integrity when things get difficult, especially at the final moment. Arjuna is asking how to stay 'connected to the source' even during the most intense transitions.
-
-**Neuroscience Perspective:** The inquiry about 'death' reflects the brain's focus on 'terminal states' and 'information preservation.' The brain is evolutionarily programmed to prioritize survival and the 'handover' of its essential data (wisdom) during critical transitions.
 
 ---
 
@@ -73,8 +71,6 @@ Brahman is the imperishable supreme; its inherent nature is called the supreme s
 
 **Contemporary Relevance:** Defining the Source. Brahman is the 'constant' in the universe. Adhyatma is your own specific expression of that constant. Karma is the 'output'—the energy that creates your reality. Understanding these three helps you see the link between the Infinite, your Identity, and your Impact.
 
-**Neuroscience Perspective:** Defining Brahman as the 'unchanging' and Karma as the 'generative force' describes the relationship between 'Static Potential' and 'Dynamic Output.' Neurally, this helps the brain distinguish between its 'infinite context' (Brahman) and its 'active behavior' (Karma).
-
 ---
 
 ### 8.4
@@ -92,8 +88,6 @@ The domain of beings (*adhibhūta*) is the perishable existence; the domain of t
 **Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Completes the set of definitions by revealing the most surprising answer: the adhiyajña that governs sacrifice is Krishna himself, present within every body — resolving Arjuna's seventh question and grounding the entire ontology in an immediately personal presence.
 
 **Contemporary Relevance:** The Presence of the Absolute. Truth is not just 'out there' in the stars or 'back then' in history. It is present in the physical world, in the forces of nature, and most importantly, inside your own physical form as the witness of all your efforts.
-
-**Neuroscience Perspective:** The Absolute present in the 'body' (Adhiyajña) describes 'internalized awareness.' This perspective shifts the brain's focus from 'external observation' to 'internal monitoring,' recognizing that the universal law is operating within the very hardware of the body.
 
 ---
 
@@ -113,7 +107,7 @@ And whoever, at the time of death, remembering Me alone, leaves the body and dep
 
 **Contemporary Relevance:** The Power of Final Focus. Your last thought is the 'sum total' of your life's direction. If you can stay focused on the highest Truth even in a crisis, you transcend the situation. It’s a call to practice 'high-level focus' throughout your life so it becomes natural at the end.
 
-**Neuroscience Perspective:** Remembering Me at death leads to My state describes the 'terminal focus effect.' Neurally, the final firing patterns of the brain during its last moments of activity determine the 'last state' of awareness. Total focus on Truth ensures a 'high-integrity' exit.
+**Neuroscience Perspective:** Mental state at encoding biases what is later retrieved (encoding-specificity; Tulving & Thomson, 1973). The verse generalises this to a final encoding: the orientation of mind at the boundary moment leaves its mark on what follows.
 
 **Common Misreading:** "You must literally repeat Krishna's name while dying." Actually, the teaching is about total saturation of consciousness — dying with one's deepest identity absorbed in the divine, not a verbal formula performed at the last moment.
 
@@ -135,7 +129,7 @@ Whatever state of being one remembers when abandoning the body at the end, to th
 
 **Contemporary Relevance:** Momentum of Mind. You don't just 'accidentally' think of something great at the end. Your mind follows the 'grooves' you have carved through your daily habits. This is a reminder that what you obsess over today is creating the person you will become tomorrow.
 
-**Neuroscience Perspective:** The 'momentum of mind' reflects 'neuroplastic habituation.' Your 'last thought' is not an accident but the result of the 'neural grooves' you have carved through daily habits. Whatever the brain is 'conditioned' to think about becomes its default destination during a crisis.
+**Neuroscience Perspective:** Under acute stress and constrained processing time, behaviour reverts to well-practiced habit (Schwabe & Wolf, 2009): the most-rehearsed response wins. The "last thought" the verse describes is the cumulative product of what the mind has been habituated to think.
 
 **Common Misreading:** "Whatever you think at death is random and uncontrollable." Actually, the verse states that the final thought is shaped by lifelong habitual focus (*sadā tadbhāvabhāvitaḥ*) — making it a trainable outcome of consistent practice, not an accident.
 
@@ -159,8 +153,6 @@ Therefore, at all times remember Me and fight! With mind and intellect dedicated
 
 **Contemporary Relevance:** 'Multitasking with the Absolute.' You don't have to stop working to be 'spiritual.' You can 'fight' (do your difficult job) while keeping your 'background processing' focused on the Truth. This is the secret to staying calm and effective in high-pressure environments.
 
-**Neuroscience Perspective:** Remember Me and fight! is the First Principle of 'dual-task integration.' By anchoring the 'contemplative network' in the Truth while using the 'executive network' for work, the brain achieves a state of calm, high-precision performance.
-
 ---
 
 ### 8.8
@@ -179,7 +171,7 @@ With a mind disciplined by the yoga of practice, wandering nowhere else, meditat
 
 **Contemporary Relevance:** The Repetition Principle. Mastery comes from 'Abhyasa'—constant, repetitive practice. By repeatedly bringing your mind back to your core values and purpose, you eventually reach a state where you are 'united' with those values.
 
-**Neuroscience Perspective:** Mastery through 'repetition and non-wandering' describes 'attentional stabilization.' By repeatedly inhibiting the brain's tendency to drift and re-centering it on a single point, you strengthen the prefrontal cortex's control over the entire cognitive system.
+**Neuroscience Perspective:** Sustained attention is trainable; mindfulness practice produces measurable improvements in attentional stability and reduced mind-wandering (Tang, Hölzel, & Posner, 2015; Mrazek et al., 2013). The verse's "constant practice without wandering" describes the training regime that produces this effect.
 
 ---
 
@@ -202,8 +194,6 @@ He who constantly remembers the omniscient, the ancient, the ruler, smaller than
 **Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Provides the object of meditation in dense poetic form: a cascade of paradoxical attributes — omniscient yet subtler than an atom, ancient yet luminous beyond darkness — that define what the mind must hold at the moment of death.
 
 **Contemporary Relevance:** Contemplating the Infinite. When you feel small or overwhelmed, remember that the Truth is both 'smaller than an atom' (inside you) and 'the sustainer of all' (the whole universe). This perspective provides a sense of awe and security that transcends daily 'darkness' or stress.
-
-**Neuroscience Perspective:** Contemplating the 'all-knowing and ancient' source expands the brain's 'representational scale.' Moving from 'ego-scale' to 'cosmic-scale' processing reduces the perceived size of personal threats, leading to a state of profound psychological security.
 
 **Common Misreading:** "Meditating on a formless Absolute is the only valid practice described here." Actually, the verse describes the supreme as both unthinkable in form (*acintyarūpam*) and the sustainer of all — both formless and relational aspects are present, not an exclusive prescription for abstract meditation.
 
@@ -229,8 +219,6 @@ At the time of departure, with an unwavering mind, endowed with devotion and by 
 
 **Contemporary Relevance:** Peak Performance at the End. This is the 'Final Exam' of mental discipline. If you have trained your mind to be 'unmoving' and your focus to be 'one-pointed,' you can navigate any transition—even death—with total control and success.
 
-**Neuroscience Perspective:** Peak performance at death through 'one-pointed focus' is the ultimate test of 'neural coherence.' Using the power of Yoga to maintain internal alignment during the total failure of external systems is the highest achievement of mental discipline.
-
 > **Note:** Verses 9-11 and 28 are composed in the *Triṣṭubh* (or *Upajāti*) meter (11 syllables per quarter), a shift from the standard *Anuṣṭubh* (8 syllables), signaling the solemn, esoteric nature of the yogic death instructions.
 
 ---
@@ -255,8 +243,6 @@ That which the knowers of the Veda call the imperishable, which ascetics freed f
 
 **Contemporary Relevance:** The Goal of the Disciplined. There is a state of being that is beyond the 'wear and tear' of the world. High-performers and wise people work specifically to reach this 'imperishable' state of mental and spiritual stability.
 
-**Neuroscience Perspective:** The 'imperishable' state entered by disciplined seekers describes a 'terminal state of optimization.' It is a neural goal-state that is beyond the reach of external entropy, reached through the First Principles of 'self-control' and 'clear purpose.'
-
 ---
 
 ### 8.12
@@ -274,8 +260,6 @@ Restraining all the gates of the body, confining the mind in the heart, fixing o
 **Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Gives the sequential technical steps of the practice itself: withdrawing from the senses, gathering the mind inward, redirecting the prāṇa upward — a step-by-step procedure that the following verse will complete with the utterance of Om.
 
 **Contemporary Relevance:** The 'Deep Reset' Protocol. This is a technical manual for total focus. By 'closing the gates' (shutting out notifications and sensory noise) and 'locking the mind' (internalizing focus), you achieve a state of power that is inaccessible to the scattered mind.
-
-**Neuroscience Perspective:** The 'Deep Reset' protocol (closing sensory gates, locking mind in heart) is an instruction for 'total sensory gating.' By manually disconnecting the brain from all external 'noise,' you achieve a state of 'maximal internal signal,' which is necessary for high-level realization.
 
 ---
 
@@ -295,8 +279,6 @@ Uttering the one-syllable Brahman, "Oṃ," and remembering Me, he who departs, l
 
 **Contemporary Relevance:** Simplicity of Focus. At the highest level of complexity, the solution is often a single, simple focus (like the sound OM). It’s about reducing the noise of your life down to its essential, 'divine' frequency.
 
-**Neuroscience Perspective:** Chanting OM and remembering Me reduces the brain's 'cognitive complexity' to a single, powerful 'base frequency.' This simplification eliminates mental 'chatter' and allows the awareness to exit the body in a state of perfectly unified focus.
-
 ---
 
 ### 8.14
@@ -315,7 +297,7 @@ For the one of undivided mind who constantly remembers Me day by day, for that e
 
 **Contemporary Relevance:** The Consistency Advantage. Success doesn't have to be 'hard' if it is 'constant.' If you keep your goals and values in mind every single day, you don't have to 'struggle' to find them—they are always there. Easy reach comes from daily remembrance.
 
-**Neuroscience Perspective:** Truth being 'easy to reach' for the 'constant rememberer' reflects the 'ease of automated pathways.' When you think about a goal every day, the brain creates 'fast-track' neural circuits that make accessing that goal effortless and automatic.
+**Neuroscience Perspective:** Frequently activated representations become more accessible over time (priming and automatisation effects, Bargh & Chartrand, 1999). Constant remembrance lowers the retrieval threshold for the remembered object, so that even under load it appears readily.
 
 ---
 
@@ -335,8 +317,6 @@ Having come to Me, the great souls do not incur rebirth — which is an imperman
 
 **Contemporary Relevance:** Breaking the Cycle. Most of us are trapped in 'cycles'—repetitive mistakes, recurring anxieties, predictable failures. Reaching 'perfection' means breaking these loops and moving to a level of existence that is no longer subject to temporary sorrow.
 
-**Neuroscience Perspective:** Breaking the cycle of 'temporary sorrow' means moving the brain beyond 'episodic stress-loops.' By reaching 'perfection' (integration with Truth), the brain no longer generates the narratives of 'lack and loss' that characterize the world of sorrow.
-
 ---
 
 ### 8.16
@@ -354,8 +334,6 @@ All the worlds, up to the realm of Brahmā, are subject to return (rebirth), Arj
 **Argument Arc:** *Beyond the Cycle (8.15–8.16)* — Extends the claim upward through the entire cosmic hierarchy: even Brahma's world, the highest peak of the created order, is subject to return — only Krishna's abode is genuinely permanent, closing off every alternative and leaving his path as the one true escape.
 
 **Contemporary Relevance:** The Limit of Success. Even the 'highest' material success (like becoming a CEO or a king) is temporary and will eventually 'return' to zero. Only reaching the ultimate Truth provides a foundation that never needs to be 're-built' from scratch.
-
-**Neuroscience Perspective:** The 'limit of material success' reflects 'systemic cyclicality.' Neurally, material rewards are subject to 'diminishing returns' and eventual 'reset' (death). Only the Truth provides a 'non-cyclical reward' that is permanent and self-sustaining.
 
 **Common Misreading:** "Even the highest heavens are temporary, so they are worthless." Actually, the teaching motivates seeking what transcends all cycles — it does not dismiss ordinary spiritual progress as worthless, but shows that any conditioned state is ultimately insufficient as a final destination.
 
@@ -379,7 +357,7 @@ Those men who know that the day of Brahmā lasts for a thousand *yugas*, and the
 
 **Contemporary Relevance:** Cosmic Perspective. When we are stressed about a 'deadline' or a 'bad year,' we should remember the massive scale of time. This verse encourages us to look at our problems through the lens of 'deep time,' which makes our immediate anxieties feel much smaller and more manageable.
 
-**Neuroscience Perspective:** The concept of 'Cosmic Days and Nights' is a lesson in 'temporal framing.' By expanding the brain's 'time-horizon' to billions of years, Krishna de-activates the 'emergency-response' circuits associated with short-term, superficial deadlines and stresses.
+**Neuroscience Perspective:** Construal-level theory (Trope & Liberman, 2010) finds that temporally distant events are represented in more abstract, less emotionally charged terms than near events. Expanding the time horizon to cosmic scale predictably dampens immediate stress responses to ordinary concerns.
 
 **Common Misreading:** "Cosmic cycles have nothing to do with present practice." Actually, the vastness of time (a day of Brahmā = 4.32 billion years) directly grounds the practical teaching: if even the highest created realms cycle, the motivation to seek the unconditioned becomes urgent for any serious practitioner.
 
@@ -401,8 +379,6 @@ At the coming of day, all manifest things emerge from the unmanifest; at the com
 
 **Contemporary Relevance:** The Rhythm of Creation. Everything has an 'on' phase and an 'off' phase. Projects begin and end; industries rise and fall. Understanding this natural 'breath' of the universe helps us accept the endings of things as a natural preparation for the next beginning.
 
-**Neuroscience Perspective:** Creation and dissolution from the 'Invisible' describe 'Information Theory' in physics. Visible matter is just a temporary 'encoding' of information from an underlying, non-material source. Understanding this prevents the brain from over-identifying with physical forms.
-
 ---
 
 ### 8.19
@@ -419,9 +395,9 @@ This very same multitude of beings, repeatedly coming into existence, dissolves 
 
 **Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Emphasizes the involuntary nature of the cycle: beings do not choose to re-emerge — they are helplessly swept out at dawn and swept back at dusk, cycling without agency or awareness — the word *avaśaḥ* ("helpless") making the case that only liberation from the cycle, not achievement within it, is a genuine goal.
 
-**Contemporary Relevance:** The Pattern of Habit. Without wisdom, we are 'helplessly' reborn into our same old patterns and habits. We repeat the same stories because we haven't learned the 'First Principles' that allow us to break free from the mechanical cycles of nature.
+**Contemporary Relevance:** The pattern of habit. Without insight, one is "helplessly" pulled back into the same patterns and habits — the same stories repeat because the underlying mechanism producing them has not been understood. The verse names this involuntary cycling as the condition that wisdom interrupts.
 
-**Neuroscience Perspective:** Repetitive patterns 'appearing helplessly' describe 'mechanical conditioning.' Without the 'Yoga of awareness,' the brain is a slave to its own previous programming (Karma). Wisdom is the 'interrupt signal' that allows for the creation of new, free patterns.
+**Neuroscience Perspective:** Behaviour repeated in a stable context becomes habitual and runs largely without deliberative oversight (Wood & Neal, 2007). The "helpless" repetition the verse describes corresponds to this transition from goal-directed to habitual control — and the route out is precisely the kind of metacognitive awareness the chapter recommends.
 
 ---
 
@@ -440,8 +416,6 @@ But higher than that unmanifest is another eternal unmanifest state of being, wh
 **Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Introduces a second, higher unmanifest that is ontologically distinct from the cosmic unmanifest into which beings dissolve during Brahma's night — this supreme, eternal state stands entirely outside the cycle, providing the positive alternative to the helpless repetition just described.
 
 **Contemporary Relevance:** The Absolute Foundation. Behind the 'changing' world and even behind the 'rhythms' of time, there is a constant Truth that never changes. Identifying with *this* constant provides the ultimate security that no global crisis or personal loss can touch.
-
-**Neuroscience Perspective:** The 'eternal invisible state' describes the 'Source-Context' of reality. Neurally, this provides an 'ultimate baseline' for identity. Even when every specific thought and object (the perishable) is gone, the underlying Context (the Absolute) remains.
 
 **Common Misreading:** "The unmanifest beyond is a different deity from Krishna." Actually, the Akṣara (imperishable) is explicitly identified as Krishna's own supreme state in 8.21 — not a separate divine being but the highest expression of the same reality already present in this teaching.
 
@@ -465,8 +439,6 @@ That unmanifest is called the imperishable; they call it the supreme goal. That 
 
 **Contemporary Relevance:** The Permanent Upgrade. Most of our 'wins' in life are temporary. This verse describes a 'permanent upgrade' to your state of being. Once you have reached this level of clarity and peace, you never 'backslide' into your old, confused self.
 
-**Neuroscience Perspective:** The 'Permanent Upgrade' to the state of no-return describes 'irreversible neuro-optimization.' Once the brain has fully integrated the First Principles of reality, it cannot 'un-know' them. Its 'default state' has been permanently elevated beyond confusion.
-
 ---
 
 ### 8.22
@@ -484,8 +456,6 @@ That is the supreme Spirit (*puruṣa*), O Pārtha, to be attained by undivided 
 **Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Closes the cosmic description by naming the access route: undivided devotion (*ananyayā bhakti*) is the method by which the boundless Supreme — within whom all beings dwell — can be reached, reconnecting the grand ontology back to the personal practice of chapters 8.5–8.14.
 
 **Contemporary Relevance:** The Inclusivity of Truth. The highest Truth is not 'exclusive'; it is the very environment we live in. Reaching it is not about 'going' somewhere else, but about removing the 'divisions' in our own mind through total commitment (devotion).
-
-**Neuroscience Perspective:** Divided minds cannot see the 'Unified Spirit.' Undivided devotion is 'maximal attentional coherence.' When all neural resources are directed toward the 'Context' (the Spirit) rather than the 'Content' (beings), the Truth becomes obvious and all-pervading.
 
 ---
 
@@ -505,8 +475,6 @@ Now I will declare the time at which departing yogis go to non-return, and also 
 
 **Contemporary Relevance:** The Timing of Transition. This introduces the concept that even *when* and *how* we leave a situation affects our future path. It's a call to be mindful of the 'energy' and 'clarity' we have during moments of transition.
 
-**Neuroscience Perspective:**  Mindful transitions describe the 'legacy effect' of internal energy. Neurally, the 'mental state' at the moment of leaving a situation acts as the 'seed' for the next situation. Awareness during transitions is a master-skill of conscious living.
-
 ---
 
 ### 8.24
@@ -524,8 +492,6 @@ Fire, light, day, the bright fortnight, the six months of the sun's northern cou
 **Argument Arc:** *Two Paths After Death (8.23–8.27)* — Describes the luminous path (*devayāna*): fire, light, day, bright fortnight, northern solstice — a constellation of ascending solar symbols that carries the knower of Brahman directly to Brahman without return, representing the path of complete realization.
 
 **Contemporary Relevance:** Departing in Clarity. This is a metaphor for leaving a situation while you are 'in the light'—meaning you have full awareness, clarity, and knowledge. When you end a project or a relationship with total clarity, you move on to a higher state.
-
-**Neuroscience Perspective:** Departing in 'Light' describes 'High-Awareness Transitions.' When you leave a job, a project, or a life with total clarity and no 'unresolved data,' your brain moves into a higher state of integration and freedom.
 
 **Common Misreading:** "The bright path means dying in daytime or during the northern solstice." Actually, the bright and dark paths (*devayāna/pitṛyāna*) are symbolic of the inner orientation at the time of death — the quality of awareness, not literal astronomical conditions.
 
@@ -547,8 +513,6 @@ Smoke, night, the dark fortnight, the six months of the sun's southern course �
 
 **Contemporary Relevance:** Departing in Confusion. If you leave a situation while you are still 'in the dark'—full of anger, confusion, or unresolved issues (smoke)—you will eventually find yourself back in a similar situation because you haven't learned the lesson.
 
-**Neuroscience Perspective:** Departing in 'Smoke' describes 'Low-Awareness Transitions.' If you leave while 'clouded' by anger or confusion (smoke), the 'unresolved patterns' remain in your system, leading to a 'return' to similar challenges until they are processed.
-
 > **Note:** Verses 24 and 25 describe the ancient Upaniṣadic eschatological paths: the "path of the gods" (*devayāna*, associated with light and non-return) and the "path of the ancestors" (*pitṛyāna*, associated with darkness and return).
 
 ---
@@ -569,8 +533,6 @@ For these two paths of the world, the bright and the dark, are considered eterna
 
 **Contemporary Relevance:** The Two Modes of Living. You are always on one of two paths: the path of 'growing clarity' or the path of 'repetitive confusion.' Every choice you make is either taking you toward permanent freedom or back into your old loops.
 
-**Neuroscience Perspective:** The 'Path of Light' and 'Path of Darkness' are the two fundamental 'neural trajectories.' Every choice you make is either 'illuminating' (increasing clarity) or 'obfuscating' (increasing confusion). You are always building one of these two futures.
-
 ---
 
 ### 8.27
@@ -587,9 +549,9 @@ Knowing these two paths, O Pārtha, no yogi is deluded. Therefore, at all times,
 
 **Argument Arc:** *Two Paths After Death (8.23–8.27)* — Draws the practical conclusion: the yogi who understands both paths is never deluded about the meaning of any departure or transition — and therefore should remain steadfast in yoga at all times, circling back to the chapter's core imperative of unbroken practice.
 
-**Contemporary Relevance:** The Immunity of Understanding. Once you see the 'First Principles' of how your mind and the world work (the two paths), you can no longer be 'tricked' by temporary drama. This understanding makes you unshakeable and always disciplined.
+**Contemporary Relevance:** The immunity of understanding. Once one sees clearly how mind and world work — the two paths the chapter has just described — temporary drama loses much of its purchase. The understanding itself becomes a stabilising force, and disciplined action follows from it naturally.
 
-**Neuroscience Perspective:** Understanding the two paths provides 'immune-logical security.' Once you see the 'First Principles' of how your choices create your future, your brain stops being 'tricked' by temporary ego-temptations and stays committed to the path of light.
+**Neuroscience Perspective:** Beliefs about a structured, predictable moral order are associated with reduced anxiety and more consistent long-term goal pursuit (Lerner, 1980; Hafer & Bègue, 2005). Understanding the two paths provides exactly this kind of stabilising frame.
 
 ---
 

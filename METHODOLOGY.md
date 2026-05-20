@@ -60,3 +60,12 @@ Notes are kept concise and descriptive, not argumentative.
 ## Transliteration Standard
 
 All transliteration follows the International Alphabet of Sanskrit Transliteration (IAST) standard.
+
+### Proper Names: Diacritic vs. Anglicized Spelling
+
+Frequently occurring proper names (e.g., *Kṛṣṇa*, *Arjuna*, *Dhṛtarāṣṭra*) are rendered at two registers:
+
+- **Full IAST with diacritics** (*Kṛṣṇa*, *Dhṛtarāṣṭra*) is used in scholarly tiers: the literal English translation, the Devanāgarī/IAST verse block, translator's notes, and the glossary.
+- **Anglicized spelling** without diacritics (*Krishna*, *Dhritarashtra*) is permitted in the readability tiers: Simple Translation, Argument Arc, Contemporary Relevance, Common Misreading, and Neuroscience Perspective sections.
+
+Names that have no widely accepted anglicized form (e.g., *Sañjaya*, *Bhīṣma*, *Yudhiṣṭhira*) are kept in IAST throughout. The dual-register convention is for names whose anglicization is universally recognized.

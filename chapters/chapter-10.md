@@ -28,7 +28,7 @@ Again, O mighty-armed one, hear My supreme word, which I, desiring your welfare,
 
 **Contemporary Relevance:** Openness to Wisdom. Truth is shared more deeply when there is a bond of trust and love. This verse highlights that the highest teachings are given not just for information, but for the 'hitakamyaya' (the desire for the listener's genuine welfare).
 
-**Neuroscience Perspective:** The request to 'listen to supreme words' for 'welfare' describes the state of 'receptive alignment.' Neurally, when the listener trusts the source, the brain's 'defensive filters' are lowered, allowing the prefrontal cortex to fully process and integrate complex, life-altering First Principles.
+**Neuroscience Perspective:** Hasson and colleagues' speaker-listener neural-coupling studies (2010) show that comprehension is highest when a listener's neural responses come to mirror the speaker's, and that this coupling is enhanced when the listener trusts and is engaged with the speaker. Krishna's framing of the teaching as offered for Arjuna's welfare names this precondition: trust is what makes deep transmission possible.
 
 **Common Misreading:** "This chapter is a list of divine boastings." Actually, the vibhūtis are pedagogical — Krishna uses examples of excellence as conceptual anchors so that Arjuna can recognize the divine in whatever is most magnificent in his daily experience.
 
@@ -48,9 +48,7 @@ Neither the multitudes of gods nor the great seers know My origin; for I am the 
 
 **Argument Arc:** *Source of All (10.1–10.7)* — Establishes the first logical pillar: if the highest beings cannot know Krishna's origin, then the origin must transcend the entire created order.
 
-**Contemporary Relevance:** The Source is beyond the Parts. You cannot fully understand the 'whole' (the Absolute) by only looking at the 'parts' (seers, powers, science). To understand why things are the way they are, you must look to the 'First Principle' that created the system itself.
-
-**Neuroscience Perspective:** The Source being unknown to 'gods and seers' describes 'transcendental priority.' Neurally, this is the recognition that the 'System-Source' (the Absolute) is qualitatively different from the 'System-Units' (the seers). You cannot solve a system's origin from within the system's own rules.
+**Contemporary Relevance:** The Source is beyond the Parts. You cannot fully understand the 'whole' (the Absolute) by only looking at the 'parts' (seers, powers, science). To understand why things are the way they are, you must look to the deepest principle behind the system itself.
 
 ---
 
@@ -70,8 +68,6 @@ He who knows Me as the unborn, the beginningless, and the great Lord of the worl
 
 **Contemporary Relevance:** Existential Security. Knowing that the fundamental reality of the universe is 'unborn' and 'eternal' removes the fear of endings. This understanding is the ultimate 'antidote' to the stress and confusion of living in a changing world.
 
-**Neuroscience Perspective:** Knowing the 'unborn and beginningless' source leads to 'freedom from confusion.' This is the neural result of 'ultimate certainty.' Once the brain has a stable, infinite baseline for reality, the 'prediction error' associated with temporary mortal life is neutralized.
-
 ---
 
 ### 10.4
@@ -89,8 +85,6 @@ Discernment, knowledge, freedom from delusion, patience, truth, restraint of the
 **Argument Arc:** *Source of All (10.1–10.7)* — Begins a two-verse catalog showing that Krishna is the source not just of the cosmos but of every cognitive and emotional state experienced by human beings.
 
 **Contemporary Relevance:** The Spectrum of Experience. Krishna lists the basic building blocks of human psychology. Recognizing that both 'good' and 'bad' states are part of the same universal system helps us accept our internal weather without being overwhelmed by any single emotion.
-
-**Neuroscience Perspective:** The list of states (intelligence, clarity, fear, etc.) is a 'neuro-phenomenological inventory.' Krishna is identifying all mental and emotional states as outputs of the same universal 'biopsychological machine,' which helps the observer remain neutral toward their own moods.
 
 ---
 
@@ -110,7 +104,7 @@ Non-violence, equanimity, contentment, austerity, charity, fame, and ill fame �
 
 **Contemporary Relevance:** Neutrality of Origin. Even 'ill fame' or 'disgrace' are part of the spectrum of human experience created by the Absolute laws. Understanding this helps us stay grounded: if everything comes from the same source, we can handle both success and failure with equal poise.
 
-**Neuroscience Perspective:** States like 'fame and disgrace' coming from the Source describes 'valuation neutrality.' By tracing social status back to the Absolute laws, the brain reduces its sensitivity to 'social pain' and 'social reward,' leading to a more robust and independent identity.
+**Neuroscience Perspective:** Eisenberger and colleagues (2003) found that social rejection activates dorsal anterior cingulate regions overlapping with physical-pain processing — social standing has real biological force. Reframing fame and disgrace as transient states emerging from a single underlying order is a cognitive strategy of the kind Ochsner and Gross document for reappraisal, which dampens reactivity in these same circuits.
 
 > **Note:** Kṛṣṇa claims to be the ultimate source not only of physical elements but of all cognitive, ethical, and emotional states, effectively mapping the entire spectrum of human experience back to a single divine origin.
 
@@ -132,8 +126,6 @@ The seven great seers of old, and likewise the four Manus, possessed of My natur
 
 **Contemporary Relevance:** Mental Origins. This verse suggests that the 'intellectual and social structures' of our world have their roots in the universal mind. Our history and our biology are just expressions of a much deeper, underlying intelligence.
 
-**Neuroscience Perspective:** Ancestors born of the 'mind' describes 'cognitive lineage.' This suggests that our cultural and biological 'blueprints' are expressions of a universal intelligence. Neurally, this provides a sense of 'deep-time continuity' and belonging.
-
 ---
 
 ### 10.7
@@ -152,8 +144,6 @@ He who knows in truth this manifestation (*vibhūti*) and mystic power (*yoga*) 
 
 **Contemporary Relevance:** The Power of Direct Knowledge. Understanding *how* the universe works (Vibhuti) and the *power* behind it (Yoga) gives you a level of confidence that is 'unwavering.' Real power comes from being aligned with the Truth.
 
-**Neuroscience Perspective:** Understanding 'vibhūti' (manifestation) and 'yoga' (power) leads to 'wavering-free discipline.' When the brain truly 'sees' the link between the Infinite and the Finite, its commitment to growth becomes a 'hard-wired' imperative rather than a fleeting choice.
-
 ---
 
 ### 10.8
@@ -171,8 +161,6 @@ I am the origin of all; from Me everything proceeds. Thinking thus, the wise wor
 **Argument Arc:** *The Wise Worship with Love (10.8–10.11)* — Opens this section by naming the foundational insight ('I am the source of all') and the response it generates in the wise: not mere belief but devotion infused with feeling.
 
 **Contemporary Relevance:** Unified Theory. When you realize that everything—every person, every atom, every event—has the same source, you naturally develop a sense of respect and 'devotion' for the Truth. It simplifies your life by giving you a single point of focus.
-
-**Neuroscience Perspective:** Realizing the Source behind all creation leads to 'devotion with internal feeling.' This is the state of 'integrated conviction.' Neurally, the abstract logic of the source (the One) is now reinforced by the emotional reward centers (the feeling), creating a unified mental state.
 
 **Common Misreading:** "Those who know Krishna's origin form a spiritual elite closed to others." Actually, the verse describes a shift in orientation available to anyone — knowing Krishna as the source of all makes worship deeply devotional rather than superficial, and this knowledge is what the whole chapter aims to share.
 
@@ -194,7 +182,7 @@ With their minds fixed on Me, with their life-breaths directed to Me, enlighteni
 
 **Contemporary Relevance:** The Peer Group Effect. Wisdom is best cultivated in a community of like-minded people. When your 'circle' is focused on Truth and integrity, you support each other’s growth and find a level of happiness that is far deeper than sensory pleasure.
 
-**Neuroscience Perspective:** Enlightening each other and speaking of Truth describes 'neural synchronization' in a community. Group focus on First Principles creates a 'shared mental space' that maximizes satisfy and joy through social validation and mutual growth.
+**Neuroscience Perspective:** Hasson and colleagues' work on inter-brain neural coupling shows that when people communicate or share attention on the same material, their neural responses become measurably aligned, and this alignment tracks comprehension. A small community of co-learners holding the same focus is therefore not just emotionally supportive — it is a setting in which attention and understanding genuinely propagate between minds.
 
 ---
 
@@ -214,7 +202,7 @@ To them, who are constantly disciplined and who worship Me with love, I give tha
 
 **Contemporary Relevance:** Intelligence as a Gift. Real discernment (the ability to tell right from wrong) is not just a skill you learn; it's a 'gift' that arises naturally when you are consistently disciplined and sincere. The universe 'gives' you the clarity you need once you show you are ready.
 
-**Neuroscience Perspective:** The 'Yoga of Discernment' (Buddhi-yoga) given to the disciplined is the reward of 'synaptic optimization.' Sincere practice trains the prefrontal cortex to a level of precision where 'correct perception' becomes a natural, effortless function of the brain.
+**Neuroscience Perspective:** Ericsson's research on deliberate practice and Pascual-Leone's studies of skill-driven cortical reorganization both show that sustained, motivated effort genuinely rewires the brain: with enough hours of focused engagement, what required deliberate control begins to operate automatically. The verse's image of discernment "given" to the disciplined corresponds to this transition from effortful judgement to second-nature perception.
 
 ---
 
@@ -234,7 +222,7 @@ Out of compassion for them alone, I, abiding in their own self, destroy the dark
 
 **Contemporary Relevance:** The Internal Light. You don't have to 'find' the truth; you just have to remove the 'darkness' (ignorance). The Absolute reality acting within you 'lights the lamp.' It’s a promise that sincerity is always rewarded with clarity.
 
-**Neuroscience Perspective:** Destroying the 'darkness of ignorance' with the 'lamp of knowledge' describes 'top-down cognitive restructuring.' Living Truth within the self (the light) over-writes the old, fearful narratives of the ego (the darkness), resulting in a permanent state of clarity.
+**Neuroscience Perspective:** Ochsner and Gross's reappraisal studies show that engaging prefrontal regions to reinterpret a situation reliably reduces activation in amygdala-driven fear circuitry. The verse's image of the inner lamp dispelling darkness corresponds to this mechanism: clarity is not imported from outside but is the result of an internal reframing process the practitioner becomes capable of sustaining.
 
 **Common Misreading:** "Krishna removes ignorance by a miraculous external intervention." Actually, the lamp of knowledge is lit *within* them (*antaḥ-stho*) — the divine illuminates from inside, working through the devotee's own awareness rather than as an external force overriding their agency.
 
@@ -257,9 +245,7 @@ You are the supreme Brahman, the supreme abode, the supreme purifier. The eterna
 
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Opens Arjuna's eulogy by accumulating the highest titles possible, demonstrating that he has fully internalized the teaching and now speaks from conviction rather than courtesy.
 
-**Contemporary Relevance:** Acknowledging Excellence. Arjuna is recognizing the 'First Principle' he is talking to. In any learning journey, there is a moment where you realize the sheer scale and importance of the truth you are discovering. This is that moment of awe.
-
-**Neuroscience Perspective:** Recognizing the 'highest home' and 'ultimate purifier' describes the 'attainment of a terminal goal.' Neurally, having a clear and supreme 'True North' organizes all other cognitive processes, reducing mental 'noise' and providing total direction.
+**Contemporary Relevance:** Acknowledging Excellence. Arjuna is recognizing the supreme principle he is talking to. In any learning journey, there is a moment where you realize the sheer scale and importance of the truth you are discovering. This is that moment of awe.
 
 ---
 
@@ -279,8 +265,6 @@ All the seers declare You thus, as do the divine seer Nārada, Asita, Devala, an
 
 **Contemporary Relevance:** Consensus of Wisdom. When multiple independent 'experts' (seers) and the 'source' itself all say the same thing, the level of certainty increases. It’s a call to look for universal patterns that have been validated by wise people throughout history.
 
-**Neuroscience Perspective:** Consensus among 'experts' (Narada, Vyasa, etc.) reinforces 'neural certainty.' When independent, high-level mental models all converge on the same Truth, the individual brain's 'belief-threshold' is reached, leading to unshakeable conviction.
-
 ---
 
 ### 10.14
@@ -298,8 +282,6 @@ I consider all this to be true which You tell me, O Keśava. For neither the god
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Declares personal acceptance of the entire teaching, while noting that even divine beings cannot grasp Krishna's full manifestation, making Arjuna's trust all the more significant.
 
 **Contemporary Relevance:** Beyond Intellectual labels. The Truth is so vast that even 'high-level' beings (gods/demons) might not fully grasp it. Believing in the Truth often requires a level of trust that goes beyond what our current 'labels' or 'logic' can fully explain.
-
-**Neuroscience Perspective:** Believing 'everything is true' highlights the 'limit of the finite.' The brain admits that the 'Absolute' is beyond the reach of its current 'god/demon' categorization. This 'intellectual humility' is necessary for receiving information that is larger than the ego.
 
 ---
 
@@ -319,8 +301,6 @@ You Yourself alone know Yourself by Yourself, O Supreme Person! O creator of bei
 
 **Contemporary Relevance:** Direct Self-Knowledge. Only the 'Source' can truly know the 'Source.' This is a reminder that while we can learn *about* the Truth, the only way to truly *know* it is to align ourselves so closely with it that we experience it firsthand.
 
-**Neuroscience Perspective:** Knowing Yourself through Yourself describes 'non-dual self-knowledge.' Neurally, this is the state where the 'Observer' and the 'Observed' are identical. This eliminates the 'subject-object gap' that is the source of all human confusion and doubt.
-
 ---
 
 ### 10.16
@@ -339,7 +319,7 @@ You ought to speak without omission of Your divine manifestations, by which mani
 
 **Contemporary Relevance:** Seeking Examples. High-level principles are great, but we need 'examples' to understand how they look in the real world. Arjuna is asking for a 'gallery of excellence' so he can recognize the Absolute in his daily life.
 
-**Neuroscience Perspective:** Seeking details of 'divine manifestations' is a request for 'template-matching.' The brain needs specific real-world examples to understand how an abstract principle (the Absolute) looks in various 'finite' contexts.
+**Neuroscience Perspective:** Bransford and Schwartz's research on transfer and Gentner's work on analogy show that abstract principles are most reliably learned when supported by multiple concrete examples that share underlying structure. Arjuna's request for specific manifestations is exactly this pedagogical move: a principle becomes graspable only when the mind has enough varied instances to triangulate it.
 
 ---
 
@@ -359,7 +339,7 @@ How may I know You, O Yogi, by constantly meditating on You? And in what various
 
 **Contemporary Relevance:** The Practice of Awareness. We can't think of the 'Infinite' all the time—it's too big. Arjuna is asking for specific 'anchors' for his attention. This is a practical request for modern mindfulness: what specific things in my environment can remind me of the Truth?
 
-**Neuroscience Perspective:** Seeking specific 'anchors' for meditation is a strategy for 'attentional management.' The brain can't focus on the 'Infinite' directly; it needs 'prominent objects' (vibhūtis) to act as visual and conceptual reminders of the Truth during daily life.
+**Neuroscience Perspective:** Lutz, Slagter, Dunne, and Davidson's reviews of focused-attention meditation describe how an external or internal "object" stabilizes attentional networks: the mind needs something definite to return to whenever attention drifts. Arjuna's request for specific vibhūtis is a request for exactly such anchors, calibrated to ordinary perception rather than to abstraction.
 
 ---
 
@@ -377,9 +357,9 @@ Tell me again in detail of Your mystic power (*yoga*) and manifestation (*vibhū
 
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Closes Arjuna's hymn by revealing that the teaching itself is experienced as inexhaustible nectar: the request for more is not impatience but the natural appetite of a mind that has genuinely tasted the truth.
 
-**Contemporary Relevance:** Intellectual Hunger. Real wisdom is 'addictive' in a good way. Hearing about First Principles and the excellence of the universe provides a level of satisfaction (nectar) that never feels boring. It’s the sign of a healthy, growing mind.
+**Contemporary Relevance:** Intellectual Hunger. Real wisdom is 'addictive' in a good way. Hearing about deep truths and the excellence of the universe provides a level of satisfaction (nectar) that never feels boring. It’s the sign of a healthy, growing mind.
 
-**Neuroscience Perspective:** The hunger for 'nectar-like' wisdom reflects 'knowledge-driven reward.' For a refined brain, the 'dopamine hit' from learning First Principles is more intense and satisfying than any physical reward. It is the signature of a high-functioning intellect.
+**Neuroscience Perspective:** Gruber, Gelman, and Ranganath (2014) found that high curiosity states activate dopaminergic midbrain–hippocampal circuitry and enhance memory not only for the answer sought but for incidental material encountered alongside it. Arjuna's experience of the teaching as nectar he cannot tire of is the phenomenology of this curiosity-driven reward system, in which learning is intrinsically rather than instrumentally satisfying.
 
 ---
 
@@ -402,7 +382,7 @@ Ah! I shall recount to you My divine manifestations, but only the most prominent
 
 **Contemporary Relevance:** Focusing on the Significant. The universe is infinite, and we have limited time. Krishna's decision to show only the 'prominent' (pradhanyatah) examples is a lesson in effective communication: focus on the 20% of examples that give 80% of the insight.
 
-**Neuroscience Perspective:** Focusing on 'most important' manifestations is a lesson in 'information saliency.' To avoid 'cognitive overload,' the guide focuses on the 'peak manifestations' that provide the most leverage for understanding the underlying Law.
+**Neuroscience Perspective:** Cowan's working-memory research places the capacity of focal attention at roughly four chunks at a time. A teacher who must convey an unbounded subject therefore selects "prominent" exemplars rather than enumerating: Krishna's choice to list only the peak items is consistent with how human attention actually receives new information.
 
 > **Note:** The catalog that follows (verses 20-38) is a comprehensive list of *vibhūtis* (manifestations or glories). Kṛṣṇa identifies himself with the supreme exemplar or essence within every category of existence—gods, animals, concepts, and people.
 
@@ -424,8 +404,6 @@ I am the self, O Guḍākeśa, seated in the heart of all beings; I am the begin
 
 **Contemporary Relevance:** The Internal Compass. The most important 'manifestation' of Truth is right inside you. By recognizing that the universal source is also your own 'Self,' you gain access to an internal source of guidance and stability that is with you from start to finish.
 
-**Neuroscience Perspective:** Being the 'Self in the heart' is the ultimate 'internalized anchor.' Identifying the 'universal source' with your own 'core awareness' provides a neural reference point that is always available, from start to finish.
-
 **Common Misreading:** "The Self (ātman) inside all beings is a separate deity from Krishna." Actually, the self dwelling in the hearts of all beings is identified here with Krishna — confirming the non-duality between individual awareness and the supreme self rather than introducing a new figure.
 
 ---
@@ -446,8 +424,6 @@ Of the Ādityas I am Viṣṇu; of lights I am the radiant sun. I am Marīci amo
 
 **Contemporary Relevance:** The Peak of every Category. Krishna starts identifying himself as the 'best' or 'brightest' in every class. This teaches us to look for the 'divine' in the highest expressions of excellence, whether in nature or in human achievement.
 
-**Neuroscience Perspective:** Being the 'Sun' and 'Moon' identifies the Absolute with 'supreme luminance and rhythm.' Neurally, this encourages the brain to find the 'divine' in the most essential and powerful patterns of the natural environment.
-
 ---
 
 ### 10.22
@@ -465,8 +441,6 @@ Of the Vedas I am the Sāmaveda; of the gods I am Vāsava (Indra). Of the senses
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Extends the catalogue from the natural cosmos into human knowledge and governance: the supreme scripture, the sovereign god, the coordinator of senses, and consciousness itself — showing that the divine pervades intellectual and cognitive life as fully as the physical world.
 
 **Contemporary Relevance:** The Essence of Function. Krishna is the 'music' in the scriptures, the 'leadership' in the gods, the 'coordinator' (mind) in the senses, and 'life' (consciousness) in beings. Look for the 'core function' that makes a system work—that is the Absolute at work.
-
-**Neuroscience Perspective:** Being 'consciousness' in beings identifies the Absolute with the 'animating principle' itself. Neurally, this is the move from 'studying the brain' to 'realizing the consciousness' that makes the brain's functions possible.
 
 **Common Misreading:** "This is a list of favorites showing Krishna's preferences among created things." Actually, the vibhūtis are peak expressions — whatever is the most refined or most excellent in any domain is where the divine is most recognizable, not a ranking of favorites.
 
@@ -488,8 +462,6 @@ Of the Rudras I am Śaṅkara; of the Yakṣas and Rākṣasas I am the Lord of 
 
 **Contemporary Relevance:** The Diversity of Truth. The Absolute is present in destruction (Shiva) just as much as in wealth (Kubera) or stability (mountains). This holistic view helps us see the 'divine' in all aspects of life, even the challenging ones.
 
-**Neuroscience Perspective:** Being 'Shiva' and 'Fire' identifies the Absolute with 'transformation and energy.' Neurally, this helps accept the 'destructive' and 'high-energy' aspects of life as necessary parts of the universal process of growth and change.
-
 ---
 
 ### 10.24
@@ -507,8 +479,6 @@ And of household priests, O Pārtha, know Me to be the chief, Bṛhaspati. Of ge
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Extends the catalogue into ritual, military, and natural domains, linking priestly wisdom, martial command, and the vast scale of the ocean under a single governing principle: Krishna is the supreme exemplar wherever authority and depth converge.
 
 **Contemporary Relevance:** Vastness and Strategy. Whether it's the depth of the ocean or the precision of a master strategist (Brihaspati), look for the qualities of 'vastness' and 'excellence.' The most impressive version of anything is an expression of the Truth.
-
-**Neuroscience Perspective:** Being the 'Ocean' and 'Skanda' (warrior) identifies the Absolute with 'vastness and strategic power.' Look for the Absolute in the 'scale' of the environment and the 'precision' of effective action.
 
 ---
 
@@ -528,7 +498,7 @@ Of the great seers I am Bhṛgu; of utterances I am the single syllable (*Oṃ*)
 
 **Contemporary Relevance:** Stillness and Vibration. The Himalayas represent unshakeable stability, while Japa (silent chanting) represents internal focus. Truth is found in both the massive external steadiness and the subtle internal vibration.
 
-**Neuroscience Perspective:** Being 'OM' and 'Japa' identifies the Absolute with 'fundamental vibration and focus.' Neurally, the repetition of a single, powerful sound (Japa) is a proven technique for 'stilling the mind' and reaching the Source.
+**Neuroscience Perspective:** Lazar and colleagues' early imaging studies of mantra repetition documented reduced activity in attention-shifting networks and changes in autonomic markers during sustained japa. Repeating a single chosen sound is one of the better-studied techniques for stabilising attention, consistent with the verse's identification of japa as the supreme form of sacrifice.
 
 ---
 
@@ -548,8 +518,6 @@ Of all trees I am the sacred fig tree (*aśvattha*), and of divine seers I am N�
 
 **Contemporary Relevance:** The Hierarchy of Talent. In every field—art, science, or nature—there are 'exemplars.' By identifying with these peaks of perfection, Krishna encourages us to strive for the highest possible standard in our own work.
 
-**Neuroscience Perspective:** Being the 'Sacred Tree' and the 'Sage' identifies the Absolute with 'biological and intellectual peaks.' This encourages the brain to look for the 'divine' in the most perfect expressions of life and wisdom.
-
 ---
 
 ### 10.27
@@ -567,8 +535,6 @@ Know Me among horses to be Uccaiḥśravas, born from the churning of the nectar
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Moves the catalogue into the animal kingdom and human society, identifying the divine with the mythically perfect (the immortal horse born of cosmic churning), the supremely powerful (the celestial elephant), and the highest human office — making excellence in any domain a recognizable trace of Krishna.
 
 **Contemporary Relevance:** Power and Leadership. True leadership and raw power (represented by the king and the mythical beasts) are expressions of the universal energy. This reminds us that influence should be used with the same integrity as the source it comes from.
-
-**Neuroscience Perspective:** Being the 'King' and 'Mythical Beasts' identifies the Absolute with 'sovereignty and raw power.' True authority is recognized as an expression of the same universal energy that drives all of nature.
 
 ---
 
@@ -588,8 +554,6 @@ Of weapons I am the thunderbolt; of cows I am the wish-granting cow (*Kāmadhuk*
 
 **Contemporary Relevance:** The Tools of Creation and Destruction. From the 'thunderbolt' of sudden change to the 'wish-granting' source of resources, the Absolute is the power behind every tool we use to build or defend our reality.
 
-**Neuroscience Perspective:** Being the 'Thunderbolt' and 'Surabhi' (wish-cow) identifies the Absolute with 'decisive force and abundance.' The Truth is the source of both the 'power to change' and the 'resources to grow.'
-
 ---
 
 ### 10.29
@@ -606,9 +570,7 @@ And of the Nāgas (multi-headed snakes) I am Ananta; of aquatic deities I am Var
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Extends the catalogue downward and outward — into the serpentine, aquatic, ancestral, and judicial realms — showing that the divine is equally present in depths and boundaries, and in the law of consequence that governs all beings.
 
-**Contemporary Relevance:** The Law of Consequences. Yama (death/law) represents the ultimate 'First Principle' of accountability. Just as death is certain, so are the laws of the universe. Recognizing this helps us live with a sense of responsibility and respect for order.
-
-**Neuroscience Perspective:** Being 'Yama' (Death/Law) identifies the Absolute with 'accountability and the end of cycles.' Neurally, this reinforces the 'internal compass' by acknowledging the absolute fairness and inevitability of the laws of reality.
+**Contemporary Relevance:** The Law of Consequences. Yama (death/law) represents the ultimate principle of accountability. Just as death is certain, so are the laws of the universe. Recognizing this helps us live with a sense of responsibility and respect for order.
 
 ---
 
@@ -628,8 +590,6 @@ Of the Daityas I am Prahlāda; of those who measure I am Time (*kāla*). Of beas
 
 **Contemporary Relevance:** Time as the Ultimate Measure. Time ('kala') is the Absolute's most powerful manifestation in the physical world—it measures and changes everything. By recognizing 'Time' as a divine force, we learn to respect its flow and use our 'measured' moments wisely.
 
-**Neuroscience Perspective:** Being 'Time' identifies the Absolute with the 'universal measure.' Time is the 'dimension' in which all manifestations happen. Recognizing 'Time' as divine helps the brain accept change and mortality with grace.
-
 ---
 
 ### 10.31
@@ -648,8 +608,6 @@ Of purifiers I am the wind; of wielders of weapons I am Rāma. Of fishes I am th
 
 **Contemporary Relevance:** Flow and Purification. The wind and the river (Ganges) represent the power of 'flow' and 'cleaning.' Life stays healthy when it stays moving. Look for the 'purifying' forces in your own life—those habits or people that help you stay 'clean' and clear-headed.
 
-**Neuroscience Perspective:** Being the 'Wind' and the 'Ganges' identifies the Absolute with 'purification and flow.' Neurally, this encourages a 'fluid' mental state that is constantly 'cleaning' itself of old biases and stagnant thoughts.
-
 ---
 
 ### 10.32
@@ -666,9 +624,9 @@ Of creations I am the beginning, the end, and also the middle, Arjuna. Of scienc
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Lifts the catalogue momentarily from specific items to a meta-claim: Krishna is not only the peak exemplar within categories but the temporal frame — beginning, middle, and end — that encompasses all of existence, anchoring every listed manifestation within a single all-containing reality.
 
-**Contemporary Relevance:** Logic and Self-Knowledge. Krishna identifies himself as 'Vada'—the honest search for truth through logic. This is a critical First Principle: real growth requires both the 'science of the Self' (internal) and 'honest logic' (external) to find the truth.
+**Contemporary Relevance:** Logic and Self-Knowledge. Krishna identifies himself as 'Vada'—the honest search for truth through logic. Real growth requires both the 'science of the Self' (internal) and 'honest logic' (external) to find the truth.
 
-**Neuroscience Perspective:** Being 'Logic' (vada) identifies the Absolute with 'rational inquiry.' This is a critical First Principle: the search for Truth is not a 'mystical' act but a 'logical' one. Krishna is the 'Reason' that leads to the Truth.
+**Neuroscience Perspective:** Stanovich's distinction between Type 1 (fast, automatic) and Type 2 (slow, reflective) cognition, developed alongside Kahneman, identifies the deliberate weighing of alternatives — what classical Indian thought calls *vāda* — as the cognitive activity that overrides intuitive error. Krishna's identification with rational debate aligns the divine not with mysticism but with this disciplined reflective faculty.
 
 ---
 
@@ -688,8 +646,6 @@ Of letters I am the letter A, and of compounds I am the dual compound (*dvandva*
 
 **Contemporary Relevance:** The Foundation of Language. The letter 'A' is the start of all speech. Truth is the 'foundation' of every communication. This verse encourages us to look for the simplest, most basic elements of any system—that is where the most power lives.
 
-**Neuroscience Perspective:** Being the 'Letter A' identifies the Absolute with the 'foundational component.' Truth is the 'prime element' from which all complex communications and systems are built. Simplicity is divinity.
-
 ---
 
 ### 10.34
@@ -707,8 +663,6 @@ I am all-devouring death, and the origin of things yet to be. Among feminine qua
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Presents the most dialectically complete pair in the catalogue: death that consumes everything that exists, and the generative origin of everything yet to come — together spanning the full arc of time, while feminine excellences (fame, speech, memory, patience) show the divine pervading the inner life of character itself.
 
 **Contemporary Relevance:** The Qualities of Character. This list—Fame, Prosperity, Speech, Memory, Intelligence, Firmness, Patience—is a blueprint for a high-quality human being. Recognizing these as 'divine' qualities encourages us to cultivate them as our own highest nature.
-
-**Neuroscience Perspective:** Identifying with 'Fame, Prosperity, Memory, and Patience' is a blueprint for 'character-architecture.' These are the 'high-quality outputs' of a brain that is perfectly aligned with the Truth. They are the 'divine' goals of human development.
 
 ---
 
@@ -728,8 +682,6 @@ Likewise, of the hymns of the Sāmaveda I am the Bṛhatsāman; of meters I am t
 
 **Contemporary Relevance:** The Beauty of Rhythm. Whether in the rhythm of a poem (Gayatri) or the cycle of the seasons (Spring), there is a 'divine' beauty in the patterns of nature. This is a call to appreciate the aesthetics and timing of the universe.
 
-**Neuroscience Perspective:** Being the 'Spring' and the 'Gayatri' identifies the Absolute with 'rhythm and aesthetics.' Neurally, appreciating the beauty and timing of the universe is a way of 'synchronizing' the brain with the universal flow.
-
 ---
 
 ### 10.36
@@ -747,8 +699,6 @@ I am the gambling of the deceitful; I am the splendor of the splendid. I am vict
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Introduces the most philosophically provocative entry in the catalogue: Krishna claims even the gambling of the deceitful, along with victory, resolve, and the goodness of the good — establishing that the divine is the energizing principle behind any activity at its peak intensity, regardless of moral category.
 
 **Contemporary Relevance:** The Source of Resolve. Even 'victory' and 'resolve' are expressions of the Absolute. If you find the strength to stay committed to a goal, recognize that strength as a universal gift. It gives you the 'splendor' to achieve great things.
-
-**Neuroscience Perspective:** Being 'Victory and Resolve' identifies the Absolute with 'successful outcomes and commitment.' When you feel 'strong and winning,' realize that energy is a universal gift, which prevents the build-up of the small ego.
 
 **Common Misreading:** "Gambling is endorsed because Krishna identifies with it." Actually, Krishna identifies with the gambling of the deceitful (*dyūtaṃ chalayatām*) as a *peak expression* within that domain — the list describes the highest intensity in each category, not a moral endorsement of the activities themselves.
 
@@ -770,8 +720,6 @@ Of the Vṛṣṇis I am Vāsudeva (Kṛṣṇa); of the Pāṇḍavas I am Dhan
 
 **Contemporary Relevance:** Excellence in Action. Krishna identifies himself as the 'best' among the listener's own group (Pandavas) and his own group (Vrishnis). It’s a call to be the 'best version of yourself' right where you are, in your own family and role.
 
-**Neuroscience Perspective:** Being 'Krishna' and 'Arjuna' identifies the Absolute with the 'best version of the self' in any context. It’s a call to find the 'divine peak' in your own family, your own team, and your own role.
-
 > **Note:** Kṛṣṇa explicitly identifies himself as the highest manifestation even among his own lineage (Vṛṣṇis) and identifies Arjuna as the highest among the Pāṇḍavas, momentarily blurring the line between speaker and listener.
 
 ---
@@ -792,8 +740,6 @@ I am the rod of those who punish; I am the statecraft of those who seek victory.
 
 **Contemporary Relevance:** Strategy and Silence. Success requires both external 'strategy' (niti) and internal 'silence' (mauna). Knowing when to act with a plan and when to remain quiet and wise is a master-skill of high-level leadership.
 
-**Neuroscience Perspective:** Being 'Strategy' and 'Silence' identifies the Absolute with 'external precision and internal depth.' This is the 'balanced brain' model: a powerful external 'plan' supported by an unshakeable internal 'stillness.'
-
 ---
 
 ### 10.39
@@ -810,9 +756,7 @@ And whatever is the seed of all beings, that am I, Arjuna. There is no being, wh
 
 **Argument Arc:** *A Fraction Sustains All (10.39–10.42)* — Opens the closing section with the most fundamental claim of the entire catalogue: Krishna is not merely the supreme exemplar within categories but the generative seed without which no being — moving or unmoving — could exist at all, shifting the logic from enumeration to ontological necessity.
 
-**Contemporary Relevance:** The Essential Ingredient. Just as a plant cannot exist without a seed, reality cannot exist without the Truth. This is the ultimate 'First Principle': everything you see is just a 'growth' from the same original seed of Truth.
-
-**Neuroscience Perspective:** Being the 'Seed' identifies the Absolute with 'causal essence.' Just as the whole tree is in the seed, the whole universe is in the Truth. Understanding the 'Seed' is the ultimate 'shortcut' to understanding the 'Universe.'
+**Contemporary Relevance:** The Essential Ingredient. Just as a plant cannot exist without a seed, reality cannot exist without the Truth. The foundational claim of the chapter is that everything you see is a 'growth' from the same original source.
 
 **Common Misreading:** "Krishna says he is everything, so all distinctions are irrelevant." Actually, while Krishna is the seed of all, the world's distinctions still function — the teaching is about recognizing the ground beneath all phenomena, not collapsing everything into undifferentiated sameness.
 
@@ -834,7 +778,7 @@ There is no end to My divine manifestations, O scorcher of foes. This extent of 
 
 **Contemporary Relevance:** Infinite Potential. The list of 'glories' is just a tiny sample of what is possible. This verse reminds us that we should never stop looking for excellence and truth, because the universe's potential for manifestation is literally endless.
 
-**Neuroscience Perspective:** The 'endlessness' of manifestations reflects the 'infinite capacity' of reality. Neurally, this keeps the brain in a state of 'continuous learning' and 'humble openness,' preventing the stagnation of 'dogmatic closure.'
+**Neuroscience Perspective:** Dweck's research on growth versus fixed mindsets shows that learners who treat their understanding as inherently incomplete persist longer and develop further than those who treat themselves as already finished. Krishna's explicit "there is no end to my manifestations" institutionalises growth mindset at the cosmic scale: the subject can never be exhausted, so inquiry has no terminus.
 
 ---
 
@@ -854,8 +798,6 @@ Whatever being is glorious, prosperous, or powerful, understand that it is born 
 
 **Contemporary Relevance:** Recognizing Greatness. Whenever you see something 'impressive' in the world (a great invention, a powerful leader, a beautiful landscape), don't just worship the thing itself. Realize it is just a 'fraction' of the ultimate Source. This keeps you focused on the Source rather than the symptoms.
 
-**Neuroscience Perspective:** Recognizing 'fractions of splendor' is a lesson in 'scaling.' Neurally, you learn to see every 'great thing' as a 'preview' of the even 'greater Truth.' This directs your admiration away from the 'object' and toward the 'Source.'
-
 ---
 
 ### 10.42
@@ -874,7 +816,7 @@ But what need is there for you to know all this multiplicity, Arjuna? I stand su
 
 **Contemporary Relevance:** Simplicity of Scale. After listing all the complex manifestations, Krishna brings it back to one simple fact: the Absolute is so powerful that this entire massive universe is just a 'tiny fraction' of its reality. This puts our own 'huge' problems into a much more manageable perspective.
 
-**Neuroscience Perspective:** Sustaining the universe with 'one small part' is the ultimate 're-normalization' of scale. Neurally, this thought collapses the 'huge problems' of our world into 'tiny details' of the Absolute reality, resulting in an unshakeable sense of peace and security.
+**Neuroscience Perspective:** Piff and colleagues (2015) and Stellar and colleagues' studies of awe show that exposure to vastness reliably reduces self-focus, narrows the sense of personal entitlement, and increases prosocial behaviour. The verse's closing image — the entire cosmos sustained by a fraction of the divine — is calibrated to evoke this awe response, in which one's own immediate troubles lose their inflated scale.
 
 **Common Misreading:** "One verse or one insight can replace the entire teaching of this chapter." Actually, 'a single fraction of Myself sustains this entire universe' is the capstone of an extended inquiry — it is a conclusion that carries its full weight only for a mind that has followed the complete argument, not a shortcut around it.
 

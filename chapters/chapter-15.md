@@ -25,7 +25,7 @@ They speak of an imperishable sacred fig tree (*aśvattha*) with its roots above
 **Simple Translation:** The Blessed Lord said: They speak of an eternal Ashvattha (fig) tree with its roots above and its branches below. Its leaves are the ancient songs of wisdom. One who truly understands this tree knows the essence of all knowledge.
 
 **Argument Arc:** *The Cosmic Tree (15.1–15.3)* — Opens the section by establishing the Blessed Lord said: They speak of an eternal Ashvattha (fig) tree with its roots above and its branches below.
-**Contemporary Relevance:** The Upside-Down Perspective. Usually, trees have roots in the ground and branches in the air. But the 'Tree of Life' starts from the Absolute (the roots above) and grows down into the material world. This is a First Principle of Causality: everything physical starts from an invisible, non-physical source.
+**Contemporary Relevance:** The Upside-Down Perspective. Usually, trees have roots in the ground and branches in the air. But the 'Tree of Life' starts from the Absolute (the roots above) and grows down into the material world. The foundational claim is one of causality: everything physical starts from an invisible, non-physical source.
 
 **Neuroscience Perspective:** The 'upside-down tree' mirrors what cognitive science calls top-down processing — the way abstract goals, beliefs, and values shape how we perceive and act in the physical world. Prefrontal regions that hold long-term goals exert powerful influence over sensory and motor systems below. Understanding the deep values that govern your behavior is the key to mastering its outcomes.
 
@@ -54,7 +54,7 @@ Downward and upward its branches are spread, nourished by the *guṇas*, with th
 **Argument Arc:** *The Cosmic Tree (15.1–15.3)* — Advances the argument: Its branches spread upward and downward, nourished by the qualities of nature.
 **Contemporary Relevance:** The Network of Habit. Our lives are like a sprawling tree. Our 'roots' are our deep-seated habits and attachments (Karma) that keep us stuck in the same environment. Our 'shoots' are the sensory distractions that keep the tree growing. To change your life, you must understand this growth pattern.
 
-**Neuroscience Perspective:** The tree nourished by 'Gunas' describes 'neural reinforcement.' Our habits and attachments grow based on the 'quality' of energy we feed them (Sattva, Rajas, Tamas). Sensory objects act as 'shoots' that keep the brain's attention locked in repetitive, world-bound cycles.
+**Neuroscience Perspective:** Reinforcement learning research, from Thorndike and Skinner through to contemporary computational accounts, shows that behaviours followed by rewarding sensory outcomes become more probable, and that this strengthening operates whether or not the behaviour is good for the organism in the long run. Krishna's image of the tree's branches "nourished by the *guṇas*" with sense-objects as shoots maps onto this: ordinary attention is repeatedly rewarded by the same sensory loops, and the underlying pattern strengthens with each pass.
 
 ---
 
@@ -363,7 +363,7 @@ But there is another, the Supreme Person (*uttamaḥ puruṣaḥ*), declared to 
 **Simple Translation:** But there is a third, the Supreme Person (Purushottama), known as the Highest Self. He enters the three worlds and supports them as the eternal Lord.
 
 **Argument Arc:** *Three Levels of Being (15.16–15.18)* — Advances the argument: But there is a third, the Supreme Person (Purushottama), known as the Highest Self.
-**Contemporary Relevance:** The Transcendent Third. Beyond 'change' and 'constancy' is the 'Highest Self'—the Absolute Truth that encompasses and directs both. This is the ultimate CEO of reality, the 'First Principle' that keeps the whole system in perfect order.
+**Contemporary Relevance:** The Transcendent Third. Beyond 'change' and 'constancy' is the 'Highest Self'—the Absolute Truth that encompasses and directs both. This is the ultimate organizing reality, the deepest layer that keeps the whole system in order.
 
 **Neuroscience Perspective:** The brain constantly seeks a stable predictive model of reality — what neuroscientists call a 'prior' in predictive processing theory. The more fundamental and reliable the model, the less prediction error and anxiety the brain generates. Identifying with a principle that transcends both change and permanence offers the deepest possible anchoring framework, reducing the existential uncertainty that fuels chronic stress.
 

@@ -26,7 +26,7 @@ Fearlessness, purification of one's existence, steadfastness in the yoga of know
 
 **Argument Arc:** *The 26 Divine Qualities (16.1–16.3)* — Opens the catalogue of divine endowments with fearlessness as the foundational virtue upon which all others depend.
 
-**Contemporary Relevance:** The 26 Assets. Krishna begins by listing the 'Divine Endowments' (Daivi-sampad). These are the 'internal assets' that make a person truly powerful. Fearlessness is listed first because it's the foundation: without courage, you can't be honest or disciplined. These are the First Principles of character.
+**Contemporary Relevance:** The 26 Assets. Krishna begins by listing the 'Divine Endowments' (Daivi-sampad). These are the 'internal assets' that make a person truly powerful. Fearlessness is listed first because it's the foundation: without courage, you can't be honest or disciplined. These are the foundational traits of character.
 
 **Neuroscience Perspective:** Fearlessness appears first in the list because chronic fear disrupts higher cognitive functions — when the amygdala is persistently activated, it suppresses prefrontal activity needed for clear judgment, self-control, and ethical reasoning. Reducing baseline fear through practices like courage and self-mastery creates the neurological conditions under which all the other virtues — discipline, generosity, honesty — become more accessible and sustainable.
 
@@ -50,7 +50,7 @@ Non-violence, truthfulness, absence of anger, renunciation, tranquility, aversio
 
 **Contemporary Relevance:** The Social Virtues. This list continues with the qualities that make social interaction healthy and productive. Compassion and lack of greed (aloluptvam) are essential for any sustainable organization or community. They are the 'anti-venom' to the competitive stress of the modern world.
 
-**Neuroscience Perspective:** The Social Virtues (non-violence, truth, peace) are 'pro-social neural circuits.' Neurally, these involve the 'empathy network' and the 'social safety' system (oxytocin-mediated). They reduce social friction and stress, creating a sustainable and harmonious environment for both the individual and the collective.
+**Neuroscience Perspective:** Decety and Jackson's mapping of the empathy network — anterior insula, anterior cingulate, temporo-parietal junction — and Carter's work on oxytocin in affiliative behaviour show that non-aggressive, truthful, peaceable interaction recruits a distinct biological system from threat response. Cultivating these social virtues isn't a moral overlay on top of a fundamentally hostile substrate; it strengthens the actual circuitry the body uses to be safe with other people.
 
 ---
 
@@ -70,7 +70,7 @@ Vigor, patience, firmness, purity, absence of malice, and absence of excessive p
 
 **Contemporary Relevance:** The Leadership Profile. Vigor (tejah) combined with forgiveness (kshama) is the hallmark of a great leader. These final qualities complete the profile of a person who is 'divine'—meaning someone whose character is aligned with the highest universal values.
 
-**Neuroscience Perspective:** The Leadership Profile (vigor, forgiveness, purity) describes 'emotional resilience.' Neurally, 'forgiveness' (kshama) is an act of 'cognitive override' where the brain chooses to let go of a 'threat signal' (anger) to maintain systemic stability. This is the hallmark of a high-functioning, 'divine' nature.
+**Neuroscience Perspective:** Worthington and colleagues' forgiveness research, and Witvliet's psychophysiological studies, show that sustained unforgiveness keeps cardiovascular and stress markers elevated, while a deliberate decision to forgive measurably reduces these. Forgiveness is therefore not a passive surrender but an active reappraisal — the kind of prefrontal reframing that Ochsner and Gross document — and one with documented effects on the body.
 
 **Common Misreading:** "These twenty-six qualities define a superior class of people." Actually, Krishna names them as tendencies aligned with liberation—indicators of inward orientation, not markers of social superiority.
 
@@ -94,7 +94,7 @@ Hypocrisy, arrogance, pride, anger, harshness, and ignorance belong to one born 
 
 **Contemporary Relevance:** The Demonic Liabilities. Krishna now lists the 'Demonic Endowments' (Asuri-sampad). These are not 'sins' in a religious sense, but 'liabilities' that make a person weak and bound to suffering. Hypocrisy and arrogance are the fastest ways to lose trust and effectiveness.
 
-**Neuroscience Perspective:** The Demonic Liabilities (hypocrisy, arrogance, anger) are 'systemic vulnerabilities.' Hypocrisy creates 'internal cognitive load' (the stress of keeping up a lie), while arrogance and anger trigger 'chronic fight-or-flight' states. These traits weaken the brain's long-term strategic and social effectiveness.
+**Neuroscience Perspective:** Festinger's cognitive-dissonance research, and the broader literature on deception, document the cognitive cost of maintaining a self-presentation incongruent with one's actual conduct: working memory is partly occupied with keeping the story consistent, and physiological stress markers rise. Combined with the chronic sympathetic activation that hostility and anger sustain (Sapolsky), the "demonic" traits Krishna lists impose continuous biological cost rather than enabling effective action.
 
 ---
 
@@ -136,8 +136,6 @@ There are two creations of beings in this world: the divine and the demonic. The
 
 **Contemporary Relevance:** Binary Analysis. To understand 'the good,' we must also understand 'the bad.' Krishna is providing a 'gap analysis' so Arjuna can clearly see the two ways of being. Understanding the 'demonic' perspective helps us avoid its traps in ourselves and others.
 
-**Neuroscience Perspective:** Binary Analysis (Divine vs. Demonic) is a 'feature-detection' strategy. The brain learns to recognize 'destructive patterns' (demonic) vs. 'constructive patterns' (divine) in itself and others. This clear categorization is necessary for wise navigation of the social world.
-
 **Common Misreading:** "Everyone is clearly either divine or demonic — this chapter divides humanity into two fixed camps." Actually, the two tendencies exist as *potentials* within every person. The teaching describes orientations and their consequences, not permanent ontological categories.
 
 ---
@@ -158,8 +156,6 @@ Demonic men do not know what ought to be done (right action) and what ought not 
 
 **Contemporary Relevance:** The Loss of the Compass. The defining feature of 'demonic' behavior is the loss of the ability to tell right from wrong. When you lose your 'Pravritti' (right action) and 'Nivritti' (right avoidance), you become a ship without a rudder, guided only by temporary impulses.
 
-**Neuroscience Perspective:** The 'Loss of the Compass' describes 'moral and logical breakdown.' When the brain no longer knows 'Pravritti' (right action) vs. 'Nivritti' (right avoidance), it has lost its 'Master Invariant' (Dharma). Without this rudder, the person is a slave to immediate impulses and confusion.
-
 ---
 
 ### 16.8
@@ -176,8 +172,6 @@ They say that the universe is without truth, without a moral foundation, and wit
 
 **Argument Arc:** *Nature of Demonic Beings (16.6–16.9)* — Advances the argument: They say the universe has no truth, no moral foundation, and no Lord—that it is just a product of lust and chance, with no other purpose.
 **Contemporary Relevance:** Nihilism as a Trap. This is a critique of the 'Nihilistic' view that nothing matters and life has no meaning. When you believe life has no foundation or purpose, you justify any kind of selfish or harmful behavior. Sincerity and integrity are the only cures for this 'demonic' mindset.
-
-**Neuroscience Perspective:** The 'Nihilistic Trap' (no truth, no foundation) describes the 'loss of purpose-circuits.' Neurally, if the brain believes life is random and meaningless, it de-activates its 'higher motivation' systems and defaults to raw lust and greed, which are primitive and short-sighted.
 
 > **Note:** A polemic against materialistic or Lokāyata philosophies which denied cosmic order (*dharma*), an overseeing deity (*īśvara*), and held that the universe was driven merely by biological and material drives (*kāma*).
 
@@ -198,8 +192,6 @@ Holding fast to this view, these ruined souls of small intellect and fierce deed
 **Argument Arc:** *Nature of Demonic Beings (16.6–16.9)* — Closes the section with holding this view, these ruined souls with little intelligence do terrible things and become enemies of the world, working for its destruction, completing the argument's arc.
 **Contemporary Relevance:** The Consequence of Nihilism. People who don't believe in a higher order or truth eventually become destructive. If you think the world is 'just stuff' to be used, you treat people like things and the environment like garbage. This mindset is the root cause of global crises.
 
-**Neuroscience Perspective:** The Consequence of Nihilism is 'social and environmental entropy.' If you see the world as 'just stuff' to be used, you treat people like objects and the world like trash. This mindset triggers 'anti-social' neural states that eventually lead to the destruction of the person's own social and physical environment.
-
 **Common Misreading:** "Demonic people are a distinct biological or spiritual class who have always been evil and cannot change." Actually, the demonic outlook is a *worldview* — atheistic materialism combined with ego-supremacy — that any person can slip into. The verse describes a mode of orientation and its consequences, not an immutable identity.
 
 ---
@@ -219,7 +211,7 @@ Resorting to insatiable desire, filled with hypocrisy, pride, and arrogance, hol
 **Argument Arc:** *Psychology of Demonic Behavior (16.10–16.16)* — Opens the section by establishing driven by insatiable desire, full of hypocrisy and arrogance, they hold false views and act with impure motives.
 **Contemporary Relevance:** The Insatiable Loop. 'Insatiable desire' (kāmam duṣpūram) is a fire that never goes out. Demonic behavior is defined by this 'hunger' that can never be filled. It leads to a life of constant pretending (hypocrisy) and 'false views' used to justify more wanting.
 
-**Neuroscience Perspective:** The 'Insatiable Loop' of desire describes 'dopaminergic dysregulation.' Like an 'insatiable fire' (duṣpūram), demonic behavior is a constant chase for a 'hit' that never satisfies. This leads to 'impure motives' and 'false views' used to justify the addiction.
+**Neuroscience Perspective:** Volkow and colleagues' addiction-imaging research shows that repeated stimulation of mesolimbic dopamine pathways produces tolerance: the same intensity of pursuit yields less reward over time, so escalation rather than satisfaction follows. Krishna's image of insatiable desire (*duṣpūram*) describes the experiential signature of this neurobiology — pursuit that intensifies precisely as the underlying capacity for satisfaction declines.
 
 ---
 
@@ -238,7 +230,7 @@ Beset with immeasurable anxiety that ends only with death, holding the gratifica
 **Argument Arc:** *Psychology of Demonic Behavior (16.10–16.16)* — Advances the argument: Filled with endless worries that only end at death, they think that satisfying their desires is the only goal of life.
 **Contemporary Relevance:** The Stress of Materialism. If your only goal is 'gratification,' you will have 'immeasurable anxiety' (cintām aparimeyāṃ). You spend your whole life worrying about getting more and protecting what you have. This verse is a perfect diagnosis of the modern mental health crisis driven by consumerism.
 
-**Neuroscience Perspective:** Endless worry about gratification describes 'chronic anticipatory stress.' The brain is stuck in 'immeasurable anxiety' (cintām aparimeyāṃ) because its happiness is tied to temporary, external objects that are always changing. This is the definition of 'materialist misery.'
+**Neuroscience Perspective:** Sapolsky's chronic-stress work and Kahneman and Tversky's research on loss aversion together explain why happiness anchored to changeable externals is unstable: the threat of losing what one has consumes more cognitive and physiological resources than gaining it produced, and the resulting low-grade HPA activation persists indefinitely. The verse's "immeasurable anxiety" (*cintām aparimeyām*) names exactly this state.
 
 ---
 
@@ -257,8 +249,6 @@ Bound by hundreds of fetters of hope, completely given over to desire and anger,
 **Argument Arc:** *Psychology of Demonic Behavior (16.10–16.16)* — Advances the argument: Bound by hundreds of hopes, driven by desire and anger, they try to pile up wealth by any means necessary just to satisfy their cravings.
 **Contemporary Relevance:** The 'Hope' Trap. Hope is usually seen as good, but 'selfish hope' (āśā-pāśa) is a set of handcuffs. It forces you to act 'unjustly' to get what you want. When your 'peace' depends on your 'hopes' coming true, you are never free.
 
-**Neuroscience Perspective:** The 'Hope Trap' (āśā-pāśa) describes 'bondage to the future.' If your current peace depends on hundreds of 'hopes' coming true, your brain is in a state of 'constant threat.' Neurally, this leads to 'unjust action' as the brain tries to force reality to match its cravings.
-
 ---
 
 ### 16.13
@@ -276,7 +266,7 @@ idam astīdam api me bhaviṣyati punar dhanam || 13 ||
 **Argument Arc:** *Psychology of Demonic Behavior (16.10–16.16)* — Advances the argument: 'I gained this today; I will get that tomorrow.
 **Contemporary Relevance:** The Internal Monologue of Ego. This is a brilliant psychological 'snapshot.' It captures the constant 'planning and owning' that happens in the ego-driven mind. Recognizing this voice in your own head is the first step to silencing it and finding real peace.
 
-**Neuroscience Perspective:** The 'Ego Monologue' (I gained this, I will get that) is the voice of the 'narrative self' (Default Mode Network) gone rogue. It is a state of 'hyper-identification' with the ego, where the brain is constantly projecting and owning, leading to a total lack of internal stillness.
+**Neuroscience Perspective:** Killingsworth and Gilbert's experience-sampling study found that a wandering, self-referential mind correlates with lower happiness, and Brewer and colleagues' imaging work links exactly this kind of "I-narrative" thought to elevated default-mode-network activity. Krishna's portrait of the demonic inner monologue — *this I have gained, this enemy I have slain* — is a vivid example of the DMN running unmonitored, which empirical work associates with unhappiness rather than success.
 
 ---
 
@@ -295,7 +285,7 @@ asau mayā hataḥ śatrur haniṣye cāparān api |
 **Argument Arc:** *Psychology of Demonic Behavior (16.10–16.16)* — Advances the argument: 'I killed that enemy, and I will kill the others too.
 **Contemporary Relevance:** The Illusion of Control. The demonic ego loves to say 'I did this' and 'I am the boss.' This 'god complex' is the ultimate delusion. Real power comes from being an 'instrument' of Truth, not from thinking you are the 'Author' of success.
 
-**Neuroscience Perspective:** The 'Illusion of Control' (I am the lord, I killed that enemy) is a 'neuro-delusion' of personal agency. It ignores the billions of systemic variables that actually create success. This 'god complex' makes the brain fragile because it cannot handle the reality of its own limitations.
+**Neuroscience Perspective:** Langer's classic studies of the illusion of control documented that people systematically overestimate their personal causal influence on outcomes that are actually determined by chance or by many distributed factors. The verse's portrait of the demonic agent — *I killed those, I will kill these others* — is this illusion taken to extremity: a self-model that confuses participation with sole authorship.
 
 ---
 
@@ -335,8 +325,6 @@ Bewildered by many thoughts, enveloped in the net of delusion, fiercely attached
 **Argument Arc:** *Psychology of Demonic Behavior (16.10–16.16)* — Closes the section with confused by many thoughts and caught in the net of delusion, they are addicted to sensory pleasures and fall into a foul state of suffering, completing the argument's arc.
 **Contemporary Relevance:** The Net of Delusion. Addiction to pleasure is not 'fun'; it's a 'net' (moha-jāla). It traps your mind in a thousand conflicting thoughts. The 'foul hell' Krishna describes is the internal state of a person who has lost all control over their own mind and desires.
 
-**Neuroscience Perspective:** The 'Net of Delusion' (moha-jāla) is 'cognitive fragmentation.' Addiction to pleasure scatters the mind into a thousand conflicting thoughts. The 'foul hell' described is the internal state of a brain that has lost all internal coherence and is drowning in its own noise.
-
 ---
 
 ### 16.17
@@ -353,8 +341,6 @@ Self-conceited, stubborn, filled with the pride and intoxication of wealth, they
 
 **Argument Arc:** *Demonic Worship and Consequences (16.17–16.20)* — Opens the section by establishing arrogant, stubborn, and drunk on their wealth, they perform rituals only for show, with no regard for the real rules or spirit of the act.
 **Contemporary Relevance:** Performative Spirituality. This is about 'virtue signaling.' Doing things 'for show' (nāma-yajñaiḥ) rather than for actual transformation is a sign of a demonic nature. Integrity means doing the right thing even when no one is watching.
-
-**Neuroscience Perspective:** Performative Spirituality (nāma-yajñaiḥ) is 'identity-signaling' without substance. It is an act of 'social deception' that increases the brain's internal 'stress of faking it.' Real integrity is 'quiet' and focused on actual internal transformation.
 
 ---
 
@@ -373,8 +359,6 @@ Resorting to egoism, power, arrogance, desire, and anger, these malicious people
 **Argument Arc:** *Demonic Worship and Consequences (16.17–16.20)* — Advances the argument: Obsessed with ego, power, pride, desire, and anger, these people hate Me—the life-force living in their own bodies and in the bodies of others.
 **Contemporary Relevance:** Hatred as Self-Destruction. When you are full of ego and anger, you are effectively 'hating' the life-force (the Truth) within yourself and others. This creates a state of internal conflict that makes happiness impossible. Malice is a form of spiritual suicide.
 
-**Neuroscience Perspective:** Malice as 'spiritual suicide' describes 'self-conflict.' When you hate the life-force in yourself or others, you are attacking your own 'biological substrate.' Malice triggers 'self-destructive' neural signals that make genuine happiness and peace impossible.
-
 ---
 
 ### 16.19
@@ -391,8 +375,6 @@ These hateful, cruel, degraded men, the lowest in the cycle of existence, I hurl
 
 **Argument Arc:** *Demonic Worship and Consequences (16.17–16.20)* — Advances the argument: I throw these hateful and cruel people, who are the lowest of humans, back into the repetitive and difficult cycles of existence.
 **Contemporary Relevance:** The Law of Momentum. If you choose to be hateful and cruel, the 'system' (the Absolute laws) simply returns you to an environment where hate and cruelty are the norm. You 'land' in the world you have created with your own mind. It’s a self-executing law of consequences.
-
-**Neuroscience Perspective:** The Law of Momentum (throwing the cruel back into the cycle) is a 'self-executing feedback loop.' If you choose to be 'demonic,' you are building a 'brain-model' that is only fit for a 'demonic environment.' The universe simply delivers the environment that matches your internal alignment.
 
 ---
 
@@ -411,8 +393,6 @@ Entering demonic wombs, deluded birth after birth, never attaining Me, O son of 
 **Argument Arc:** *Demonic Worship and Consequences (16.17–16.20)* — Closes the section with entering these difficult paths birth after birth, these confused souls never reach Me and continue to fall into lower states, completing the argument's arc.
 **Contemporary Relevance:** The Downward Spiral. Demonic behavior is a downward spiral. Each selfish choice makes the next one easier, and the truth becomes harder to find. This is a call to 'stop the spiral' today by making a different choice.
 
-**Neuroscience Perspective:** The Downward Spiral highlights the 'additive nature' of habit. Each 'demonic' choice makes the Truth harder to see and the 'lower state' more comfortable. This is a warning to 'interrupt the pattern' before the brain reaches a state of 'terminal delusion.'
-
 ---
 
 ### 16.21
@@ -430,7 +410,7 @@ Threefold is this gate of hell, destructive of the self: desire (*kāma*), anger
 **Argument Arc:** *The Three Gates of Hell / Conclusion (16.21–16.24)* — Opens the section by establishing there are three gates to this internal hell that destroy the soul: Desire, Anger, and Greed.
 **Contemporary Relevance:** The Toxic Trio. This is the most practical summary of the chapter. If you want to avoid a life of suffering (hell), you must guard these three gates. Desire (I want!), Anger (I'm mad!), and Greed (I need more!) are the 'Root Causes' of all human misery.
 
-**Neuroscience Perspective:** The 'Toxic Trio' (Desire, Anger, Greed) are the three 'Master Inhibitors' of human intelligence. They act as 'gates to hell' because they consistently override the prefrontal cortex and cause the brain to act in ways that lead to suffering and bondage.
+**Neuroscience Perspective:** Arnsten's research on stress and prefrontal function shows that intense emotional arousal — exactly the state characteristic of unchecked desire, anger, and greed — shifts cognitive control from the prefrontal cortex to faster, more reflexive striatal and amygdala-driven circuits. Krishna's identification of these three as the gates of *naraka* names the conditions under which the brain reliably forfeits its capacity for the reflective judgement it would otherwise be capable of.
 
 **Common Misreading:** "The three gates of hell are moral sins requiring divine punishment." Actually, the verse uses *ātmanaḥ apāna* — they are destroyers *of the self* — because they corrupt discriminative intelligence. The framework is psychological and causal, not punitive: these states cause self-destruction, not retribution.
 
@@ -451,8 +431,6 @@ A man liberated from these three gates of darkness, O son of Kuntī, practices w
 **Argument Arc:** *The Three Gates of Hell / Conclusion (16.21–16.24)* — Advances the argument: Arjuna, a person who is freed from these three gates of darkness does what is best for their own self and eventually reaches the highest goal.
 **Contemporary Relevance:** True Self-Interest. Giving up greed and anger is not 'self-sacrifice'; it is the ultimate 'self-interest.' By clearing your mind of these toxins, you are finally able to see and do what is actually 'best' for you (shreyas). Freedom is the goal.
 
-**Neuroscience Perspective:** True Self-Interest is 'clearing the toxins.' Being free from greed and anger is the ultimate 'self-care.' It removes the 'emotional noise' that prevents the brain from seeing what is truly 'shreyas' (beneficial) for the person over the long term.
-
 ---
 
 ### 16.23
@@ -468,9 +446,9 @@ He who, having cast aside the injunctions of the scriptures, acts according to t
 **Simple Translation:** Anyone who ignores the proven rules of life and acts only on their temporary impulses will never reach perfection, happiness, or the supreme goal.
 
 **Argument Arc:** *The Three Gates of Hell / Conclusion (16.21–16.24)* — Advances the argument: Anyone who ignores the proven rules of life and acts only on their temporary impulses will never reach perfection, happiness, or the supreme goal.
-**Contemporary Relevance:** Impulse vs. Principle. If you live your life based on 'temporary impulses' (kāma-kārataḥ), you are a slave to your moods. Success requires following 'Proven Rules' (shastra)—First Principles that have been shown to work over thousands of years.
+**Contemporary Relevance:** Impulse vs. Principle. If you live your life based on 'temporary impulses' (kāma-kārataḥ), you are a slave to your moods. Success requires following 'Proven Rules' (shastra)—tested standards that have been shown to work over thousands of years.
 
-**Neuroscience Perspective:** Impulse vs. Principle (kāma-kārataḥ) is 'bottom-up vs. top-down' control. If you ignore First Principles (Shastra) and act only on impulses, you are living as a 'lower-animal' brain. You will never reach the 'supreme goal' because you have no stable direction.
+**Neuroscience Perspective:** Mischel's classic delay-of-gratification studies, and Heatherton and Wagner's reviews of self-regulation failure, both converge on a single picture: outcomes track the capacity to let a considered standard override an immediate pull. Krishna's contrast between *kāma-kārataḥ* (acting from desire) and *śāstra-vidhānokta* (acting from established teaching) is the same contrast — and it consistently predicts the long-run results he describes.
 
 ---
 
@@ -489,6 +467,6 @@ Therefore, let scripture be your authority in determining what ought to be done 
 **Argument Arc:** *The Three Gates of Hell / Conclusion (16.21–16.24)* — Closes the section with therefore, let the First Principles (Shastra) be your guide in deciding what to do and what to avoid, completing the argument's arc.
 **Contemporary Relevance:** The Authority of Truth. Don't try to 'wing it.' Use the established wisdom of humanity to guide your choices. Chapter 16 ends by grounding 'Detached Action' in 'Ethical Authority.' Work hard, stay detached, but make sure your actions follow the laws of integrity.
 
-**Neuroscience Perspective:** Grounding Action in 'Ethical Authority' (Shastra) is the First Principle of 'Reliable Execution.' Use proven, high-integrity 'rule-sets' to guide your prefrontal cortex. This reduces the stress of deciding 'what is right' and ensures your actions are aligned with universal Law.
+**Neuroscience Perspective:** Gollwitzer's research on implementation intentions shows that pre-committing to a tested rule of action — "when situation X arises, I will do Y" — produces measurably better follow-through than relying on in-the-moment judgement. The verse's prescription to make *śāstra* (established teaching) the standard for what to do and what to avoid is the same strategy at the scale of a whole life: external, pre-decided structure spares the brain the cost of re-deciding under pressure.
 
 > **Note:** After establishing that the ultimate reality transcends all rules and dualities, Kṛṣṇa anchors human behavior back in established normative texts (*śāstra*). While the yogi acts without attachment to the fruit, the *form* of the action should align with traditional ethical paradigms to avoid the chaos of purely ego-driven action.

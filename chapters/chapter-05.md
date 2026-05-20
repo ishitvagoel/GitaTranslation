@@ -28,8 +28,6 @@ You praise the renunciation of actions, Kṛṣṇa, and again their discipline 
 
 **Contemporary Relevance:** The 'Work-Life Balance' conflict. Should I withdraw from the world to find peace (the monk's path), or should I dive into my work and responsibilities to grow (the professional's path)? Arjuna is asking for the most effective strategy for self-actualization in a complex world.
 
-**Neuroscience Perspective:** Arjuna’s question about 'Renunciation vs. Yoga' is an inquiry into the brain's 'operating modes.' One mode is 'internalized stillness' (quitting), and the other is 'active integration' (Yoga). He is asking which mode is more efficient for achieving permanent mental stability.
-
 > **Note:** Arjuna points out the apparent contradiction in Chapter 4, where Kṛṣṇa praised both the burning of action through knowledge (renunciation) and the disciplined performance of action (yoga).
 
 ---
@@ -53,8 +51,6 @@ Both renunciation and the yoga of action lead to the highest good. But of the tw
 
 **Contemporary Relevance:** 'Action is the better Teacher.' While both paths lead to the same goal, actively engaging with the world is more practical and effective for most people. Working with discipline and detachment is a faster way to grow than trying to forcefully 'quit' your responsibilities.
 
-**Neuroscience Perspective:** Krishna’s preference for ‘Yoga of Action’ recognizes that active engagement provides more ‘feedback data’ for the brain to learn detachment. It’s easier to train the ‘executive override’ in real-world scenarios than in a vacuum of inaction.
-
 **Common Misreading:** "Renunciation and karma yoga are two separate spiritual career tracks — choose one." Actually, Krishna has just said both lead to the *same* result; the preference for karma yoga is practical (suited to Arjuna’s current situation and temperament), not a permanent verdict that renunciation is inferior.
 
 ---
@@ -75,7 +71,7 @@ He should be known as a perpetual renouncer who neither hates nor desires. For o
 
 **Contemporary Relevance:** 'Internal Renunciation.' You don't have to go to a cave to be a 'renouncer.' True renunciation is a state of mind where you are no longer a slave to your 'likes and dislikes.' If you can work without hating the difficult parts or obsessing over the rewards, you are already free.
 
-**Neuroscience Perspective:** The 'perpetual renouncer' is someone whose brain is free from 'valence-bias' (neither hating nor desiring). By neutralizing the emotional charge of external events, the brain avoids the constant 'ping-pong' of stress and craving, leading to a state of 'functional freedom.'
+**Neuroscience Perspective:** Approach and avoidance motivations have distinct neural substrates and underwrite a large fraction of moment-to-moment behaviour (Elliot & Thrash, 2002). Acting without strong attraction or aversion — neither chasing nor recoiling — releases behaviour from the dominant pull of these competing systems.
 
 ---
 
@@ -95,8 +91,6 @@ Children, not the wise, speak of knowledge (*sāṅkhya*) and discipline (*yoga*
 
 **Contemporary Relevance:** 'Theory and Practice are One.' In modern education, we often separate 'studying' from 'doing.' Krishna says this is a mistake. Deep understanding (theory) and focused execution (practice) are two sides of the same coin. Real expertise requires both.
 
-**Neuroscience Perspective:** The unity of 'analytical knowledge' and 'disciplined action' highlights that the brain needs both a 'predictive model' (Sankhya) and 'active calibration' (Yoga). When theory and practice are integrated, the brain achieves a state of 'high-resolution competence.'
-
 ---
 
 ### 5.5
@@ -114,8 +108,6 @@ That state which is attained by the followers of knowledge is also reached by th
 **Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Seals the unity claim with a direct statement of identity: the goal attained by the sāṅkhya path and the goal attained by the yoga path are the same destination — whoever sees this oneness truly sees.
 
 **Contemporary Relevance:** 'Holistic Success.' Whether you reach success through intellectual brilliance or through sheer hard work, the 'peak' is the same. Recognizing that 'learning' and 'working' are the same process helps you move through life with more unity and less conflict.
-
-**Neuroscience Perspective:** Recognizing that 'study and work are one' eliminates 'cognitive silos.' When the brain sees every action as a learning opportunity and every insight as a call to action, it functions as a single, unified, and highly efficient system.
 
 ---
 
@@ -135,8 +127,6 @@ But renunciation, O mighty-armed one, is difficult to attain without yoga. The s
 
 **Contemporary Relevance:** 'Discipline before Freedom.' You can't just skip the hard work and go straight to 'enlightenment' or 'retirement.' Practicing discipline in your daily tasks is the necessary training ground for true mental freedom. Work is the gym for the soul.
 
-**Neuroscience Perspective:** The difficulty of 'renunciation without Yoga' is a lesson in 'neural scaffolding.' You can't just 'stop' the ego; you have to replace its functions with a new system of 'detached action.' Yoga provides the necessary training to make renunciation possible and sustainable.
-
 ---
 
 ### 5.7
@@ -154,8 +144,6 @@ He who is endowed with yoga, whose self is purified, who has mastered the self, 
 **Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Portraits the realized karma-yogi: internally purified, senses mastered, self identified with all beings — and announces the section's governing claim: such a person acts ceaselessly yet accumulates no karmic stain.
 
 **Contemporary Relevance:** 'The Empathetic High-Performer.' This is the profile of a perfect leader. They are disciplined (Yoga), honest (pure heart), self-controlled (mastered senses), and deeply empathetic (sees self in others). Because they act for the good of all and not for their own ego, they are never 'tainted' by the stress and politics of their work.
-
-**Neuroscience Perspective:** The 'Empathetic High-Performer' profile describes a brain with 'high global integration.' By identifying with the 'Self of all beings,' the person reduces their own 'ego-defense' activation, allowing for clear, powerful, and selfless behavior in any social system.
 
 **Common Misreading:** "Karma yoga is for householders and worldly people; only monks achieve true renunciation." Actually, the karma-yogin described here — purified, self-mastered, seeing all in the Self — is declared already free (*na lipyate*). The distinction is internal orientation, not social role or lifestyle.
 
@@ -177,7 +165,7 @@ paśyañ śṛṇvan spṛśañ jighrann aśnan gacchan svapañ śvasan || 8 ||
 
 **Contemporary Relevance:** 'Biological Detachment.' This is about recognizing that your body and your basic brain functions are automatic processes of nature. By realizing that 'You' (the awareness) are not the 'Source' of these mechanical actions, you gain a sense of peace and distance from your biological urges and habits.
 
-**Neuroscience Perspective:** Thinking 'I do nothing' while performing autonomic and sensory tasks is an act of 'meta-cognitive distancing.' The brain identifies itself as the 'Witness' rather than the 'Machine,' which prevents 'performance anxiety' and allows for effortless flow.
+**Neuroscience Perspective:** Self-distancing — taking a third-person rather than first-person perspective on one's own experience — reliably reduces affective reactivity and improves regulation (Kross & Ayduk, 2017). Treating one's actions as something the body-mind does, while the self merely witnesses, is a strong form of this distancing.
 
 ---
 
@@ -197,9 +185,9 @@ Speaking, excreting, grasping, opening the eyes, and closing the eyes, holding t
 
 **Contemporary Relevance:** 'Mindful Observation.' This is the ultimate 'Mindfulness' technique. Instead of saying 'I am talking,' you observe 'speech is happening.' Instead of saying 'I am angry,' you observe 'the sense of anger is arising.' This shift in perspective stops you from being 'hijacked' by your sensory experiences and emotions.
 
-**Neuroscience Perspective:** Recognizing that 'senses are operating among objects' is the First Principle of 'Mindfulness.' It treats thoughts and sensations as 'external data' rather than 'identity markers.' This shift prevents the brain from being 'hijacked' by every fleeting impulse or reaction.
+**Neuroscience Perspective:** A central mechanism of mindfulness practice is decentering: experiencing thoughts and sensations as transient mental events rather than as the self or its truth (Bishop et al., 2004; Fresco et al., 2007). Recognising "the senses act among their objects" without identifying with that activity is exactly this decentering move.
 
-> **Note:** Verses 8 and 9 provide a comprehensive list of physiological and autonomic functions to illustrate that bodily activity continues independent of egoic agency. The knower of truth dissociates the conscious principle (*puruṣa*) from the mechanical actions of nature (*prakṛti*).
+> **Note:** Verses 8 and 9 provide a comprehensive list of physiological and autonomic functions to illustrate that bodily activity continues independent of any felt self-authorship. The knower of truth dissociates the conscious principle (*puruṣa*) from the mechanical actions of nature (*prakṛti*).
 
 ---
 
@@ -219,8 +207,6 @@ He who acts by dedicating his actions to Brahman and abandoning attachment, is n
 
 **Contemporary Relevance:** 'Waterproof Integrity.' The lotus leaf stays in the mud and water but remains perfectly clean. Similarly, you can live in a 'dirty' or 'stressful' world, but if your work is a selfless offering and you aren't attached to your ego, the 'dirt' of the world will never stick to you. You remain pure and unaffected.
 
-**Neuroscience Perspective:** The 'lotus leaf' metaphor describes a state of 'affective immunity.' When work is done as a 'selfless offering,' the brain bypasses the 'ego-reward' system, meaning that even if the work occurs in a toxic or messy environment, it leaves no 'stress-residue' on the internal self.
-
 ---
 
 ### 5.11
@@ -238,8 +224,6 @@ With the body, with the mind, with the intellect, and even with the senses alone
 **Argument Arc:** *The Disciplined Actor (5.7–5.12)* — Specifies the full hierarchy of instruments — body, mind, intellect, senses — through which yogis act, making the purpose of all this activity explicit: not achievement, but self-purification.
 
 **Contemporary Relevance:** 'Work as Therapy.' We usually work to get something from the world. Krishna suggests working to remove something from ourselves—our biases, our ego, and our mental noise. This perspective turns even the most mundane job into a powerful tool for personal growth and mental health.
-
-**Neuroscience Perspective:** Acting only for 'purification of the self' is a strategy for 'internal optimization.' By shifting the goal from 'external gain' to 'internal clarity,' every task becomes a neural 'cleaning process' that prunes away biases and egoic distractions.
 
 ---
 
@@ -259,7 +243,7 @@ The disciplined man, having abandoned the fruit of action, attains ultimate peac
 
 **Contemporary Relevance:** 'Results-Oriented vs. Process-Oriented.' If you focus only on the 'win,' you are in a state of anxiety until you get it (and fear of losing it once you have it). If you focus on the 'process' and let go of the result, you find peace right now, in the middle of the work.
 
-**Neuroscience Perspective:** The difference between the 'disciplined' and 'undisciplined' is the focus on 'process vs. results.' A 'results-only' focus creates chronic 'cortisol-spikes' (anxiety). A 'process-only' focus creates a state of 'calm dopamine' (joy in the work), leading to ultimate peace.
+**Neuroscience Perspective:** Mastery-oriented goals — focused on task improvement — produce more stable affect and persistence than performance-oriented goals focused on outcome comparisons (Dweck, 1986; Elliot & McGregor, 2001). The verse's contrast between disciplined and undisciplined action tracks this distinction.
 
 ---
 
@@ -278,8 +262,6 @@ Having renounced all actions by the mind, the embodied one sits happily in the n
 **Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Introduces the governing metaphor: the self is a non-acting lord residing within the nine-gated city of the body, neither performing nor causing actions — shifting the argument from the ethics of action to the metaphysics of the self.
 
 **Contemporary Relevance:** 'The Resident Awareness.' Your body is like a high-tech vehicle (the nine-gated city) that you are 'living' in. By mentally detaching your identity from the vehicle's operations, you can enjoy the ride without the stress of thinking you *are* the machine. This is the secret to staying calm in a high-pressure physical environment.
-
-**Neuroscience Perspective:** Living in the 'nine-gated city' without thinking you are the 'Doer' is the peak of 'situational awareness.' You manage the 'body-machine' with total precision, but because you don't 'own' its failures or successes, you remain in a state of constant, internal 'Happiness.'
 
 **Common Misreading:** "The self renounces action by withdrawing from life into the body." Actually, the renunciation is *mental* — the self does not cause action and does not receive its fruits because it was never the true doer. The body continues to act; what changes is the identification of the witnessing self with those actions.
 
@@ -301,9 +283,7 @@ The Lord does not create agency or actions for the world, nor the connection wit
 
 **Argument Arc:** *The City of Nine Gates (5.13–5.17)* — Extends the non-doership claim from the individual self to the cosmic Lord: neither the personal self nor the divine principle creates agency, actions, or the fruits of action — it is nature's own momentum that moves everything.
 
-**Contemporary Relevance:** 'Natural Laws.' This is a scientific and philosophical 'First Principle.' The universe runs on its own internal logic and laws (physics, biology, psychology). God doesn't 'micromanage' your success; your results come from the natural interaction of your actions with the environment. Understanding this removes superstition and focuses us on mastering our 'nature.'
-
-**Neuroscience Perspective:** Recognizing that 'Nature is the real doer' is a lesson in 'biophysical realism.' It accepts that all physical and social systems follow their own inherent laws. This perspective removes the 'burden of the world' from the individual's ego, leading to a more relaxed and effective leadership style.
+**Contemporary Relevance:** Natural law as causal regularity. The universe runs on its own internal logic — physical, biological, social — and outcomes follow from how one's actions intersect with that logic. Recognising this displaces magical thinking and refocuses attention on understanding and working with the actual causes operating in a situation.
 
 > **Note:** This verse radically decenters the idea of an interventionist creator deity. The operations of the world are driven entirely by the autonomous mechanics of nature (*svabhāva* / *prakṛti*).
 
@@ -325,7 +305,7 @@ The omnipresent Lord does not take on the evil or the good deeds of anyone. Know
 
 **Contemporary Relevance:** 'The Neutrality of Reality.' The universe doesn't have a 'scorecard.' We create our own suffering through our lack of understanding. When we stop blaming 'luck' or 'fate' and start removing our own ignorance, we stop being 'bewildered' by life's events.
 
-**Neuroscience Perspective:** The 'neutrality of reality' describes the brain's 'projection bias.' We project 'good' and 'bad' onto neutral events. Wisdom involves removing these 'ignorant layers' to see reality as it actually is, which prevents 'bewilderment' and emotional over-reactivity.
+**Neuroscience Perspective:** Affective realism — the misattribution of one's own emotional state to objective features of the world — is a robust finding in contemporary affective science (Barrett, 2017). Wisdom in the Gītā's sense includes seeing through this projection: the events themselves are neutral; the colouring is supplied.
 
 ---
 
@@ -345,7 +325,7 @@ But for those in whom that ignorance of the self is destroyed by knowledge, thei
 
 **Contemporary Relevance:** 'The Solar Insight.' Once you truly understand a principle, you can't 'un-understand' it. That clarity changes how you see everything, just as sunrise changes how a landscape looks. Real knowledge is not just another fact; it's a new light that reveals the world as it actually is.
 
-**Neuroscience Perspective:** Knowledge as a 'rising sun' describes 'irreversible cognitive restructuring.' Once you truly understand a First Principle, your brain's 'threat-assessment' and 'reward-mapping' change forever. You no longer 'see' the world through the old lens of confusion.
+**Neuroscience Perspective:** Insight-driven re-representation can persist: once an event or category is genuinely reconceived, subsequent appraisals tend to default to the new interpretation (Kounios & Beeman, 2014). The verse's "rising sun of knowledge" image fits this kind of durable cognitive restructuring.
 
 ---
 
@@ -365,8 +345,6 @@ With intellect absorbed in That, their self identified with That, established in
 
 **Contemporary Relevance:** 'Total Alignment.' This is about having a single, unified purpose. When your thoughts, your identity, your habits, and your goals are all aligned with what is true and real, you become unstoppable and unshakeable. You no longer repeat the same old mistakes (non-return).
 
-**Neuroscience Perspective:** Total alignment (intellect, self, goal) describes a state of 'maximum neural coherence.' When all sub-systems of the brain are working toward a single, unified purpose, the internal 'noise' disappears, and the person becomes an unshakeable force of nature.
-
 ---
 
 ### 5.18
@@ -383,9 +361,9 @@ The wise look with an equal eye upon a brahmin endowed with learning and humilit
 
 **Argument Arc:** *The Vision of Equality (5.18–5.26)* — Launches the section's central vision with its most radical image: the sage's equal perception encompasses the full spectrum from the highest to the lowest — brahmin and outcaste, human and animal — grounded not in sentiment but in the recognition of one Brahman pervading all.
 
-**Contemporary Relevance:** 'Radical Equality.' This is the ultimate 'First Principle' of human rights and environmental ethics. Wisdom is the ability to look past social status, species, or appearance to see the fundamental life-energy that we all share. It’s the death of prejudice.
+**Contemporary Relevance:** Radical equality as a foundation for human-rights and environmental ethics. Wisdom is the capacity to look past social status, species, or appearance to recognise a shared underlying life. This recognition is the disposition that makes lasting prejudice impossible to sustain.
 
-**Neuroscience Perspective:** Seeing the same life-force in all beings is the ultimate 'prejudice-filter.' Neurally, this disables the 'in-group/out-group' bias of the amygdala, replacing it with a 'universal recognition' signal that is the foundation of total social and ethical integrity.
+**Neuroscience Perspective:** Inter-group bias is supported by automatic in-group/out-group categorisation (Mitchell, Macrae, & Banaji, 2006). Compassion-based contemplative training has been shown to reduce these biased responses (Kang, Gray, & Dovidio, 2014). The verse's "same self in all" framing prescribes a similar generalised regard.
 
 **Common Misreading:** "All beings are literally equal in every respect, so no distinctions should be made." Actually, the sage *sees* (*paśyati*) with equal perception — recognizing the same Brahman as the ground of all — but this metaphysical insight does not collapse all practical, ethical, or situational distinctions into sameness.
 
@@ -409,8 +387,6 @@ Even here on earth, creation is conquered by those whose minds are established i
 
 **Contemporary Relevance:** 'The Power of Neutrality.' 'Conquering the world' doesn't mean owning it; it means not being controlled by its fluctuations. If you can stay equal and steady in all situations, you have mastered life. You are living in a 'flawless' state because you no longer see things through the lens of judgment.
 
-**Neuroscience Perspective:** Conquering the world through 'equality' describes 'regulatory mastery.' If your mind remains steady regardless of external conditions, you have 'conquered' the environment's ability to control you. This is the definition of a 'flawless' mental state.
-
 ---
 
 ### 5.20
@@ -429,7 +405,7 @@ One should not rejoice upon obtaining what is pleasant, nor shudder upon obtaini
 
 **Contemporary Relevance:** 'Stoic Resilience.' This is the practice of 'not being a ping-pong ball' to external events. High-stakes leadership and high-quality living require the ability to receive both 'good news' and 'bad news' with the same level of calm focus and clear-headedness.
 
-**Neuroscience Perspective:** The 'Stoic' instruction to not rejoice or shudder describes 'emotional homeostasis.' By training the brain to have a 'neutral response' to both praise and blame, you preserve your cognitive energy for what really matters: your own duty and integrity.
+**Neuroscience Perspective:** Equanimity — meeting both positive and negative input without strong approach or aversion — is the regulatory orientation trained in mindfulness-based interventions and is associated with reduced amygdala reactivity (Desbordes et al., 2012). The verse prescribes this orientation toward both praise and disappointment.
 
 ---
 
@@ -449,7 +425,7 @@ He whose self is unattached to external contacts finds the happiness that is in 
 
 **Contemporary Relevance:** 'Intrinsic Happiness.' Most people look for happiness in 'external contacts'—the next purchase, the next vacation, the next like. Krishna says that real, 'imperishable' happiness is an internal state. By learning to be happy *with yourself* rather than *with things*, you become independent of the world's fluctuations.
 
-**Neuroscience Perspective:** Intrinsic happiness vs. external contact is the choice between 'endogenous' and 'exogenous' joy. By generating happiness from your own 'Yoga-connection' rather than from 'stuff,' you become a self-sufficient and un-bribable human being.
+**Neuroscience Perspective:** Eudaimonic well-being (meaning and engagement) is more stable across changing circumstances than hedonic well-being (pleasure from outside sources), and is supported by partially distinct neural correlates (Ryff, 1989; Heller et al., 2013). Yoga-generated joy maps onto the eudaimonic pole.
 
 ---
 
@@ -469,7 +445,7 @@ For the pleasures that are born of contact are merely sources of sorrow. They ha
 
 **Contemporary Relevance:** 'The Hedonic Treadmill.' Sensory pleasures (food, entertainment, thrills) are temporary by nature. The moment they end, they leave a gap that feels like sorrow or boredom. A wise person recognizes this pattern and doesn't mistake these temporary 'highs' for real fulfillment.
 
-**Neuroscience Perspective:** Pleasures as 'birthplaces of sorrow' is a diagnosis of 'hedonic adaptation.' Every temporary sensory high is followed by an equal and opposite low. Recognizing this 'wave-pattern' prevents the brain from being 'tricked' by temporary dopamine spikes.
+**Neuroscience Perspective:** Solomon's (1980) opponent-process theory characterises affective dynamics as paired: a strong positive response is followed by a compensating negative one as the system returns to baseline, often producing a net loss when the cycle repeats. Sensory pleasures, on this account, are reliable seeds for their own counter-state.
 
 **Common Misreading:** "The Gita forbids pleasure — all enjoyment is sinful." Actually, the verse diagnoses contact-born pleasures as *structurally* impermanent and therefore insufficient for lasting happiness — not morally forbidden. The teaching is about wise discrimination, not prohibition.
 
@@ -491,7 +467,7 @@ He who is able to endure here, before liberation from the body, the force born o
 
 **Contemporary Relevance:** 'Impulse Mastery.' Desire and anger are like sudden 'surges' of electricity. If you can stay steady and not be swept away by these internal 'waves,' you have reached the peak of human maturity. True happiness is the peace that remains when you are no longer a victim of your own impulses.
 
-**Neuroscience Perspective:** Withstanding the 'waves of desire and anger' is the peak of 'impulse inhibition.' If you can remain 'steady' (yukta) while these intense biological surges pass through your system, you have achieved the highest level of neural and personal maturity.
+**Neuroscience Perspective:** Inhibitory control — the ability to override prepotent urges — is a measurable executive function dependent on right inferior frontal cortex and pre-SMA (Aron, Robbins, & Poldrack, 2014). Holding steady while desire and anger surge is the trained form of this control.
 
 ---
 
@@ -510,8 +486,6 @@ He who finds happiness within, who rejoices within, and who likewise has his lig
 **Argument Arc:** *The Vision of Equality (5.18–5.26)* — Describes the highest expression of the interior life: the yogi who has made the self the sole source of joy, rest, and illumination has already become Brahman and attains brahmanirvāṇa — freedom in the Absolute, not after death but here.
 
 **Contemporary Relevance:** 'Self-Sufficient Joy.' This is the ultimate goal of personal development. Imagine not needing anyone or anything else to make you feel 'good' or 'bright.' When your source of light and joy is internal, you carry your own 'heaven' with you wherever you go.
-
-**Neuroscience Perspective:** The 'internal light' describes 'self-referential clarity.' Instead of looking outward for answers or validation, the brain looks inward to its own 'First Principles.' This 'inner glow' provides a permanent sense of direction and joy that is independent of external circumstances.
 
 > **Note:** *brahmanirvāṇa* — "extinction in Brahman." This combines the Buddhist concept of *nirvāṇa* (blowing out, extinction of the ego) with the Upaniṣadic absolute (*Brahman*).
 
@@ -533,7 +507,7 @@ The seers, whose stains are destroyed, whose dualities are severed, whose selves
 
 **Contemporary Relevance:** 'Service-Based Enlightenment.' True wisdom is not selfish. The final markers of a 'realized' person are self-control and a genuine desire to help others. Personal freedom and social contribution are perfectly linked.
 
-**Neuroscience Perspective:** Wise people who 'delight in the welfare of all' have achieve 'neural compassion.' Their reward system is no longer 'individual' but 'systemic.' They get their dopamine from seeing the 'whole system' succeed, which is a far more stable and healthy motivation.
+**Neuroscience Perspective:** Compassion-based training engages reward-related regions (medial orbitofrontal cortex, ventral striatum) when contemplating others' well-being (Klimecki et al., 2014). Taking joy in the welfare of all is, in this literature, both a virtue and a trainable affective profile.
 
 ---
 
@@ -553,8 +527,6 @@ For the ascetics who are free from desire and anger, whose minds are controlled,
 
 **Contemporary Relevance:** 'Omnipresent Freedom.' When you have mastered your internal world, the external world stops being a prison. You don't have to 'go' anywhere to be free; freedom is right here, right now, in every situation you find yourself in.
 
-**Neuroscience Perspective:** Absolute freedom existing 'everywhere' for the self-controlled means the 'brain-environment' boundary has dissolved. When you own your own mind, the external world stops being a source of 'stress' or 'bondage.' You are free in every direction you look.
-
 ---
 
 ### 5.27
@@ -571,9 +543,9 @@ Keeping external contacts outside, fixing the gaze between the eyebrows, making 
 
 **Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Pivots from the philosophical vision of equality to its embodied practice: the concrete postures of withdrawal — sensory exclusion, focused gaze, equalized breath — that constitute the meditating yogi's preparation and bridge the chapter toward the full meditation teaching of Chapter 6.
 
-**Contemporary Relevance:** 'The Focus Protocol.' This is a technical instruction for deep concentration. By physically and mentally 'unplugging' from the world and regulating our biology (breath), we create the physiological state necessary for deep thought and internal discovery.
+**Contemporary Relevance:** A technical instruction for deep concentration. By physically and mentally unplugging from the surrounding world and regulating one's biology (breath), the practitioner creates the physiological state needed for sustained thought and inward inquiry.
 
-**Neuroscience Perspective:** The 'Focus Protocol' describes 'sensory gating' and 'autonomic regulation.' By shutting out the 'outside' and regulating the 'inside' (breath), you create the optimal 'brain-state' for deep work, problem-solving, and existential discovery.
+**Neuroscience Perspective:** Reducing exteroceptive input and regulating the breath shifts attention inward and engages parasympathetic activity, producing measurable changes in heart-rate variability, cortisol, and self-reported calm (Brown & Gerbarg, 2005; Zaccaro et al., 2018). The verse's preparatory posture is a documented gateway to this internal-attention state.
 
 **Common Misreading:** "Meditation means blanking the mind of all content." Actually, the instruction is to *redirect* attention — withdrawing it from external objects and fixing it between the brows, while equalizing the breath. This is a re-orientation of attention, not suppression of consciousness.
 
@@ -595,8 +567,6 @@ The sage who has controlled his senses, mind, and intellect, who is intent on li
 
 **Contemporary Relevance:** 'The Definition of Freedom.' Freedom is not having everything you want; it is having nothing that can control you. If desire, fear, and anger no longer dictate your choices, you are the most powerful and free person on earth.
 
-**Neuroscience Perspective:** Mastery of senses, mind, and intellect is the state of 'top-level hierarchical control.' When desire, fear, and anger are no longer 'driving the bus,' the true Self is finally free to direct the human system toward its highest potential.
-
 ---
 
 ### 5.29
@@ -614,7 +584,5 @@ Knowing Me as the enjoyer of sacrifices and austerities, the great lord of all w
 **Argument Arc:** *Threshold of Meditation (5.27–5.29)* — Closes Chapter 5 by naming the object of the meditating yogi's knowing: Krishna as the enjoyer of all sacrifice and austerity, the great lord of worlds, and the friend of all beings — the recognition of which produces peace and sets the stage for Chapter 6's systematic meditation teaching.
 
 **Contemporary Relevance:** 'Universal Trust.' Peace comes from realizing that you are not alone and the universe is not hostile. When you see the fundamental reality as a 'friend' and the destination of all your work, your anxiety disappears and is replaced by a deep, grounded sense of security.
-
-**Neuroscience Perspective:** Knowing the Truth as 'the friend of all' is the ultimate 'trust signal.' This thought de-activates the brain's 'hyper-vigilance' and 'threat-detection' systems, replacing them with a deep, grounded sense of peace and universal cooperation.
 
 > **Note:** After chapters emphasizing impersonal principles (*Brahman*, *prakṛti*, *yoga*), Kṛṣṇa concludes with a starkly personal claim, setting the stage for the theology of devotion (*bhakti*) that unfolds later.

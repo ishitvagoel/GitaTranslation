@@ -28,7 +28,7 @@ Those devotees who, being ever-disciplined, worship You thus, and those who wors
 
 **Contemporary Relevance:** Concrete vs. Abstract. We all learn differently. Some people need a personal role model or a 'face' to focus on (Concrete), while others prefer pure logic and abstract principles (Abstract). Arjuna is asking which 'interface' for reality is more effective for human growth.
 
-**Neuroscience Perspective:** The choice between 'Personal' and 'Abstract' focus reflects the brain's 'representational preference.' Neurally, focusing on a personal form (Bhakti) leverages the 'social brain' and 'emotional safety' circuits, while focusing on the Absolute (Jnana) requires high-level abstract reasoning and 'non-dual' processing. Arjuna asks which is more effective for human growth.
+**Neuroscience Perspective:** Adolphs's and Lieberman's reviews of "social brain" circuitry — medial prefrontal cortex, temporo-parietal junction, the mentalizing network — show that humans process other minds with dedicated, highly automatic machinery. Abstract metaphysical objects recruit no such system. Arjuna's question is therefore not idle: it asks whether contemplation should engage the brain's specialised social hardware or attempt to operate without it.
 
 **Common Misreading:** "Devotees of the personal form are superior to worshippers of the formless." Actually, Krishna's answer affirms that devotees of the personal form are more easily established (*yuktatamāḥ*), not that worshippers of the formless are inferior or following an invalid path.
 
@@ -55,7 +55,7 @@ Those who, fixing their mind on Me, worship Me, ever-disciplined and endowed wit
 
 **Contemporary Relevance:** The Power of Single-Pointedness. Krishna favors the 'personal' path not because it's 'truer,' but because it’s easier for the human mind to focus on. 100% focus on a 'Divine Idea' or a 'Universal Guide' is the fastest way to achieve mental integration.
 
-**Neuroscience Perspective:** Krishna favors the 'personal' path because it is more 'neurally accessible.' By fixing the mind on a supreme Person, the brain uses its existing 'attachment and bonding' hardware to achieve a state of 'maximal attentional coherence' (faith), which is the most efficient path to mental integration.
+**Neuroscience Perspective:** Mikulincer and Shaver's adult-attachment research shows that representations of a secure attachment figure reliably down-regulate stress responses and free attention for other tasks. Krishna's recommendation of devotion to a personal form is, in this light, the recruitment of already-existing attachment circuitry for the work of stabilising attention — a more efficient route than attempting to bypass it.
 
 ---
 
@@ -74,8 +74,6 @@ But those who worship the imperishable, the undefinable, the unmanifest, the omn
 **Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Advances the argument: But those who focus on the unchanging, invisible, and everywhere-present Absolute—the unthinkable, unmoving, and eternal Truth.
 **Contemporary Relevance:** Contemplating the Infinite. This describes the path of 'Pure Logic' or 'Transcendental Meditation.' It involves looking past all symbols and forms to connect with the raw, underlying reality of the universe. It is a valid but difficult path.
 
-**Neuroscience Perspective:** Focusing on the 'unchanging and unmanifest' Absolute involves 'top-down cognitive inhibition' of sensory data. Neurally, this is the attempt to reach a state of 'zero-representation,' where the brain stops processing specific 'forms' and instead connects with the underlying 'Source Code' of reality.
-
 ---
 
 ### 12.4
@@ -91,9 +89,9 @@ Having entirely restrained the group of senses, with equal understanding everywh
 **Simple Translation:** ...by controlling their senses and having an equal mind toward everyone, while delighting in helping all living beings—they too reach Me.
 
 **Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Advances the argument: ...by controlling their senses and having an equal mind toward everyone, while delighting in helping all living beings—they too re.
-**Contemporary Relevance:** The Ethical Universal. Regardless of your philosophy (personal or abstract), the 'output' must be the same: self-control, mental balance, and a desire to help others. Service to others is the 'First Principle' that validates any spiritual path.
+**Contemporary Relevance:** The Ethical Universal. Regardless of your philosophy (personal or abstract), the 'output' must be the same: self-control, mental balance, and a desire to help others. Service to others is the foundational marker that validates any spiritual path.
 
-**Neuroscience Perspective:** Self-control, equanimity, and 'delighting in the welfare of all' are the 'behavioral outputs' of an optimized brain. Regardless of the chosen path, the First Principle of 'neural compassion' ensures that the individual functions as a high-integrity, pro-social unit in the universal system.
+**Neuroscience Perspective:** Singer and Klimecki's compassion-training studies show that sustained practice of caring for others' welfare strengthens insular and medial-prefrontal regions associated with prosocial motivation, and is distinguishable in both phenomenology and brain activity from passive empathic distress. The "behavioural output" Krishna names — restraint, equanimity, active concern for the welfare of all — is therefore not an incidental side-effect of either path but the trainable signature of a stably regulated, other-attuned mind.
 
 ---
 
@@ -112,7 +110,7 @@ Greater is the tribulation for those whose minds are attached to the unmanifest;
 **Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Closes the section with however, the struggle is much greater for those focused on the invisible Absolute, completing the argument's arc.
 **Contemporary Relevance:** Psychological Realism. We are biological beings with senses. Trying to ignore our biology and focus only on the 'invisible' is like trying to swim against a very strong current. Krishna warns that while it's possible, it is much more difficult than having a 'human-scale' focus.
 
-**Neuroscience Perspective:** The 'greater struggle' for those focused on the invisible Absolute reflects 'biological constraint.' The human brain is evolutionarily wired to perceive 'objects and forms.' Trying to override these primal visual and conceptual filters is neurally 'expensive' and prone to failure for those living in a physical body.
+**Neuroscience Perspective:** The human ventral visual stream and the broader cognitive system are organised around object recognition: from infancy, perception privileges bounded, persisting entities. Sustained contemplation of the formless asks the mind to operate without the very anchors its perceptual machinery was built around — which is consistent with the verse's observation that this path involves a "greater toil" for embodied beings.
 
 **Common Misreading:** "Devotion to a formless Absolute is impossible for embodied beings." Actually, the verse says it is *more difficult* (*duḥkham*) for those in a body — harder, not impossible; it is the harder path, not an invalid one.
 
@@ -192,7 +190,7 @@ If, however, you are not able to establish your mind steadily on Me, then seek t
 **Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Advances the argument: If you are not able to keep your mind steady on Me right away, then try to reach Me through the 'Yoga of Practice' (Abhyasa-yoga), Arjuna.
 **Contemporary Relevance:** The Repetition Fail-Safe. If you can't focus perfectly, don't give up. Use practice (repetition). Every time your mind wanders, bring it back. This 're-centering' is the gym for your attention muscle.
 
-**Neuroscience Perspective:** The 'Yoga of Practice' (Abhyāsa-yoga) is the First Principle of 'Neuroplasticity.' If you cannot focus perfectly, you use repetition to 'carve new neural grooves.' Every time you re-center your mind, you are strengthening the 'regulatory pathways' of the prefrontal cortex.
+**Neuroscience Perspective:** Pascual-Leone's and Maguire's neuroplasticity studies — and decades of motor-skill learning research — show that repeated, intentional practice produces measurable changes in the cortical regions that support the practised function. Abhyāsa-yoga is exactly this principle applied to attention: each re-centering of the mind is a rehearsal that strengthens the neural circuits responsible for noticing distraction and returning to focus.
 
 ---
 
@@ -228,9 +226,9 @@ If you are unable to do even this, taking refuge in My yoga, then, with controll
 **Simple Translation:** If you find even this too hard, then simply take refuge in My discipline and learn to give up the obsession with the results of your actions.
 
 **Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Advances the argument: If you find even this too hard, then simply take refuge in My discipline and learn to give up the obsession with the results of your actions.
-**Contemporary Relevance:** The Ultimate Entry-Level. This is the most accessible First Principle: 'Just let go of the result.' If you can't focus, and you can't do 'sacred' work, then just do your normal work but stop obsessing over the reward. This single change will begin your transformation.
+**Contemporary Relevance:** The Ultimate Entry-Level. This is the most accessible foundational practice: 'Just let go of the result.' If you can't focus, and you can't do 'sacred' work, then just do your normal work but stop obsessing over the reward. This single change will begin your transformation.
 
-**Neuroscience Perspective:** Abandoning 'obsession with results' is the 'ultimate neural reset.' Neurally, the 'fear of failure' and 'greed for success' are major sources of 'noise' in the system. Letting go of results de-activates these noisy circuits, resulting in immediate internal 'Peace.'
+**Neuroscience Perspective:** Sapolsky's work on chronic stress shows that anticipatory worry about outcomes — the recurrent question "will it go well?" — keeps the HPA axis activated long after any actual threat has passed. Releasing attachment to the result interrupts precisely this anticipatory circuit, which is why the practice produces felt relief disproportionate to the size of the cognitive change involved.
 
 > **Note:** Verses 8-11 outline a descending hierarchy of spiritual practices, accommodating varying levels of human capability: from spontaneous mental absorption (highest), to disciplined meditation, to dedicated religious action, to the ethical renunciation of the fruits of ordinary action (the most accessible).
 
@@ -251,8 +249,6 @@ For knowledge is better than mere practice; meditation is superior to knowledge;
 **Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Closes the section with wisdom is better than blind practice; meditation is better than mere wisdom; but letting go of the results of action is better than meditation, because it brings peace immediately, completing the argument's arc.
 **Contemporary Relevance:** The Shortcut to Peace. This is a radical statement. Why is 'letting go of results' (Tyaga) ranked highest? Because it is the most practical. You can do it *right now*. While wisdom and meditation take time to master, stopping your obsession with the 'win' gives you instant mental relief.
 
-**Neuroscience Perspective:** The hierarchy 'Knowledge < Meditation < Abandoning Results' recognizes 'practical efficiency.' Abandoning results (Tyāga) is ranked highest because it is 'neurally immediate.' It provides an instant state of peace by shutting down the 'anticipatory stress' circuits, making it the most powerful tool for mental health.
-
 **Common Misreading:** "Abstract knowledge is always superior to practice." Actually, the hierarchy in 12.11–12.12 climaxes with *renouncing the fruits of action* as the highest — above theoretical knowledge.
 ---
 
@@ -269,9 +265,9 @@ He who hates no being, who is friendly and compassionate, free from possessivene
 **Simple Translation:** One who hates no one, who is friendly and kind to all, who doesn't say 'this is mine' or 'I am great,' who stays steady in both pain and pleasure, and who is patient...
 
 **Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Opens the section by establishing one who hates no one, who is friendly and kind to all, who doesn't say 'this is mine' or 'I am great,' who stays steady in both pain and pleasure, and who is patient.
-**Contemporary Relevance:** The Anatomy of a Great Character. Krishna starts listing the traits of a person he 'loves.' Notice these are all 'First Principles' of human psychology: No hatred (clarity), No ego (humility), and Equanimity (stability).
+**Contemporary Relevance:** The Anatomy of a Great Character. Krishna starts listing the traits of a person he 'loves.' Notice these are all foundational traits of human psychology: No hatred (clarity), No ego (humility), and Equanimity (stability).
 
-**Neuroscience Perspective:** Hating no one and being 'friendly and kind' describes 'limbic system regulation.' By de-activating the 'aggression and in-group/out-group' biases, the brain achieves a state of 'social-neural harmony.' The lack of ego ('this is mine') reduces the 'self-referential' load on the brain.
+**Neuroscience Perspective:** Hostinar, Sullivan, and Gunnar's work on social-buffering and Eisenberger's research on social-rejection circuitry together show that hostility — both received and broadcast — drives sustained HPA activation, while warm affiliation reliably calms it. A baseline of friendliness and absence of enmity is therefore not only an ethical posture but a chronic-stress intervention, lowering the allostatic load the body otherwise carries.
 
 ---
 
@@ -328,8 +324,6 @@ He who is free from expectations, pure, capable, impartial, free from distress, 
 **Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: One who has no selfish expectations, who is pure, capable, neutral, and free from worry—and who has given up all selfish projects—that person is dear to Me.
 **Contemporary Relevance:** The Competent Neutral. This is a rare combination: being both 'capable' (daksha) and 'neutral' (udasina). Most capable people are highly biased and stressed. A true master is brilliant at their work but completely calm and unattached to the drama of it.
 
-**Neuroscience Perspective:** Being 'neutral and free from worry' identifies the 'competent neutral' state. Neurally, the brain remains 'capable' (daksha) but 'neutral' (udāsīna). You execute the task with high precision but with zero 'egoic friction,' meaning the work doesn't cause you stress.
-
 ---
 
 ### 12.17
@@ -347,8 +341,6 @@ He who neither rejoices nor hates, who neither grieves nor desires, who abandons
 **Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: One who neither celebrates nor hates, who neither grieves nor craves, who has risen above both 'good' and 'bad' luck, and who is full of devotion—that person is dear to Me.
 **Contemporary Relevance:** The End of the Emotional Rollercoaster. Most people spend their lives bouncing between 'Yay!' and 'No!'. Rising above these dualities means you have found a deeper source of meaning that is more stable than your temporary circumstances.
 
-**Neuroscience Perspective:** Rising above 'celebration, hatred, grief, and craving' describes 'valence-neutralization.' The brain accepts 'highs' and 'lows' without letting them 'hijack' its fundamental peace. You move from an 'emotional rollercoaster' to a 'steady-state' of deep meaning.
-
 ---
 
 ### 12.18
@@ -365,8 +357,6 @@ Equal to enemy and friend, and likewise in honor and dishonor, equal in cold and
 
 **Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: One who treats enemies and friends the same, and stays equal in both praise and insult, and remains the same in heat and cold, pleasure and pain, without any attachment.
 **Contemporary Relevance:** Objectivity in Relationship. Most of our 'truth' is filtered through our relationships. If someone is a 'friend,' we believe them; if an 'enemy,' we don't. Real wisdom is being able to see the 'data' correctly, regardless of who provided it or how it affects our ego.
-
-**Neuroscience Perspective:** Equality in 'friend/enemy and praise/insult' describes 'objectivity in social processing.' Neurally, you have de-coupled your 'self-worth' from 'external feedback.' You see the 'data' of the world clearly without the 'distortion' of personal ego.
 
 ---
 

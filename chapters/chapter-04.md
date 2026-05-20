@@ -371,7 +371,7 @@ He who sees inaction in action, and action in inaction — he is intelligent amo
 
 **Common Misreading:** "Non-action (*akarman*) means physical inactivity or withdrawal from work." Actually, the verse defines non-action as acting without the sense of being the ego-owner of the act — it is a quality of inner relationship to action, not its physical absence.
 
-> **Note:** The central paradox of Karma Yoga. Inaction in action refers to the absence of egoic agency during performance; action in inaction refers to the subtle mental activity that persists even during physical stillness.
+> **Note:** The central paradox of Karma Yoga. Inaction in action refers to the absence of ego-owned agency during performance; action in inaction refers to the subtle mental activity that persists even during physical stillness.
 
 ---
 

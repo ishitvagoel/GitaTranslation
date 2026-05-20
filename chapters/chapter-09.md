@@ -26,9 +26,9 @@ To you, who are free from malice, I shall declare this most profound secret: kno
 
 **Argument Arc:** *The Royal Secret (9.1–9.3)* — Opens the chapter with a promise calibrated to the listener: because Arjuna is free from malice (*anasūyave*), he is fit to receive the most confidential teaching, pairing the content (supreme knowledge) with the prerequisite disposition required to receive it.
 
-**Contemporary Relevance:** Open-mindedness as a prerequisite. Deep wisdom can only be shared with someone who is 'anasuyave' (free from the habit of complaining and judging). When you approach learning with a clear, unbiased mind, you can receive the 'First Principles' that solve life's biggest problems.
+**Contemporary Relevance:** Open-mindedness as a prerequisite. Deep teaching only lands with a listener free from chronic complaint and pre-judgement (anasūyave). Approaching learning with a clear, unbiased mind is what makes it possible to receive the structural insights that resolve life's harder questions.
 
-**Neuroscience Perspective:** Teaching the 'deepest secret' to one who is 'non-judgmental' (anasuyave) highlights the role of 'open-mindedness' in cognitive restructuring. Neurally, a judgmental mind is closed to new data due to pre-existing 'confirmation bias.' Removing this bias is the first step to receiving transformative information.
+**Neuroscience Perspective:** Confirmation bias — the tendency to attend to evidence supporting prior beliefs and discount contradicting evidence — is one of the most robust documented biases (Nickerson, 1998). A prior orientation of openness rather than dismissal is the precondition for new information actually being assimilated.
 
 ---
 
@@ -48,7 +48,7 @@ This is the royal knowledge, the royal secret, the supreme purifier; to be under
 
 **Contemporary Relevance:** The Attributes of Real Truth. Any philosophy worth your time should be: 1. Practical (experiential), 2. Ethical (dharma), 3. Joyful (not a miserable burden), and 4. Sustainable (imperishable). If a 'solution' doesn't have these qualities, it’s not the 'Royal Knowledge.'
 
-**Neuroscience Perspective:** The 'Royal Knowledge' being 'joyful to practice' (susukhaṃ kartum) describes 'intrinsic motivation.' When a system of thought provides immediate experiential rewards (joy) and aligns with the brain's internal logic (Dharma), the 'learning-rate' is maximized and the behavior becomes self-sustaining.
+**Neuroscience Perspective:** Intrinsically motivated activity — engagement driven by the activity's own value rather than external reward — produces more durable learning and persistence than extrinsically motivated activity (Deci & Ryan, 2000). A practice described as joyful in itself recruits this stronger motivational profile.
 
 ---
 
@@ -68,8 +68,6 @@ Men who lack faith in this *dharma*, O scorcher of foes, failing to attain Me, r
 
 **Contemporary Relevance:** The Cost of Cynicism. If you don't trust the fundamental laws of reality (like focus and integrity), you can't use them to grow. You remain stuck in the same old patterns and mistakes, never reaching a state of permanent freedom.
 
-**Neuroscience Perspective:** The 'lack of trust' leading back to the cycle of death describes the state of 'cognitive stagnation.' Neurally, without trust in higher principles, the brain defaults to its primitive survival instincts and repetitive emotional loops, preventing any real evolution of consciousness.
-
 ---
 
 ### 9.4
@@ -87,8 +85,6 @@ By Me, in My unmanifest form, this entire universe is pervaded. All beings are s
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — States the foundational paradox that the entire section will unpack: all beings exist within Krishna yet Krishna does not exist within them — asserting his unmanifest pervasion of the universe while simultaneously refusing to be contained by it.
 
 **Contemporary Relevance:** The 'Operating System' of the Universe. Think of the Absolute as the 'space' in which everything happens. Everything is 'in' space, but space is not 'in' the things it contains. Recognizing this helps us see that we are part of a massive, divine context.
-
-**Neuroscience Perspective:** All beings existing in the 'unmanifest form' of the Absolute describes the 'systemic context' of reality. Neurally, this encourages a 'field-based' model of identity—realizing that you are an individual unit within a much larger, invisible field of laws and energy.
 
 **Common Misreading:** "Krishna literally pervades all physical matter like a substance filling space." Actually, *tatam* (pervading) refers to the ground of being — brahman as the unmanifest foundation of existence, not a material substance filling space.
 
@@ -109,9 +105,7 @@ And yet beings are not situated in Me; behold My divine mystic power (*yoga*)! M
 **Simple Translation:** And yet, in truth, beings do not even exist within Me—look at my divine mystery! I am the sustainer and the creator of all beings, yet My true self is not dependent on them.
 
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Advances the argument: And yet, in truth, beings do not even exist within Me—look at my divine mystery!.
-**Contemporary Relevance:** The Independence of Truth. This is a deep 'First Principle' of existence. The Truth creates and supports our world, but it doesn't *need* our world to be true. This radical independence is what makes the Absolute reality unshakeable and reliable.
-
-**Neuroscience Perspective:** The independence of the Absolute from beings describes 'non-contingent reality.' This is a First Principle of 'Ontological Security.' Knowing that the Truth is not dependent on temporary material outcomes provides a stable 'baseline' for the mind that external chaos cannot touch.
+**Contemporary Relevance:** The independence of the source. The Truth sustains the world but does not depend on the world to be what it is. That asymmetry — supporting without being supported — is what makes the underlying reality reliable in a way nothing contingent ever can be.
 
 > **Note:** Immediately after stating that all beings are in Him, Kṛṣṇa paradoxically retracts it. From the absolute standpoint, the manifested world is an illusion (*māyā*); thus, beings do not have ultimate reality within Him.
 
@@ -132,8 +126,6 @@ Just as the mighty wind, moving everywhere, rests eternally in space, so do all 
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Advances the argument: Understand that just as the powerful wind always stays within the vastness of space while moving everywhere, so do all living beings exist within Me.
 **Contemporary Relevance:** Freedom within Order. We have the freedom to 'move' and act (like the wind), but we are always within the 'laws' of the universe (space). Understanding this relationship between individual freedom and universal law is the key to living wisely.
 
-**Neuroscience Perspective:** The 'wind in space' metaphor describes 'freedom within constraint.' Neurally, this represents our individual agency (the wind) operating within the universal laws of physics and morality (space). We are free to move, but our 'envelope of movement' is always governed by the Truth.
-
 ---
 
 ### 9.7
@@ -150,8 +142,6 @@ All beings, O son of Kuntī, go into My material nature (*prakṛti*) at the end
 
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Advances the argument: Arjuna, at the end of a vast age, all beings dissolve back into my nature; and at the start of a new age, I bring them forth again.
 **Contemporary Relevance:** The Ultimate Cycle. Everything in the universe has a 'reset' button. From the life of a star to the lifecycle of an idea, everything returns to its source before starting fresh. Accepting these large-scale 'resets' helps us deal with the smaller endings in our own lives.
-
-**Neuroscience Perspective:** Beings dissolving and re-emerging from 'My nature' describes the 'macro-cycles of energy.' Neurally, this helps accept the 'death' of old projects, ideas, or lives as a natural 'recycling' of information before it is re-encoded into new forms.
 
 **Common Misreading:** "The universe is literally destroyed and rebuilt by God as an engineer's project." Actually, the dissolution and manifestation describe the cosmic rhythm of appearance and withdrawal — not a mechanical blueprint but the dynamic of manifestation itself flowing from one divine source.
 
@@ -172,7 +162,7 @@ Commanding My own nature (*prakṛti*), I send forth again and again this entire
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Advances the argument: Using my own natural power, I repeatedly create this entire multitude of beings, who are essentially helpless under the laws of nature.
 **Contemporary Relevance:** Recognizing Biological Laws. Our bodies and brains are 'helpless' in the sense that they follow the laws of biology and physics. Recognizing this 'mechanical' side of our existence helps us stop taking our moods and urges so personally and instead learn to master the 'nature' that drives them.
 
-**Neuroscience Perspective:** Creating beings who are 'helpless' under the laws of nature describes the 'deterministic' side of biology. Most of our physiological and psychological responses are 'automatic.' Recognizing this 'helplessness' is the first step toward using 'Yoga' to gain a degree of conscious control.
+**Neuroscience Perspective:** A large fraction of human behaviour proceeds outside conscious deliberation, driven by habit and automatic processing (Bargh & Chartrand, 1999). Recognising this default of automaticity is the precondition for the deliberate, regulatory practice the chapter prescribes.
 
 ---
 
@@ -191,8 +181,6 @@ And these actions do not bind Me, O winner of wealth; sitting as one indifferent
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Advances the argument: Arjuna, these actions do not trap me, because I remain unattached and indifferent to them, like a neutral observer.
 **Contemporary Relevance:** The Power of the Observer. When you can watch your own work and life like a 'neutral observer,' you stop being 'trapped' by the stress and drama. This 'indifference' isn't laziness; it's the high-level perspective that allows you to act without being destroyed by the outcomes.
 
-**Neuroscience Perspective:** Being 'unattached and indifferent' like a neutral observer is the peak of 'meta-cognitive detachment.' By observing the massive transformations of the universe without 'egoic interference,' the Absolute models the perfect 'internal state' for an effective leader.
-
 ---
 
 ### 9.10
@@ -209,8 +197,6 @@ With Me as the overseer, nature produces the moving and the unmoving. By this ca
 
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Closes the section with with Me as the supervisor, nature creates everything that moves and everything that stays still, completing the argument's arc.
 **Contemporary Relevance:** The Supervisor Principle. There is an 'intelligence' behind the laws of nature. By aligning ourselves with this underlying intelligence (the supervisor), we can work *with* the world rather than *against* it. Success is a result of following the supervisor's rules.
-
-**Neuroscience Perspective:** Nature creating under the 'supervision' of the Absolute describes 'intelligent design' at a systemic level. It suggests that the laws of physics are not random but follow a 'higher logic' (the supervisor). Aligning with this logic is the key to 'predictive success' in life.
 
 ---
 
@@ -229,7 +215,7 @@ The deluded despise Me when I have taken a human form, not knowing My supreme na
 **Argument Arc:** *The Deluded Miss the Divine (9.11–9.12)* — Opens the section by establishing confused people look down on Me because I have appeared in a human body; they don't recognize my supreme nature as the Lord of all existence.
 **Contemporary Relevance:** Mistaking the Form for the Essence. People often judge a great idea, a great person, or a great opportunity based on its 'packaging.' Wisdom is the ability to look past the human or material form to see the 'supreme nature' and value hidden within.
 
-**Neuroscience Perspective:** Mistaking the 'Source' for a 'Human Form' is a 'representational error.' The brain easily gets stuck on 'symbols' and 'avatars,' forgetting the 'Infinite Principle' they represent. Wisdom is the ability to maintain the 'essence-focus' even when the form is mundane.
+**Neuroscience Perspective:** Concrete forms are processed faster and remembered more easily than abstract ones (Paivio, 1986), which is also the route by which symbols are mistaken for what they symbolise. The verse warns against this collapse of abstract referent into its concrete vehicle.
 
 **Common Misreading:** "Krishna's divine nature is hidden inside His human form." Actually, the divine is not hidden but unrecognized — those who fail to see it are clouded by delusion (*mohitaṃ*). The supreme nature is fully present and fully visible to those whose perception is not obstructed.
 
@@ -248,9 +234,7 @@ Of vain hopes, of vain actions, of vain knowledge, devoid of discrimination, the
 **Simple Translation:** Having useless hopes, doing useless work, and possessing useless knowledge, these people lose their ability to reason and take on a destructive and deluded nature.
 
 **Argument Arc:** *The Deluded Miss the Divine (9.11–9.12)* — Closes the section with having useless hopes, doing useless work, and possessing useless knowledge, these people lose their ability to reason and take on a destructive and deluded nature, completing the argument's arc.
-**Contemporary Relevance:** The Vicious Cycle of Superficiality. If your goals (hopes), your work (karma), and your information (knowledge) are all superficial ('mogha'), you eventually lose your clarity and become a destructive force. This is a warning to ensure your efforts are rooted in 'First Principles' and not just 'noise.'
-
-**Neuroscience Perspective:** Useless hopes, work, and knowledge describe 'informational noise.' When the brain is filled with 'Mogha' (empty/futile) data, its processing power is wasted, leading to a state of 'functional delusion' where the person can no longer tell truth from fiction.
+**Contemporary Relevance:** The cycle of superficiality. When one's goals (hopes), work (karma), and information (knowledge) are all "mogha" — empty, futile, untethered — clarity erodes and behaviour becomes destructive. The verse is a warning to keep effort rooted in something real, not in noise.
 
 ---
 
@@ -269,8 +253,6 @@ But the great souls, O Pārtha, resorting to My divine nature, worship Me with a
 **Argument Arc:** *The Great Souls (9.13–9.15)* — Opens the section by establishing but the great souls, Arjuna, who live in accordance with divine nature, focus on Me with an undivided mind, knowing that I am the eternal source of everything.
 **Contemporary Relevance:** The Virtuous Cycle of Depth. When you align your life with 'divine nature' (integrity, truth, service), your mind becomes focused and powerful. You stop being distracted because you know you are connected to the 'eternal source' of all value.
 
-**Neuroscience Perspective:** Great souls focus with 'undivided mind' describes 'maximal neural coherence.' When your identity is rooted in 'Divine Nature' (Truth and Integrity), your brain stops 'wasting cycles' on ego-defense and focuses entirely on the 'Source' of all value.
-
 ---
 
 ### 9.14
@@ -286,9 +268,7 @@ Constantly glorifying Me and striving with firm resolve, bowing down to Me with 
 **Simple Translation:** Always speaking of the Truth, striving with firm determination, and being humble and devoted, they stay constantly connected to Me.
 
 **Argument Arc:** *The Great Souls (9.13–9.15)* — Advances the argument: Always speaking of the Truth, striving with firm determination, and being humble and devoted, they stay constantly connected to Me.
-**Contemporary Relevance:** The Daily Habits of Greatness. 1. Speak truth. 2. Work hard. 3. Stay humble. 4. Stay focused. These are the four 'First Principles' of a successful and connected life. They are simple to understand but powerful when practiced 'constantly.'
-
-**Neuroscience Perspective:** Constant practice (satatam) and firm resolve describe 'synaptic strengthening.' By repeatedly speaking the truth and striving with discipline, you build a 'neural fortress' of integrity that becomes unshakeable and always connected to the Source.
+**Contemporary Relevance:** The daily habits of greatness. Speak truth, work hard, stay humble, stay focused. The verse compresses these into a simple practice ledger — each item ordinary on its own, but unusually powerful when applied consistently.
 
 ---
 
@@ -307,7 +287,7 @@ And others, sacrificing through the sacrifice of knowledge, worship Me in unity,
 **Argument Arc:** *The Great Souls (9.13–9.15)* — Closes the section with others contribute through the 'sacrifice of knowledge,' seeing Me as the One, as the Many, and as the universal presence that faces in every direction, completing the argument's arc.
 **Contemporary Relevance:** Cognitive Flexibility. Real wisdom means being able to see the Truth in three ways: as a single unified principle (the One), as diverse expressions (the Many), and as an all-pervading environment (faces every direction). This flexibility allows you to navigate any situation with clarity.
 
-**Neuroscience Perspective:** Seeing the Truth as 'the One, the Many, and the All' describes 'cognitive multi-stability.' It’s the ability to switch between 'micro' (the individual), 'macro' (the universe), and 'essence' (the One) perspectives without losing clarity. This is the hallmark of a high-level intellect.
+**Neuroscience Perspective:** Skilled multi-level reasoning involves the ability to shift representational scale — from concrete instances up to abstract categories and back — a capacity Trope and Liberman (2010) characterise as construal-level flexibility. The verse's "One, many, and all" describes this trained breadth of representation.
 
 ---
 
@@ -325,8 +305,6 @@ I am the Vedic rite; I am the sacrifice; I am the offering to the ancestors; I a
 
 **Argument Arc:** *Krishna Is Everything (9.16–9.19)* — Opens the section by establishing I am the ritual, I am the sacrifice, I am the offering, I am the herb, I am the mantra, I am the butter, I am the fire, and I am the act of pouring.
 **Contemporary Relevance:** Total Integration. There is no 'holy' part of a task vs. a 'mundane' part. In a project, the strategy (ritual), the effort (sacrifice), the tools (butter), and the execution (fire) are all part of the same Truth. When you see the 'divine' in every detail, your work becomes perfect.
-
-**Neuroscience Perspective:** Identifying as the 'ritual, sacrifice, fire, and act' describes 'total process integration.' In this state, the brain no longer distinguishes between 'the tool,' 'the user,' and 'the task.' Everything is seen as a single, unified expression of the same universal Law.
 
 > **Note:** Kṛṣṇa equates himself with every component of the ancient Vedic ritual, fundamentally shifting the focus from the mechanics of the ritual to the divine presence within it.
 
@@ -347,7 +325,7 @@ I am the father of this world, the mother, the sustainer, the grandfather. I am 
 **Argument Arc:** *Krishna Is Everything (9.16–9.19)* — Advances the argument: I am the father, mother, sustainer, and ancestor of this world.
 **Contemporary Relevance:** The Archetypal Source. Every role that provides support, structure, or origin comes from the same Absolute principle. Recognizing this universal 'parental' and 'purifying' energy in the world helps us feel supported and grounded in everything we do.
 
-**Neuroscience Perspective:** The Absolute as 'Father, Mother, and Ancestor' provides 'relational security.' Neurally, these archetypes activate the deepest 'bonding and safety' circuits in the brain, making the search for Truth feel like a 'homecoming' rather than a cold intellectual exercise.
+**Neuroscience Perspective:** Attachment-theory research (Bowlby, 1969; Mikulincer & Shaver, 2007) finds that the felt presence of a reliable caregiver-figure activates safety systems and dampens threat-related responding. Relating to the ultimate ground as parent or ancestor recruits this same affective machinery in service of inquiry.
 
 ---
 
@@ -364,9 +342,7 @@ I am the goal, the supporter, the Lord, the witness, the abode, the refuge, the 
 **Simple Translation:** I am the goal, the supporter, the master, the witness, the home, the refuge, the friend, the beginning, the end, the foundation, and the eternal seed.
 
 **Argument Arc:** *Krishna Is Everything (9.16–9.19)* — Advances the argument: I am the goal, the supporter, the master, the witness, the home, the refuge, the friend, the beginning, the end, the foundation, and the eternal seed.
-**Contemporary Relevance:** The Ultimate Multi-Tool. This verse lists the 11 roles the Truth plays in our lives. Whether you need a 'friend,' a 'witness,' a 'foundation,' or a 'refuge,' the Truth is that for you. It’s a call to rely on 'First Principles' for every human need.
-
-**Neuroscience Perspective:** Truth as 'Goal, Witness, Friend, and Refuge' provides a 'comprehensive support system.' Whether you need a 'target' (goal), 'validation' (witness), or 'safety' (refuge), the First Principles of reality provide all of them. It is the 'Universal Toolkit' for the mind.
+**Contemporary Relevance:** A multifaceted ground. The verse lists eleven roles the underlying reality plays for the practitioner — goal, sustainer, witness, friend, refuge, foundation, and so on. The point is that the search for stability does not require a different anchor for each need; one ground supplies them all.
 
 ---
 
@@ -384,8 +360,6 @@ I give heat; I withhold and send forth the rain. I am immortality and also death
 
 **Argument Arc:** *Krishna Is Everything (9.16–9.19)* — Closes the section with I provide the heat and the rain; I am immortality and I am death; I am that which exists and that which does not yet exist, Arjuna, completing the argument's arc.
 **Contemporary Relevance:** The Unity of Opposites. Success and failure, life and death, 'is' and 'is not'—all of these are different faces of the same reality. By accepting both sides of every duality, we reach a state of equanimity where we are no longer afraid of 'death' or 'non-existence.'
-
-**Neuroscience Perspective:** Being 'immortality and death, existence and non-existence' describes the 'unity of opposites.' Neurally, this forces the brain to resolve the 'ultimate duality.' By accepting both sides of the coin, you reach a state of 'non-dual equanimity' that is beyond the reach of fear.
 
 ---
 
@@ -407,8 +381,6 @@ The knowers of the three Vedas, the drinkers of soma, whose sins are purified, w
 
 **Argument Arc:** *Worship Determines Destination (9.20–9.25)* — Opens the section by establishing those who follow the literal rules of rituals and pray for heaven eventually reach the world of the gods and enjoy temporary divine pleasures.
 **Contemporary Relevance:** The Reward of Rule-Following. If you follow social rules and perform 'good' actions just for a reward (heaven), you will get that reward. But Krishna implies that this is a 'lower' level of success because it is based on a transaction rather than on true understanding.
-
-**Neuroscience Perspective:** Transactional rituals for 'heavenly pleasure' describes 'conditional reward-seeking.' While it gets results, it is a 'fragile' strategy because the brain is still a slave to 'external conditions' and 'temporary highs.' It is 'low-level' optimization.
 
 **Common Misreading:** "The Vedic path leads only to temporary heaven and should be abandoned." Actually, the verse contrasts limited goal-seeking with unlimited surrender — the Vedic path is shown as partial when motivated only by desired results, not condemned as invalid.
 
@@ -433,8 +405,6 @@ Having enjoyed that vast heavenly world, upon the exhaustion of their merit, the
 **Argument Arc:** *Worship Determines Destination (9.20–9.25)* — Advances the argument: After enjoying that vast heavenly world, once their merit is used up, they fall back into the mortal world.
 **Contemporary Relevance:** The Merit Burn-Rate. Every reward gained through 'transactional' behavior has an expiration date. Once the 'merit' is spent, you are back where you started. This is a warning to stop chasing temporary 'highs' and start building a permanent foundation of wisdom.
 
-**Neuroscience Perspective:** Returning to the 'mortal world' when merit is spent describes 'dopamine depletion.' Every reward from a 'transactional' life is temporary. This verse is a warning against 'chasing the hit'—reminding us that external success is a 'leaking bucket' that can never be permanently full.
-
 > **Note:** A sharp critique of orthodox Vedic ritualism. Heavenly rewards are finite because they are the transactional fruit of *karma*. Once the merit is spent, rebirth is inevitable.
 
 ---
@@ -454,7 +424,7 @@ But those men who, meditating on Me with undivided attention, worship Me — for
 **Argument Arc:** *Worship Determines Destination (9.20–9.25)* — Advances the argument: But for those who think of Me alone and focus on Me with undivided attention, I personally ensure they get what they need and protect what they already have.
 **Contemporary Relevance:** The Yoga-Kshema Promise. This is the ultimate 'security guarantee.' If you focus 100% on your true purpose and the Absolute Truth, the universe (the laws of reality) will naturally provide the resources you need (Yoga) and protect your progress (Kshema). Focus creates its own security.
 
-**Neuroscience Perspective:** The promise of 'Yoga-Kshema' (provision and protection) for the undivided focus describes 'resource-allocation efficiency.' When your mind is 100% focused on 'First Principles,' you stop wasting energy on 'low-level anxiety,' allowing the system to naturally optimize your success and security.
+**Neuroscience Perspective:** Sustained, single-target attention is supported by a frontoparietal control network (Corbetta & Shulman, 2002), while scattered attention degrades both performance and well-being (Killingsworth & Gilbert, 2010). Undivided focus on what genuinely matters frees cognitive resources for the obtaining and preserving of what is actually needed.
 
 ---
 
@@ -473,8 +443,6 @@ Even those who are devotees of other gods and worship them endowed with faith, t
 **Argument Arc:** *Worship Determines Destination (9.20–9.25)* — Advances the argument: Even those who worship other powers with faith are actually worshipping Me, Arjuna, though they are doing it without knowing the full rules.
 **Contemporary Relevance:** The Universality of Sincerity. Faith and sincerity are never wasted. Even if someone has a partial or 'incorrect' understanding, if their *intent* is focused on a higher power, they are connecting with the Truth. It’s a call for radical tolerance and the recognition of shared human aspiration.
 
-**Neuroscience Perspective:** Worshipping other powers 'without knowing the rules' highlights the 'power of intent.' Even a 'flawed model' of reality can lead to progress if the 'neural intent' is sincere. Sincerity acts as a 'heuristic' that eventually guides the brain toward the full Truth.
-
 ---
 
 ### 9.24
@@ -490,9 +458,7 @@ For I am the enjoyer and the Lord of all sacrifices; but they do not recognize M
 **Simple Translation:** I am the only true enjoyer and master of all contributions; but those who do not recognize My true nature eventually fail.
 
 **Argument Arc:** *Worship Determines Destination (9.20–9.25)* — Advances the argument: I am the only true enjoyer and master of all contributions; but those who do not recognize My true nature eventually fail.
-**Contemporary Relevance:** The Root Cause of Failure. Failure in life usually comes from a 'misalignment' with reality. If you think you are the 'master' or that your work is just for your own ego, you are fighting against the 'First Principles' of the universe, and you will eventually 'fall.'
-
-**Neuroscience Perspective:** Failing because of 'not recognizing My true nature' describes 'systemic misalignment.' If you think you are the 'Enjoyer' or the 'Boss,' you are ignoring the 'System-Logic' (the Truth). This error leads to 'predictive failure' and the eventual collapse of your projects and peace.
+**Contemporary Relevance:** The root cause of failure. Sustained failure usually traces to a mismatch between one's working model and how things actually are. Acting from an inflated sense of self-as-author against the actual structure of the situation is the configuration the verse points to as fated to collapse.
 
 ---
 
@@ -511,7 +477,7 @@ Those who are devoted to the gods go to the gods; those who are devoted to the a
 **Argument Arc:** *Worship Determines Destination (9.20–9.25)* — Closes the section with those who focus on lesser powers reach those powers; those who focus on ancestors reach them; but those who focus on Me reach Me, completing the argument's arc.
 **Contemporary Relevance:** You get what you focus on. Your destination is determined by your attention. If you focus on temporary social approval, you get it. If you focus on the Absolute Truth, you reach the Absolute. This is the 'Law of Attention' applied to the highest level of life.
 
-**Neuroscience Perspective:** Reaching what you worship is the 'Law of Selective Attention.' Your brain literally 'wires' itself to match the objects of its attention. If you focus on 'trash,' you become 'trash'; if you focus on the 'Absolute,' you become the 'Absolute.' You are your attention.
+**Neuroscience Perspective:** Attention shapes long-run learning: repeated selective engagement with a class of stimuli produces gradual perceptual and motivational changes that bias the system toward that class (Posner & Petersen, 1990; Pourtois et al., 2013). What one attends to consistently is, over time, what one becomes responsive to.
 
 ---
 
@@ -530,7 +496,7 @@ Whoever offers Me with devotion a leaf, a flower, a fruit, or water, I accept th
 **Argument Arc:** *Simple Offerings Accepted (9.26–9.29)* — Opens the section by establishing if someone offers Me even a leaf, a flower, a fruit, or just water with devotion—I accept that offering from a person of pure heart.
 **Contemporary Relevance:** Intent over Complexity. You don't need a massive budget or complex rituals to be 'spiritual' or successful. A small, simple act done with 100% integrity and devotion is more powerful than a massive, ego-driven project. It’s the 'Quality' of the intent that matters, not the 'Quantity' of the gift.
 
-**Neuroscience Perspective:** Accepting a 'leaf, flower, or water' with devotion highlights 'intent-based reward.' The Absolute system (Krishna) rewards the 'integrity of the signal' (devotion) rather than the 'magnitude of the data' (the gift). Integrity is the only variable that matters.
+**Neuroscience Perspective:** The perceived intention behind a gift weighs more heavily on the recipient's response than the gift's material value (Ames et al., 2004): intention is read first, magnitude second. The verse generalises this familiar social finding to the relationship between practitioner and ground.
 
 **Common Misreading:** "Simple devotees get a lesser version of liberation than those who perform elaborate rituals." Actually, the offering of a leaf, flower, fruit, or water with sincere devotion (*bhaktyā prayacchati*) is received directly by Krishna — devotion is not graded by material worth, and simplicity is precisely the point.
 
@@ -553,8 +519,6 @@ Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you
 **Argument Arc:** *Simple Offerings Accepted (9.26–9.29)* — Advances the argument: Whatever you do, whatever you eat, whatever you offer, whatever you give, and whatever discipline you practice—do it all as an offering to Me, Arjuna.
 **Contemporary Relevance:** The Unified Life. This is how you turn your entire existence into a 'meditation.' By 'dedicating' every mundane act (eating, working, giving) to a higher purpose, you eliminate the gap between 'work' and 'spirituality.' Your whole life becomes a single, focused stream of purpose.
 
-**Neuroscience Perspective:** Doing everything as an 'offering' is an instruction for 'total task-integration.' By 'tagging' every action—eating, working, giving—with a 'Divine ID,' you eliminate 'cognitive dissonance' and turn your entire life into a single, high-integrity process of purpose.
-
 ---
 
 ### 9.28
@@ -572,8 +536,6 @@ Thus you will be liberated from the bonds of action, which yield good and evil f
 **Argument Arc:** *Simple Offerings Accepted (9.26–9.29)* — Advances the argument: In this way, you will be freed from the bondage of actions and their good or bad results.
 **Contemporary Relevance:** The Escape from 'Residue'. When you act as an 'offering,' you don't build up 'ego-residue' (guilt, pride, debt). You do the work, and then you are 'free' of it. This is the secret to doing massive things in the world while staying perfectly peaceful and unburdened.
 
-**Neuroscience Perspective:** Freedom from 'bondage' and 'results' describes 'zero-latency' performance. By acting as an 'offering,' the brain doesn't 'save' the results in its egoic memory. You perform, you finish, and you are 'free'—ready for the next task with a clean slate.
-
 ---
 
 ### 9.29
@@ -590,8 +552,6 @@ I am equal to all beings; to Me there is none hateful, nor none dear. But those 
 
 **Argument Arc:** *Simple Offerings Accepted (9.26–9.29)* — Closes the section with I am the same to all living beings; I have no enemies and no favorites, completing the argument's arc.
 **Contemporary Relevance:** The Neutrality of Law. The laws of the universe are perfectly fair and unbiased (like gravity). They don't have 'favorites.' But if you choose to 'align' yourself with those laws (devotion), you experience their full power and protection. It’s a reciprocal relationship based on your own choices.
-
-**Neuroscience Perspective:** The 'neutrality of the Absolute' describes 'universal fairness.' The laws of the universe (like gravity) are 'impersonal.' But those who 'align' with them (devotion) experience their full support. It’s not about 'favorites'; it’s about 'alignment' with the existing code of reality.
 
 **Common Misreading:** "Krishna is coldly indifferent to everyone equally." Actually, *sama* (equal) describes ontological impartiality, not emotional distance — the verse goes on to affirm a real reciprocal relationship with sincere devotees.
 ---
@@ -611,8 +571,6 @@ Even if a man of extremely wicked conduct worships Me with undivided devotion, h
 **Argument Arc:** *Even Great Sinners Can Cross Over (9.30–9.34)* — Opens the section by establishing even if someone of terrible character decides to focus on Me with undivided devotion, they must be considered good, because they have made the right resolution.
 **Contemporary Relevance:** The Power of Decision. A single, powerful decision to change your life's direction (the right resolution) is the most important step. Your past doesn't define you; your current 'alignment' does. This is a message of hope—anyone can 'reset' their life by making a firm commitment to the Truth.
 
-**Neuroscience Perspective:** The 'right resolution' of a wrongdoer describes 'rapid state-resetting.' A single, powerful decision to change your 'internal alignment' can instantly re-route your 'neural trajectory.' Your 'intent' is the 'input' that determines the entire system's 'output.'
-
 ---
 
 ### 9.31
@@ -629,8 +587,6 @@ Quickly he becomes a soul of righteousness and attains eternal peace. O son of K
 
 **Argument Arc:** *Even Great Sinners Can Cross Over (9.30–9.34)* — Advances the argument: Such a person quickly becomes righteous and attains eternal peace.
 **Contemporary Relevance:** The Speed of Integrity. Once you truly commit to the Truth, your character 'quickly' changes. Integrity is like a self-correcting mechanism. As long as you stay committed, you are 'never lost,' no matter how difficult the path gets.
-
-**Neuroscience Perspective:** Quickly becoming 'righteous' through commitment describes 'integrity-based neuroplasticity.' Once you align with the Truth, the 'self-correcting' nature of reality takes over. 'My devotee is never lost' is a guarantee of 'systemic reliability' for the sincere seeker.
 
 ---
 
@@ -649,7 +605,7 @@ For taking refuge in Me, O Pārtha, even those who might be of low birth — wom
 **Argument Arc:** *Even Great Sinners Can Cross Over (9.30–9.34)* — Advances the argument: Arjuna, anyone who takes refuge in Me—regardless of their social status, gender, or background—can reach the highest goal.
 **Contemporary Relevance:** Radical Meritocracy. The Truth is the ultimate 'equalizer.' It doesn't care about your birth, your gender, or your social standing. The highest level of human achievement (the supreme goal) is accessible to every single person who has the focus and sincerity to seek it.
 
-**Neuroscience Perspective:** Radical meritocracy reflects 'biological equality.' The Truth doesn't care about your 'social tags.' Neurally, every human brain has the same 'potential for realization' if it applies the same 'First Principles' of focus and sincerity. Excellence is open-source.
+**Neuroscience Perspective:** Stereotype threat and category labels measurably constrain performance — but those constraints are situational rather than biological (Steele & Aronson, 1995). The verse's insistence that even those marked as low-status can reach the supreme matches the empirical finding that capacity is more uniformly distributed than category-based assumptions suggest.
 
 **Common Misreading:** "Krishna dismisses women and lower castes as inferior." Actually, the verse is radically inclusive: even those traditionally excluded from Vedic privilege reach the supreme through devotion.
 > **Note:** A text of its time reflecting prevailing social hierarchies, yet significantly progressive in asserting that spiritual liberation (*mokṣa*) is accessible to all demographics, explicitly contravening orthodox brahmanical exclusions.
@@ -669,9 +625,9 @@ How much more then the holy brahmins and devoted royal sages! Having attained th
 **Simple Translation:** How much more certain is the success of holy teachers and devoted leaders! Since you have found yourself in this temporary and joyless world, stay focused on Me.
 
 **Argument Arc:** *Even Great Sinners Can Cross Over (9.30–9.34)* — Advances the argument: How much more certain is the success of holy teachers and devoted leaders!.
-**Contemporary Relevance:** The Urgency of Purpose. This world is 'temporary and joyless' if you only look at the surface level. Krishna uses this realism to create urgency: since life is short and full of challenges, don't waste time—focus on the 'First Principles' that actually provide lasting fulfillment.
+**Contemporary Relevance:** The urgency of purpose. The surface of life is brief and not particularly satisfying; Krishna deploys that realism not to depress but to focus the listener. Since the time available is finite, the verse argues, the practitioner should orient toward what actually produces durable fulfilment.
 
-**Neuroscience Perspective:** The 'temporary and joyless world' is a realistic assessment of 'sensory existence.' Krishna uses this 'realism' to override the brain's 'complacency bias.' Since physical life is short and limited, the prefrontal cortex should prioritize the 'Highest Goal' over trivial distractions.
+**Neuroscience Perspective:** Mortality salience — vivid awareness of life's finitude — predictably reorders priorities and increases the weight given to meaningful long-term goals (Pyszczynski, Solomon, & Greenberg, 2015). Naming the world as fleeting is a deliberate use of this effect to motivate practice.
 
 ---
 

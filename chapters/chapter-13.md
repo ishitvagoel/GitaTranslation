@@ -704,3 +704,9 @@ Those who thus know by the eye of knowledge the distinction between the field an
 **Contemporary Relevance:** The Power of Distinction. The entire chapter comes down to one skill: the ability to distinguish between what you experience (the Field) and the one who experiences it (the Knower). This single insight — separating the observer from the observed — is the master key to psychological freedom. Once you see it clearly, you can never be fully trapped by circumstances again.
 
 **Neuroscience Perspective:** The capacity to differentiate between experience and the experiencer parallels what researchers call 'decentering' or 'cognitive defusion' — a core skill in both mindfulness-based therapies and acceptance and commitment therapy (ACT). Brain imaging studies show that this capacity recruits the dorsolateral prefrontal cortex and reduces over-identification with transient mental content, measurably lowering anxiety and rumination.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde kṣetrakṣetrajñavibhāgayogo nāma trayodaśo 'dhyāyaḥ  
+
+Thus ends the thirteenth chapter, entitled "The Yoga of the Distinction between the Field and the Knower of the Field," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

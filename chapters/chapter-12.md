@@ -405,3 +405,9 @@ But those devotees who properly worship this immortal *dharma* as declared, full
 **Contemporary Relevance:** The Ultimate Alignment. The final verse of the Chapter of Devotion is 'Worship through Character.' Being 'dear' to the Truth is not about rituals; it's about *becoming* the kind of person described in this chapter — free from hatred, equal in praise and blame, content, and steady. Character is the highest form of worship.
 
 **Neuroscience Perspective:** Sustained commitment to an ethical path — what this verse calls following the 'immortal dharma with faith' — produces cumulative neurological benefits. Long-term practitioners of prosocial, values-aligned living show increased gray matter density in prefrontal and insular regions, enhanced emotional regulation, and a stronger sense of meaning. Faith here functions not as blind belief but as the sustained motivational energy that keeps these practices consistent over time.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde bhaktiyogo nāma dvādaśo 'dhyāyaḥ  
+
+Thus ends the twelfth chapter, entitled "The Yoga of Devotion," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

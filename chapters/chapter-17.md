@@ -566,3 +566,9 @@ Whatever is offered in the fire, given, or performed as austerity, or whatever i
 **Common Misreading:** "Actions without scriptural authorization are automatically sinful and Asat." Actually, the verse says *aśraddhayā* — the criterion for Asat is *absence of faith*, not absence of scriptural sanction. Sincerity of heart is the essential variable — a direct answer to Arjuna's original question.
 
 > **Note:** The chapter concludes by answering Arjuna's opening question. Even technically correct actions are completely nullified ("Asat") if performed without the internal disposition of faith (*śraddhā*).
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde śraddhātrayavibhāgayogo nāma saptadaśo 'dhyāyaḥ  
+
+Thus ends the seventeenth chapter, entitled "The Yoga of the Distinction of the Three Kinds of Conviction," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

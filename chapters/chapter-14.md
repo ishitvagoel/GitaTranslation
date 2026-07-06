@@ -570,3 +570,9 @@ For I am the foundation of Brahman, the immortal and the imperishable, and of th
 **Neuroscience Perspective:** Krishna as the 'foundation of Brahman' identifies the Absolute with the 'BEDROCK of Reality.' Knowing that the Truth is the source of all 'Happiness and Dharma' provides the brain with an 'ultimate security signal,' ending all existential anxiety.
 
 > **Note:** The text subtly subordinates the impersonal absolute (*Brahman*) to the personal deity (Kṛṣṇa/I). Kṛṣṇa is the foundation or bedrock (*pratiṣṭhā*) upon which the abstract state of Brahman rests.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde guṇatrayavibhāgayogo nāma caturdaśo 'dhyāyaḥ  
+
+Thus ends the fourteenth chapter, entitled "The Yoga of the Distinction of the Three Constituents," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

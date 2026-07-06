@@ -2,7 +2,7 @@
 
 **Branch:** `claude/improve-neuroscience-content-A6vAR`
 **Date:** 2026-04-04
-**Status:** NOT STARTED — agents hit rate limits before making any edits
+**Status:** COMPLETED (2026-07-06) — Argument Arc added to all 700 verses across all 18 chapters (counts verified against verse counts), and Common Misreading sections added where applicable, including all key misreadings listed below. This document is retained for reference on the format and chapter argument structures.
 
 ## What Was Completed in This Session
 

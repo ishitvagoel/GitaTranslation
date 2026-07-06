@@ -492,3 +492,9 @@ Therefore, let scripture be your authority in determining what ought to be done 
 **Neuroscience Perspective:** Grounding Action in 'Ethical Authority' (Shastra) is the First Principle of 'Reliable Execution.' Use proven, high-integrity 'rule-sets' to guide your prefrontal cortex. This reduces the stress of deciding 'what is right' and ensures your actions are aligned with universal Law.
 
 > **Note:** After establishing that the ultimate reality transcends all rules and dualities, Kṛṣṇa anchors human behavior back in established normative texts (*śāstra*). While the yogi acts without attachment to the fruit, the *form* of the action should align with traditional ethical paradigms to avoid the chaos of purely ego-driven action.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde daivāsurasampadvibhāgayogo nāma ṣoḍaśo 'dhyāyaḥ  
+
+Thus ends the sixteenth chapter, entitled "The Yoga of the Distinction between Divine and Demonic Endowments," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

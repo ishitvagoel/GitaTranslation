@@ -691,3 +691,9 @@ Fix your mind on Me, be devoted to Me, sacrifice to Me, bow down to Me. Having t
 **Contemporary Relevance:** The Four-Part Practice. This final verse of the chapter distills everything into four actionable steps: focus your thoughts, commit your heart, dedicate your efforts, and practice humility. It's a complete daily operating system — not a single grand gesture, but a consistent way of living that gradually transforms who you are.
 
 **Neuroscience Perspective:** Repetition of a focused intention across multiple modalities — thought (mind), emotion (devotion), action (sacrifice), and body (bowing) — engages overlapping neural circuits simultaneously, accelerating consolidation. This multi-channel approach is more effective than engaging only one modality, because the brain forms stronger and more durable patterns when cognitive, emotional, motor, and somatic systems all reinforce the same orientation.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde rājavidyārājaguhyayogo nāma navamo 'dhyāyaḥ  
+
+Thus ends the ninth chapter, entitled "The Yoga of Royal Knowledge and Royal Secret," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

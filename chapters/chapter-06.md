@@ -951,3 +951,9 @@ And of all yogis, he who, full of faith, worships Me with his inner self absorbe
 **Neuroscience Perspective:** The 'most fully disciplined' Yogi is the one 'absorbed in Me.' Neurally, 'loving devotion' (Bhakti) is the ultimate 'focus-multiplier.' By focusing 100% on the highest Truth with 'emotion' (faith), you achieve a level of mental integration that pure logic alone can never reach.
 
 > **Note:** The chapter concludes with a hierarchical assertion. Above mere physical austerity (*tapas*), theoretical knowledge (*jñāna*), and ritual action (*karma*) is the practice of yoga. And the pinnacle of yoga is infused with *bhakti* — loving devotion toward the ultimate reality represented by Kṛṣṇa.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde dhyānayogo nāma ṣaṣṭho 'dhyāyaḥ  
+
+Thus ends the sixth chapter, entitled "The Yoga of Meditation," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

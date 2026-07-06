@@ -1619,3 +1619,9 @@ Wherever there is Kṛṣṇa, the Lord of Yoga, and wherever there is Pārtha, 
 **Neuroscience Perspective:** The pairing of wisdom and action mirrors what neuroscience calls the integration of the 'knowing' and 'doing' networks — the prefrontal planning regions and the motor-execution circuits. Peak performance in any domain emerges when cognitive clarity (understanding the goal) and skilled action (executing with discipline) operate in concert rather than in conflict. Sanjaya's unshakeable conviction also reflects a well-consolidated belief state — when evidence, experience, and insight converge, the brain generates a stable confidence that does not waver under pressure.
 
 > **Note:** Sañjaya speaks these final words to the blind king Dhṛtarāṣṭra, bringing the entire narrative full circle to the opening question of 1.1. The combination of the Lord of Yoga and the skilled warrior is the Gītā's concluding symbol for the union of *jñāna* (wisdom) and *karma* (action).
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde mokṣasaṁnyāsayogo nāmāṣṭādaśo 'dhyāyaḥ  
+
+Thus ends the eighteenth chapter, entitled "The Yoga of Liberation through Renunciation," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

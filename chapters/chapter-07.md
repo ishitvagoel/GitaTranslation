@@ -579,7 +579,7 @@ By the delusion of the dualities arising from desire and hatred, O Bhārata, all
 ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥ २८ ॥  
 
 yeṣāṃ tv antagataṃ pāpaṃ janānāṃ puṇyakarmaṇām |  
-te द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥ २८ ॥  
+te dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ || 28 ||  
 
 But those men of virtuous deeds whose evil has come to an end — freed from the delusion of dualities, they worship Me with firm resolve.
 

@@ -1310,3 +1310,9 @@ He who does My work, who holds Me as supreme, who is My devotee, freed from atta
 **Neuroscience Perspective:** This verse integrates action, belief, emotion, detachment, and social orientation into a single behavioral profile. Neuroscience research on prosocial behavior confirms that individuals who combine purposeful work with low attachment and low hostility show reduced cortisol levels, healthier vagal tone, and stronger social bonds. The absence of enmity is particularly significant — chronic hostility is one of the strongest predictors of cardiovascular disease and cognitive decline.
 
 > **Note:** This verse is sometimes called the "essence of the Gītā" (*gītā-sāra*) because it synthesizes all disciplines — karma, bhakti, jñāna, and vairāgya — into a single, actionable formula.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde viśvarūpadarśanayogo nāmaikādaśo 'dhyāyaḥ  
+
+Thus ends the eleventh chapter, entitled "The Yoga of the Vision of the Universal Form," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

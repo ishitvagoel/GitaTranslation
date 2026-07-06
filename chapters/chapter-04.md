@@ -890,3 +890,9 @@ Therefore, with the sword of knowledge, cutting this doubt born of ignorance sit
 **Contemporary Relevance:** The final command of the chapter is not to think more but to *act*. Knowledge that does not ultimately lead to decisive action is incomplete. The "sword of knowledge" is not passive wisdom; it is the resolve that ends paralysis and initiates movement.
 
 **Neuroscience Perspective:** The command "arise" (*uttiṣṭha*) after the extended teaching on knowledge reflects the brain's need to translate cognitive reframing into motor action. Insight alone does not change behavior — the prefrontal reappraisal must be followed by the initiation of action from the motor cortex, completing the loop from understanding to doing.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde jñānakarmasaṁnyāsayogo nāma caturtho 'dhyāyaḥ  
+
+Thus ends the fourth chapter, entitled "The Yoga of Knowledge and the Renunciation of Action," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

@@ -613,3 +613,9 @@ Whatever fruit of merit is prescribed in the Vedas, in sacrifices, in austeritie
 **Contemporary Relevance:** Beyond the Reward System. Most spiritual or ethical systems promise specific rewards for specific actions. Krishna says that the yogi who truly understands the deeper teaching transcends the entire reward-based framework. It's like realizing the game itself is smaller than the player — once you see that, collecting points no longer defines your purpose.
 
 **Neuroscience Perspective:** The brain's reward prediction system constantly calculates expected outcomes for actions — a process driven by dopaminergic circuits. Transcending the 'merit of rewards' parallels what happens in advanced contemplative states: the practitioner disengages from outcome-dependent motivation entirely, shifting from extrinsic to intrinsic orientation. This reduces the anxiety of anticipation and the disappointment of unmet expectations, producing a stable peace that reward-chasing cannot match.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde akṣarabrahmayogo nāmāṣṭamo 'dhyāyaḥ  
+
+Thus ends the eighth chapter, entitled "The Yoga of the Imperishable Absolute," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

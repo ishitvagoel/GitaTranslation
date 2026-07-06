@@ -227,7 +227,7 @@ Having spoken thus to Hṛṣīkeśa, Guḍākeśa, the scorcher of foes, said t
 tam uvāca hṛṣīkeśaḥ prahasann iva bhārata /  
 senayor ubhayor madhye viṣīdantam idaṁ vacaḥ //  
 
-To him, despondent between the two armies, Hṛṣीkeśa, as if smiling, spoke these words, Bhārata:
+To him, despondent between the two armies, Hṛṣīkeśa, as if smiling, spoke these words, Bhārata:
 
 **Simple Translation:** Krishna, as if smiling, spoke these words to the despondent Arjuna right there in the middle of the two armies:
 
@@ -1540,3 +1540,9 @@ This is the state of Brahman, Pārtha. Having attained it, one is not deluded. E
 **Neuroscience Perspective:** The 'State of Brahman' is the 'ultimate neural integration.' It is a state of 'total certainty' and 'zero delusion' that remains steady even at death. It is the final achievement of a perfectly trained and aligned human mind.
 
 > **Note:** *brahmanirvāṇa* — "extinction in Brahman" — combines an Upaniṣadic term (*brahman*) with a term more commonly associated with Buddhist soteriology (*nirvāṇa*). The compound is distinctive to the Gītā and appears again at 5.24–26. It denotes final liberation without privileging either tradition's technical usage.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde sāṅkhyayogo nāma dvitīyo 'dhyāyaḥ  
+
+Thus ends the second chapter, entitled "The Yoga of Discernment," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

@@ -273,10 +273,10 @@ For the gods, nourished by sacrifice, will grant you the enjoyments you desire. 
 ### 3.13
 
 यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।  
-भुञ्जते ते त्वघं पापा ye पचन्त्यात्मकारणात् ॥ १३ ॥  
+भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥ १३ ॥  
 
 yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ /  
-bhuñjate te tv aghaṃ pāpā ye pacanty atmakāraṇāt // 13 //  
+bhuñjate te tv aghaṃ pāpā ye pacanty ātmakāraṇāt // 13 //  
 
 The virtuous who eat the remnants of sacrifice are released from all sins. But those wicked ones who cook only for their own sake eat sin.
 
@@ -918,3 +918,9 @@ Thus, knowing that which is beyond the intellect, steadying the self by the Self
 **Neuroscience Perspective:** Steadying the 'self by the Self' is the ultimate 'self-referential' loop of focus. By identifying with your 'highest potential' (the Absolute Self), you gain the 'leverage' needed to override even the most powerful biological cravings (Desire).
 
 > **Note:** *ātmānam ātmanā* — "the self by the Self." This implies using the higher, enlightened intellect (*buddhi*) or the realization of the absolute Self to stabilize the lower, fluctuating mind and senses.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde karmayogo nāma tṛtīyo 'dhyāyaḥ  
+
+Thus ends the third chapter, entitled "The Yoga of Action," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

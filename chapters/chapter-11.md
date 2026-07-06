@@ -743,6 +743,7 @@ I am Time (*kāla*), the destroyer of worlds, grown mighty, engaged here in anni
 **Neuroscience Perspective:** I am Time (Kāla), the destroyer of worlds describes the 'ultimate terminal variable.' Neurally, this is the realization that 'Time' is the primary actor in the universe. If Time is doing the killing and the changing, then the 'ego' is off the hook for the big outcomes.
 
 **Common Misreading:** "I am death, destroyer of worlds." Actually, the Sanskrit is *kāla* — Time, not *mṛtyu* (death). The emphasis is on Time as the impersonal consuming force of the cosmos, not a personified death figure.
+
 > **Note:** A monumental theological declaration. The ultimate reality is not only benign and loving but also the terrifying, inescapable force of cosmic entropy and destruction (Time).
 
 ---

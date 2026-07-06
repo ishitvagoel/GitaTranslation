@@ -1015,6 +1015,7 @@ Your right is to action alone, never to its fruits. Do not be one whose motive i
 **Neuroscience Perspective:** The 'right to action, not to fruits' is the ultimate strategy for 'performance without pressure.' By decoupling 'effort' from 'outcome,' the brain reduces the 'anticipatory anxiety' that often impairs peak performance.
 
 **Common Misreading:** "Don't care about results." Actually, the teaching forbids letting results be your *motivation* — effort, quality, and care remain essential; only attachment to outcomes must be released.
+
 ---
 
 ### 2.48
@@ -1332,6 +1333,7 @@ When a person contemplates sense objects, attachment to them arises. From attach
 **Neuroscience Perspective:** The 'ladder of downfall' (thought -> attachment -> desire -> anger) is a perfect map of a 'neural chain reaction.' By understanding this sequence, we can intervene at the 'thought' stage before the brain is overwhelmed by 'anger.'
 
 **Common Misreading:** "Ordinary thinking about an object causes ruin." Actually, this verse describes the specific cascade of *obsessive craving*: prolonged dwelling on desired objects, not normal reflection or discernment.
+
 ---
 
 ### 2.63
@@ -1353,6 +1355,7 @@ From anger comes delusion; from delusion, confusion of memory; from confusion of
 **Neuroscience Perspective:** The progression from 'anger -> delusion -> loss of memory -> destruction of reason' describes the 'shutting down' of the prefrontal cortex under intense stress. Anger literally 'blinds' and 'stupefies' the executive brain, leading to a total loss of character.
 
 **Common Misreading:** "Any desire leads to destruction." Actually, this continues the craving-chain: obsessive attachment escalates to anger, which destroys discriminative intelligence — it describes compulsion, not ordinary desire.
+
 ---
 
 ### 2.64

@@ -305,6 +305,7 @@ For this divine illusion (*māyā*) of Mine, composed of the *guṇas*, is diffi
 **Neuroscience Perspective:** Surrendering to Me to cross the 'divine illusion' (Maya) is a strategy for 're-calibrating the self-model.' The 'illusion' is the small, separate ego. By surrendering to the 'whole' (the Absolute), you move your identity beyond the reach of the ego's confusion and stress.
 
 **Common Misreading:** "Māyā is an absolute trap with no escape." Actually, this same verse provides the immediate solution in its second half: those who take refuge in Krishna alone cross beyond māyā.
+
 ---
 
 ### 7.15

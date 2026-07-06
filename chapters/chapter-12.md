@@ -71,7 +71,8 @@ But those who worship the imperishable, the undefinable, the unmanifest, the omn
 
 **Simple Translation:** But those who focus on the unchanging, invisible, and everywhere-present Absolute—the unthinkable, unmoving, and eternal Truth...
 
-**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Advances the argument: But those who focus on the unchanging, invisible, and everywhere-present Absolute—the unthinkable, unmoving, and eternal Truth.
+**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — States the alternative path in full technical dress: worship of the imperishable, undefinable, unmanifest — omnipresent, unthinkable, unmoving — the impersonal absolute that Arjuna's opening question set against the personal Krishna.
+
 **Contemporary Relevance:** Contemplating the Infinite. This describes the path of 'Pure Logic' or 'Transcendental Meditation.' It involves looking past all symbols and forms to connect with the raw, underlying reality of the universe. It is a valid but difficult path.
 
 **Neuroscience Perspective:** Focusing on the 'unchanging and unmanifest' Absolute involves 'top-down cognitive inhibition' of sensory data. Neurally, this is the attempt to reach a state of 'zero-representation,' where the brain stops processing specific 'forms' and instead connects with the underlying 'Source Code' of reality.
@@ -90,7 +91,8 @@ Having entirely restrained the group of senses, with equal understanding everywh
 
 **Simple Translation:** ...by controlling their senses and having an equal mind toward everyone, while delighting in helping all living beings—they too reach Me.
 
-**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Advances the argument: ...by controlling their senses and having an equal mind toward everyone, while delighting in helping all living beings—they too re.
+**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Completes the concession: with senses restrained, even-minded everywhere, delighting in the welfare of all beings, worshippers of the unmanifest *also* reach Krishna — the impersonal path valid, and equal in destination.
+
 **Contemporary Relevance:** The Ethical Universal. Regardless of your philosophy (personal or abstract), the 'output' must be the same: self-control, mental balance, and a desire to help others. Service to others is the 'First Principle' that validates any spiritual path.
 
 **Neuroscience Perspective:** Self-control, equanimity, and 'delighting in the welfare of all' are the 'behavioral outputs' of an optimized brain. Regardless of the chosen path, the First Principle of 'neural compassion' ensures that the individual functions as a high-integrity, pro-social unit in the universal system.
@@ -109,7 +111,8 @@ Greater is the tribulation for those whose minds are attached to the unmanifest;
 
 **Simple Translation:** However, the struggle is much greater for those focused on the invisible Absolute. It is very hard for a person living in a physical body to reach an invisible goal.
 
-**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Closes the section with however, the struggle is much greater for those focused on the invisible Absolute, completing the argument's arc.
+**Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Delivers the section's verdict on method rather than goal: the trouble is greater for minds attached to the unmanifest, for an embodied being reaches an unmanifest goal only with difficulty — Arjuna's question decided on practical, not metaphysical, grounds.
+
 **Contemporary Relevance:** Psychological Realism. We are biological beings with senses. Trying to ignore our biology and focus only on the 'invisible' is like trying to swim against a very strong current. Krishna warns that while it's possible, it is much more difficult than having a 'human-scale' focus.
 
 **Neuroscience Perspective:** The 'greater struggle' for those focused on the invisible Absolute reflects 'biological constraint.' The human brain is evolutionarily wired to perceive 'objects and forms.' Trying to override these primal visual and conceptual filters is neurally 'expensive' and prone to failure for those living in a physical body.
@@ -132,7 +135,8 @@ But those who, renouncing all actions in Me, holding Me as the supreme goal, wor
 
 **Simple Translation:** But for those who surrender all their actions to Me, holding Me as their highest goal, and who meditate on Me with undivided focus...
 
-**Argument Arc:** *Krishna Rescues the Devoted (12.6–12.7)* — Opens the section by establishing but for those who surrender all their actions to Me, holding Me as their highest goal, and who meditate on Me with undivided focus.
+**Argument Arc:** *Krishna Rescues the Devoted (12.6–12.7)* — Begins the positive case for the personal path: those who cast all their actions upon Krishna, hold him as supreme, and meditate on him with exclusive discipline —
+
 **Contemporary Relevance:** The Surrender Strategy. By 'offering' your work to a higher principle, you turn your daily chores into a meditation. This is the 'integrated path' where your normal life becomes the vehicle for your highest growth.
 
 **Neuroscience Perspective:** When intention, action, and attention all align toward a single purpose, the brain enters what psychologists call a 'flow state' — characterized by reduced activity in the default mode network and heightened coherence between motor and cognitive regions. Surrendering all actions to one supreme goal eliminates the internal fragmentation that comes from serving competing priorities, producing sustained focus and reduced mental fatigue.
@@ -151,7 +155,8 @@ For them, whose minds are fixed on Me, I become without delay the deliverer from
 
 **Simple Translation:** For those whose minds are fixed on Me, I quickly become the one who saves them from the ocean of repetitive death and rebirth.
 
-**Argument Arc:** *Krishna Rescues the Devoted (12.6–12.7)* — Closes the section with for those whose minds are fixed on Me, I quickly become the one who saves them from the ocean of repetitive death and rebirth, completing the argument's arc.
+**Argument Arc:** *Krishna Rescues the Devoted (12.6–12.7)* — — completes the sentence with the promise that decides the chapter: for such devotees Krishna becomes, without delay, the rescuer from the ocean of death-bound existence — active divine rescue, unavailable by definition from an impersonal absolute.
+
 **Contemporary Relevance:** The Rescue of Focus. When you are drowning in 'Samsara' (the stress and repetitive drama of life), a single, powerful focus acts like a 'lifeline.' Truth doesn't just sit there; it actively 'pulls' you out of your confusion once you fix your mind on it.
 
 **Neuroscience Perspective:** Chronic rumination — the brain's tendency to replay stressful scenarios — keeps the amygdala in a state of heightened activation and sustains cortisol production. Focused attention on a stable object of contemplation interrupts these rumination loops by engaging prefrontal regulatory circuits. This is the mechanism behind many evidence-based meditation practices: a reliable anchor for attention breaks the cycle of reactive emotional processing.
@@ -170,7 +175,8 @@ Fix your mind on Me alone, direct your intellect into Me; you will dwell in Me a
 
 **Simple Translation:** Just fix your mind on Me alone and let your intellect live in Me. If you do this, you will undoubtedly live in Me forever.
 
-**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Opens the section by establishing just fix your mind on Me alone and let your intellect live in Me.
+**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Opens the descending ladder at its top rung: place mind and intellect in Krishna alone, and thereafter dwell in him without doubt — the ideal of immediate, total absorption.
+
 **Contemporary Relevance:** Internal Residency. Your 'home' is where your thoughts are. If your mind and logic are grounded in the Truth, then you are 'living' in the Truth, no matter where your physical body is. This is the ultimate form of 'mental health.'
 
 **Neuroscience Perspective:** Repeated contemplation of a principle gradually shifts the brain's default mode network — the regions active during rest and self-reflection — toward that principle as a baseline. Long-term meditators show structural changes in these networks, reflecting a new 'resting state.' When the mind's default orientation becomes aligned with a stable truth rather than scattered worries, cognitive stability follows naturally.
@@ -189,7 +195,8 @@ If, however, you are not able to establish your mind steadily on Me, then seek t
 
 **Simple Translation:** If you are not able to keep your mind steady on Me right away, then try to reach Me through the 'Yoga of Practice' (Abhyasa-yoga), Arjuna.
 
-**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Advances the argument: If you are not able to keep your mind steady on Me right away, then try to reach Me through the 'Yoga of Practice' (Abhyasa-yoga), Arjuna.
+**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Offers the second rung for those who cannot hold steady: seek him through the discipline of repeated practice (*abhyāsa-yoga*) — sustained effort substituting for spontaneous absorption.
+
 **Contemporary Relevance:** The Repetition Fail-Safe. If you can't focus perfectly, don't give up. Use practice (repetition). Every time your mind wanders, bring it back. This 're-centering' is the gym for your attention muscle.
 
 **Neuroscience Perspective:** The 'Yoga of Practice' (Abhyāsa-yoga) is the First Principle of 'Neuroplasticity.' If you cannot focus perfectly, you use repetition to 'carve new neural grooves.' Every time you re-center your mind, you are strengthening the 'regulatory pathways' of the prefrontal cortex.
@@ -208,7 +215,8 @@ If you are incapable even of practice, be intent on performing actions for Me. E
 
 **Simple Translation:** If you are unable even to practice, then dedicate all your work to Me. Even by performing your daily actions for My sake, you will reach perfection.
 
-**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Advances the argument: If you are unable even to practice, then dedicate all your work to Me.
+**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Provides the third rung: if even practice is beyond reach, make Krishna's work the highest aim — perfection attained through reoriented action when contemplative capacity is lacking.
+
 **Contemporary Relevance:** The Lowest Barrier to Entry. If you can't meditate and you can't even practice focusing, just do your normal work — but do it for a purpose higher than yourself. Dedicating your daily actions to something beyond personal gain transforms routine labor into a path of growth. This is the most accessible starting point for anyone.
 
 **Neuroscience Perspective:** When the mind is too restless for formal meditation, purposeful physical action can still reshape neural pathways. Research on 'behavioral activation' shows that structured, goal-directed activity reduces depressive rumination and builds new habit circuits. Selfless work provides external scaffolding — a reliable behavioral routine — that gradually trains the brain toward the internal stillness that direct meditation demands.
@@ -227,7 +235,8 @@ If you are unable to do even this, taking refuge in My yoga, then, with controll
 
 **Simple Translation:** If you find even this too hard, then simply take refuge in My discipline and learn to give up the obsession with the results of your actions.
 
-**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Advances the argument: If you find even this too hard, then simply take refuge in My discipline and learn to give up the obsession with the results of your actions.
+**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Reaches the lowest, most universal rung: unable even to do that, take refuge in his discipline and abandon the fruit of all action with a controlled self — renunciation of results as the practice available to everyone.
+
 **Contemporary Relevance:** The Ultimate Entry-Level. This is the most accessible First Principle: 'Just let go of the result.' If you can't focus, and you can't do 'sacred' work, then just do your normal work but stop obsessing over the reward. This single change will begin your transformation.
 
 **Neuroscience Perspective:** Abandoning 'obsession with results' is the 'ultimate neural reset.' Neurally, the 'fear of failure' and 'greed for success' are major sources of 'noise' in the system. Letting go of results de-activates these noisy circuits, resulting in immediate internal 'Peace.'
@@ -248,12 +257,14 @@ For knowledge is better than mere practice; meditation is superior to knowledge;
 
 **Simple Translation:** Wisdom is better than blind practice; meditation is better than mere wisdom; but letting go of the results of action is better than meditation, because it brings peace immediately.
 
-**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Closes the section with wisdom is better than blind practice; meditation is better than mere wisdom; but letting go of the results of action is better than meditation, because it brings peace immediately, completing the argument's arc.
+**Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Closes the ladder by ranking its terms: knowledge over practice, meditation over knowledge, abandonment of the fruit of action over meditation — for from that abandonment peace follows immediately; the 'lowest' rung revealed as the highest principle.
+
 **Contemporary Relevance:** The Shortcut to Peace. This is a radical statement. Why is 'letting go of results' (Tyaga) ranked highest? Because it is the most practical. You can do it *right now*. While wisdom and meditation take time to master, stopping your obsession with the 'win' gives you instant mental relief.
 
 **Neuroscience Perspective:** The hierarchy 'Knowledge < Meditation < Abandoning Results' recognizes 'practical efficiency.' Abandoning results (Tyāga) is ranked highest because it is 'neurally immediate.' It provides an instant state of peace by shutting down the 'anticipatory stress' circuits, making it the most powerful tool for mental health.
 
 **Common Misreading:** "Abstract knowledge is always superior to practice." Actually, the hierarchy in 12.11–12.12 climaxes with *renouncing the fruits of action* as the highest — above theoretical knowledge.
+
 ---
 
 ### 12.13
@@ -268,7 +279,8 @@ He who hates no being, who is friendly and compassionate, free from possessivene
 
 **Simple Translation:** One who hates no one, who is friendly and kind to all, who doesn't say 'this is mine' or 'I am great,' who stays steady in both pain and pleasure, and who is patient...
 
-**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Opens the section by establishing one who hates no one, who is friendly and kind to all, who doesn't say 'this is mine' or 'I am great,' who stays steady in both pain and pleasure, and who is patient.
+**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Opens the portrait of the beloved devotee at its foundation: hating no being, friendly and compassionate, without 'mine' and without ego, equal in pain and pleasure, patient — love of God rooted first in harmlessness toward creatures.
+
 **Contemporary Relevance:** The Anatomy of a Great Character. Krishna starts listing the traits of a person he 'loves.' Notice these are all 'First Principles' of human psychology: No hatred (clarity), No ego (humility), and Equanimity (stability).
 
 **Neuroscience Perspective:** Hating no one and being 'friendly and kind' describes 'limbic system regulation.' By de-activating the 'aggression and in-group/out-group' biases, the brain achieves a state of 'social-neural harmony.' The lack of ego ('this is mine') reduces the 'self-referential' load on the brain.
@@ -287,7 +299,8 @@ The yogi who is constantly contented, whose self is controlled, whose resolve is
 
 **Simple Translation:** ...who is always content, disciplined, firm in their resolve, and whose mind and intellect are dedicated to Me—that devotee is very dear to Me.
 
-**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: ...who is always content, disciplined, firm in their resolve, and whose mind and intellect are dedicated to Me—that devotee is ver.
+**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Completes the first sentence of the portrait and delivers the refrain: content, constantly disciplined, self-restrained, of firm conviction, mind and intellect given to Krishna — such a devotee is dear to him.
+
 **Contemporary Relevance:** Self-Sufficient Contentment. A high-quality human doesn't 'wait' for external events to be happy. They are 'always content' because their happiness is internally generated and focused on the Truth. This is the definition of mental sovereignty.
 
 **Neuroscience Perspective:** Intrinsic motivation — where satisfaction comes from the activity itself rather than external rewards — is associated with sustained dopamine signaling in the ventral tegmental area and greater persistence under adversity. A mind that generates contentment internally, rather than depending on external validation, shows greater prefrontal stability and lower stress reactivity. Firm resolve combined with inner contentment is a hallmark of psychological resilience.
@@ -306,7 +319,8 @@ He from whom the world does not shrink in fear, and who does not shrink in fear 
 
 **Simple Translation:** A person who does not disturb the world, and who is not disturbed *by* the world, and who is free from over-excitement, anger, fear, and anxiety—that person is dear to Me.
 
-**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: A person who does not disturb the world, and who is not disturbed *by* the world, and who is free from over-excitement, anger, fear, and anxiety—that person is dear to Me.
+**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Adds the social test: one from whom the world does not shrink and who does not shrink from the world, free of elation, impatience, fear, and agitation — the devotee as someone the world finds safe.
+
 **Contemporary Relevance:** The Non-Disturbance Principle. This is the goal of social and internal peace. Don't be a source of chaos for others, and don't let the chaos of others penetrate your own mind. Imagine being 'immune' to the world's drama—that is the highest state.
 
 **Neuroscience Perspective:** Emotional contagion — the automatic transmission of moods between people via mirror neuron pathways — is a well-documented phenomenon. Advanced emotional regulation involves both not broadcasting distress signals to others and not involuntarily absorbing theirs. This bidirectional affect regulation requires strong prefrontal oversight of limbic responses, enabling a person to remain present and empathetic without being destabilized by the emotional states around them.
@@ -325,7 +339,8 @@ He who is free from expectations, pure, capable, impartial, free from distress, 
 
 **Simple Translation:** One who has no selfish expectations, who is pure, capable, neutral, and free from worry—and who has given up all selfish projects—that person is dear to Me.
 
-**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: One who has no selfish expectations, who is pure, capable, neutral, and free from worry—and who has given up all selfish projects—that person is dear to Me.
+**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Sketches the devotee's relation to enterprise: without expectations, pure, capable, impartial, untroubled, renouncing all self-initiated undertakings — dear precisely because unentangled.
+
 **Contemporary Relevance:** The Competent Neutral. This is a rare combination: being both 'capable' (daksha) and 'neutral' (udasina). Most capable people are highly biased and stressed. A true master is brilliant at their work but completely calm and unattached to the drama of it.
 
 **Neuroscience Perspective:** Being 'neutral and free from worry' identifies the 'competent neutral' state. Neurally, the brain remains 'capable' (daksha) but 'neutral' (udāsīna). You execute the task with high precision but with zero 'egoic friction,' meaning the work doesn't cause you stress.
@@ -344,7 +359,8 @@ He who neither rejoices nor hates, who neither grieves nor desires, who abandons
 
 **Simple Translation:** One who neither celebrates nor hates, who neither grieves nor craves, who has risen above both 'good' and 'bad' luck, and who is full of devotion—that person is dear to Me.
 
-**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: One who neither celebrates nor hates, who neither grieves nor craves, who has risen above both 'good' and 'bad' luck, and who is full of devotion—that person is dear to Me.
+**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Defines the devotee by four refusals: no rejoicing, no hating, no grieving, no craving — renouncing both the pleasant and the unpleasant — emotional equipoise itself made an act of devotion.
+
 **Contemporary Relevance:** The End of the Emotional Rollercoaster. Most people spend their lives bouncing between 'Yay!' and 'No!'. Rising above these dualities means you have found a deeper source of meaning that is more stable than your temporary circumstances.
 
 **Neuroscience Perspective:** Rising above 'celebration, hatred, grief, and craving' describes 'valence-neutralization.' The brain accepts 'highs' and 'lows' without letting them 'hijack' its fundamental peace. You move from an 'emotional rollercoaster' to a 'steady-state' of deep meaning.
@@ -363,7 +379,8 @@ Equal to enemy and friend, and likewise in honor and dishonor, equal in cold and
 
 **Simple Translation:** One who treats enemies and friends the same, and stays equal in both praise and insult, and remains the same in heat and cold, pleasure and pain, without any attachment...
 
-**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Advances the argument: One who treats enemies and friends the same, and stays equal in both praise and insult, and remains the same in heat and cold, pleasure and pain, without any attachment.
+**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Extends the equanimity to relations and conditions: the same toward enemy and friend, in honor and disgrace, cold and heat, pleasure and pain, free from attachment —
+
 **Contemporary Relevance:** Objectivity in Relationship. Most of our 'truth' is filtered through our relationships. If someone is a 'friend,' we believe them; if an 'enemy,' we don't. Real wisdom is being able to see the 'data' correctly, regardless of who provided it or how it affects our ego.
 
 **Neuroscience Perspective:** Equality in 'friend/enemy and praise/insult' describes 'objectivity in social processing.' Neurally, you have de-coupled your 'self-worth' from 'external feedback.' You see the 'data' of the world clearly without the 'distortion' of personal ego.
@@ -382,7 +399,8 @@ To whom blame and praise are equal, who is silent, content with anything whatsoe
 
 **Simple Translation:** ...who treats criticism and praise as the same, who stays quiet and content with whatever they have, who has no fixed attachment to a home, and whose mind is steady—that person is dear to Me.
 
-**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — Closes the section with ...who treats criticism and praise as the same, who stays quiet and content with whatever they have, who has no fixed attachment t, completing the argument's arc.
+**Argument Arc:** *Qualities Dear to Krishna (12.13–12.19)* — — and closes the litany: equal under blame and praise, restrained in speech, content with whatever comes, without fixed home, steady-minded — the portrait complete: full of devotion, that person is dear to Krishna.
+
 **Contemporary Relevance:** The Steady-Minded Minimalist. A 'steady mind' (sthiramatih) is one that doesn't need external validation or physical 'roots' to feel secure. By being 'content with whatever' (yena kenacit), you become the most powerful person in the room because you cannot be bribed or threatened.
 
 **Neuroscience Perspective:** Social evaluation — processing praise and criticism — consumes significant prefrontal and limbic resources. When the brain stops treating every social signal as a threat or reward requiring response, it frees up cognitive bandwidth. Research on equanimity in experienced meditators shows reduced reactivity in the ventral striatum to both positive and negative feedback, allowing attention to remain steady and undiverted.
@@ -401,7 +419,8 @@ But those devotees who properly worship this immortal *dharma* as declared, full
 
 **Simple Translation:** But those devotees who follow this immortal path of Dharma with complete faith and hold Me as their highest goal — they are the ones I love most of all.
 
-**Argument Arc:** *Conclusion (12.20)* — Stands as the sole verse of this section, crystallizing the entire movement: but those devotees who follow this immortal path of Dharma with complete faith and hold Me as their highest goal — they are the ones I love most of all.
+**Argument Arc:** *Conclusion (12.20)* — Seals the chapter with a superlative: those who honor this nectar of dharma just taught, with faith, holding Krishna supreme, are dear to him *beyond all others* — the portrait converted into a covenant.
+
 **Contemporary Relevance:** The Ultimate Alignment. The final verse of the Chapter of Devotion is 'Worship through Character.' Being 'dear' to the Truth is not about rituals; it's about *becoming* the kind of person described in this chapter — free from hatred, equal in praise and blame, content, and steady. Character is the highest form of worship.
 
 **Neuroscience Perspective:** Sustained commitment to an ethical path — what this verse calls following the 'immortal dharma with faith' — produces cumulative neurological benefits. Long-term practitioners of prosocial, values-aligned living show increased gray matter density in prefrontal and insular regions, enhanced emotional regulation, and a stronger sense of meaning. Faith here functions not as blind belief but as the sustained motivational energy that keeps these practices consistent over time.

@@ -113,6 +113,7 @@ Goodness (*sattva*), passion (*rajas*), and darkness (*tamas*) — these *guṇa
 **Neuroscience Perspective:** Modern psychology recognizes broad arousal states that parallel the three Gunas: a clear, calm alertness (similar to Sattva), a restless, driven hyperarousal (similar to Rajas), and a sluggish, withdrawn hypoarousal (similar to Tamas). These states are regulated by the autonomic nervous system and neurotransmitter balance. Each state shapes perception and behavior in distinct ways, and we cycle through them constantly — often without recognizing it.
 
 **Common Misreading:** "The three gunas are negative forces to be eliminated." Actually, even *sattva* (purity and clarity) binds the soul; the teaching is to transcend all three, including the seemingly positive guna.
+
 ---
 
 ### 14.6

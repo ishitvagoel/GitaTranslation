@@ -879,3 +879,9 @@ But what need is there for you to know all this multiplicity, Arjuna? I stand su
 **Common Misreading:** "One verse or one insight can replace the entire teaching of this chapter." Actually, 'a single fraction of Myself sustains this entire universe' is the capstone of an extended inquiry — it is a conclusion that carries its full weight only for a mind that has followed the complete argument, not a shortcut around it.
 
 > **Note:** The chapter climaxes not with the exhaustive list, but with its sudden minimization. The entire known cosmos—with all its supreme manifestations—is sustained by merely a fraction (*ekāṃśa*) of the divine reality.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde vibhūtiyogo nāma daśamo 'dhyāyaḥ  
+
+Thus ends the tenth chapter, entitled "The Yoga of Manifestations," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

@@ -504,7 +504,8 @@ By meditation some see the self in the self by the self; others by the yoga of k
 
 **Simple Translation:** Some see the Self through meditation, others through analytical logic (Sankhya), and still others through the Yoga of action.
 
-**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Opens the section by establishing some see the Self through meditation, others through analytical logic (Sankhya), and still others through the Yoga of action.
+**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Opens the section's pluralism: the Self may be seen through meditation, through Sāṅkhya analysis, or through the yoga of action — three distinct routes converging on a single seeing.
+
 **Contemporary Relevance:** Many Paths to the Same Peak. Whether you are a 'Meditation person,' a 'Logic person,' or a 'Doing person,' the destination is the same. The universe provides multiple 'interfaces' for the same Truth to accommodate our different temperaments.
 
 **Neuroscience Perspective:** Multiple paths (meditation, logic, action) recognize 'neural diversity.' The brain can reach 'optimal integration' through 'internal focus' (meditation), 'analytical modeling' (logic), or 'embodied service' (action). The universe is temperament-inclusive.
@@ -525,7 +526,8 @@ But others, not knowing this, worship having heard it from others; they too cert
 
 **Simple Translation:** Others, even if they don't know these paths, worship after hearing about them from others. They too certainly cross beyond death by being devoted to what they have heard.
 
-**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Advances the argument: Others, even if they don't know these paths, worship after hearing about them from others.
+**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Adds the fourth, most inclusive route: those who know none of these paths but worship what they have *heard*, devoted to the teaching, also cross beyond death — testimony and faith admitted alongside insight.
+
 **Contemporary Relevance:** The Value of Mentorship and Tradition. You don't have to be a genius to grow. If you have the humility to listen to wise people and the sincerity to follow good advice, you will reach the same level of freedom as the masters. Sincerity is the most important variable.
 
 **Neuroscience Perspective:** Worship through 'hearing' highlights 'social-cognitive transmission.' Sincerity and trust in a high-integrity source (mentorship) can trigger the same neural transformation as direct discovery. The 'integrity of the input' is what counts.
@@ -544,7 +546,8 @@ Whatever being is born, moving or unmoving, know that it arises from the union o
 
 **Simple Translation:** Arjuna, understand that every single being that is born—whether it moves or stays still—comes from the union of the Field and the Knower of the Field.
 
-**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Advances the argument: Arjuna, understand that every single being that is born—whether it moves or stays still—comes from the union of the Field and the Knower of the Field.
+**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Restates the chapter's central formula as a universal law of birth: whatever comes to be, moving or unmoving, arises from the union of Field and Field-Knower — the analytic distinction now doing generative work.
+
 **Contemporary Relevance:** The Biological First Principle. Life is what happens when 'Awareness' meets 'Matter.' Every interaction you have is a meeting of these two forces. Recognizing this 'sacred union' in everything helps you treat the whole world with respect and curiosity.
 
 **Neuroscience Perspective:** Beings born from the 'union of Field and Knower' describes 'Emergent Reality.' Life is the result of 'Information' (Knower) meeting 'Matter' (Field). Recognizing this 'sacred intersection' in everything prevents the brain from treating the world as 'dead' or 'meaningless.'
@@ -563,7 +566,8 @@ He who sees the supreme Lord standing equally in all beings, not perishing when 
 
 **Simple Translation:** One who sees the Supreme Lord living equally in all beings—never dying even when they die—truly sees the reality.
 
-**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Advances the argument: One who sees the Supreme Lord living equally in all beings—never dying even when they die—truly sees the reality.
+**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Defines true seeing on that basis: to see the supreme lord standing equally in all beings, the undying within the dying — perception itself restructured by the field/knower distinction.
+
 **Contemporary Relevance:** The Vision of Permanence. We usually focus on 'what dies' (bodies, jobs, moments). Real vision is seeing 'what lives' through all those changes. When you see the eternal life-force in every person and event, your fear of loss disappears.
 
 **Neuroscience Perspective:** Seeing the 'Supreme Lord never dying' is 'constancy-focus.' Neurally, focusing on 'what stays the same' (Truth) amidst 'what changes' (Body/Death) provides the ultimate 'all-clear' signal to the survival instinct, resulting in absolute fearlessness.
@@ -582,7 +586,8 @@ For seeing the Lord established equally everywhere, he does not destroy the self
 
 **Simple Translation:** By seeing the Lord established equally everywhere, one does not destroy the self with the self, and thus reaches the highest goal.
 
-**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Closes the section with by seeing the Lord established equally everywhere, one does not destroy the self with the self, and thus reaches the highest goal, completing the argument's arc.
+**Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — States the ethical consequence of the vision: seeing the same lord established everywhere, one does not injure the self by the self — and so reaches the highest goal; metaphysical equality grounding non-injury.
+
 **Contemporary Relevance:** The End of Self-Sabotage. When you recognize your own 'divine' essence in others, you stop competing, hating, and hurting yourself or others. 'Destroying the self with the self' refers to self-sabotage caused by ego and division. Unity is the path to the peak.
 
 **Neuroscience Perspective:** Seeing the Lord 'equally everywhere' prevents 'Self-Sabotage.' When you recognize the same life-force in others as in yourself, the 'us vs. them' competitive circuitry is disabled. You stop 'hurting yourself' by hurting others, leading to systemic harmony.
@@ -603,7 +608,8 @@ He who sees that all actions are performed entirely by material nature alone, an
 
 **Simple Translation:** One who sees that all actions are performed entirely by Material Nature, and that the Self is not the doer, truly sees.
 
-**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Opens the section by establishing one who sees that all actions are performed entirely by Material Nature, and that the Self is not the doer, truly sees.
+**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Adds the complementary insight on the field side: all actions are performed by material nature alone, and the self is not the doer — the true seer defined by this double vision of agency and witness.
+
 **Contemporary Relevance:** The Non-Doer Perspective. This is the ultimate stress-reducer. All 'doing' is a mechanical process of nature. You are the 'awareness' in which it happens. This doesn't mean you stop acting; it means you stop being *stressed* by the acting, because your core identity is not the one 'doing' it.
 
 **Neuroscience Perspective:** Realizing 'Self is not the doer' is the peak of 'ego-reduction.' All 'doing' is a mechanical interaction of Natural laws. By 'outsourcing' the doing to Nature, the brain’s 'executive observer' finds total relaxation and peace, even in the middle of intense work.
@@ -622,7 +628,8 @@ When he perceives the various states of beings resting in the One, and from that
 
 **Simple Translation:** When one sees that the various states of all beings are rooted in the One, and expand from that One, then they attain the Absolute.
 
-**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Advances the argument: When one sees that the various states of all beings are rooted in the One, and expand from that One, then they attain the Absolute.
+**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Describes the unitive completion: when one sees the diversity of beings as standing in the One and spreading forth from it alone, one attains Brahman — analysis flowering into unity.
+
 **Contemporary Relevance:** The Fractal Nature of Truth. Everything starts from a single point (the One) and then 'expands' into complexity. Seeing the 'One' behind the 'Many' is the final stage of intellectual and spiritual integration. It’s the ultimate 'First Principle' of systemic thinking.
 
 **Neuroscience Perspective:** Rooting the 'Many in the One' describes 'fractal-integration.' Neurally, you reduce the 'informational entropy' of the world by tracing every complex event back to its single, simple Source. This is the ultimate First Principle of systemic logic.
@@ -641,7 +648,8 @@ Because it is beginningless and free from the *guṇas*, this imperishable supre
 
 **Simple Translation:** Because it is beginningless and free from qualities, this eternal Supreme Self does nothing and is never stained, even while living in the body.
 
-**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Advances the argument: Because it is beginningless and free from qualities, this eternal Supreme Self does nothing and is never stained, even while living in the body.
+**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Explains why embodiment does not compromise the Self: beginningless and without qualities, the imperishable supreme self, though dwelling in the body, neither acts nor is stained.
+
 **Contemporary Relevance:** Internal Purity. Your true self is like a diamond in the mud—the mud can surround it, but it can never change the diamond's nature. No matter what 'bad' things happen in your life or body, your core awareness remains pure and untouched. This is the source of absolute self-worth.
 
 **Neuroscience Perspective:** The 'Unstained Self' reflects 'core-identity integrity.' Neurally, your 'Observer-mode' is a constant that is not modified by the 'Data' it processes. No matter how 'bad' the data (experience) is, the 'Processor' (the Self) remains perfectly pure and untouched.
@@ -660,7 +668,8 @@ Just as the omnipresent space is not tainted because of its subtlety, so the sel
 
 **Simple Translation:** Just as space is present everywhere but is never stained because it is so subtle, so is the Self present in the whole body without ever being tainted.
 
-**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Advances the argument: Just as space is present everywhere but is never stained because it is so subtle, so is the Self present in the whole body without ever being tainted.
+**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Grounds that claim in the space simile: as all-pervading space is too subtle to be tainted, so the self seated in every body remains untainted — subtlety as the logic of non-contamination.
+
 **Contemporary Relevance:** The Space Metaphor. Space contains garbage and gold, but space itself remains clean. Your awareness contains angry thoughts and happy thoughts, but the awareness itself is always neutral and pure. Identifying with the 'Space' rather than the 'Content' is the secret to mental health.
 
 **Neuroscience Perspective:** The 'Space' metaphor describes 'non-reactive residency.' Just as space isn't made dirty by garbage, your awareness isn't made dirty by angry thoughts. Identifying with the 'Space of Awareness' rather than the 'Thought-Content' is the ultimate key to mental health.
@@ -679,7 +688,8 @@ Just as the one sun illuminates this entire world, so does the Lord of the field
 
 **Simple Translation:** Just as the single sun lights up the entire world, so does the Knower of the Field light up this entire Field, Arjuna.
 
-**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Advances the argument: Just as the single sun lights up the entire world, so does the Knower of the Field light up this entire Field, Arjuna.
+**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Balances the self's non-participation with its one function: as the single sun illumines the entire world, so the Field-Knower illumines the entire Field — consciousness as pure illumination.
+
 **Contemporary Relevance:** The Illuminating Power of Awareness. Without your awareness, your world doesn't exist for you. You are the 'Sun' of your own life. By focusing your 'light' (attention) wisely, you can illuminate and understand every part of your experience.
 
 **Neuroscience Perspective:** The 'Sun' metaphor describes 'centralized illumination.' Your awareness is the 'light-source' that makes your world exist. By focusing this 'light' (attention) with total integrity, you can understand and master every 'field' you enter.
@@ -700,7 +710,14 @@ Those who thus know by the eye of knowledge the distinction between the field an
 
 **Simple Translation:** Those who use the eye of wisdom to see the difference between the Field (matter) and the Knower of the Field (awareness), and who understand how beings are freed from material nature — they reach the supreme goal.
 
-**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Closes the section with those who use the eye of wisdom to see the difference between the Field (matter) and the Knower of the Field (awareness), and who understand how beings are freed from material nature — they reach the supreme goal, completing the argument's arc.
+**Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Closes the chapter as a formal summary: those who with the eye of knowledge discern the distinction between Field and Field-Knower, and the release of beings from material nature, go to the supreme — the title-doctrine restated as its liberating payoff.
+
 **Contemporary Relevance:** The Power of Distinction. The entire chapter comes down to one skill: the ability to distinguish between what you experience (the Field) and the one who experiences it (the Knower). This single insight — separating the observer from the observed — is the master key to psychological freedom. Once you see it clearly, you can never be fully trapped by circumstances again.
 
 **Neuroscience Perspective:** The capacity to differentiate between experience and the experiencer parallels what researchers call 'decentering' or 'cognitive defusion' — a core skill in both mindfulness-based therapies and acceptance and commitment therapy (ACT). Brain imaging studies show that this capacity recruits the dorsolateral prefrontal cortex and reduces over-identification with transient mental content, measurably lowering anxiety and rumination.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde kṣetrakṣetrajñavibhāgayogo nāma trayodaśo 'dhyāyaḥ  
+
+Thus ends the thirteenth chapter, entitled "The Yoga of the Distinction between the Field and the Knower of the Field," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

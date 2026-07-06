@@ -115,6 +115,7 @@ One should uplift oneself by the self; one should not degrade oneself. For the s
 **Neuroscience Perspective:** The principle 'the self is the friend/enemy of the self' is the ultimate law of 'neuroplasticity.' Your thoughts and habits literally reshape your brain. You can 'friend' yourself by building healthy, focused neural pathways, or 'enemy' yourself by reinforcing pathways of distraction and reactivity.
 
 **Common Misreading:** "Spiritual progress is purely self-reliant willpower." Actually, the self is both the means of elevation *and* the source of degradation — the teaching points to inner alignment and discipline, not individual bootstrapping.
+
 > **Note:** A pivotal psychological principle in the Gītā. The lower, egoic self can be the greatest obstacle, but the disciplined, higher self is the agent of its own salvation.
 
 ---
@@ -151,7 +152,8 @@ For the serene one who has conquered the self, the supreme self is steadied, in 
 
 **Simple Translation:** For a person who is calm and has mastered themselves, their inner self remains steady in heat and cold, pleasure and pain, and even in praise and insult.
 
-**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Advances the argument: For a person who is calm and has mastered themselves, their inner self remains steady in heat and cold, pleasure and pain, and even in praise and insult.
+**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Describes the outcome of the self-conquest demanded in 6.5–6.6: the higher self of the self-mastered stands steady through the paired opposites — heat and cold, pleasure and pain, honor and disgrace — turning the friend/enemy metaphor into an observable state.
+
 **Contemporary Relevance:** 'Emotional Stability.' The world will always provide 'hot and cold' (success and failure). The goal is not to stop the world from changing, but to be so 'composed' that you remain the same person regardless of whether people are cheering for you or criticizing you.
 
 **Neuroscience Perspective:** Steadiness in 'heat and cold, honor and dishonor' describes 'affective resilience.' The brain has been trained to maintain 'neural homeostasis' regardless of external environmental or social signals. This is the definition of a 'serene' and unshakeable nervous system.
@@ -170,7 +172,8 @@ That yogi is said to be disciplined (*yukta*) whose self is satisfied by knowled
 
 **Simple Translation:** A person is truly disciplined when they are satisfied with wisdom and experience, remain unshaken, have mastered their senses, and see no fundamental difference between a piece of dirt, a stone, and a piece of gold.
 
-**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Advances the argument: A person is truly disciplined when they are satisfied with wisdom and experience, remain unshaken, have mastered their senses, and see no fundamental difference between a piece of dirt, a stone, and a piece of gold.
+**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Supplies the criteria for calling someone disciplined (*yukta*): satisfaction in knowledge and direct realization, mastery of the senses, and the equal valuation of clod, stone, and gold — extending equanimity from sensations to possessions.
+
 **Contemporary Relevance:** 'Intrinsic Value.' When you are 'satisfied within,' external things lose their power to control you. You recognize that gold is just a metal and dirt is just earth—neither can give you the deep satisfaction that your own wisdom provides. This is the death of consumerism and the birth of real power.
 
 **Neuroscience Perspective:** Seeing 'dirt, stone, and gold' as the same is 'valuation neutrality.' The brain has stopped assigning 'primitive reward-values' to external objects. By recognizing that no object can provide the fulfillment that internal wisdom does, the brain reaches a state of 'intrinsic stability.'
@@ -189,7 +192,8 @@ He excels who has equal regard for well-wishers, friends, enemies, the indiffere
 
 **Simple Translation:** A person is truly outstanding when they maintain the same balanced perspective toward everyone—friends, enemies, strangers, relatives, and even good or bad people.
 
-**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Closes the section with A person is truly outstanding when they maintain the same balanced perspective toward everyone—friends, enemies, strangers, relatives, and even good or bad people, completing the argument's arc.
+**Argument Arc:** *The Self as Friend and Enemy (6.5–6.9)* — Completes the section's ascent by extending equal-mindedness to persons — friends, enemies, neutrals, saints, and sinners alike — the social culmination of the self-mastery with which the section began.
+
 **Contemporary Relevance:** 'Radical Objectivity.' Most people are biased toward their 'tribe' and against their 'enemies.' Excelling in life means rising above these biases. If you can treat everyone with the same level of integrity and clarity, regardless of how you feel about them personally, you reach a higher level of leadership and humanity.
 
 **Neuroscience Perspective:** Equal regard for friends and enemies is 'radical objectivity.' Neurally, this involves de-activating the 'in-group/out-group' bias of the amygdala. By treating everyone with the same high-level integrity, the brain operates from its most advanced and ethical circuitry.
@@ -208,7 +212,8 @@ The yogi should constantly discipline himself, remaining in a solitary place, al
 
 **Simple Translation:** A practitioner of Yoga should regularly spend time alone in a quiet place, with a controlled mind, free from selfish expectations and the need to 'own' things.
 
-**Argument Arc:** *Meditation Technique (6.10–6.15)* — Opens the section by establishing A practitioner of Yoga should regularly spend time alone in a quiet place, with a controlled mind, free from selfish expectations and the need to 'own' things.
+**Argument Arc:** *Meditation Technique (6.10–6.15)* — Opens the practical manual by setting the yogi's baseline conditions before any technique: solitude, constant practice, a controlled mind and self, freedom from expectation and possessiveness.
+
 **Contemporary Relevance:** 'The Solitude Practice.' In our hyper-connected world, 'solitude' is a lost art. To maintain your edge and your peace, you must regularly 'disconnect' to recalibrate your own mind. Being alone without distractions (no phone, no expectations) is how you strengthen your internal self-sovereignty.
 
 **Neuroscience Perspective:** The 'Solitude Practice' is a form of 'sensory deprivation' for neural recalibration. By removing social and sensory noise, the brain can 'audit' its own internal states and strengthen the circuits of self-control and focus without external interference.
@@ -229,7 +234,8 @@ Having established a firm seat for oneself in a clean place, neither too high no
 
 **Simple Translation:** Set up a firm and steady seat in a clean place—one that is neither too high nor too low—and cover it with comfortable material like cloth or grass.
 
-**Argument Arc:** *Meditation Technique (6.10–6.15)* — Advances the argument: Set up a firm and steady seat in a clean place—one that is neither too high nor too low—and cover it with comfortable material like cloth or grass.
+**Argument Arc:** *Meditation Technique (6.10–6.15)* — Begins the technique proper at its most concrete level — the seat itself: a clean place, stable, neither too high nor too low — grounding the chapter's lofty goal in mundane physical preparation.
+
 **Contemporary Relevance:** 'Environmental Optimization.' Your environment affects your state of mind. If you want to focus or meditate, you should create a clean, stable, and ergonomic space. By removing physical distractions and discomfort, you make it much easier for your mind to settle.
 
 **Neuroscience Perspective:** Environmental optimization (a firm, clean seat) reduces 'proprioceptive and sensory noise.' A steady physical base allows the brain to divert its energy away from 'postural monitoring' and toward 'internal concentration.' Ergonomics is a prerequisite for deep meditation.
@@ -248,7 +254,8 @@ There, making the mind one-pointed, with the actions of the mind and senses cont
 
 **Simple Translation:** Sitting there, make your mind single-pointed and control your thoughts and senses. Practice this discipline (Yoga) solely to purify your inner self.
 
-**Argument Arc:** *Meditation Technique (6.10–6.15)* — Advances the argument: Sitting there, make your mind single-pointed and control your thoughts and senses.
+**Argument Arc:** *Meditation Technique (6.10–6.15)* — States the practice and its purpose in one stroke: seated there, the mind made one-pointed, thought and senses restrained — and the aim named not as attainment but as purification of the self.
+
 **Contemporary Relevance:** 'Deep Work.' This is the technical description of extreme focus. By shutting out the noise and directing all your mental energy toward one point, you not only get work done but also 'cleanse' your mind of the clutter and anxiety that usually fills it.
 
 **Neuroscience Perspective:** One-pointed focus (ekāgra) is the state of 'maximal neural coherence.' When the brain stops 'scanning' for distractions and directs all its energy toward a single point, it triggers a 'purification' process—effectively clearing the 'mental buffer' of all irrelevant data.
@@ -267,7 +274,8 @@ Holding the body, head, and neck erect and still, being steady, gazing at the ti
 
 **Simple Translation:** Keep your body, head, and neck in a straight line and stay perfectly still. Fix your gaze on one point (like the tip of your nose) and do not look around in different directions.
 
-**Argument Arc:** *Meditation Technique (6.10–6.15)* — Advances the argument: Keep your body, head, and neck in a straight line and stay perfectly still.
+**Argument Arc:** *Meditation Technique (6.10–6.15)* — Specifies the posture: body, head, and neck held aligned and motionless, gaze fixed toward the tip of the nose — stabilizing the body so that attention has nowhere to leak.
+
 **Contemporary Relevance:** 'The Posture of Focus.' Your physical posture and your eye movement are directly linked to your brain state. By sitting still and upright, and by keeping your eyes from 'scanning' the environment, you signal to your brain that it's time to be calm and focused rather than reactive and distracted.
 
 **Neuroscience Perspective:** A straight posture and a fixed gaze (at the nose) are 'physiological hacks' for focus. Spinal alignment optimizes 'cerebrospinal fluid flow,' and a fixed gaze (trataka) stabilizes the 'visual-attentional network,' signaling the brain to enter a state of deep, unmoving awareness.
@@ -286,7 +294,8 @@ With a serene self, devoid of fear, established in the vow of celibacy, having c
 
 **Simple Translation:** With a peaceful heart, free from fear, and being firm in your self-control, sit with your mind quiet and your thoughts focused on the highest Truth.
 
-**Argument Arc:** *Meditation Technique (6.10–6.15)* — Advances the argument: With a peaceful heart, free from fear, and being firm in your self-control, sit with your mind quiet and your thoughts focused on the highest Truth.
+**Argument Arc:** *Meditation Technique (6.10–6.15)* — Adds the inner posture to the outer one: serenity, fearlessness, the celibate's restraint, and a mind subdued and directed toward Krishna — the psychological completion of the seated technique.
+
 **Contemporary Relevance:** 'Overcoming Anxiety.' Fear and scattered thoughts are the two biggest enemies of a productive life. This verse instructs us to replace fear with serenity and distraction with a focus on our 'Highest Goal.' When you have a clear, ultimate purpose, your daily anxieties begin to disappear.
 
 **Neuroscience Perspective:** Fearlessness and a quiet mind are the signs of 'limbic system downregulation.' By focusing on the 'Supreme Goal,' the brain replaces the 'anxiety-signals' of the survival instinct with a 'unity-signal' that provides profound existential safety.
@@ -305,7 +314,8 @@ Thus constantly disciplining himself, the yogi of controlled mind attains the pe
 
 **Simple Translation:** By constantly practicing this self-discipline, a person with a controlled mind reaches ultimate peace and a state of total freedom.
 
-**Argument Arc:** *Meditation Technique (6.10–6.15)* — Closes the section with by constantly practicing this self-discipline, a person with a controlled mind reaches ultimate peace and a state of total freedom, completing the argument's arc.
+**Argument Arc:** *Meditation Technique (6.10–6.15)* — Closes the manual by naming its fruit: constant practice with a controlled mind leads to the peace that culminates in nirvāṇa and rests in Krishna — the destination that justifies the preceding instructions.
+
 **Contemporary Relevance:** 'Consistency is Key.' Ultimate peace (Nirvana) is not a one-time event; it’s the result of 'constantly disciplining' oneself. Small, daily habits of self-control and focus build up to a life that is fundamentally free from stress and suffering.
 
 **Neuroscience Perspective:** Yoga as a 'constant discipline' is an instruction for 'habit-formation.' Neurally, 'Nirvana' (ultimate peace) is the result of long-term 'synaptic strengthening' of the brain's regulatory and focus circuits. Peace is a practiced skill.
@@ -324,7 +334,8 @@ Yoga is not for one who eats too much, nor for one who does not eat at all; nor 
 
 **Simple Translation:** Arjuna, this discipline is not for someone who eats too much or too little, nor for someone who sleeps too much or stays awake all the time.
 
-**Argument Arc:** *Balance in All Things (6.16–6.17)* — Opens the section by establishing arjuna, this discipline is not for someone who eats too much or too little, nor for someone who sleeps too much or stays awake all the time.
+**Argument Arc:** *Balance in All Things (6.16–6.17)* — Fences the practice against ascetic extremism: yoga is not for the over-eater or the faster, the over-sleeper or the sleepless — a corrective to the assumption that heroic austerity is what the discipline demands.
+
 **Contemporary Relevance:** 'The Goldilocks Principle.' Success requires biological balance. You can't be at your best if you are over-indulging or being overly restrictive. Extremes in diet or sleep destroy your mental edge. Sustainability is found in the middle ground.
 
 **Neuroscience Perspective:** The 'Goldilocks Principle' of eating and sleep recognizes the 'biological constraints' of the brain. Neurally, both 'deprivation' and 'excess' create 'metabolic stress,' which triggers the amygdala and prevents the deep focus required for Yoga. Balance is the state of 'optimal neural fuel.'
@@ -343,7 +354,8 @@ For one who is measured in food and recreation, who is measured in his efforts i
 
 **Simple Translation:** For someone who is balanced in their eating, recreation, work habits, and sleep, this discipline (Yoga) becomes the destroyer of all sorrow.
 
-**Argument Arc:** *Balance in All Things (6.16–6.17)* — Closes the section with for someone who is balanced in their eating, recreation, work habits, and sleep, this discipline (Yoga) becomes the destroyer of all sorrow, completing the argument's arc.
+**Argument Arc:** *Balance in All Things (6.16–6.17)* — States positively what 6.16 put negatively: for one measured in food, recreation, effort, and sleep, yoga becomes the destroyer of sorrow — moderation itself made the operative discipline.
+
 **Contemporary Relevance:** 'Holistic Wellness.' This is the perfect prescription for a modern healthy life. Balance your diet, your fun, your work, and your rest. When your lifestyle is 'measured' and balanced, your stress levels drop and your natural joy returns.
 
 **Neuroscience Perspective:** A 'measured' lifestyle (food, sleep, effort) is the formula for 'stress-reduction.' By avoiding 'biological volatility,' the brain stays in a 'low-cortisol' state, making it much easier to 'destroy sorrow' and maintain mental clarity.
@@ -366,7 +378,8 @@ When the thoroughly controlled mind stands established in the self alone, free f
 
 **Simple Translation:** When your mind is so well-controlled that it stays focused on your true self, and you no longer crave external things, then you are truly disciplined.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Opens the section by establishing when your mind is so well-controlled that it stays focused on your true self, and you no longer crave external things, then you are truly disciplined.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Defines the criterion of success for the technique just taught: the mind rests in the self alone and craving for no object remains — the state the following verses will describe from multiple angles.
+
 **Contemporary Relevance:** 'The End of Craving.' We usually feel 'hungry' for attention, money, or things. Discipline means reaching a state where your mind is 'quiet' and you are satisfied with just *being*. This doesn't mean you stop doing things; it means you stop being *desperate* for them.
 
 **Neuroscience Perspective:** Being 'free from longing' means the 'ventral striatum' (the brain's craving center) is quiet. When the mind is established in the 'Self' (the core awareness), it no longer feels 'hungry' for external stimulation, leading to a state of total discipline.
@@ -385,7 +398,8 @@ yogino yatacittasya yuñjato yogam ātmanaḥ || 19 ||
 
 **Simple Translation:** A mind that is perfectly controlled is like a lamp in a windless place—it stays steady and does not flicker.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: A mind that is perfectly controlled is like a lamp in a windless place—it stays steady and does not flicker.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Gives the section its defining image: the lamp in a windless place that does not flicker — a single simile that makes the invisible steadiness of the controlled mind visible.
+
 **Contemporary Relevance:** 'Mental Steadiness.' Our minds usually 'flicker' because of the 'winds' of social media, news, and moods. A master of the mind has a focus that is so steady that nothing in the environment can make it waver. This is the definition of a powerful and reliable intellect.
 
 **Neuroscience Perspective:** The 'unflickering lamp' describes a state of 'attentional stability.' In a distracted brain, focus 'flickers' between a thousand thoughts. A trained mind has a 'high signal-to-noise ratio,' allowing a single thought to burn steadily without being interrupted by mental wind.
@@ -404,7 +418,8 @@ Where the mind, restrained by the practice of yoga, comes to rest, and where, se
 
 **Simple Translation:** In this state, the mind finds rest through practice. One sees their true nature with their own awareness and finds total satisfaction within themselves.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: In this state, the mind finds rest through practice.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Begins the phenomenology of absorption: thought stilled by practice, the self beholding the self, satisfaction found entirely within — realization presented as direct seeing rather than doctrine.
+
 **Contemporary Relevance:** 'Self-Sourced Joy.' Most of our 'fun' comes from external sources (TV, games, socializing). This verse describes a state of 'internal joy' that comes from simply observing your own existence with a quiet mind. It is the ultimate form of self-sufficiency.
 
 **Neuroscience Perspective:** Seeing 'the self by the self' is 'meta-awareness.' The brain's 'executive observer' turns its attention back on its own 'process of awareness.' This self-reflexive loop creates a state of internal 'satisfaction' that is independent of any external input.
@@ -423,7 +438,8 @@ Where one knows that absolute happiness which can be grasped by the intellect bu
 
 **Simple Translation:** Where one experiences ultimate happiness—a joy that the mind can understand but the senses cannot reach—and where, once established, one never wavers from the Truth.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: Where one experiences ultimate happiness—a joy that the mind can understand but the senses cannot reach—and where, once established, one never wavers from the Truth.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Deepens the description: a happiness grasped by the intellect yet beyond the reach of the senses, from which, once established, one does not stir — locating the yogic reward outside sensory experience altogether.
+
 **Contemporary Relevance:** 'The Joy of Insight.' Sensory pleasure is fleeting, but the 'Aha!' moment of deep understanding or the peace of a quiet mind is a much higher and more stable form of happiness. Once you taste this intellectual and spiritual joy, you no longer feel the need to chase temporary physical thrills.
 
 **Neuroscience Perspective:** Happiness 'beyond the senses' is 'non-sensory reward processing.' The brain has discovered a 'joy-signal' that comes from 'understanding' (intellect) rather than 'pleasure' (senses). This form of joy is much more stable and profound than any physical thrill.
@@ -442,7 +458,8 @@ And having obtained which, one does not consider any other gain to be greater; e
 
 **Simple Translation:** Once you have gained this state, no other gain seems greater. Being established in this, even the heaviest sorrow cannot shake you.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: Once you have gained this state, no other gain seems greater.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Completes the value-claim: this gain outweighs every other gain, and one established in it is unshaken even by the heaviest sorrow — answering in advance the question of why such arduous practice is worthwhile.
+
 **Contemporary Relevance:** 'Unshakeable Resilience.' Imagine reaching a level of internal stability where even a major life crisis (heavy sorrow) cannot destroy your core peace. This is the ultimate 'insurance policy' for the human mind. It doesn't mean you don't feel the sorrow; it means you are not *destroyed* by it.
 
 **Neuroscience Perspective:** A gain 'greater than any other' describes the 'ultimate value assignment' in the brain. Once the brain has mapped 'Truth' as its highest priority, all other material or social goals are 'devalued' in comparison, making it impossible to be 'shaken' by external loss.
@@ -461,7 +478,8 @@ Let that disconnection from the connection with sorrow be known by the name of y
 
 **Simple Translation:** Understand that this state—the complete disconnection from sorrow—is what is called Yoga. You should practice this Yoga with firm determination and a heart that does not give up.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: Understand that this state—the complete disconnection from sorrow—is what is called Yoga.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Names the state by a deliberate paradox — yoga is the *unyoking* from union with suffering — and commands its pursuit with resolve and an undespairing heart, acknowledging the difficulty just before Arjuna raises it.
+
 **Contemporary Relevance:** 'The Severing of Suffering.' Krishna defines Yoga here as the 'un-linking' of yourself from pain. We usually think sorrow is a natural part of us. Krishna says it's just a 'connection' we have built, and Yoga is the tool to 'disconnect' it. This requires grit and a 'never-say-die' attitude.
 
 **Neuroscience Perspective:** Yoga as 'disconnection from sorrow' is an instruction for 'neural de-coupling.' You are training the brain to stop 'associating' its identity with its pain-signals. By 'severing' this link, you achieve a state of 'functional immunity' to suffering.
@@ -482,7 +500,8 @@ Having abandoned entirely all desires born of selfish purpose, and restraining t
 
 **Simple Translation:** Completely let go of all desires that come from selfish planning, and use your mind to pull back all your senses from every direction.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: Completely let go of all desires that come from selfish planning, and use your mind to pull back all your senses from every direction.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Resumes instruction inside the description: abandon without remainder all desires born of intention (*saṅkalpa*) and rein in the senses from every side with the mind — the double movement of renunciation and restraint.
+
 **Contemporary Relevance:** 'Eliminating Hidden Agendas.' Most of our stress comes from the 'sankalpas'—the secret plans our ego makes to get what it wants. By abandoning these selfish motives and pulling our attention away from sensory bait, we reclaim our mental energy for higher purposes.
 
 **Neuroscience Perspective:** Abandoning 'desires born of purpose' (saṅkalpa) is 'intention-cleaning.' By removing the 'ego-driven goals' from your mind, you stop the 'anticipatory stress' that usually ruins our focus and causes our senses to wander.
@@ -503,7 +522,8 @@ Gradually, gradually one should come to rest, by means of an intellect held with
 
 **Simple Translation:** Slowly, step by step, bring the mind to a state of rest using a firm and patient intellect. Once the mind is settled in the self, do not let any other thoughts enter.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: Slowly, step by step, bring the mind to a state of rest using a firm and patient intellect.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Prescribes gradualism: withdraw little by little (*śanaiḥ śanaiḥ*) with a firmly held intellect, fix the mind on the self, and think of nothing else — a counterweight to any expectation of instant stillness.
+
 **Contemporary Relevance:** 'The Art of Patience.' You can't force your mind to be quiet instantly—it happens 'gradually, gradually.' This is a call for patience in our personal growth. Use your intellect to gently guide your mind back to center, over and over again, until stillness becomes natural.
 
 **Neuroscience Perspective:** Resting the mind 'gradually' using a 'firm intellect' is a lesson in 'incremental regulation.' You don't 'force' focus; you 'guide' it. By repeatedly and gently bringing the mind back to center, you use 'top-down' logic to overwrite 'bottom-up' distraction.
@@ -522,7 +542,8 @@ From wherever the restless and unsteady mind wanders away, from there one should
 
 **Simple Translation:** No matter where the restless and unsteady mind wanders, you should pull it back and bring it under the control of your true self.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: No matter where the restless and unsteady mind wanders, you should pull it back and bring it under the control of your true self.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Supplies the method for failure: wherever the restless, unsteady mind wanders out, from there bring it back under the self's control — folding relapse into the technique itself rather than treating it as defeat.
+
 **Contemporary Relevance:** 'Attention Management.' This is the core practice of meditation and deep work. Your mind *will* wander—that's what it does. The skill is not in having a mind that never wanders, but in the 'pulling back.' Every time you notice your mind has drifted and you bring it back to your task, you are strengthening your 'focus muscle.'
 
 **Neuroscience Perspective:** Restraining the 'restless mind' whenever it wanders is the practice of 'attention-reorientation.' Every time you 'pull back' your wandering mind, you are performing a 'mental rep,' strengthening the neural pathways of the prefrontal cortex.
@@ -541,7 +562,8 @@ For supreme happiness comes to this yogi whose mind is perfectly peaceful, whose
 
 **Simple Translation:** Ultimate happiness comes to the practitioner whose mind is peaceful, whose restless passions (Rajas) are calmed, who is pure, and who has realized their oneness with the Absolute.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Advances the argument: Ultimate happiness comes to the practitioner whose mind is peaceful, whose restless passions (Rajas) are calmed, who is pure, and who has realized their oneness with the Absolute.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — States the reward of that patient labor: supreme happiness comes to the yogi whose mind is stilled, whose passion (*rajas*) is pacified, who has become one with Brahman, stainless.
+
 **Contemporary Relevance:** 'Beyond the Hustle.' 'Rajas' is the energy of constant doing, wanting, and achieving. While Rajas is useful for work, 'ultimate happiness' only comes when we can turn that energy *off* and find peace. When the 'noise' of passion stops, the 'signal' of supreme happiness becomes audible.
 
 **Neuroscience Perspective:** A peaceful mind with 'passion (rajas) calmed' is a brain in a state of 'high parasympathetic tone.' When the 'hustle-energy' of Rajas stops, the brain can finally perceive the 'Supreme Happiness' that is always present in its pure, 'Brahman' state.
@@ -560,7 +582,8 @@ Thus constantly disciplining himself, the yogi, freed from stain, easily enjoys 
 
 **Simple Translation:** By constantly practicing this discipline, the pure Yogi easily enjoys the infinite happiness that comes from being in contact with the Absolute reality.
 
-**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Closes the section with by constantly practicing this discipline, the pure Yogi easily enjoys the infinite happiness that comes from being in contact with the Absolute reality, completing the argument's arc.
+**Argument Arc:** *The Disciplined Mind (6.18–6.28)* — Closes the section by making the fruit continuous: ever-disciplined and freed from stain, the yogi *easily* touches the boundless bliss of contact with Brahman — the effort of 6.24–6.26 matured into effortlessness.
+
 **Contemporary Relevance:** 'The Ease of Mastery.' When you first start a discipline, it feels hard. But if you are 'constant,' it eventually becomes 'easy.' At that point, you don't have to 'try' to be happy or peaceful; you simply *are*, because you are always in touch with the fundamental truth of existence.
 
 **Neuroscience Perspective:** The 'boundless happiness of contact with Brahman' is the state of 'non-dual flow.' Neurally, this is the complete dissolution of the 'self-other' boundary, resulting in a state of 'limitless joy' that is the natural byproduct of a perfectly integrated brain.
@@ -579,7 +602,8 @@ He whose self is disciplined by yoga sees the self abiding in all beings, and al
 
 **Simple Translation:** One who is disciplined in Yoga sees their own self in all living beings, and all beings within their own self. They see the same reality everywhere.
 
-**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Opens the section by establishing one who is disciplined in Yoga sees their own self in all living beings, and all beings within their own self.
+**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Opens the section by turning the inward attainment outward: the self disciplined by yoga sees itself in all beings and all beings in itself — private absorption expanded into a metaphysics of equality.
+
 **Contemporary Relevance:** 'The Death of "Othering".' When you see yourself in others, you can't be cruel, judgmental, or indifferent. This is the ultimate 'First Principle' of social harmony. Conflict is only possible when we think we are separate from others. Yoga reveals the fundamental unity behind all diversity.
 
 **Neuroscience Perspective:** Seeing the 'self in all beings' is the neural definition of 'Radical Empathy.' The brain's 'mirror system' has been expanded to see every 'other' as a version of the 'self,' making universal compassion a logical and physiological necessity.
@@ -598,7 +622,8 @@ He who sees Me everywhere and sees all in Me; to him I am not lost, nor is he lo
 
 **Simple Translation:** For someone who sees Me (the Absolute) in everything and sees everything in Me, I am never lost to them, and they are never lost to Me.
 
-**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Advances the argument: For someone who sees Me (the Absolute) in everything and sees everything in Me, I am never lost to them, and they are never lost to Me.
+**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Recasts the unity vision theistically and adds a promise of mutual permanence: whoever sees Krishna everywhere and everything in Krishna is never lost to him, nor he to them — the chapter's first move from self to God.
+
 **Contemporary Relevance:** 'Constant Connection.' This is about staying 'connected to the source' 24/7. If you see the universal truth in every person you meet and every situation you face, you never feel alone or confused. You are always 'held' by your understanding of the Absolute reality.
 
 **Neuroscience Perspective:** Seeing 'Me everywhere' is the state of 'omnipresent pattern-recognition.' The brain has been trained to see the 'Absolute Truth' in every single sensory input. This constant connection prevents the 'feeling of loss' or 'loneliness' because the Truth is never 'out of sight.'
@@ -617,7 +642,8 @@ He who, established in unity, worships Me dwelling in all beings, that yogi dwel
 
 **Simple Translation:** One who is established in this sense of unity and recognizes Me dwelling in every living being—that person lives in Me, no matter what their external circumstances are.
 
-**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Advances the argument: One who is established in this sense of unity and recognizes Me dwelling in every living being—that person lives in Me, no matter what their external circumstances are.
+**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Adds that the vision survives circumstance: the yogi established in oneness who worships Krishna dwelling in all beings abides in Krishna however he lives — conduct rooted in vision rather than in external rule.
+
 **Contemporary Relevance:** 'Internal Sovereignty.' Your external 'condition' (job, health, wealth) doesn't define you. If you maintain your internal connection to the Truth and act from a place of unity, you are always 'home.' You carry your sanctuary within you.
 
 **Neuroscience Perspective:** Being 'established in unity' regardless of external conditions is the peak of 'context-independence.' The brain’s 'internal model' of reality is so strong and unified that no amount of external chaos can disrupt its internal 'Brahman-state.'
@@ -636,7 +662,8 @@ He who sees equality everywhere by comparison with himself, Arjuna, whether in p
 
 **Simple Translation:** Arjuna, the highest Yogi is the one who sees everyone as equal to themselves—recognizing that others feel pleasure and pain just as they do.
 
-**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Closes the section with arjuna, the highest Yogi is the one who sees everyone as equal to themselves—recognizing that others feel pleasure and pain just as they do, completing the argument's arc.
+**Argument Arc:** *The Vision of Unity (6.29–6.32)* — Closes the section by translating metaphysics into ethics: the supreme yogi measures others by analogy with himself, feeling their pleasure and pain as his own — unity as compassion, not only contemplation.
+
 **Contemporary Relevance:** 'The Golden Rule of Empathy.' This is empathy defined as a 'logical comparison.' Just as I don't want to feel pain, neither does anyone else. By applying this simple 'comparison with self' to every interaction, you achieve the highest level of social and emotional intelligence.
 
 **Neuroscience Perspective:** Empathy as 'comparison with oneself' (ātmaupamyena) is 'neural simulation.' The brain uses its own 'pain/pleasure maps' to understand the internal state of others. This is the highest level of 'social intelligence'—treating every living being with the same care as one’s own body.
@@ -660,7 +687,8 @@ This yoga which has been declared by You as characterized by equanimity, O slaye
 
 **Simple Translation:** Arjuna asked: Krishna, you describe this Yoga as a state of perfect balance, but I don't see how it can last, because the mind is so restless.
 
-**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Opens the section by establishing arjuna asked: Krishna, you describe this Yoga as a state of perfect balance, but I don't see how it can last, because the mind is so restless.
+**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Voices the objection the whole meditation manual has invited: Arjuna cannot see how this yoga of equanimity can have a stable footing, given the mind's inherent restlessness.
+
 **Contemporary Relevance:** 'The Reality Check.' Arjuna is being honest about the difficulty of maintaining focus. In our world of constant distractions, we often feel the same: 'Peace sounds great, but my mind won't stop racing!' Arjuna's question makes the teaching grounded and relatable to our everyday struggle.
 
 **Neuroscience Perspective:** Arjuna’s concern about 'restlessness' is a valid observation of 'neural entropy.' The brain is naturally 'noisy' and prone to 'stochastic fluctuations' (random thoughts). Arjuna is identifying the primary obstacle to any 'steady state' of mind.
@@ -679,7 +707,8 @@ For the mind is restless, Kṛṣṇa, turbulent, powerful, and obstinate. I con
 
 **Simple Translation:** The mind is restless, turbulent, strong, and stubborn, Krishna. I think controlling it is as difficult as trying to catch and hold the wind.
 
-**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Advances the argument: The mind is restless, turbulent, strong, and stubborn, Krishna.
+**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Intensifies the objection into the chapter's most quoted protest: the mind is restless, turbulent, strong, and obstinate — as hard to hold as the wind — giving universal voice to every meditator's frustration.
+
 **Contemporary Relevance:** 'The Turbulence of Thought.' This is a perfect description of the 'monkey mind.' Our thoughts are powerful and often work against our own will. Recognizing that the mind is 'strong and stubborn' is the first step to developing a strategy that actually works to tame it.
 
 **Neuroscience Perspective:** The mind as 'strong and stubborn' like the wind describes the 'power of biological momentum.' Our thoughts are not just 'ideas'; they are 'electrical storms' driven by deep-seated evolutionary survival instincts. Taming them is a formidable task.
@@ -701,7 +730,8 @@ Undoubtedly, O mighty-armed one, the mind is difficult to restrain and restless.
 
 **Simple Translation:** The Blessed Lord said: Without a doubt, the mind is restless and hard to control. But it can be mastered through consistent practice (Abhyasa) and the cultivation of detachment (Vairagya).
 
-**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Advances the argument: The Blessed Lord said: Without a doubt, the mind is restless and hard to control.
+**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Delivers Krishna's answer, conceding the premise while denying the conclusion: the mind is indeed hard to restrain, but it can be grasped through practice (*abhyāsa*) and dispassion (*vairāgya*) — the chapter's twin remedies.
+
 **Contemporary Relevance:** 'Consistency and Letting Go.' This is the 'twin strategy' for success in any field. 1. Practice: putting in the reps every single day. 2. Detachment: not letting your ego get caught up in the ups and downs of the process. If you do both, even the most 'wind-like' mind can be focused and controlled.
 
 **Neuroscience Perspective:** Practice (abhyāsa) and detachment (vairāgya) are the 'twin pillars of neuroplasticity.' 'Practice' builds new neural pathways; 'Detachment' prunes away the old, toxic ones. Together, they allow for a complete 're-wiring' of the human mind.
@@ -724,7 +754,8 @@ Yoga is hard to attain for one whose self is uncontrolled; this is My conviction
 
 **Simple Translation:** In my view, Yoga is very hard to reach for someone who has no self-control. But for someone who is disciplined and uses the right methods, it is definitely achievable.
 
-**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Closes the section with in my view, Yoga is very hard to reach for someone who has no self-control, completing the argument's arc.
+**Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Closes the exchange with a qualified verdict: yoga is hard for the ungoverned self but attainable for the striving, self-controlled one who uses the right means — difficulty reclassified from impossibility to conditionality.
+
 **Contemporary Relevance:** 'Systems over Willpower.' You can't just 'wish' for mental peace; you need a system (proper means). If you are undisciplined, you will fail. But if you follow a proven methodology and keep striving, success becomes a logical certainty.
 
 **Neuroscience Perspective:** Yoga as 'attainable through proper means' emphasizes 'methodological discipline.' Mental peace is not a 'miracle'; it's a 'technology.' If you follow the correct 'user manual' (the proper means), you can achieve an optimized brain-state regardless of your starting point.
@@ -746,7 +777,8 @@ He who is endowed with faith but does not strive, whose mind has wandered away f
 
 **Simple Translation:** Arjuna asked: Krishna, what happens to a person who has faith but lacks the discipline to stay on the path? If their mind wanders away before they reach perfection, what is their fate?
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Opens the section by establishing arjuna asked: Krishna, what happens to a person who has faith but lacks the discipline to stay on the path?.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Opens the section's new problem case: the person of faith whose effort lapses — if the mind strays before perfection is reached, what becomes of them? — raising the fear that spiritual effort can simply be wasted.
+
 **Contemporary Relevance:** 'The Fear of Failure.' This is a common worry: 'What if I start this journey of self-improvement but then I fail or lose my motivation halfway through? Will I have wasted my time?' Arjuna is asking for the 'security' of the effort.
 
 **Neuroscience Perspective:** The 'fear of falling' halfway reflects 'effort-reward uncertainty.' Arjuna is asking if 'partial progress' in neural training is lost if the goal isn't reached. It's an inquiry into the 'durability' of spiritual growth.
@@ -765,7 +797,8 @@ Fallen from both, having no solid ground, bewildered on the path of Brahman, doe
 
 **Simple Translation:** Having lost both worldly success and spiritual progress, and having no solid ground to stand on, do they just disappear like a scattered cloud?
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Advances the argument: Having lost both worldly success and spiritual progress, and having no solid ground to stand on, do they just disappear like a scattered cloud?.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Sharpens the stakes with the image of the severed cloud: fallen from both worlds — worldly success renounced, liberation unattained — does the failed striver simply dissolve, without support?
+
 **Contemporary Relevance:** 'The Mid-Life Crisis of the Soul.' Arjuna is describing the 'limbo' state where you are no longer satisfied with superficial material goals, but you haven't yet mastered the deeper spiritual ones. It feels like being 'torn' between two worlds without belonging to either.
 
 **Neuroscience Perspective:** The 'torn cloud' metaphor describes 'existential fragmentation.' Arjuna fears that by leaving the 'material world' but failing to reach the 'spiritual world,' his brain will be left in a state of 'limbo' with no stable foundation or reward.
@@ -786,7 +819,8 @@ You ought to dispel this doubt of mine completely, Kṛṣṇa; for no dispeller
 
 **Simple Translation:** Please clear this doubt of mine completely, Krishna. No one else can answer this question as well as you can.
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Advances the argument: Please clear this doubt of mine completely, Krishna.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Completes the question by invoking Krishna's unique authority: no one but Krishna can cut this doubt — setting up the emphatic reassurance that follows.
+
 **Contemporary Relevance:** 'Seeking Ultimate Answers.' Some questions cannot be answered by data or friends; they require 'source-level' wisdom. Arjuna's surrender to the guide's expertise is a model for how we should seek help when we reach the limits of our own understanding.
 
 **Neuroscience Perspective:** Seeking a 'complete dispeller of doubt' is the brain's search for a 'master predictive model.' When our own logic fails to solve an existential problem, we seek a 'High-Trust Source' to provide the 'top-down' information needed to resolve our internal 'prediction error.'
@@ -808,7 +842,8 @@ O Pārtha, neither here nor in the next world is there destruction for him; for 
 
 **Simple Translation:** The Blessed Lord said: Arjuna, such a person is never destroyed, neither in this life nor in the next. No one who does good, my dear friend, ever comes to a bad end.
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Advances the argument: The Blessed Lord said: Arjuna, such a person is never destroyed, neither in this life nor in the next.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Gives the categorical answer that governs the rest of the chapter: the failed yogi is destroyed neither in this world nor the next, for no doer of good ever comes to a bad end — spiritual effort declared indestructible.
+
 **Contemporary Relevance:** 'The Safety Net of Integrity.' This is one of the most comforting promises in the Gita. Good effort is never lost. Even if you 'fail' to reach your ultimate goal in this lifetime, the integrity and growth you developed stay with you. Positive momentum is a permanent asset.
 
 **Neuroscience Perspective:** The promise 'No one who does good goes to an evil destiny' is the 'ultimate neural safety-net.' This thought reduces 'existential anxiety' and encourages 'long-term investment' in character, knowing that every bit of 'good' effort is preserved in the system.
@@ -829,7 +864,8 @@ Having attained the worlds of the righteous and having dwelt there for endless y
 
 **Simple Translation:** After reaching the destination of the righteous and staying there for a long time, someone who fell from the path of Yoga is born again into a family that is clean and successful.
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Advances the argument: After reaching the destination of the righteous and staying there for a long time, someone who fell from the path of Yoga is born again into a family that is clean and successful.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Begins the mechanics of the guarantee: the fallen yogi first enjoys the worlds earned by merit, then is reborn into a pure and prosperous family — the lapse repaid, not punished.
+
 **Contemporary Relevance:** 'Compound Growth of Character.' Even an incomplete attempt at self-improvement gives you a head start in the next stage of your journey. Your next 'starting position' in life—whether in a new project, a new job, or a new life—is enhanced by the discipline you practiced in the past.
 
 **Neuroscience Perspective:** Birth in a 'pure and prosperous' house describes 'environmental advantage.' Neurally, being born into a stable and clean environment reduces 'baseline stress' and provides the 'resources' needed to resume one's journey of growth without the distraction of survival-crises.
@@ -848,7 +884,8 @@ Or else he is born into a family of wise yogis; indeed, such a birth as this is 
 
 **Simple Translation:** Or they might even be born into a family of wise practitioners. This kind of birth is very rare and valuable in this world.
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Advances the argument: Or they might even be born into a family of wise practitioners.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Offers the higher alternative — rebirth into a family of wise yogis themselves — and marks its rarity, ranking continuity of practice above comfort in the economy of rebirth.
+
 **Contemporary Relevance:** 'The Privilege of Environment.' Being born into an environment where wisdom and discipline are valued is a massive advantage. This verse suggests that such an environment is not an accident, but a result of previous efforts to grow.
 
 **Neuroscience Perspective:** Birth into a 'family of wise yogis' is the 'ultimate head-start.' This provides a child with a 'stable neural template' from day one. In such an environment, 'First Principles' are learned by osmosis, making the path to mastery much faster and easier.
@@ -867,7 +904,8 @@ There he regains the connection with the discernment belonging to his previous b
 
 **Simple Translation:** There, they regain the mental clarity and understanding they had in their previous life, and they start striving even harder for perfection, Arjuna.
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Advances the argument: There, they regain the mental clarity and understanding they had in their previous life, and they start striving even harder for perfection, Arjuna.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Explains what survives death: in the new birth the yogi regains the mental disposition of the former life and strives onward from that point — practice as an inheritance carried across lives.
+
 **Contemporary Relevance:** 'Picking up where you left off.' Have you ever met someone who seemed 'naturally' wise or disciplined from a young age? This verse explains that as the return of previous understanding. It encourages us to work hard now, knowing that every bit of clarity we gain will stay with us in the future.
 
 **Neuroscience Perspective:** Regaining 'previous discernment' describes 'latent neural patterns.' This verse suggests that our 'baseline personality' and 'intellectual strengths' are actually 'pre-loaded data' from our previous efforts. It encourages us to work hard now to 'save' a better version of ourselves for the future.
@@ -886,7 +924,8 @@ By that very previous practice he is carried forward, even against his will. Eve
 
 **Simple Translation:** They are carried forward by their previous practice, almost automatically. Even someone who just *wants* to know about Yoga has already moved beyond mere external rituals.
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Advances the argument: They are carried forward by their previous practice, almost automatically.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Grounds that continuity in sheer momentum: the prior practice carries him forward even involuntarily, and even the mere *wish* to know yoga already carries one beyond the ritualist's sphere.
+
 **Contemporary Relevance:** 'The Momentum of Habit.' Once you build a habit of deep thinking and self-control, that habit starts to pull you along even when you feel lazy. Furthermore, even the *desire* to improve yourself puts you ahead of those who are just blindly following social rules and rituals.
 
 **Neuroscience Perspective:** Being 'carried forward automatically' describes the 'power of habituation.' Once you have 'burned in' the pathways of self-control and inquiry, your brain starts to 'default' to those states even when you aren't trying. You become 'addicted' to growth.
@@ -905,7 +944,8 @@ But the yogi who strives with effort, whose stains are completely cleansed, bein
 
 **Simple Translation:** But the practitioner who strives with great effort, whose heart is cleansed, and who reaches perfection over a long period, finally attains the highest goal.
 
-**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Closes the section with but the practitioner who strives with great effort, whose heart is cleansed, and who reaches perfection over a long period, finally attains the highest goal, completing the argument's arc.
+**Argument Arc:** *The Failed Yogi (6.37–6.45)* — Closes the section's long arc: purified through many births and striving with effort, the yogi finally reaches the highest goal — failure reframed as slow-motion success.
+
 **Contemporary Relevance:** 'The Long Game.' Perfection takes time. This is a call for 'radical persistence.' If you keep cleaning your mind and keep trying, you are guaranteed to reach the top. It’s a marathon, not a sprint.
 
 **Neuroscience Perspective:** Perfection through 'many births' is a lesson in 'radical persistence.' Neurally, it takes 'repeated firing' over long periods to achieve 'total integration.' This verse provides the 'infinite patience' needed to keep 'cleaning the mind' until it reaches its highest peak.
@@ -924,7 +964,8 @@ The yogi is considered superior to the ascetics, and even superior to the men of
 
 **Simple Translation:** A Yogi is superior to those who practice physical austerities, superior to those who only have theoretical knowledge, and superior to those who only perform rituals. Therefore, Arjuna, be a Yogi!
 
-**Argument Arc:** *The Supreme Yogi (6.46–6.47)* — Opens the section by establishing A Yogi is superior to those who practice physical austerities, superior to those who only have theoretical knowledge, and superior to those who only perform rituals.
+**Argument Arc:** *The Supreme Yogi (6.46–6.47)* — Crowns the chapter's ranking: the yogi surpasses ascetics, scholars, and ritualists alike — therefore, Arjuna, become a yogi — the entire teaching compressed into a single imperative.
+
 **Contemporary Relevance:** 'Integration is Superior.' A Yogi is someone who integrates everything—discipline, knowledge, and action. Just being a 'scholar' or a 'hard worker' or a 'disciplined athlete' is not enough. The highest state is to combine all these into a unified practice of life.
 
 **Neuroscience Perspective:** The Yogi as 'superior to the scholar/worker' highlights the value of 'systemic integration.' A Yogi doesn't just 'know' (scholar) or 'do' (worker)—they 'integrate' knowledge, action, and discipline into a single, highly efficient 'operating mode' of life.
@@ -945,9 +986,16 @@ And of all yogis, he who, full of faith, worships Me with his inner self absorbe
 
 **Simple Translation:** And among all Yogis, the one who is full of trust and whose inner self is completely focused on Me (the Absolute)—that person is considered by Me to be the most disciplined of all.
 
-**Argument Arc:** *The Supreme Yogi (6.46–6.47)* — Closes the section with and among all Yogis, the one who is full of trust and whose inner self is completely focused on Me (the Absolute)—that person is considered by Me to be the most disciplined of all, completing the argument's arc.
+**Argument Arc:** *The Supreme Yogi (6.46–6.47)* — Adds the final, superlative refinement that pivots toward the coming chapters: among even yogis, the one who worships Krishna with faith, inner self absorbed in him, is the most disciplined of all — devotion installed at the apex of meditation.
+
 **Contemporary Relevance:** 'The Power of Total Devotion.' The final 'First Principle' of meditation is focus. If your whole being is focused on the ultimate Truth, you achieve the highest possible level of discipline. Trust and devotion are the 'fast tracks' to total mental integration.
 
 **Neuroscience Perspective:** The 'most fully disciplined' Yogi is the one 'absorbed in Me.' Neurally, 'loving devotion' (Bhakti) is the ultimate 'focus-multiplier.' By focusing 100% on the highest Truth with 'emotion' (faith), you achieve a level of mental integration that pure logic alone can never reach.
 
 > **Note:** The chapter concludes with a hierarchical assertion. Above mere physical austerity (*tapas*), theoretical knowledge (*jñāna*), and ritual action (*karma*) is the practice of yoga. And the pinnacle of yoga is infused with *bhakti* — loving devotion toward the ultimate reality represented by Kṛṣṇa.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde dhyānayogo nāma ṣaṣṭho 'dhyāyaḥ  
+
+Thus ends the sixth chapter, entitled "The Yoga of Meditation," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

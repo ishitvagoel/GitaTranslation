@@ -176,7 +176,7 @@ For the protection of the virtuous and for the destruction of evil-doers, for th
 
 **Simple Translation:** To protect the good, to stop the wrongdoers, and to firmly re-establish the principles of justice, I appear again and again throughout history.
 
-**Argument Arc:** *Divine Origin of the Teaching (4.1–4.8)* — Closes the section with the threefold purpose of divine manifestation (protection, elimination, restoration), completing the answer to Arjuna's earlier challenge and framing why *this* teaching is happening now.
+**Argument Arc:** *Divine Origin of the Teaching (4.1–4.8)* — Completes the avatāra doctrine begun in 4.7 by stating its threefold purpose — protecting the good, checking the wicked, re-establishing dharma — and its recurrence age after age, grounding the teaching's authority in a cosmic pattern rather than a one-time event.
 
 **Contemporary Relevance:** The 'return to first principles.' Every era needs a renewal of its core values. In our modern world, this happens when 'disruptors' or 'visionaries' step up to challenge corrupt systems and restore a sense of purpose and integrity. It’s a call to be a force for positive correction in our own time.
 
@@ -291,6 +291,7 @@ The fourfold order was created by Me according to the classification of qualitie
 **Neuroscience Perspective:** Social categories based on 'qualities and actions' (guṇa-karma) reflect a 'functional neuro-typing.' Different brains have different 'baseline aptitudes' (Sattva, Rajas, Tamas). A healthy society aligns roles with these inherent neural profiles rather than with arbitrary birth-status.
 
 **Common Misreading:** "Krishna created the hereditary caste system." Actually, the text explicitly bases the fourfold division on *guna* (innate qualities) and *karma* (action), not birth or lineage.
+
 > **Note:** *guṇakarmavibhāgaśaḥ* — Kṛṣṇa defines the social order not by birth, but by the psychological constituents (*guṇas*) and the resulting functional roles (*karma*). He remains the "non-doer" despite being the source.
 
 ---
@@ -699,7 +700,7 @@ Superior to the sacrifice of material objects is the sacrifice of knowledge, O s
 
 **Simple Translation:** The sacrifice of knowledge is superior to the sacrifice of material possessions, Arjuna. All actions, in their entirety, find their ultimate fulfillment in wisdom.
 
-**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Closes the section with the crowning hierarchy: knowledge-sacrifice supersedes all material, physical, and ritual forms because all action ultimately culminates in wisdom — setting up the next section's prescription to seek that knowledge from a realized teacher.
+**Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Closes the catalogue of sacrifices by ranking them: the sacrifice of knowledge surpasses all material offerings, because action in its entirety culminates in knowledge — pivoting the chapter toward its final theme.
 
 **Contemporary Relevance:** 'Knowledge over Assets.' Giving money is good, but sharing knowledge and wisdom is better because it empowers people to help themselves. Furthermore, the goal of all our 'doing' should be 'understanding.' We work so that we can eventually understand the truth of ourselves and the world.
 
@@ -890,3 +891,9 @@ Therefore, with the sword of knowledge, cutting this doubt born of ignorance sit
 **Contemporary Relevance:** The final command of the chapter is not to think more but to *act*. Knowledge that does not ultimately lead to decisive action is incomplete. The "sword of knowledge" is not passive wisdom; it is the resolve that ends paralysis and initiates movement.
 
 **Neuroscience Perspective:** The command "arise" (*uttiṣṭha*) after the extended teaching on knowledge reflects the brain's need to translate cognitive reframing into motor action. Insight alone does not change behavior — the prefrontal reappraisal must be followed by the initiation of action from the motor cortex, completing the loop from understanding to doing.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde jñānakarmasaṁnyāsayogo nāma caturtho 'dhyāyaḥ  
+
+Thus ends the fourth chapter, entitled "The Yoga of Knowledge and the Renunciation of Action," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

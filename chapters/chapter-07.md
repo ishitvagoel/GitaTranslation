@@ -305,6 +305,7 @@ For this divine illusion (*māyā*) of Mine, composed of the *guṇas*, is diffi
 **Neuroscience Perspective:** Surrendering to Me to cross the 'divine illusion' (Maya) is a strategy for 're-calibrating the self-model.' The 'illusion' is the small, separate ego. By surrendering to the 'whole' (the Absolute), you move your identity beyond the reach of the ego's confusion and stress.
 
 **Common Misreading:** "Māyā is an absolute trap with no escape." Actually, this same verse provides the immediate solution in its second half: those who take refuge in Krishna alone cross beyond māyā.
+
 ---
 
 ### 7.15
@@ -579,7 +580,7 @@ By the delusion of the dualities arising from desire and hatred, O Bhārata, all
 ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥ २८ ॥  
 
 yeṣāṃ tv antagataṃ pāpaṃ janānāṃ puṇyakarmaṇām |  
-te द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥ २८ ॥  
+te dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ || 28 ||  
 
 But those men of virtuous deeds whose evil has come to an end — freed from the delusion of dualities, they worship Me with firm resolve.
 

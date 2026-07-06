@@ -273,10 +273,10 @@ For the gods, nourished by sacrifice, will grant you the enjoyments you desire. 
 ### 3.13
 
 यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।  
-भुञ्जते ते त्वघं पापा ye पचन्त्यात्मकारणात् ॥ १३ ॥  
+भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥ १३ ॥  
 
 yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ /  
-bhuñjate te tv aghaṃ pāpā ye pacanty atmakāraṇāt // 13 //  
+bhuñjate te tv aghaṃ pāpā ye pacanty ātmakāraṇāt // 13 //  
 
 The virtuous who eat the remnants of sacrifice are released from all sins. But those wicked ones who cook only for their own sake eat sin.
 
@@ -422,7 +422,7 @@ Indeed, Janaka and others attained perfection through action alone. Even conside
 
 **Simple Translation:** Great leaders like Janaka reached perfection through action alone. You should also do your work, if only to set an example and help maintain the order of the world (lokasaṃgraha).
 
-**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Closes the section with a historical proof that bridges the exception and the rule: Janaka was both a king fully engaged in worldly action and a realized being. His example confirms that the path of action can itself achieve the freedom described in 3.17 — action and liberation are not opposites.
+**Argument Arc:** *The Self-Realized Are Free (3.17–3.20)* — Closes the section by pivoting from exemption back to obligation: even one with nothing left to gain should act, as Janaka did, introducing *lokasaṃgraha* — the holding-together of the world — as a new, selfless motive for action.
 
 **Contemporary Relevance:** Leadership by example. Even if you don't 'need' to work for yourself, you should work for the benefit of society. Your actions help hold the world together. This is the responsibility of the 'wise' to help those who are still learning.
 
@@ -446,7 +446,7 @@ Whatever a superior person does, that very thing other people do. Whatever stand
 
 **Simple Translation:** Whatever a leader does, others will copy. Whatever standards a leader sets, the rest of the world will follow.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Opens the section by establishing the sociological force that obligates the wise to continue acting: whatever the most eminent person does becomes the behavioral standard for society. This transforms the individual question of "should I act?" into a collective responsibility.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Opens the section with its governing principle: whatever the exemplary person does becomes the standard others follow, converting the sage's private freedom into public responsibility.
 
 **Contemporary Relevance:** The power of influence. If you are in a position of authority (parent, boss, influencer), your behavior sets the 'culture' for everyone else. Integrity at the top is the only way to ensure integrity throughout the system.
 
@@ -550,7 +550,7 @@ The wise should not create a confusion of the intellect (*buddhibheda*) in the i
 
 **Simple Translation:** A wise person should not confuse those who are attached to their work by telling them to stop. Instead, the wise should perform all actions beautifully and with discipline, encouraging others to do the same.
 
-**Argument Arc:** *Leading by Example (3.21–3.26)* — Closes the section with a crucial constraint on the wise: they must not intellectually destabilize those who are still learning through attached action. The wise lead by doing, not by preaching detachment to those not yet ready for it. This seals the section's argument that example — not instruction — is the proper vehicle of wisdom.
+**Argument Arc:** *Leading by Example (3.21–3.26)* — Closes the section with a rule of pedagogy: the wise must not unsettle the conviction of those still attached to action, but teach by disciplined performance rather than by preaching abstention.
 
 **Contemporary Relevance:** Meet people where they are. If someone is motivated by money or status, don't just tell them 'money doesn't matter'—that will only confuse them. Instead, show them how to do *excellent* work. Your example of excellence will eventually lead them to deeper motivations.
 
@@ -747,6 +747,7 @@ Better is one's own duty (*svadharma*), though imperfect, than another's duty we
 **Neuroscience Perspective:** The danger of 'another's duty' reflects 'misalignment-stress.' Your brain is 'wired' for certain tasks (Svadharma). Trying to be someone else creates a state of 'chronic neural mismatch,' which is exhausting and leads to failure. Find your own optimal 'functional fit.'
 
 **Common Misreading:** "One must follow the duty assigned at birth." Actually, *svadharma* here refers to one's authentic inner nature and temperament, not a hereditary caste role assigned by birth.
+
 > **Note:** *svadharma* — one's own inherent duty or path, determined by one's nature. This is a pivotal ethical injunction: authenticity to one's own nature is superior to the imitation of another's perfection.
 
 ---
@@ -918,3 +919,9 @@ Thus, knowing that which is beyond the intellect, steadying the self by the Self
 **Neuroscience Perspective:** Steadying the 'self by the Self' is the ultimate 'self-referential' loop of focus. By identifying with your 'highest potential' (the Absolute Self), you gain the 'leverage' needed to override even the most powerful biological cravings (Desire).
 
 > **Note:** *ātmānam ātmanā* — "the self by the Self." This implies using the higher, enlightened intellect (*buddhi*) or the realization of the absolute Self to stabilize the lower, fluctuating mind and senses.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde karmayogo nāma tṛtīyo 'dhyāyaḥ  
+
+Thus ends the third chapter, entitled "The Yoga of Action," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

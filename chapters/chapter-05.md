@@ -618,3 +618,9 @@ Knowing Me as the enjoyer of sacrifices and austerities, the great lord of all w
 **Neuroscience Perspective:** Knowing the Truth as 'the friend of all' is the ultimate 'trust signal.' This thought de-activates the brain's 'hyper-vigilance' and 'threat-detection' systems, replacing them with a deep, grounded sense of peace and universal cooperation.
 
 > **Note:** After chapters emphasizing impersonal principles (*Brahman*, *prakṛti*, *yoga*), Kṛṣṇa concludes with a starkly personal claim, setting the stage for the theology of devotion (*bhakti*) that unfolds later.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde karmasaṁnyāsayogo nāma pañcamo 'dhyāyaḥ  
+
+Thus ends the fifth chapter, entitled "The Yoga of the Renunciation of Action," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

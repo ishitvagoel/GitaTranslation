@@ -227,7 +227,7 @@ Having spoken thus to Hṛṣīkeśa, Guḍākeśa, the scorcher of foes, said t
 tam uvāca hṛṣīkeśaḥ prahasann iva bhārata /  
 senayor ubhayor madhye viṣīdantam idaṁ vacaḥ //  
 
-To him, despondent between the two armies, Hṛṣीkeśa, as if smiling, spoke these words, Bhārata:
+To him, despondent between the two armies, Hṛṣīkeśa, as if smiling, spoke these words, Bhārata:
 
 **Simple Translation:** Krishna, as if smiling, spoke these words to the despondent Arjuna right there in the middle of the two armies:
 
@@ -1015,6 +1015,7 @@ Your right is to action alone, never to its fruits. Do not be one whose motive i
 **Neuroscience Perspective:** The 'right to action, not to fruits' is the ultimate strategy for 'performance without pressure.' By decoupling 'effort' from 'outcome,' the brain reduces the 'anticipatory anxiety' that often impairs peak performance.
 
 **Common Misreading:** "Don't care about results." Actually, the teaching forbids letting results be your *motivation* — effort, quality, and care remain essential; only attachment to outcomes must be released.
+
 ---
 
 ### 2.48
@@ -1332,6 +1333,7 @@ When a person contemplates sense objects, attachment to them arises. From attach
 **Neuroscience Perspective:** The 'ladder of downfall' (thought -> attachment -> desire -> anger) is a perfect map of a 'neural chain reaction.' By understanding this sequence, we can intervene at the 'thought' stage before the brain is overwhelmed by 'anger.'
 
 **Common Misreading:** "Ordinary thinking about an object causes ruin." Actually, this verse describes the specific cascade of *obsessive craving*: prolonged dwelling on desired objects, not normal reflection or discernment.
+
 ---
 
 ### 2.63
@@ -1353,6 +1355,7 @@ From anger comes delusion; from delusion, confusion of memory; from confusion of
 **Neuroscience Perspective:** The progression from 'anger -> delusion -> loss of memory -> destruction of reason' describes the 'shutting down' of the prefrontal cortex under intense stress. Anger literally 'blinds' and 'stupefies' the executive brain, leading to a total loss of character.
 
 **Common Misreading:** "Any desire leads to destruction." Actually, this continues the craving-chain: obsessive attachment escalates to anger, which destroys discriminative intelligence — it describes compulsion, not ordinary desire.
+
 ---
 
 ### 2.64
@@ -1540,3 +1543,9 @@ This is the state of Brahman, Pārtha. Having attained it, one is not deluded. E
 **Neuroscience Perspective:** The 'State of Brahman' is the 'ultimate neural integration.' It is a state of 'total certainty' and 'zero delusion' that remains steady even at death. It is the final achievement of a perfectly trained and aligned human mind.
 
 > **Note:** *brahmanirvāṇa* — "extinction in Brahman" — combines an Upaniṣadic term (*brahman*) with a term more commonly associated with Buddhist soteriology (*nirvāṇa*). The compound is distinctive to the Gītā and appears again at 5.24–26. It denotes final liberation without privileging either tradition's technical usage.
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde sāṅkhyayogo nāma dvitīyo 'dhyāyaḥ  
+
+Thus ends the second chapter, entitled "The Yoga of Discernment," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

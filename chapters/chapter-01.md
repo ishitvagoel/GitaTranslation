@@ -349,7 +349,7 @@ King Yudhiṣṭhira, son of Kuntī, blew Anantavijaya; Nakula and Sahadeva blew
 kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ /  
 dhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ //  
 
-The king of Kāśī, supreme among archers; Śikhaṇण्डी, the great chariot-warrior; Dhṛṣṭadyumna and Virāṭa, and the unconquered Sātyaki;
+The king of Kāśī, supreme among archers; Śikhaṇḍī, the great chariot-warrior; Dhṛṣṭadyumna and Virāṭa, and the unconquered Sātyaki;
 
 **Simple Translation:** The king of Kashi, a master archer; Shikhandi, the great warrior; Dhristadyumna, Virata, and the undefeated Satyaki;
 
@@ -579,7 +579,7 @@ fathers-in-law and well-wishers too, in both armies. The son of Kuntī, seeing a
 अर्जुन उवाच ।  
 दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ॥ २८ ॥  
 
-kṛpayā parayāviṣṭo viṣीdann idam abravīt /  
+kṛpayā parayāviṣṭo viṣīdann idam abravīt /  
 arjuna uvāca:  
 dṛṣṭvemaṁ svajanaṁ kṛṣṇa yuyutsuṁ samupasthitam //  
 
@@ -645,8 +645,8 @@ Gāṇḍīva slips from my hand, my skin burns all over. I cannot stand steady,
 निमित्तानि च पश्यामि विपरीतानि केशव ।  
 न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ॥ ३१ ॥  
 
-nimittāni ca pश्यामि विपरीतानि केशव ।  
-न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ॥ ३१ ॥  
+nimittāni ca paśyāmi viparītāni keśava /  
+na ca śreyo 'nupaśyāmi hatvā svajanam āhave //  
 
 I see adverse omens, Keśava, and I foresee no good from slaying my own people in battle.
 
@@ -792,7 +792,7 @@ Therefore we ought not to kill the sons of Dhṛtarāṣṭra, our own relatives
 कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥ ३८ ॥  
 
 yady apy ete na paśyanti lobhopahatacetasaḥ /  
-kulakṣayakṛtaṁ doṣaं मित्रद्रोहे च पातकम् ॥ ३८ ॥  
+kulakṣayakṛtaṁ doṣaṁ mitradrohe ca pātakam //  
 
 Even if these men, their minds overtaken by greed, see no wrong in the destruction of a family, no crime in treachery to friends —
 
@@ -896,7 +896,7 @@ This intermixture leads to ruin for the destroyers of the family and for the fam
 उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥ ४३ ॥  
 
 doṣair etaiḥ kulaghnānāṁ varṇasaṅkarakārakaiḥ /  
-utsādyante jātidharmāḥ कुलधर्माश्च शाश्वताः ॥ ४३ ॥  
+utsādyante jātidharmāḥ kuladharmāś ca śāśvatāḥ //  
 
 By these wrongs of the family-destroyers, wrongs that cause the intermixture of social orders, the enduring duties of birth-group and family are obliterated.
 
@@ -915,8 +915,8 @@ By these wrongs of the family-destroyers, wrongs that cause the intermixture of 
 उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।  
 नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥ ४४ ॥  
 
-utsannakuladharmāṇāṁ manuṣyāṇāṁ janार्दन ।  
-नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥ ४४ ॥  
+utsannakuladharmāṇāṁ manuṣyāṇāṁ janārdana /  
+narake 'niyataṁ vāso bhavatīty anuśuśruma //  
 
 For those whose family duties have been destroyed, Janārdana, a dwelling in hell is certain — so we have heard.
 
@@ -982,7 +982,7 @@ If the armed sons of Dhṛtarāṣṭra were to kill me in battle, unresisting a
 
 sañjaya uvāca:  
 evam uktvārjunaḥ saṅkhye rathopastha upāviśat /  
-visृज्य सशरं चापं शोकसंविग्नमानसः ॥ ४७ ॥  
+visṛjya saśaraṁ cāpaṁ śokasaṁvignamānasaḥ //  
 
 Sañjaya said:
 Having spoken thus on the field of battle, Arjuna sat down on the seat of his chariot, casting aside his bow and arrows, his mind overwhelmed by grief.

@@ -850,6 +850,7 @@ Of brahmins, kṣatriyas, vaiśyas, and śūdras, O scorcher of foes, the action
 **Neuroscience Perspective:** Social function based on 'inherent nature' (svabhāva) describes 'optimal functional fit.' The system works best when each 'brain-type' (Guna-balance) performs the role it is 'neurally wired' for. This is the First Principle of systemic efficiency.
 
 **Common Misreading:** "This verse justifies the hereditary caste hierarchy." Actually, the fourfold division is explicitly by *svabhāva* (innate nature) and *karma* (functional action), not by birth or lineage.
+
 > **Note:** The socio-theological climax of the text. Kṛṣṇa roots the fourfold social order (*varṇa*) not strictly in birth lineage, but in the psychological typology of the *guṇas*.
 
 ---
@@ -913,6 +914,7 @@ Agriculture, cow-protection, and trade constitute the action of a vaiśya, born 
 **Neuroscience Perspective:** Providers and Workers describe 'the Support Grid.' Neurally, these roles focus on 'External Resource Management' and 'Operational Support.' These are the 'foundational layers' that make the higher intellectual and leadership layers possible.
 
 **Common Misreading:** "Krishna endorses traditional social stratification." Actually, each category of work is given equal dignity and a legitimate path to perfection — the focus is on functional temperament, not social worth.
+
 ---
 
 ### 18.45
@@ -1297,7 +1299,7 @@ Thus has knowledge, more secret than the secret, been declared to you by Me. Hav
 
 **Simple Translation:** Thus, I have shared with you the most secret of all knowledge. Reflect on it deeply and completely, and then do whatever you wish.
 
-**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Closes the section with a formal declaration that the secret teaching has been fully delivered, then releases Arjuna to deliberate and choose freely — preserving his autonomy even after the most comprehensive instruction, setting the stage for an even deeper secret to follow in 18.64.
+**Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Marks the formal end of the teaching with its most striking gesture: having declared this knowledge more secret than all secrets, Krishna suspends his own authority — 'reflect on it fully, then do as you wish' — the entire Gītā handed back to Arjuna's freedom.
 
 **Contemporary Relevance:** The Sovereignty of Free Will. This is one of the most important verses in the Gita. After giving all the advice, Krishna doesn't demand obedience. He tells Arjuna to 'reflect deeply' and then make his own choice. This is the First Principle of true teaching: it empowers the student to decide for themselves.
 
@@ -1368,6 +1370,7 @@ Abandoning all *dharmas*, take refuge in Me alone. I will liberate you from all 
 **Neuroscience Perspective:** The Ultimate Reset (Abandon all Dharmas) is 'De-Conditional Freedom.' Neurally, you let go of 'specific rules' and 'roles' to align with the 'Universal Law' itself. This removes all 'moral friction' (sin) and 'existential weight' (grief). You are finally 'Free.'
 
 **Common Misreading:** "Abandon all duties, rituals, and actions." Actually, the surrender is of the ego's claim to *doership* (kartṛtva-abhimāna) — action continues unimpeded, but without the burden of personal ownership.
+
 > **Note:** The *carama śloka* (final/supreme verse). After eighteen chapters analyzing various *dharmas* (duty, meditation, knowledge), Kṛṣṇa culminates the text with an injunction to abandon even the reliance on *dharma* itself in favor of total, unmediated surrender (*śaraṇāgati*) to the Divine.
 
 ---
@@ -1619,3 +1622,9 @@ Wherever there is Kṛṣṇa, the Lord of Yoga, and wherever there is Pārtha, 
 **Neuroscience Perspective:** The pairing of wisdom and action mirrors what neuroscience calls the integration of the 'knowing' and 'doing' networks — the prefrontal planning regions and the motor-execution circuits. Peak performance in any domain emerges when cognitive clarity (understanding the goal) and skilled action (executing with discipline) operate in concert rather than in conflict. Sanjaya's unshakeable conviction also reflects a well-consolidated belief state — when evidence, experience, and insight converge, the brain generates a stable confidence that does not waver under pressure.
 
 > **Note:** Sañjaya speaks these final words to the blind king Dhṛtarāṣṭra, bringing the entire narrative full circle to the opening question of 1.1. The combination of the Lord of Yoga and the skilled warrior is the Gītā's concluding symbol for the union of *jñāna* (wisdom) and *karma* (action).
+
+---
+
+iti śrīmadbhagavadgītāsu upaniṣatsu brahmavidyāyāṁ yogaśāstre śrīkṛṣṇārjunasaṁvāde mokṣasaṁnyāsayogo nāmāṣṭādaśo 'dhyāyaḥ  
+
+Thus ends the eighteenth chapter, entitled "The Yoga of Liberation through Renunciation," in the Bhagavadgītā Upaniṣads, the knowledge of the absolute, the scripture of discipline, the dialogue between Śrī Kṛṣṇa and Arjuna.

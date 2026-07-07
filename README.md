@@ -46,6 +46,23 @@ See [METHODOLOGY.md](METHODOLOGY.md) for detailed translation principles.
 
 See [glossary.md](glossary.md) for key terms and translation rationale.
 
+## Deployment
+
+The site is a Jekyll static site and builds with:
+
+```
+bundle install
+bundle exec jekyll build
+```
+
+**Vercel:** Import the repo as-is — `vercel.json` sets the build command and output directory (`_site`). The default `_config.yml` serves the site from the domain root, which is what Vercel expects.
+
+**GitHub Pages:** If deploying as a project page (e.g. `username.github.io/GitaTranslation`), build with the path prefix override:
+
+```
+bundle exec jekyll build --config _config.yml,_config_ghpages.yml
+```
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).

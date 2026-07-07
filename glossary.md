@@ -1,3 +1,8 @@
+---
+layout: default
+title: Glossary
+---
+
 # Glossary of Key Sanskrit Terms
 
 This glossary documents the principal Sanskrit terms encountered in the Bhagavad Gītā and the translation choices made for each occurrence. Because this translation uses context-sensitive rendering rather than fixed equivalents, the same term may be rendered differently in different verses. This glossary tracks those choices and their rationale.

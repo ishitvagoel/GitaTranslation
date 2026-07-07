@@ -19,10 +19,10 @@ arjuna uvāca |
 ye śāstravidhim utsṛjya yajante śraddhayānvitāḥ |  
 teṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ || 1 ||  
 
-Arjuna said:
-Those who, having cast aside the injunctions of the scriptures, worship endowed with faith (*śraddhā*) — what is their position, Kṛṣṇa? Is it *sattva* (goodness), *rajas* (passion), or *tamas* (darkness)?
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+Those who, having cast aside the injunctions of the scriptures, worship endowed with faith (*śraddhā*) — what is their position, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>? Is it *sattva* (goodness), *rajas* (passion), or *tamas* (darkness)?
 
-**Simple Translation:** Arjuna asked: Krishna, what is the state of those who ignore the formal rules of scriptures but still perform their work with faith? Is their nature pure (Sattva), passionate (Rajas), or dull (Tamas)?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, what is the state of those who ignore the formal rules of scriptures but still perform their work with faith? Is their nature pure (Sattva), passionate (Rajas), or dull (Tamas)?
 
 **Argument Arc:** *Three Types of Faith (17.1–17.6)* — Opens the chapter with Arjuna exploiting the loose end left by 16.23–24: what of those who set aside scriptural rule yet sacrifice *with faith* — is their standing sattva, rajas, or tamas? — faith and rule prised apart for examination.
 
@@ -69,7 +69,7 @@ sattvānurūpā sarvasya śraddhā bhavati bhārata |
 
 The faith of everyone is according to his disposition, O Bhārata. Man is made of his faith; whatever his faith is, that indeed is he.
 
-**Simple Translation:** Everyone's faith matches their own inner nature, Arjuna. A person is essentially what their faith is; as their faith is, so are they.
+**Simple Translation:** Everyone's faith matches their own inner nature, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. A person is essentially what their faith is; as their faith is, so are they.
 
 **Argument Arc:** *Three Types of Faith (17.1–17.6)* — States the chapter's central axiom: faith conforms to one's inner substance; a person is made of their faith — whatever one's faith is, that indeed one is — *śraddhā* elevated from opinion to constitution.
 
@@ -255,7 +255,7 @@ ijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam || 12 ||
 
 But that sacrifice which is offered aiming at the fruit, and also merely for the sake of hypocrisy — know that sacrifice, O best of the Bharatas, to be *rājasika*.
 
-**Simple Translation:** But work that is done only for show or with an eye on the reward, Arjuna, know that to be passionate (Rajasic).
+**Simple Translation:** But work that is done only for show or with an eye on the reward, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, know that to be passionate (Rajasic).
 
 **Argument Arc:** *Three Types of Sacrifice (17.11–17.13)* — Defines rājasic sacrifice: offered with the fruit in view, or for the sake of display — outward correctness contaminated by motive; the act's quality fixed by intention, not performance.
 
@@ -541,9 +541,9 @@ With "Tat" (That), not aiming at the fruit, the various acts of sacrifice, auste
 sadbhāve sādhubhāve ca sad ity etat prayujyate |  
 praśaste karmaṇi tathā sacchabdaḥ pārtha yujyate || 26 ||  
 
-The word "Sat" is used in the sense of existence and in the sense of goodness. Likewise, O Pārtha, the word "Sat" is applied to an auspicious action.
+The word "Sat" is used in the sense of existence and in the sense of goodness. Likewise, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, the word "Sat" is applied to an auspicious action.
 
-**Simple Translation:** The word 'SAT' is used to mean 'Existence' and 'Goodness.' Arjuna, it is also used to describe an excellent and auspicious action.
+**Simple Translation:** The word 'SAT' is used to mean 'Existence' and 'Goodness.' <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, it is also used to describe an excellent and auspicious action.
 
 **Argument Arc:** *Om Tat Sat — The Divine Formula (17.23–17.28)* — Assigns *Sat* its semantic range: used for existence and for goodness, and likewise for any praiseworthy act — the third syllable tying ordinary approbation to ultimate reality.
 
@@ -581,9 +581,9 @@ And steadfastness in sacrifice, austerity, and charity is also called "Sat." And
 aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat |  
 asad ity ucyate pārtha na ca tat pretya no iha || 28 ||  
 
-Whatever is offered in the fire, given, or performed as austerity, or whatever is done without faith, is called "Asat" (non-being), O Pārtha. It is of no value here or hereafter.
+Whatever is offered in the fire, given, or performed as austerity, or whatever is done without faith, is called "Asat" (non-being), O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>. It is of no value here or hereafter.
 
-**Simple Translation:** Whatever is offered, given, or practiced without faith is called 'ASAT' (Non-existent), Arjuna. It has no value in this life or the next.
+**Simple Translation:** Whatever is offered, given, or practiced without faith is called 'ASAT' (Non-existent), <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. It has no value in this life or the next.
 
 **Argument Arc:** *Om Tat Sat — The Divine Formula (17.23–17.28)* — Closes the chapter with the negative seal that answers 17.1: whatever is offered, given, or done without faith is 'Asat' — nothing here and nothing hereafter — faith finally declared the variable on which the reality of all religious action depends.
 

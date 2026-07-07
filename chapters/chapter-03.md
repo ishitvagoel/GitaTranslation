@@ -19,10 +19,10 @@ arjuna uvāca:
 jyāyasī cet karmaṇas te matā buddhir janārdana /  
 tat kiṃ karmaṇi ghore māṃ niyojayasi keśava // 1 //  
 
-Arjuna said:
-If you consider knowledge to be superior to action, Janārdana, then why do you urge me to this terrible action, Keśava?
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+If you consider knowledge to be superior to action, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Janārdana</a>, then why do you urge me to this terrible action, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Keśava</a>?
 
-**Simple Translation:** Arjuna asked: Krishna, if you think that clear understanding is better than action, then why are you pushing me to do this violent and terrible work?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, if you think that clear understanding is better than action, then why are you pushing me to do this violent and terrible work?
 
 **Argument Arc:** *Arjuna's Confusion (3.1–3.2)* — Opens the section by posing the challenge: if knowledge (buddhi) is superior, why is Arjuna being commanded to act? This apparent contradiction is the chapter's engine; every subsequent verse is Krishna's answer to it.
 
@@ -67,7 +67,7 @@ jñānayogena sāṃkhyānāṃ karmayogena yoginām //
 The Blessed Lord said:
 In this world, a twofold basis of steadying was previously taught by me, O sinless one: by the discipline of knowledge for the Sāṃkhyas, and by the discipline of action for the Yogins.
 
-**Simple Translation:** The Blessed Lord said: Arjuna, I have previously described two paths for finding balance in this world: the path of analytical knowledge for those who are contemplative, and the path of selfless action for those who are active.
+**Simple Translation:** The Blessed Lord said: <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, I have previously described two paths for finding balance in this world: the path of analytical knowledge for those who are contemplative, and the path of selfless action for those who are active.
 
 **Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Opens Krishna's response by dismantling the false either/or: there are two valid paths, jñāna-yoga and karma-yoga, each suited to a different temperament. This establishes that Arjuna's question was misconceived — the issue is not which is better in the abstract, but which fits the person.
 
@@ -149,7 +149,7 @@ One who, restraining the organs of action, sits with the mind dwelling on the ob
 yas tv indriyāṇi manasā niyamyārabhate 'rjuna /  
 karmendriyaiḥ karmayogam asaktaḥ sa viśiṣyate // 7 //  
 
-But one who, controlling the senses with the mind, undertakes the discipline of action with the organs of action, unattached — that person is distinguished, Arjuna.
+But one who, controlling the senses with the mind, undertakes the discipline of action with the organs of action, unattached — that person is distinguished, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Simple Translation:** But the person who uses their mind to control their senses and performs their work with their body without being attached to the outcome—that person is truly outstanding.
 
@@ -189,9 +189,9 @@ Perform your allotted action, for action is superior to non-action; even the mai
 yajñārthāt karmaṇo 'nyatra loko 'yaṃ karmabandhanaḥ /  
 tadarthaṃ karma kaunteya muktasaṅgaḥ samācara // 9 //  
 
-This world is bound by action except for that action performed for the sake of sacrifice. For that purpose, son of Kuntī, perform action free from attachment.
+This world is bound by action except for that action performed for the sake of sacrifice. For that purpose, son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, perform action free from attachment.
 
-**Simple Translation:** Any work done for a selfish reason creates a burden (bondage). But work done as a contribution or sacrifice (Yajña) is free. Therefore, Arjuna, do your work as a contribution, without being attached to what you get from it.
+**Simple Translation:** Any work done for a selfish reason creates a burden (bondage). But work done as a contribution or sacrifice (Yajña) is free. Therefore, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, do your work as a contribution, without being attached to what you get from it.
 
 **Argument Arc:** *Two Paths, One Goal (3.3–3.9)* — Closes the section by introducing the key that transforms action from bondage into liberation: yajña, selfless offering. This reframes the entire question — not "should I act?" but "for whom do I act?" The concept of yajña then anchors the entire next section.
 
@@ -338,7 +338,7 @@ Know that action originates from Brahman (the Veda), and Brahman originates from
 evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ /  
 aghāyur indriyārāmo moghaṃ pārtha sa jīvati // 16 //  
 
-He who does not follow the wheel thus set in motion in this world — living in sin and delighting in the senses — he lives in vain, Pārtha.
+He who does not follow the wheel thus set in motion in this world — living in sin and delighting in the senses — he lives in vain, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
 **Simple Translation:** Anyone who does not participate in this natural cycle of contribution, but only lives for their own sensory pleasure and selfish gain, lives a useless life.
 
@@ -464,9 +464,9 @@ Whatever a superior person does, that very thing other people do. Whatever stand
 na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana /  
 nānavāptam avāptavyaṃ varta eva ca karmaṇi // 22 //  
 
-There is no duty for Me to perform in the three worlds, Pārtha, nor is there anything unattained to be attained; yet I am engaged in action.
+There is no duty for Me to perform in the three worlds, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, nor is there anything unattained to be attained; yet I am engaged in action.
 
-**Simple Translation:** Arjuna, there is nothing in the entire universe that I *must* do, and there is nothing I don't already have. Yet, I am constantly engaged in action.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, there is nothing in the entire universe that I *must* do, and there is nothing I don't already have. Yet, I am constantly engaged in action.
 
 **Argument Arc:** *Leading by Example (3.21–3.26)* — Provides Krishna's own case as illustration: he has no need, no unmet goal, no unfulfilled desire — he perfectly embodies the freedom described in 3.17. Yet he acts, proving that the motivation for the wise to act is not personal necessity but example-setting.
 
@@ -484,7 +484,7 @@ There is no duty for Me to perform in the three worlds, Pārtha, nor is there an
 yadi hy ahaṃ na varteyaṃ jātu karmaṇy atandritaḥ /  
 mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ // 23 //  
 
-For if I did not ever engage in action untiringly, men would follow My path in every way, Pārtha.
+For if I did not ever engage in action untiringly, men would follow My path in every way, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
 **Simple Translation:** If I ever stopped working tirelessly, people everywhere would follow my example and stop doing their work as well.
 
@@ -762,10 +762,10 @@ arjuna uvāca /
 atha kena prayukto 'yaṃ pāpaṃ carati pūruṣaḥ /  
 anicchann api vārṣṇeya balād iva niyojitaḥ // 36 //  
 
-Arjuna said:
-Then by what is a man impelled to perform evil, even against his will, O Vārṣṇeya, as if driven by force?
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+Then by what is a man impelled to perform evil, even against his will, O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Vārṣṇeya</a>, as if driven by force?
 
-**Simple Translation:** Arjuna asked: Krishna, what is it that forces a person to do wrong things, even when they don't want to? It feels like they are being pushed by some invisible power.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, what is it that forces a person to do wrong things, even when they don't want to? It feels like they are being pushed by some invisible power.
 
 **Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Opens the section by posing the chapter's deepest question: if wisdom and svadharma provide the correct framework, what force overrides even the unwilling and compels wrong action? Arjuna's question demands a causal explanation, not just moral instruction — and this demand drives the section's systematic anatomization of desire.
 
@@ -826,9 +826,9 @@ As fire is covered by smoke, as a mirror by dust, as an embryo is covered by the
 āvṛtaṃ jñānam etena jñānino nitya-vairiṇā /  
 kāmarūpeṇa kaunteya duṣpūreṇānalena ca // 39 //  
 
-Knowledge is covered, O son of Kuntī, by this eternal enemy of the wise, which takes the form of desire and is an insatiable fire.
+Knowledge is covered, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, by this eternal enemy of the wise, which takes the form of desire and is an insatiable fire.
 
-**Simple Translation:** Arjuna, this insatiable fire of desire is the constant enemy of the wise. It covers up their wisdom and is never satisfied.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, this insatiable fire of desire is the constant enemy of the wise. It covers up their wisdom and is never satisfied.
 
 **Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Sharpens the characterization of the enemy: it is specifically kāma that covers knowledge, and it is insatiable — an unquenchable fire that persists even in the wise. This prevents any complacency; the enemy does not disappear with partial awakening but must be actively countered.
 
@@ -868,7 +868,7 @@ pāpmānaṃ prajahi hy enaṃ jñānavijñānanāśanam // 41 //
 
 Therefore, first controlling the senses, O best of the Bharatas, slay this evil thing, the destroyer of knowledge (*jñāna*) and realization (*vijñāna*).
 
-**Simple Translation:** Therefore, Arjuna, first control your senses and destroy this evil desire, which is the destroyer of both theoretical knowledge and practical experience.
+**Simple Translation:** Therefore, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, first control your senses and destroy this evil desire, which is the destroyer of both theoretical knowledge and practical experience.
 
 **Argument Arc:** *Desire: The Great Enemy (3.36–3.43)* — Converts the anatomical analysis of 3.40 into a battle strategy: because desire begins in the senses, the senses are the first front of engagement. The verse's emphasis on "first" (ādau) establishes a hierarchical sequence — sense control must precede any attempt to address desire at deeper levels of mind and intellect.
 

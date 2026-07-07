@@ -19,10 +19,10 @@ arjuna uvāca |
 evaṃ satatayuktā ye bhaktās tvāṃ paryupāsate |  
 ye cāpy akṣaram avyaktaṃ teṣāṃ ke yogavittamāḥ || 1 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 Those devotees who, being ever-disciplined, worship You thus, and those who worship the imperishable, the unmanifest — which of them are the best knowers of yoga?
 
-**Simple Translation:** Arjuna asked: Some devotees focus on You as a person, while others focus on the invisible and unchanging Absolute. Which of these two paths is the best for mastering Yoga?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: Some devotees focus on You as a person, while others focus on the invisible and unchanging Absolute. Which of these two paths is the best for mastering Yoga?
 
 **Argument Arc:** *Personal vs. Impersonal Worship (12.1–12.5)* — Opens the chapter with a question that frames everything that follows: Arjuna identifies two types of practitioner and asks which path is superior, setting up the entire chapter's inquiry into the relationship between personal devotion and abstract contemplation.
 
@@ -151,7 +151,7 @@ But those who, renouncing all actions in Me, holding Me as the supreme goal, wor
 teṣām ahaṃ samuddhartā mṛtyusaṃsārasāgarāt |  
 bhavāmi nacirāt pārtha mayy āveśitacetasām || 7 ||  
 
-For them, whose minds are fixed on Me, I become without delay the deliverer from the ocean of death and rebirth (*saṃsāra*), O Pārtha.
+For them, whose minds are fixed on Me, I become without delay the deliverer from the ocean of death and rebirth (*saṃsāra*), O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
 **Simple Translation:** For those whose minds are fixed on Me, I quickly become the one who saves them from the ocean of repetitive death and rebirth.
 
@@ -193,7 +193,7 @@ abhyāsayogena tato mām icchāptuṃ dhanañjaya || 9 ||
 
 If, however, you are not able to establish your mind steadily on Me, then seek to attain Me by the yoga of practice (*abhyāsayoga*), O winner of wealth.
 
-**Simple Translation:** If you are not able to keep your mind steady on Me right away, then try to reach Me through the 'Yoga of Practice' (Abhyasa-yoga), Arjuna.
+**Simple Translation:** If you are not able to keep your mind steady on Me right away, then try to reach Me through the 'Yoga of Practice' (Abhyasa-yoga), <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The Descending Ladder of Practice (12.8–12.12)* — Offers the second rung for those who cannot hold steady: seek him through the discipline of repeated practice (*abhyāsa-yoga*) — sustained effort substituting for spontaneous absorption.
 

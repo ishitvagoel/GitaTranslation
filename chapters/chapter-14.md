@@ -62,7 +62,7 @@ sambhavaḥ sarvabhūtānāṃ tato bhavati bhārata || 3 ||
 
 My womb is the great Brahman; in that I place the seed. From that, O Bhārata, is the birth of all beings.
 
-**Simple Translation:** The great Nature (Brahman) is My womb, and I place the seed of consciousness within it. From this union, all living beings are born, Arjuna.
+**Simple Translation:** The great Nature (Brahman) is My womb, and I place the seed of consciousness within it. From this union, all living beings are born, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Introduction — Supreme Knowledge (14.1–14.4)* — Introduces the cosmic womb metaphor: Krishna as the seed-giving spirit and Brahman as the field, explaining how all existence originates from this primordial union.
 
@@ -82,9 +82,9 @@ My womb is the great Brahman; in that I place the seed. From that, O Bhārata, i
 sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ |  
 tāsāṃ brahma mahad yonir ahaṃ bījapradaḥ pitā || 4 ||  
 
-Whatever forms are produced in all wombs, O son of Kuntī, the great Brahman is their womb, and I am the seed-giving father.
+Whatever forms are produced in all wombs, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, the great Brahman is their womb, and I am the seed-giving father.
 
-**Simple Translation:** Whatever forms are born in any womb, Arjuna, the great Nature is their mother, and I am the father who provides the seed.
+**Simple Translation:** Whatever forms are born in any womb, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, the great Nature is their mother, and I am the father who provides the seed.
 
 **Argument Arc:** *Introduction — Supreme Knowledge (14.1–14.4)* — Universalizes the womb metaphor: all species and all life-forms share the same ontological parentage, completing the section's claim that this knowledge encompasses all existence.
 
@@ -104,7 +104,7 @@ nibadhnanti mahābāho dehe dehinam avyayam || 5 ||
 
 Goodness (*sattva*), passion (*rajas*), and darkness (*tamas*) — these *guṇas* (constituents) born of material nature bind the imperishable embodied one down in the body, O mighty-armed one.
 
-**Simple Translation:** Goodness (Sattva), Passion (Rajas), and Dullness (Tamas) are the three qualities born of Nature. They bind the eternal soul to the physical body, Arjuna.
+**Simple Translation:** Goodness (Sattva), Passion (Rajas), and Dullness (Tamas) are the three qualities born of Nature. They bind the eternal soul to the physical body, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Opens the analytical framework: names the three constituents of nature that bind even the eternal soul to the body, posing the fundamental problem that the chapter will address.
 
@@ -148,9 +148,9 @@ Among these, *sattva*, being pure, is luminous and free from disease; it binds b
 rajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam |  
 tan nibadhnāti kaunteya karmasaṅgena dehinam || 7 ||  
 
-Know that *rajas* is of the nature of passion, arising from thirst and attachment; it binds the embodied one, O son of Kuntī, by attachment to action.
+Know that *rajas* is of the nature of passion, arising from thirst and attachment; it binds the embodied one, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, by attachment to action.
 
-**Simple Translation:** Rajas (Passion) is driven by craving and attachment. It binds the soul, Arjuna, through an obsession with action and work.
+**Simple Translation:** Rajas (Passion) is driven by craving and attachment. It binds the soul, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, through an obsession with action and work.
 
 **Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Defines rajas's binding mechanism: craving and attachment to action, showing how passion chains the soul differently from sattva — through compulsive doing rather than comfortable knowing.
 
@@ -170,7 +170,7 @@ pramādālasyanidrābhis tan nibadhnāti bhārata || 8 ||
 
 But know that *tamas* is born of ignorance, the deluder of all embodied beings; it binds by negligence, laziness, and sleep, O Bhārata.
 
-**Simple Translation:** Tamas (Dullness) is born of ignorance and confuses all living beings. It binds the soul through negligence, laziness, and excessive sleep, Arjuna.
+**Simple Translation:** Tamas (Dullness) is born of ignorance and confuses all living beings. It binds the soul through negligence, laziness, and excessive sleep, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The Three Gunas Defined (14.5–14.9)* — Defines tamas's binding mechanism: born of ignorance, it chains through negligence and delusion, completing the triadic portrait of how each quality enslaves by a distinct psychological route.
 
@@ -252,7 +252,7 @@ rajasy etāni jāyante vivṛddhe bharatarṣabha || 12 ||
 
 Greed, activity, the undertaking of actions, unrest, and longing — these are born when *rajas* has increased, O best of the Bharatas.
 
-**Simple Translation:** Greed, restless activity, starting too many projects, lack of peace, and intense longing—these are the signs that Rajas is dominating, Arjuna.
+**Simple Translation:** Greed, restless activity, starting too many projects, lack of peace, and intense longing—these are the signs that Rajas is dominating, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *How the Gunas Compete (14.10–14.13)* — Provides the diagnostic sign of rajas's dominance: the cluster of greed, restlessness, and unfulfilled longing — making the argument concrete by anchoring each guna to observable behavior.
 
@@ -272,7 +272,7 @@ tamasy etāni jāyante vivṛddhe kurunandana || 13 ||
 
 Darkness (lack of illumination), inactivity, negligence, and also delusion — these are born when *tamas* has increased, O descendant of the Kurus.
 
-**Simple Translation:** Mental darkness, inactivity, negligence, and total confusion—these are the signs that Tamas is dominating, Arjuna.
+**Simple Translation:** Mental darkness, inactivity, negligence, and total confusion—these are the signs that Tamas is dominating, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *How the Gunas Compete (14.10–14.13)* — Closes the diagnostic survey with tamas's signs: darkness and inertia — completing the section's practical toolkit for recognizing which guna is active and therefore what spiritual response is needed.
 
@@ -436,10 +436,10 @@ arjuna uvāca |
 kair liṅgais trīn guṇān etān atīto bhavati prabho |  
 kimācāraḥ kathaṃ caitāṃs trīn guṇān ativartate || 21 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 By what marks is he known who has transcended these three *guṇas*, O Lord? What is his conduct, and how does he transcend these three *guṇas*?
 
-**Simple Translation:** Arjuna asked: What are the signs of a person who has risen above these three qualities, Krishna? How do they behave, and how did they get past these forces?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: What are the signs of a person who has risen above these three qualities, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>? How do they behave, and how did they get past these forces?
 
 **Argument Arc:** *Signs of One Beyond the Gunas (14.21–14.25)* — Opens Arjuna's practical inquiry: what does the guṇātīta look like from the outside, and how did he get there? — shifting the discussion from metaphysics to observable behavioral markers.
 
@@ -460,7 +460,7 @@ prakāśaṃ ca pravṛttiṃ ca moham eva ca pāṇḍava |
 na dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati || 22 ||  
 
 The Blessed Lord said:
-He who does not hate illumination (*sattva*), activity (*rajas*), and delusion (*tamas*) when they arise, O son of Pāṇḍu, nor longs for them when they have ceased;
+He who does not hate illumination (*sattva*), activity (*rajas*), and delusion (*tamas*) when they arise, O son of <a href="{{ site.baseurl }}/characters#pandu" class="char-link">Pāṇḍu</a>, nor longs for them when they have ceased;
 
 **Simple Translation:** The Blessed Lord said: One who does not hate clarity, activity, or confusion when they arise, and doesn't crave them when they are gone...
 

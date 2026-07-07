@@ -44,7 +44,7 @@ sa kāleneha mahatā yogo naṣṭaḥ parantapa || 2 ||
 
 Thus received through succession, the royal sages knew this. Through the long passage of time, that yoga was lost here, O scorcher of foes.
 
-**Simple Translation:** This knowledge was handed down in a continuous chain and understood by the wise kings. But over a long period of time, this science of Yoga was lost to the world, Arjuna.
+**Simple Translation:** This knowledge was handed down in a continuous chain and understood by the wise kings. But over a long period of time, this science of Yoga was lost to the world, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Divine Origin of the Teaching (4.1–4.8)* — Introduces the problem that necessitates the current teaching: the knowledge decayed and was lost, creating the crisis that makes Arjuna's instruction urgent and necessary.
 
@@ -84,10 +84,10 @@ arjuna uvāca |
 aparaṃ bhavato janma paraṃ janma vivasvataḥ |  
 katham etad vijānīyāṃ tvam ādau proktavān iti || 4 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 Your birth is recent, and the birth of Vivasvān was ancient. How should I understand this — that You taught it in the beginning?
 
-**Simple Translation:** Arjuna asked: You were born recently, but the Sun-god was born in the ancient past. How can I understand that you taught this science to him in the beginning?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: You were born recently, but the Sun-god was born in the ancient past. How can I understand that you taught this science to him in the beginning?
 
 **Argument Arc:** *Divine Origin of the Teaching (4.1–4.8)* — Injects the voice of rational skepticism, forcing the teaching to move beyond lineage claims toward the metaphysical explanation of Krishna's own transcendent nature.
 
@@ -108,9 +108,9 @@ bahūni me vyatītāni janmāni tava cārjuna |
 tāny ahaṃ veda sarvāṇi na tvaṃ vettha parantapa || 5 ||  
 
 The Blessed Lord said:
-Many births of Mine have passed, and yours also, Arjuna. I know them all, but you do not know them, O scorcher of foes.
+Many births of Mine have passed, and yours also, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. I know them all, but you do not know them, O scorcher of foes.
 
-**Simple Translation:** The Blessed Lord said: Arjuna, both you and I have had many previous lives. I remember all of them, but you do not.
+**Simple Translation:** The Blessed Lord said: <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, both you and I have had many previous lives. I remember all of them, but you do not.
 
 **Argument Arc:** *Divine Origin of the Teaching (4.1–4.8)* — Begins to answer Arjuna's challenge by drawing a distinction between limited human memory and infinite divine awareness, setting up the full metaphysical explanation in 4.6.
 
@@ -194,9 +194,9 @@ For the protection of the virtuous and for the destruction of evil-doers, for th
 janma karma ca me divyam evaṃ yo vetti tattvataḥ |  
 tyaktvā dehaṃ punarjanma naiti mām eti so 'rjuna || 9 ||  
 
-One who thus knows in truth My divine birth and action, having abandoned the body, does not undergo rebirth; he comes to Me, Arjuna.
+One who thus knows in truth My divine birth and action, having abandoned the body, does not undergo rebirth; he comes to Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
-**Simple Translation:** Arjuna, anyone who truly understands the nature of my divine appearance and work will not be trapped in the cycle of birth and death after they leave their body; they will reach the highest state.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, anyone who truly understands the nature of my divine appearance and work will not be trapped in the cycle of birth and death after they leave their body; they will reach the highest state.
 
 **Argument Arc:** *Liberation Through Knowledge (4.9–4.15)* — Opens the section by stating the liberating fruit of the preceding metaphysical explanation: understanding divine birth and action breaks the cycle of rebirth, making knowledge itself the transformative agent.
 
@@ -236,9 +236,9 @@ Freed from attachment, fear, and anger, absorbed in Me, taking refuge in Me, man
 ye yathā māṃ prapadyante tāṃs tathaiva bhajāmy aham |  
 mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ || 11 ||  
 
-In whatever way people approach Me, in that same way I reciprocate with them. Men follow My path in every way, Pārtha.
+In whatever way people approach Me, in that same way I reciprocate with them. Men follow My path in every way, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
-**Simple Translation:** In whatever way people approach Me, I respond to them in that same way. People everywhere are actually following my path, Arjuna, in all their different ways.
+**Simple Translation:** In whatever way people approach Me, I respond to them in that same way. People everywhere are actually following my path, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, in all their different ways.
 
 **Argument Arc:** *Liberation Through Knowledge (4.9–4.15)* — Establishes the universality of the divine: all sincere approaches—regardless of form or tradition—are met proportionately, removing any exclusivism from the path to liberation.
 
@@ -696,9 +696,9 @@ Thus manifold sacrifices are spread out in the mouth of Brahman (the Veda). Know
 śreyān dravyamayād yajñāj jñānayajñaḥ parantapa |  
 sarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate || 33 ||  
 
-Superior to the sacrifice of material objects is the sacrifice of knowledge, O scorcher of foes. All action in its entirety, Pārtha, culminates in knowledge.
+Superior to the sacrifice of material objects is the sacrifice of knowledge, O scorcher of foes. All action in its entirety, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, culminates in knowledge.
 
-**Simple Translation:** The sacrifice of knowledge is superior to the sacrifice of material possessions, Arjuna. All actions, in their entirety, find their ultimate fulfillment in wisdom.
+**Simple Translation:** The sacrifice of knowledge is superior to the sacrifice of material possessions, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. All actions, in their entirety, find their ultimate fulfillment in wisdom.
 
 **Argument Arc:** *Forms of Sacrifice (4.25–4.33)* — Closes the catalogue of sacrifices by ranking them: the sacrifice of knowledge surpasses all material offerings, because action in its entirety culminates in knowledge — pivoting the chapter toward its final theme.
 
@@ -740,7 +740,7 @@ Know that [knowledge] by prostrating, by questioning, and by service. The wise, 
 yaj jñātvā na punar moham evaṃ yāsyasi pāṇḍava |  
 yena bhūtāny aśeṣeṇa drakṣyasy ātmany atho mayi || 35 ||  
 
-Knowing which, you will not again fall into delusion, O son of Pāṇḍu; by this, you will see all beings without exception in the self, and then in Me.
+Knowing which, you will not again fall into delusion, O son of <a href="{{ site.baseurl }}/characters#pandu" class="char-link">Pāṇḍu</a>; by this, you will see all beings without exception in the self, and then in Me.
 
 **Simple Translation:** Once you have this knowledge, you will never fall into confusion again. You will see all living beings as part of your own self, and then as part of Me (the Absolute).
 
@@ -780,7 +780,7 @@ Even if you were the greatest of all evil-doers, you shall cross over all evil b
 yathaidhāṃsi samiddho 'gnir bhasmasāt kurute 'rjuna |  
 jñānāgniḥ sarvakarmāṇi bhasmasāt kurute tathā || 37 ||  
 
-As a well-kindled fire turns fuel to ashes, Arjuna, so does the fire of knowledge turn all actions to ashes.
+As a well-kindled fire turns fuel to ashes, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, so does the fire of knowledge turn all actions to ashes.
 
 **Simple Translation:** Just as a blazing fire turns wood into ashes, the fire of knowledge turns all the 'residue' of your past actions into ashes.
 
@@ -864,7 +864,7 @@ yogasaṃnyastakarmāṇaṃ jñānasaṃchinnasaṃśayam |
 
 Actions do not bind him who has renounced actions through yoga, whose doubts are cut away by knowledge, and who is self-possessed, O winner of wealth.
 
-**Simple Translation:** Arjuna, actions do not trap a person who has surrendered their work through Yoga, whose doubts have been cut away by knowledge, and who is truly self-possessed.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, actions do not trap a person who has surrendered their work through Yoga, whose doubts have been cut away by knowledge, and who is truly self-possessed.
 
 **Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Synthesizes the section's three threads — yoga (surrendered action), jñāna (doubt-cutting knowledge), and ātmavat (self-possession) — into a single portrait of the person whom actions cannot bind. This is the positive resolution that contrasts with 4.40's ruin: all three qualities together produce the one who acts without karma accumulating.
 
@@ -884,7 +884,7 @@ chittvainaṃ saṃśayaṃ yogam ātiṣṭhottiṣṭha bhārata || 42 ||
 
 Therefore, with the sword of knowledge, cutting this doubt born of ignorance situated in your heart, establish yourself in yoga and arise, O descendant of Bharata!
 
-**Simple Translation:** Therefore, Arjuna, take up the sword of knowledge and cut away this doubt born of ignorance that sits in your heart. Stand up, take your place in Yoga, and rise to the battle.
+**Simple Translation:** Therefore, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, take up the sword of knowledge and cut away this doubt born of ignorance that sits in your heart. Stand up, take your place in Yoga, and rise to the battle.
 
 **Argument Arc:** *Knowledge as Supreme Purifier (4.34–4.42)* — Closes the chapter with a direct command: all the metaphysics, all the teaching on knowledge as purifier, now converge in a single imperative — cut the doubt, stand in Yoga, and act.
 

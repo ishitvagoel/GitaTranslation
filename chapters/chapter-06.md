@@ -44,9 +44,9 @@ He who performs bounden duty without depending on the fruit of action — he is 
 yaṃ saṃnyāsam iti prāhur yogaṃ taṃ viddhi pāṇḍava |  
 na hy asaṃnyastasaṅkalpo yogī bhavati kaścana || 2 ||  
 
-That which they call renunciation, know that to be yoga, O son of Pāṇḍu; for no one becomes a yogi who has not renounced selfish purpose (*saṅkalpa*).
+That which they call renunciation, know that to be yoga, O son of <a href="{{ site.baseurl }}/characters#pandu" class="char-link">Pāṇḍu</a>; for no one becomes a yogi who has not renounced selfish purpose (*saṅkalpa*).
 
-**Simple Translation:** Arjuna, understand that what is called 'renunciation' is actually the same as 'Yoga.' No one can be a Yogi unless they have let go of their selfish motivations and hidden agendas.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, understand that what is called 'renunciation' is actually the same as 'Yoga.' No one can be a Yogi unless they have let go of their selfish motivations and hidden agendas.
 
 **Argument Arc:** *True Renunciation (6.1–6.4)* — Removes the last terminological distinction: sannyāsa and yoga are identical names for the same inner state, because no one can be a true yogi who has not renounced selfish purpose (saṅkalpa) — making motivation the single dividing line.
 
@@ -330,9 +330,9 @@ Thus constantly disciplining himself, the yogi of controlled mind attains the pe
 nātyaśnatas tu yogo 'sti na caikāntam anaśnataḥ |  
 na cātisvapnaśīlasya jāgrato naiva cārjuna || 16 ||  
 
-Yoga is not for one who eats too much, nor for one who does not eat at all; nor for one who is prone to sleeping too much, nor for one who is always awake, Arjuna.
+Yoga is not for one who eats too much, nor for one who does not eat at all; nor for one who is prone to sleeping too much, nor for one who is always awake, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
-**Simple Translation:** Arjuna, this discipline is not for someone who eats too much or too little, nor for someone who sleeps too much or stays awake all the time.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, this discipline is not for someone who eats too much or too little, nor for someone who sleeps too much or stays awake all the time.
 
 **Argument Arc:** *Balance in All Things (6.16–6.17)* — Fences the practice against ascetic extremism: yoga is not for the over-eater or the faster, the over-sleeper or the sleepless — a corrective to the assumption that heroic austerity is what the discipline demands.
 
@@ -658,9 +658,9 @@ He who, established in unity, worships Me dwelling in all beings, that yogi dwel
 ātmaupamyena sarvatra samaṃ paśyati yo 'rjuna |  
 sukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ || 32 ||  
 
-He who sees equality everywhere by comparison with himself, Arjuna, whether in pleasure or in pain, that yogi is considered the highest.
+He who sees equality everywhere by comparison with himself, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, whether in pleasure or in pain, that yogi is considered the highest.
 
-**Simple Translation:** Arjuna, the highest Yogi is the one who sees everyone as equal to themselves—recognizing that others feel pleasure and pain just as they do.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, the highest Yogi is the one who sees everyone as equal to themselves—recognizing that others feel pleasure and pain just as they do.
 
 **Argument Arc:** *The Vision of Unity (6.29–6.32)* — Closes the section by translating metaphysics into ethics: the supreme yogi measures others by analogy with himself, feeling their pleasure and pain as his own — unity as compassion, not only contemplation.
 
@@ -682,10 +682,10 @@ arjuna uvāca |
 yo 'yaṃ yogas tvayā proktaḥ sāmyena madhusūdana |  
 etasyāhaṃ na paśyāmi cañcalatvāt sthitiṃ sthirām || 33 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 This yoga which has been declared by You as characterized by equanimity, O slayer of Madhu — I do not see its steady continuance, because of the restlessness [of the mind].
 
-**Simple Translation:** Arjuna asked: Krishna, you describe this Yoga as a state of perfect balance, but I don't see how it can last, because the mind is so restless.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, you describe this Yoga as a state of perfect balance, but I don't see how it can last, because the mind is so restless.
 
 **Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Voices the objection the whole meditation manual has invited: Arjuna cannot see how this yoga of equanimity can have a stable footing, given the mind's inherent restlessness.
 
@@ -703,9 +703,9 @@ This yoga which has been declared by You as characterized by equanimity, O slaye
 cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham |  
 tasyāhaṃ nigrahaṃ manye vāyor iva suduṣkaram || 34 ||  
 
-For the mind is restless, Kṛṣṇa, turbulent, powerful, and obstinate. I consider its restraint to be as exceedingly difficult as that of the wind.
+For the mind is restless, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>, turbulent, powerful, and obstinate. I consider its restraint to be as exceedingly difficult as that of the wind.
 
-**Simple Translation:** The mind is restless, turbulent, strong, and stubborn, Krishna. I think controlling it is as difficult as trying to catch and hold the wind.
+**Simple Translation:** The mind is restless, turbulent, strong, and stubborn, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>. I think controlling it is as difficult as trying to catch and hold the wind.
 
 **Argument Arc:** *Arjuna's Doubt (6.33–6.36)* — Intensifies the objection into the chapter's most quoted protest: the mind is restless, turbulent, strong, and obstinate — as hard to hold as the wind — giving universal voice to every meditator's frustration.
 
@@ -726,7 +726,7 @@ asaṃśayaṃ mahābāho mano durnigrahaṃ calam |
 abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate || 35 ||  
 
 The Blessed Lord said:
-Undoubtedly, O mighty-armed one, the mind is difficult to restrain and restless. But by practice (*abhyāsa*) and dispassion (*vairāgya*), O son of Kuntī, it is grasped.
+Undoubtedly, O mighty-armed one, the mind is difficult to restrain and restless. But by practice (*abhyāsa*) and dispassion (*vairāgya*), O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, it is grasped.
 
 **Simple Translation:** The Blessed Lord said: Without a doubt, the mind is restless and hard to control. But it can be mastered through consistent practice (Abhyasa) and the cultivation of detachment (Vairagya).
 
@@ -772,10 +772,10 @@ arjuna uvāca |
 ayatiḥ śraddhayopeto yogāc calitamānasaḥ |  
 aprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati || 37 ||  
 
-Arjuna said:
-He who is endowed with faith but does not strive, whose mind has wandered away from yoga, failing to attain perfection in yoga, what path does he go, Kṛṣṇa?
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+He who is endowed with faith but does not strive, whose mind has wandered away from yoga, failing to attain perfection in yoga, what path does he go, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>?
 
-**Simple Translation:** Arjuna asked: Krishna, what happens to a person who has faith but lacks the discipline to stay on the path? If their mind wanders away before they reach perfection, what is their fate?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, what happens to a person who has faith but lacks the discipline to stay on the path? If their mind wanders away before they reach perfection, what is their fate?
 
 **Argument Arc:** *The Failed Yogi (6.37–6.45)* — Opens the section's new problem case: the person of faith whose effort lapses — if the mind strays before perfection is reached, what becomes of them? — raising the fear that spiritual effort can simply be wasted.
 
@@ -815,9 +815,9 @@ Fallen from both, having no solid ground, bewildered on the path of Brahman, doe
 etan me saṃśayaṃ kṛṣṇa chettum arhasy aśeṣataḥ |  
 tvadanyaḥ saṃśayasyāsya chettā na hy upapadyate || 39 ||  
 
-You ought to dispel this doubt of mine completely, Kṛṣṇa; for no dispeller of this doubt other than You is to be found.
+You ought to dispel this doubt of mine completely, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>; for no dispeller of this doubt other than You is to be found.
 
-**Simple Translation:** Please clear this doubt of mine completely, Krishna. No one else can answer this question as well as you can.
+**Simple Translation:** Please clear this doubt of mine completely, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>. No one else can answer this question as well as you can.
 
 **Argument Arc:** *The Failed Yogi (6.37–6.45)* — Completes the question by invoking Krishna's unique authority: no one but Krishna can cut this doubt — setting up the emphatic reassurance that follows.
 
@@ -838,9 +838,9 @@ pārtha naiveha nāmutra vināśas tasya vidyate |
 na hi kalyāṇakṛt kaścid durgatiṃ tāta gacchati || 40 ||  
 
 The Blessed Lord said:
-O Pārtha, neither here nor in the next world is there destruction for him; for no one who does good, My dear friend, goes to an evil destiny.
+O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, neither here nor in the next world is there destruction for him; for no one who does good, My dear friend, goes to an evil destiny.
 
-**Simple Translation:** The Blessed Lord said: Arjuna, such a person is never destroyed, neither in this life nor in the next. No one who does good, my dear friend, ever comes to a bad end.
+**Simple Translation:** The Blessed Lord said: <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, such a person is never destroyed, neither in this life nor in the next. No one who does good, my dear friend, ever comes to a bad end.
 
 **Argument Arc:** *The Failed Yogi (6.37–6.45)* — Gives the categorical answer that governs the rest of the chapter: the failed yogi is destroyed neither in this world nor the next, for no doer of good ever comes to a bad end — spiritual effort declared indestructible.
 
@@ -902,7 +902,7 @@ yatate ca tato bhūyaḥ saṃsiddhau kurunandana || 43 ||
 
 There he regains the connection with the discernment belonging to his previous body, and from there he strives further for perfection, O descendant of the Kurus.
 
-**Simple Translation:** There, they regain the mental clarity and understanding they had in their previous life, and they start striving even harder for perfection, Arjuna.
+**Simple Translation:** There, they regain the mental clarity and understanding they had in their previous life, and they start striving even harder for perfection, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The Failed Yogi (6.37–6.45)* — Explains what survives death: in the new birth the yogi regains the mental disposition of the former life and strives onward from that point — practice as an inheritance carried across lives.
 
@@ -960,9 +960,9 @@ But the yogi who strives with effort, whose stains are completely cleansed, bein
 tapasvibhyo 'dhiko yogī jñānibhyo 'pi mato 'dhikaḥ |  
 karmibhyaś cādhiko yogī tasmād yogī bhavārjuna || 46 ||  
 
-The yogi is considered superior to the ascetics, and even superior to the men of knowledge; the yogi is also superior to the performers of ritual action. Therefore, be a yogi, Arjuna!
+The yogi is considered superior to the ascetics, and even superior to the men of knowledge; the yogi is also superior to the performers of ritual action. Therefore, be a yogi, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>!
 
-**Simple Translation:** A Yogi is superior to those who practice physical austerities, superior to those who only have theoretical knowledge, and superior to those who only perform rituals. Therefore, Arjuna, be a Yogi!
+**Simple Translation:** A Yogi is superior to those who practice physical austerities, superior to those who only have theoretical knowledge, and superior to those who only perform rituals. Therefore, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, be a Yogi!
 
 **Argument Arc:** *The Supreme Yogi (6.46–6.47)* — Crowns the chapter's ranking: the yogi surpasses ascetics, scholars, and ritualists alike — therefore, Arjuna, become a yogi — the entire teaching compressed into a single imperative.
 

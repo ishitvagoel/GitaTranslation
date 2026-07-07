@@ -19,10 +19,10 @@ arjuna uvāca |
 saṃnyāsasya mahābāho tattvam icchāmi veditum |  
 tyāgasya ca hṛṣīkeśa pṛthak keśiniṣūdana || 1 ||  
 
-Arjuna said:
-I desire to know the truth of renunciation (*saṃnyāsa*), O mighty-armed one, and of abandonment (*tyāga*), individually, O Hṛṣīkeśa, O slayer of Keśin.
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+I desire to know the truth of renunciation (*saṃnyāsa*), O mighty-armed one, and of abandonment (*tyāga*), individually, O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Hṛṣīkeśa</a>, O slayer of Keśin.
 
-**Simple Translation:** Arjuna asked: Krishna, I want to understand the true nature of renunciation (Sannyasa) and abandonment (Tyaga) individually. Please explain the difference between them.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, I want to understand the true nature of renunciation (Sannyasa) and abandonment (Tyaga) individually. Please explain the difference between them.
 
 **Argument Arc:** *Renunciation vs. Abandonment (18.1–18.12)* — Opens the chapter's final inquiry by posing the key terminological question: Arjuna recognizes that *saṃnyāsa* and *tyāga* are distinct concepts and demands a precise philosophical accounting of each.
 
@@ -87,7 +87,7 @@ tyāgo hi puruṣavyāghra trividhaḥ samprakīrtitaḥ || 4 ||
 
 Hear My conclusive decision concerning that abandonment, O best of the Bharatas. For abandonment, O tiger among men, has been declared to be of three kinds.
 
-**Simple Translation:** Listen to my final decision about abandonment, Arjuna. Abandonment has been declared to be of three kinds.
+**Simple Translation:** Listen to my final decision about abandonment, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Abandonment has been declared to be of three kinds.
 
 **Argument Arc:** *Renunciation vs. Abandonment (18.1–18.12)* — Announces that Krishna will cut through the philosophical impasse by applying the guṇa-framework: tyāga is not a binary but a spectrum of three qualitatively distinct modes, each evaluated on its own terms.
 
@@ -125,9 +125,9 @@ The acts of sacrifice, charity, and austerity should not be abandoned; rather, t
 etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ca |  
 kartavyānīti me pārtha niścitaṃ matam uttamam || 6 ||  
 
-But even these actions must be performed abandoning attachment and fruits; this, O Pārtha, is My definitive and supreme conviction.
+But even these actions must be performed abandoning attachment and fruits; this, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, is My definitive and supreme conviction.
 
-**Simple Translation:** But even these actions must be done without attachment and without wanting rewards. This is my final and supreme conviction, Arjuna.
+**Simple Translation:** But even these actions must be done without attachment and without wanting rewards. This is my final and supreme conviction, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Renunciation vs. Abandonment (18.1–18.12)* — Delivers the definitive integration: even obligatory acts must be performed with detachment from fruits — synthesizing the two schools by insisting on both the necessity of action and the necessity of non-attachment to results.
 
@@ -187,7 +187,7 @@ Whoever abandons an action merely because it is troublesome, out of fear of phys
 kāryam ity eva yat karma niyataṃ kriyate 'rjuna |  
 saṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ || 9 ||  
 
-When a prescribed action is performed simply because it ought to be done, Arjuna, abandoning attachment and also the fruit, that abandonment is considered *sāttvika*.
+When a prescribed action is performed simply because it ought to be done, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, abandoning attachment and also the fruit, that abandonment is considered *sāttvika*.
 
 **Simple Translation:** When a necessary duty is performed simply because 'it ought to be done,' and attachment to the result is given up—that is called pure (Sattvic) abandonment.
 
@@ -273,7 +273,7 @@ sāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām || 13 ||
 
 Learn from Me, O mighty-armed one, these five factors declared in the Sāṅkhya doctrine, which is the culmination of action, for the accomplishment of all actions:
 
-**Simple Translation:** Learn from Me, Arjuna, the five factors that are necessary for any action to be successful, according to the final analysis of action.
+**Simple Translation:** Learn from Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, the five factors that are necessary for any action to be successful, according to the final analysis of action.
 
 **Argument Arc:** *Five Causes of Action (18.13–18.18)* — Opens a new analytical register by invoking Sāṃkhya authority: five causes are required for any action's completion — framing an analysis that will dissolve the illusion of singular personal agency.
 
@@ -601,7 +601,7 @@ procyamānam aśeṣeṇa pṛthaktvena dhanañjaya || 29 ||
 
 Hear the threefold distinction of discernment (*buddhi*) and also of firmness (*dhṛti*) according to the *guṇas*, being declared entirely and distinctly, O winner of wealth.
 
-**Simple Translation:** Now listen to the three kinds of discernment (Buddhi) and firmness (Dhriti), Arjuna, explained entirely according to the three qualities.
+**Simple Translation:** Now listen to the three kinds of discernment (Buddhi) and firmness (Dhriti), <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, explained entirely according to the three qualities.
 
 **Argument Arc:** *Three Types of Intellect (18.29–18.32)* — Announces the next two sub-categories of the guṇa taxonomy — buddhi and dhṛti — moving the analysis inward from actions and agents toward the deeper cognitive and volitional faculties that govern them.
 
@@ -619,7 +619,7 @@ Hear the threefold distinction of discernment (*buddhi*) and also of firmness (*
 pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye |  
 bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī || 30 ||  
 
-That discernment which knows action and renunciation, what ought to be done and what ought not to be done, fear and fearlessness, bondage and liberation — that, O Pārtha, is *sāttvikī*.
+That discernment which knows action and renunciation, what ought to be done and what ought not to be done, fear and fearlessness, bondage and liberation — that, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, is *sāttvikī*.
 
 **Simple Translation:** Logic that knows when to act and when to stop, what is duty and what is not, what to fear and what not to fear, and what is bondage and what is freedom—that is pure (Sattvic) logic.
 
@@ -639,7 +639,7 @@ That discernment which knows action and renunciation, what ought to be done and 
 yayā dharmam adharmaṃ ca kāryaṃ cākāryam eva ca |  
 ayathāvat prajānāti buddhiḥ sā pārtha rājasī || 31 ||  
 
-That by which one incorrectly understands *dharma* and *adharma*, and also what ought to be done and what ought not to be done — that discernment, O Pārtha, is *rājasī*.
+That by which one incorrectly understands *dharma* and *adharma*, and also what ought to be done and what ought not to be done — that discernment, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, is *rājasī*.
 
 **Simple Translation:** Logic that has a confused understanding of duty and injustice, and of what should be done or avoided—that is passionate (Rajasic) logic.
 
@@ -659,7 +659,7 @@ That by which one incorrectly understands *dharma* and *adharma*, and also what 
 adharmaṃ dharmam iti yā manyate tamasāvṛtā |  
 sarvārthān viparītāṃś ca buddhiḥ sā pārtha tāmasī || 32 ||  
 
-That which, enveloped in darkness, thinks *adharma* to be *dharma*, and perceives all things in a reversed way — that discernment, O Pārtha, is *tāmasī*.
+That which, enveloped in darkness, thinks *adharma* to be *dharma*, and perceives all things in a reversed way — that discernment, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, is *tāmasī*.
 
 **Simple Translation:** Logic that is covered in darkness and thinks injustice is justice, and sees everything in a backward way—that is dull (Tamasic) logic.
 
@@ -679,7 +679,7 @@ That which, enveloped in darkness, thinks *adharma* to be *dharma*, and perceive
 dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ |  
 yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī || 33 ||  
 
-That unswerving firmness by which, through yoga, one maintains the activities of the mind, life-breaths, and senses — that firmness, O Pārtha, is *sāttvikī*.
+That unswerving firmness by which, through yoga, one maintains the activities of the mind, life-breaths, and senses — that firmness, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, is *sāttvikī*.
 
 **Simple Translation:** The unswerving firmness by which one controls the mind, life-force, and senses through Yoga is pure (Sattvic) firmness.
 
@@ -699,7 +699,7 @@ That unswerving firmness by which, through yoga, one maintains the activities of
 yayā tu dharmakāmārthān dhṛtyā dhārayate 'rjuna |  
 prasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī || 34 ||  
 
-But that firmness by which one maintains *dharma*, desire, and wealth, desiring the fruit out of attachment, Arjuna — that firmness, O Pārtha, is *rājasī*.
+But that firmness by which one maintains *dharma*, desire, and wealth, desiring the fruit out of attachment, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> — that firmness, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, is *rājasī*.
 
 **Simple Translation:** But the firmness by which one holds onto duty, desire, and wealth out of attachment and greed for results—that is passionate (Rajasic) firmness.
 
@@ -719,7 +719,7 @@ But that firmness by which one maintains *dharma*, desire, and wealth, desiring 
 yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madam eva ca |  
 na vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī || 35 ||  
 
-That by which a fool does not abandon sleep, fear, grief, despondency, and arrogance — that firmness, O Pārtha, is *tāmasī*.
+That by which a fool does not abandon sleep, fear, grief, despondency, and arrogance — that firmness, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, is *tāmasī*.
 
 **Simple Translation:** The firmness by which a fool refuses to give up sleep, fear, grief, depression, and arrogance—that is dull (Tamasic) firmness.
 
@@ -741,7 +741,7 @@ abhyāsād ramate yatra duḥkhāntaṃ ca nigacchati || 36 ||
 
 Now hear from Me of the threefold happiness, O best of the Bharatas. That in which one rejoices by practice and reaches the end of sorrow;
 
-**Simple Translation:** Now listen to the three kinds of happiness, Arjuna. Through practice, one finds joy in this and reaches the end of all sorrow.
+**Simple Translation:** Now listen to the three kinds of happiness, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Through practice, one finds joy in this and reaches the end of all sorrow.
 
 **Argument Arc:** *Three Types of Happiness (18.36–18.39)* — Opens the final sub-category of the guṇa taxonomy by announcing that happiness (sukha) itself is subject to the three-fold analysis — framing the climactic question of what pleasure is truly worth pursuing.
 
@@ -841,7 +841,7 @@ karmāṇi pravibhaktāni svabhāvaprabhavair guṇaiḥ || 41 ||
 
 Of brahmins, kṣatriyas, vaiśyas, and śūdras, O scorcher of foes, the actions are distributed according to the *guṇas* born of their own inherent nature.
 
-**Simple Translation:** The duties of thinkers, leaders, providers, and service-workers are distributed based on the qualities (Gunas) born of their own inherent nature, Arjuna.
+**Simple Translation:** The duties of thinkers, leaders, providers, and service-workers are distributed based on the qualities (Gunas) born of their own inherent nature, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Duties by Nature (18.40–18.44)* — Introduces the fourfold varṇa scheme rooted not in birth but in svabhāva-generated guṇas — establishing that social function flows organically from innate psychological constitution, setting up the three verses of role-specific elaboration.
 
@@ -989,7 +989,7 @@ Better is one's own *dharma*, though deficient in quality, than the *dharma* of 
 sahajaṃ karma kaunteya sadoṣam api na tyajet |  
 sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ || 48 ||  
 
-One should not abandon the action born of one's nature, O son of Kuntī, even if it is flawed. For all undertakings are enveloped by flaws, just as fire is enveloped by smoke.
+One should not abandon the action born of one's nature, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, even if it is flawed. For all undertakings are enveloped by flaws, just as fire is enveloped by smoke.
 
 **Simple Translation:** One should not give up the work born of their own nature, even if it has flaws. All actions are surrounded by flaws, just as fire is surrounded by smoke.
 
@@ -1029,9 +1029,9 @@ He whose intellect is unattached everywhere, whose self is conquered, from whom 
 siddhiṃ prāpto yathā brahma tathāpnoti nibodha me |  
 samāsenaiva kaunteya niṣṭhā jñānasya yā parā || 50 ||  
 
-Learn from Me in brief, O son of Kuntī, how he who has attained perfection attains Brahman — which is the supreme consummation of knowledge.
+Learn from Me in brief, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, how he who has attained perfection attains Brahman — which is the supreme consummation of knowledge.
 
-**Simple Translation:** Learn from Me briefly, Arjuna, how one who has reached this perfection also reaches the Absolute—which is the highest peak of knowledge.
+**Simple Translation:** Learn from Me briefly, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, how one who has reached this perfection also reaches the Absolute—which is the highest peak of knowledge.
 
 **Argument Arc:** *The Highest Knowledge (18.50–18.55)* — Opens a new stage in the argument: the karma-yogī who has attained naiṣkarmya-siddhi still has a further ascent available — to brahman itself — and Krishna promises to reveal this transition briefly, marking the shift from active duty to the highest contemplative realization.
 
@@ -1235,7 +1235,7 @@ If, taking refuge in egoism, you think "I will not fight," this resolve of yours
 svabhāvajena kaunteya nibaddhaḥ svena karmaṇā |  
 kartuṃ necchasi yan mohāt kariṣyasy avaśo 'pi tat || 60 ||  
 
-Bound by your own action born of your inherent nature, O son of Kuntī, that which out of delusion you do not wish to do, you shall do even against your will.
+Bound by your own action born of your inherent nature, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, that which out of delusion you do not wish to do, you shall do even against your will.
 
 **Simple Translation:** Bound by your own past actions born of your nature, you will end up doing the very thing you are trying to avoid out of confusion.
 
@@ -1255,9 +1255,9 @@ Bound by your own action born of your inherent nature, O son of Kuntī, that whi
 īśvaraḥ sarvabhūtānāṃ hṛddeśe 'rjuna tiṣṭhati |  
 bhrāmayan sarvabhūtāni yantrārūḍhāni māyayā || 61 ||  
 
-The Lord stands in the region of the heart of all beings, Arjuna, causing all beings to revolve by His illusion (*māyā*), as if mounted on a machine.
+The Lord stands in the region of the heart of all beings, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, causing all beings to revolve by His illusion (*māyā*), as if mounted on a machine.
 
-**Simple Translation:** The Lord lives in the heart of every being, Arjuna, causing all beings to turn around by His mysterious power, as if they were mounted on a machine.
+**Simple Translation:** The Lord lives in the heart of every being, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, causing all beings to turn around by His mysterious power, as if they were mounted on a machine.
 
 **Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Provides the ontological basis for surrender: the Īśvara already dwells within every heart and orchestrates all beings through māyā, so surrender to Krishna is not submission to an external power but alignment with the intelligence already governing one's own existence from within.
 
@@ -1277,7 +1277,7 @@ tatprasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam || 62 ||
 
 Take refuge in Him alone with your whole being, O Bhārata. By His grace you shall attain supreme peace and the eternal abode.
 
-**Simple Translation:** Seek refuge in Him alone with your whole being, Arjuna. By His grace, you will find supreme peace and an eternal home.
+**Simple Translation:** Seek refuge in Him alone with your whole being, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. By His grace, you will find supreme peace and an eternal home.
 
 **Argument Arc:** *Surrender to Krishna (18.56–18.63)* — Translates the ontological insight of 18.61 into a concrete directive: because the Īśvara is the inner governor of all beings, total refuge in him — with one's whole being — is the logical response, promising supreme peace and the eternal abode as its fruit.
 
@@ -1485,9 +1485,9 @@ Even the man who merely hears it, full of faith and free from malice — he too,
 kaccid etac chrutaṃ pārtha tvayaikāgreṇa cetasā |  
 kaccid ajñānasammohaḥ pranaṣṭas te dhanañjaya || 72 ||  
 
-Has this been heard by you, O Pārtha, with a one-pointed mind? Has your delusion born of ignorance been destroyed, O winner of wealth?
+Has this been heard by you, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, with a one-pointed mind? Has your delusion born of ignorance been destroyed, O winner of wealth?
 
-**Simple Translation:** Have you heard this with a one-pointed mind, Arjuna? Has your confusion born of ignorance been destroyed?
+**Simple Translation:** Have you heard this with a one-pointed mind, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>? Has your confusion born of ignorance been destroyed?
 
 **Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Opens the closing exchange by having Krishna check the reception of his teaching: the two questions — "Was your attention one-pointed?" and "Has your delusion been destroyed?" — establish the pedagogical standard by which the entire dialogue is to be evaluated.
 
@@ -1507,10 +1507,10 @@ arjuna uvāca |
 naṣṭo mohaḥ smṛtir labdhā tvatprasādān mayācyuta |  
 sthito 'smi gatabandehaḥ kariṣye vacanaṃ tava || 73 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 My delusion is destroyed; memory has been regained by me through Your grace, O unfalling one. I stand firm, my doubts dispelled; I shall act according to Your word.
 
-**Simple Translation:** Arjuna said: My confusion is gone! I have regained my clarity through Your grace. I stand firm, my doubts are destroyed, and I will act according to Your word.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said: My confusion is gone! I have regained my clarity through Your grace. I stand firm, my doubts are destroyed, and I will act according to Your word.
 
 **Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Provides the climactic answer to Krishna's question and resolves the problem that opened the entire Gītā: Arjuna's moha (delusion) — which paralyzed him in Chapter 1 — has been destroyed by grace, and he commits to action, proving that the dialogue has accomplished its transformative purpose.
 
@@ -1530,10 +1530,10 @@ sañjaya uvāca |
 ity ahaṃ vāsudevasya pārthasya ca mahātmanaḥ |  
 saṃvādam imam aśrauṣam adbhutaṃ romaharṣaṇam || 74 ||  
 
-Sañjaya said:
-Thus I have heard this wonderful dialogue between Vāsudeva (Kṛṣṇa) and the great-souled Pārtha, which causes my hair to stand on end.
+<a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sañjaya</a> said:
+Thus I have heard this wonderful dialogue between <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Vāsudeva</a> (<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>) and the great-souled <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, which causes my hair to stand on end.
 
-**Simple Translation:** Sanjaya said: Thus I have heard this wonderful and hair-raising dialogue between Krishna and the great-souled Arjuna.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sanjaya</a> said: Thus I have heard this wonderful and hair-raising dialogue between <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a> and the great-souled <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Shifts the narrative frame from the battlefield dialogue back to Sanjaya's report to Dhṛtarāṣṭra, and his characterization of the exchange as "wonderful and hair-raising" signals that the teaching's power is not merely intellectual but has a visceral, awe-producing quality that transcends the listener.
 
@@ -1551,9 +1551,9 @@ Thus I have heard this wonderful dialogue between Vāsudeva (Kṛṣṇa) and th
 vyāsaprasādāc chrutavān etad guhyam ahaṃ param |  
 yogaṃ yogeśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam || 75 ||  
 
-By the grace of Vyāsa I heard this supreme secret, this yoga, directly from Kṛṣṇa, the Lord of Yoga, speaking it Himself.
+By the grace of <a href="{{ site.baseurl }}/characters#vyasa" class="char-link">Vyāsa</a> I heard this supreme secret, this yoga, directly from <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>, the Lord of Yoga, speaking it Himself.
 
-**Simple Translation:** By the grace of the sage Vyasa, I have heard this supreme secret of Yoga directly from Krishna, the Lord of Yoga, as He spoke it Himself.
+**Simple Translation:** By the grace of the sage <a href="{{ site.baseurl }}/characters#vyasa" class="char-link">Vyasa</a>, I have heard this supreme secret of Yoga directly from <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, the Lord of Yoga, as He spoke it Himself.
 
 **Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Authenticates the transmission: Sanjaya discloses that his miraculous ability to witness and report the dialogue was itself a gift of Vyāsa's grace, underscoring that the Gītā reaches its audience not by accident but through a chain of grace — from Krishna to Vyāsa to Sanjaya to Dhṛtarāṣṭra and the reader.
 
@@ -1571,7 +1571,7 @@ By the grace of Vyāsa I heard this supreme secret, this yoga, directly from K�
 rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam |  
 keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhur muhuḥ || 76 ||  
 
-O King, remembering again and again this wonderful and holy dialogue between Keśava and Arjuna, I rejoice over and over.
+O King, remembering again and again this wonderful and holy dialogue between <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Keśava</a> and <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, I rejoice over and over.
 
 **Simple Translation:** O King, as I remember this wonderful and holy dialogue over and over again, I rejoice again and again.
 
@@ -1591,9 +1591,9 @@ O King, remembering again and again this wonderful and holy dialogue between Ke�
 tac ca saṃsmṛtya saṃsmṛtya rūpam atyadbhutaṃ hareḥ |  
 vismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ || 77 ||  
 
-And remembering again and again that exceedingly wonderful form of Hari, great is my amazement, O King, and I rejoice again and again.
+And remembering again and again that exceedingly wonderful form of <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Hari</a>, great is my amazement, O King, and I rejoice again and again.
 
-**Simple Translation:** And as I remember that exceedingly wonderful form of Krishna, my amazement is great and I rejoice over and over.
+**Simple Translation:** And as I remember that exceedingly wonderful form of <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, my amazement is great and I rejoice over and over.
 
 **Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Adds the visual dimension to Sanjaya's ongoing awe: it is not only the words of the dialogue but the memory of Krishna's extraordinary form (the cosmic vision of Chapter 11) that continues to produce wonder, reinforcing that the Gītā's teaching is inseparable from direct perception of the Divine.
 
@@ -1611,9 +1611,9 @@ And remembering again and again that exceedingly wonderful form of Hari, great i
 yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ |  
 tatra śrīr vijayo bhūtir dhruvā nītir matir mama || 78 ||  
 
-Wherever there is Kṛṣṇa, the Lord of Yoga, and wherever there is Pārtha, the archer, there will certainly be prosperity, victory, abundance, and firm justice; such is my conviction.
+Wherever there is <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>, the Lord of Yoga, and wherever there is <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, the archer, there will certainly be prosperity, victory, abundance, and firm justice; such is my conviction.
 
-**Simple Translation:** Wherever Krishna, the master of Yoga, and Arjuna, the great archer, are together — there you will find prosperity, victory, abundance, and unwavering justice. This is my firm conviction.
+**Simple Translation:** Wherever <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, the master of Yoga, and <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, the great archer, are together — there you will find prosperity, victory, abundance, and unwavering justice. This is my firm conviction.
 
 **Argument Arc:** *Final Exchange and Sanjaya's Conclusion (18.72–18.78)* — Closes the entire Gītā with Sanjaya's formula of four fruits — prosperity, victory, abundance, and unwavering justice — that manifest wherever divine wisdom (Krishna) and dedicated human action (Arjuna) are united, sealing the chapter's and the epic's central thesis that the union of knowledge and skillful action is the source of all flourishing.
 

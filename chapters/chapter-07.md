@@ -20,9 +20,9 @@ mayy āsaktamanāḥ pārtha yogaṃ yuñjan madāśrayaḥ |
 asaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tac chṛṇu || 1 ||  
 
 The Blessed Lord said:
-With mind attached to Me, Pārtha, practicing yoga and taking refuge in Me, hear how you shall know Me completely, without doubt.
+With mind attached to Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, practicing yoga and taking refuge in Me, hear how you shall know Me completely, without doubt.
 
-**Simple Translation:** The Blessed Lord said: Arjuna, with your mind focused on the Truth, practicing discipline and seeking support in Me (the Absolute), listen to how you can know the full reality completely and without any doubt.
+**Simple Translation:** The Blessed Lord said: <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, with your mind focused on the Truth, practicing discipline and seeking support in Me (the Absolute), listen to how you can know the full reality completely and without any doubt.
 
 **Argument Arc:** *Promise of Complete Knowledge (7.1–7.3)* — Opens the chapter's central claim: that a single, systematic teaching can dissolve all doubt and produce total knowledge of the Absolute.
 
@@ -106,7 +106,7 @@ jīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat || 5 ||
 
 This is the lower [nature]. But know My other, higher nature, O mighty-armed one, which has become the living soul, and by which this world is sustained.
 
-**Simple Translation:** This is my lower nature. But you should also know my higher nature, Arjuna—the living life-force that sustains this entire world.
+**Simple Translation:** This is my lower nature. But you should also know my higher nature, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>—the living life-force that sustains this entire world.
 
 **Argument Arc:** *Two Natures (7.4–7.12)* — Introduces the higher nature (parā prakṛti): the conscious life-force that animates matter, completing the two-tier ontology begun in 7.4.
 
@@ -150,7 +150,7 @@ mayi sarvam idaṃ protaṃ sūtre maṇigaṇā iva || 7 ||
 
 There is nothing whatsoever higher than Me, O winner of wealth. All this is strung on Me, like clusters of gems on a thread.
 
-**Simple Translation:** There is nothing in existence higher than Me, Arjuna. Everything in the universe is strung on Me like pearls on a string.
+**Simple Translation:** There is nothing in existence higher than Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Everything in the universe is strung on Me like pearls on a string.
 
 **Argument Arc:** *Two Natures (7.4–7.12)* — Asserts Krishna's absolute supremacy and his role as the invisible unifying thread that holds all manifest reality together.
 
@@ -168,7 +168,7 @@ There is nothing whatsoever higher than Me, O winner of wealth. All this is stru
 raso 'ham apsu kaunteya prabhāsmi śaśisūryayoḥ |  
 praṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu || 8 ||  
 
-I am the taste in water, O son of Kuntī; I am the light in the moon and the sun. I am the sacred syllable (*Oṃ*) in all the Vedas, the sound in space, and the virility in men.
+I am the taste in water, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>; I am the light in the moon and the sun. I am the sacred syllable (*Oṃ*) in all the Vedas, the sound in space, and the virility in men.
 
 **Simple Translation:** I am the "wetness" (taste) in water, the light in the sun and moon, the sacred sound OM in the scriptures, the vibration in the air, and the core talent/strength in humans.
 
@@ -210,9 +210,9 @@ I am the pure fragrance in the earth, and the brilliance in fire; I am the life 
 bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam |  
 buddhir buddhimatām asmi tejas tejasvinām aham || 10 ||  
 
-Know Me, O Pārtha, as the eternal seed of all beings. I am the intelligence of the intelligent; I am the splendor of the splendid.
+Know Me, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, as the eternal seed of all beings. I am the intelligence of the intelligent; I am the splendor of the splendid.
 
-**Simple Translation:** Arjuna, understand that I am the eternal seed of everything that exists. I am the intelligence of those who are smart, and the greatness of those who are great.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, understand that I am the eternal seed of everything that exists. I am the intelligence of those who are smart, and the greatness of those who are great.
 
 **Argument Arc:** *Two Natures (7.4–7.12)* — Deepens the immanence argument by locating the divine at the generative root — the eternal seed — of all beings, and in the highest human faculties of intelligence and excellence.
 
@@ -336,9 +336,9 @@ The evil-doers, the deluded, and the lowest of men do not take refuge in Me; the
 caturvidhā bhajante māṃ janāḥ sukṛtino 'rjuna |  
 ārto jijñāsur arthārthī jñānī ca bharatarṣabha || 16 ||  
 
-Four kinds of virtuous men worship Me, Arjuna: the distressed, the seeker of knowledge, the seeker of wealth, and the man of knowledge, O best of the Bharatas.
+Four kinds of virtuous men worship Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>: the distressed, the seeker of knowledge, the seeker of wealth, and the man of knowledge, O best of the Bharatas.
 
-**Simple Translation:** Four types of good people seek Me, Arjuna: those in distress, those who want knowledge, those who want success/wealth, and those who already have wisdom.
+**Simple Translation:** Four types of good people seek Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>: those in distress, those who want knowledge, those who want success/wealth, and those who already have wisdom.
 
 **Argument Arc:** *Four Types of Devotees (7.16–7.19)* — Opens the section by introducing a typology of seekers: not all who approach the Absolute do so from the same motivation, yet all four types are virtuous — the section will distinguish better from best.
 
@@ -398,7 +398,7 @@ Noble are all these indeed, but the man of knowledge I consider to be My very se
 bahūnāṃ janmanām ante jñānavān māṃ prapadyate |  
 vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ || 19 ||  
 
-At the end of many births, the man of knowledge takes refuge in Me, [realizing that] "Vāsudeva is all." Such a great soul is very rare.
+At the end of many births, the man of knowledge takes refuge in Me, [realizing that] "<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Vāsudeva</a> is all." Such a great soul is very rare.
 
 **Simple Translation:** After many lifetimes of learning, the wise person finally realizes that "The Absolute (Vasudeva) is everything" and seeks refuge in Me. Such a great soul is very rare.
 
@@ -542,9 +542,9 @@ Concealed by My creative illusion (*yogamāyā*), I am not revealed to all. This
 vedāhaṃ samatītāni vartamānāni cārjuna |  
 bhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana || 26 ||  
 
-I know the beings that are past, that are present, and that are to come, Arjuna; but no one knows Me.
+I know the beings that are past, that are present, and that are to come, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>; but no one knows Me.
 
-**Simple Translation:** I know everything that has happened, everything that is happening now, and everything that will happen in the future, Arjuna. But no one truly knows Me.
+**Simple Translation:** I know everything that has happened, everything that is happening now, and everything that will happen in the future, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. But no one truly knows Me.
 
 **Argument Arc:** *The Unmanifest Made Manifest (7.24–7.30)* — Establishes the radical asymmetry at the heart of the chapter's closing argument: Krishna comprehends all beings across all time, yet no being comprehends Krishna — this epistemic gap is the signature of the unmanifest's transcendence.
 

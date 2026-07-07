@@ -394,7 +394,7 @@ But there is another, the Supreme Person (*uttamaḥ puruṣaḥ*), declared to 
 yasmāt kṣaram atīto 'ham akṣarād api cottamaḥ |  
 ato 'smi loke vede ca prathitaḥ puruṣottamaḥ || 18 ||  
 
-Because I transcend the perishable and am higher even than the imperishable, therefore I am celebrated in the world and in the Veda as the Supreme Person (*Puruṣottama*).
+Because I transcend the perishable and am higher even than the imperishable, therefore I am celebrated in the world and in the Veda as the Supreme Person (*<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Puruṣottama</a>*).
 
 **Simple Translation:** Because I am beyond the Perishable and higher than the Imperishable, I am known in the world and in the scriptures as the Supreme Person (Purushottama).
 
@@ -418,7 +418,7 @@ sa sarvavid bhajati māṃ sarvabhāvena bhārata || 19 ||
 
 He who, undeluded, thus knows Me as the Supreme Person, he, knowing all, worships Me with his whole being, O Bhārata.
 
-**Simple Translation:** Arjuna, anyone who truly knows Me as this Supreme Person is free from confusion. That person knows everything and worships Me with their whole heart.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, anyone who truly knows Me as this Supreme Person is free from confusion. That person knows everything and worships Me with their whole heart.
 
 **Argument Arc:** *Conclusion — Knowing This Makes One Wise (15.19–15.20)* — States the fruit of knowing this: whoever, undeluded, knows Krishna as the Supreme Person knows all, and worships him with their whole being — right ontology issuing directly in total devotion.
 
@@ -438,7 +438,7 @@ etad buddhvā buddhimān syāt kṛtakṛtyaś ca bhārata || 20 ||
 
 Thus this most secret teaching has been spoken by Me, O sinless one. Having understood this, a man would become wise and one who has accomplished all his duties, O Bhārata.
 
-**Simple Translation:** This is the most secret teaching I have given you, Arjuna. Anyone who truly understands it becomes wise and has fulfilled all that needs to be done.
+**Simple Translation:** This is the most secret teaching I have given you, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Anyone who truly understands it becomes wise and has fulfilled all that needs to be done.
 
 **Argument Arc:** *Conclusion — Knowing This Makes One Wise (15.19–15.20)* — Closes the chapter with its own colophon: this most secret of teachings now declared — understanding it, one becomes truly wise, and everything that needed doing is done — knowledge alone framed as completion.
 

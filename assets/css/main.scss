@@ -48,6 +48,20 @@ a {
   }
 }
 
+/* Inline character mentions ("X-Ray" links to /characters) */
+.char-link {
+  color: inherit;
+  border-bottom: 1px dotted var(--text-muted);
+  text-decoration: none;
+  transition: color 0.15s, border-color 0.15s;
+
+  &:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+    text-decoration: none;
+  }
+}
+
 /* Verse Card Styling */
 .verse-card {
   border: 1px solid var(--border-color);
@@ -138,6 +152,36 @@ a {
 
   [data-theme="dark"] & {
     background-color: rgba(52, 211, 153, 0.05);
+  }
+}
+
+.verse-argument-arc {
+  background-color: rgba(139, 92, 246, 0.05); /* Violet tint for structural commentary */
+  border-left: 3px solid #8b5cf6;
+  padding: 16px;
+  border-radius: 4px;
+  margin-top: 16px;
+  font-size: 15px;
+  margin-bottom: 24px;
+  line-height: 1.5;
+
+  [data-theme="dark"] & {
+    background-color: rgba(167, 139, 250, 0.06);
+  }
+}
+
+.verse-misreading {
+  background-color: rgba(217, 119, 6, 0.05); /* Amber tint for correcting a misconception */
+  border-left: 3px solid #d97706;
+  padding: 16px;
+  border-radius: 4px;
+  margin-top: 16px;
+  font-size: 15px;
+  margin-bottom: 24px;
+  line-height: 1.5;
+
+  [data-theme="dark"] & {
+    background-color: rgba(251, 191, 36, 0.06);
   }
 }
 

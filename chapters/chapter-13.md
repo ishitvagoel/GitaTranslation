@@ -20,9 +20,9 @@ idaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate |
 etad yo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ || 1 ||  
 
 The Blessed Lord said:
-This body, O son of Kuntī, is called the field (*kṣetra*). He who knows this, those who know that [truth] call him the knower of the field (*kṣetrajña*).
+This body, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, is called the field (*kṣetra*). He who knows this, those who know that [truth] call him the knower of the field (*kṣetrajña*).
 
-**Simple Translation:** The Blessed Lord said: Arjuna, this body is known as the 'Field' (Kshetra). Those who understand the truth call the one who observes and knows this body the 'Knower of the Field' (Kshetrajna).
+**Simple Translation:** The Blessed Lord said: <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, this body is known as the 'Field' (Kshetra). Those who understand the truth call the one who observes and knows this body the 'Knower of the Field' (Kshetrajna).
 
 **Argument Arc:** *The Field and the Knower Defined (13.1–13.6)* — Opens the chapter by introducing the foundational binary of objective reality (the field) and the witnessing consciousness (the knower), the distinction the entire chapter will unpack.
 
@@ -46,7 +46,7 @@ kṣetrakṣetrajñayor jñānaṃ yat taj jñānaṃ mataṃ mama || 2 ||
 
 And know Me also as the knower of the field in all fields, O Bhārata. The knowledge of the field and the knower of the field — that is considered true knowledge by Me.
 
-**Simple Translation:** Arjuna, understand that I am the Knower of the Field in all fields. The true understanding of both the Field and the Knower is what I consider real knowledge.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, understand that I am the Knower of the Field in all fields. The true understanding of both the Field and the Knower is what I consider real knowledge.
 
 **Argument Arc:** *The Field and the Knower Defined (13.1–13.6)* — Elevates the knower from individual observer to universal consciousness, establishing that Krishna himself is the knower in every being's field.
 
@@ -544,7 +544,7 @@ kṣetrakṣetrajñasaṃyogāt tad viddhi bharatarṣabha || 26 ||
 
 Whatever being is born, moving or unmoving, know that it arises from the union of the field and the knower of the field, O best of the Bharatas.
 
-**Simple Translation:** Arjuna, understand that every single being that is born—whether it moves or stays still—comes from the union of the Field and the Knower of the Field.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, understand that every single being that is born—whether it moves or stays still—comes from the union of the Field and the Knower of the Field.
 
 **Argument Arc:** *Paths to Seeing the Self (13.24–13.28)* — Restates the chapter's central formula as a universal law of birth: whatever comes to be, moving or unmoving, arises from the union of Field and Field-Knower — the analytic distinction now doing generative work.
 
@@ -644,7 +644,7 @@ When he perceives the various states of beings resting in the One, and from that
 anāditvān nirguṇatvāt paramātmāyam avyayaḥ |  
 śarīrastho 'pi kaunteya na karoti na lipyate || 31 ||  
 
-Because it is beginningless and free from the *guṇas*, this imperishable supreme self, even while situated in the body, O son of Kuntī, neither acts nor is tainted.
+Because it is beginningless and free from the *guṇas*, this imperishable supreme self, even while situated in the body, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, neither acts nor is tainted.
 
 **Simple Translation:** Because it is beginningless and free from qualities, this eternal Supreme Self does nothing and is never stained, even while living in the body.
 
@@ -686,7 +686,7 @@ kṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata || 33 ||
 
 Just as the one sun illuminates this entire world, so does the Lord of the field illuminate the entire field, O Bhārata.
 
-**Simple Translation:** Just as the single sun lights up the entire world, so does the Knower of the Field light up this entire Field, Arjuna.
+**Simple Translation:** Just as the single sun lights up the entire world, so does the Knower of the Field light up this entire Field, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The Self as Illuminator (13.29–13.34)* — Balances the self's non-participation with its one function: as the single sun illumines the entire world, so the Field-Knower illumines the entire Field — consciousness as pure illumination.
 

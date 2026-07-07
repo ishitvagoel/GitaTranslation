@@ -64,7 +64,7 @@ bhavanti sampadaṃ daivīm abhijātasya bhārata || 3 ||
 
 Vigor, patience, firmness, purity, absence of malice, and absence of excessive pride — these belong to one born to the divine endowment, O Bhārata.
 
-**Simple Translation:** ...vigor, forgiveness, firmness, purity, lack of malice, and no excessive pride—these belong to those born with a divine nature, Arjuna.
+**Simple Translation:** ...vigor, forgiveness, firmness, purity, lack of malice, and no excessive pride—these belong to those born with a divine nature, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The 26 Divine Qualities (16.1–16.3)* — Concludes the divine catalogue with the qualities of leadership resilience—vigor paired with forgiveness—and identifies the entire set as the profile of one aligned with liberation.
 
@@ -86,9 +86,9 @@ Vigor, patience, firmness, purity, absence of malice, and absence of excessive p
 dambho darpo 'bhimānaś ca krodhaḥ pāruṣyam eva ca |  
 ajñānaṃ cābhijātasya pārtha sampadam āsurīm || 4 ||  
 
-Hypocrisy, arrogance, pride, anger, harshness, and ignorance belong to one born to the demonic endowment, O Pārtha.
+Hypocrisy, arrogance, pride, anger, harshness, and ignorance belong to one born to the demonic endowment, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
-**Simple Translation:** Hypocrisy, arrogance, pride, anger, harshness, and ignorance belong to those born with a demonic nature, Arjuna.
+**Simple Translation:** Hypocrisy, arrogance, pride, anger, harshness, and ignorance belong to those born with a demonic nature, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The 6 Demonic Qualities (16.4–16.5)* — Introduces the contrasting demonic endowment, establishing that hypocrisy and ignorance are the core liabilities that bind a person to suffering.
 
@@ -106,9 +106,9 @@ Hypocrisy, arrogance, pride, anger, harshness, and ignorance belong to one born 
 daivī sampad vimokṣāya nibandhāyāsurī matā |  
 mā śucaḥ sampadaṃ daivīm abhijāto 'si pāṇḍava || 5 ||  
 
-The divine endowment is deemed to lead to liberation, and the demonic to bondage. Do not grieve, O son of Pāṇḍu; you are born to the divine endowment.
+The divine endowment is deemed to lead to liberation, and the demonic to bondage. Do not grieve, O son of <a href="{{ site.baseurl }}/characters#pandu" class="char-link">Pāṇḍu</a>; you are born to the divine endowment.
 
-**Simple Translation:** The divine nature leads to freedom, while the demonic nature leads to bondage. Do not worry, Arjuna; you are born with the divine nature.
+**Simple Translation:** The divine nature leads to freedom, while the demonic nature leads to bondage. Do not worry, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>; you are born with the divine nature.
 
 **Argument Arc:** *The 6 Demonic Qualities (16.4–16.5)* — Delivers the practical consequence of the two sets: divine qualities lead to liberation, demonic to bondage—and reassures Arjuna that he is already on the liberating path.
 
@@ -128,9 +128,9 @@ The divine endowment is deemed to lead to liberation, and the demonic to bondage
 dvau bhūtasargau loke 'smin daiva āsura eva ca |  
 daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu || 6 ||  
 
-There are two creations of beings in this world: the divine and the demonic. The divine has been declared at length; hear from Me of the demonic, O Pārtha.
+There are two creations of beings in this world: the divine and the demonic. The divine has been declared at length; hear from Me of the demonic, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
-**Simple Translation:** There are two types of beings in this world: the divine and the demonic. I have described the divine at length; now hear about the demonic, Arjuna.
+**Simple Translation:** There are two types of beings in this world: the divine and the demonic. I have described the divine at length; now hear about the demonic, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Nature of Demonic Beings (16.6–16.9)* — Introduces the demonic category as a study in contrast, pivoting from the full description of divine qualities to a detailed examination of destructive patterns.
 
@@ -416,7 +416,7 @@ These hateful, cruel, degraded men, the lowest in the cycle of existence, I hurl
 āsurīṃ yonim āpannā mūḍhā janmani janmani |  
 mām aprāpyaiva kaunteya tato yānty adhamāṃ gatim || 20 ||  
 
-Entering demonic wombs, deluded birth after birth, never attaining Me, O son of Kuntī, they go from there to the lowest goal.
+Entering demonic wombs, deluded birth after birth, never attaining Me, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, they go from there to the lowest goal.
 
 **Simple Translation:** Entering these difficult paths birth after birth, these confused souls never reach Me and continue to fall into lower states.
 
@@ -458,9 +458,9 @@ Threefold is this gate of hell, destructive of the self: desire (*kāma*), anger
 etair vimuktaḥ kaunteya tamodvārais tribhir naraḥ |  
 ācaraty ātmanaḥ śreyas tato yāti parāṃ gatim || 22 ||  
 
-A man liberated from these three gates of darkness, O son of Kuntī, practices what is good for his self; and then he goes to the supreme goal.
+A man liberated from these three gates of darkness, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, practices what is good for his self; and then he goes to the supreme goal.
 
-**Simple Translation:** Arjuna, a person who is freed from these three gates of darkness does what is best for their own self and eventually reaches the highest goal.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, a person who is freed from these three gates of darkness does what is best for their own self and eventually reaches the highest goal.
 
 **Argument Arc:** *The Three Gates of Hell / Conclusion (16.21–16.24)* — States the positive corollary: released from these three gates of darkness, a person practices what is good for the self and thence reaches the supreme goal — escape defined as the simple inversion of the triad.
 

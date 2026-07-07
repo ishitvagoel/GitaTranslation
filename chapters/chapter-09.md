@@ -62,7 +62,7 @@ aprāpya māṃ nivartante mṛtyusaṃsāravartmani || 3 ||
 
 Men who lack faith in this *dharma*, O scorcher of foes, failing to attain Me, return to the path of the cycle of death and rebirth (*saṃsāra*).
 
-**Simple Translation:** Arjuna, those who have no trust in this path fail to reach Me and remain trapped in the repetitive cycle of birth and death.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, those who have no trust in this path fail to reach Me and remain trapped in the repetitive cycle of birth and death.
 
 **Argument Arc:** *The Royal Secret (9.1–9.3)* — Closes the introduction by naming the consequence of rejecting the teaching: those who lack faith in this *dharma* simply return to the cycle of rebirth — the stark negative stakes that make the promise of 9.1–9.2 feel urgent rather than merely attractive.
 
@@ -146,9 +146,9 @@ Just as the mighty wind, moving everywhere, rests eternally in space, so do all 
 sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām |  
 kalpakṣaye punas tāni kalpādau visṛjāmy aham || 7 ||  
 
-All beings, O son of Kuntī, go into My material nature (*prakṛti*) at the end of an aeon (*kalpa*); at the beginning of an aeon, I send them forth again.
+All beings, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, go into My material nature (*prakṛti*) at the end of an aeon (*kalpa*); at the beginning of an aeon, I send them forth again.
 
-**Simple Translation:** Arjuna, at the end of a vast age, all beings dissolve back into my nature; and at the start of a new age, I bring them forth again.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, at the end of a vast age, all beings dissolve back into my nature; and at the start of a new age, I bring them forth again.
 
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Extends the relation across cosmic time: at an eon's end all beings return into Krishna's nature, and at its dawn he sends them forth again — pervasion unfolded into periodic dissolution and re-creation.
 
@@ -190,7 +190,7 @@ udāsīnavad āsīnam asaktaṃ teṣu karmasu || 9 ||
 
 And these actions do not bind Me, O winner of wealth; sitting as one indifferent, unattached to these actions.
 
-**Simple Translation:** Arjuna, these actions do not trap me, because I remain unattached and indifferent to them, like a neutral observer.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, these actions do not trap me, because I remain unattached and indifferent to them, like a neutral observer.
 
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Anticipates the objection that such cosmic activity would bind its agent: these acts do not bind Krishna, who sits as one indifferent, unattached — the karma-yoga taught to Arjuna modeled at cosmic scale.
 
@@ -208,9 +208,9 @@ And these actions do not bind Me, O winner of wealth; sitting as one indifferent
 mayādhyakṣeṇa prakṛtiḥ sūyate sacarācaram |  
 hetunānena kaunteya jagad viparivartate || 10 ||  
 
-With Me as the overseer, nature produces the moving and the unmoving. By this cause, O son of Kuntī, the world revolves.
+With Me as the overseer, nature produces the moving and the unmoving. By this cause, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, the world revolves.
 
-**Simple Translation:** With Me as the supervisor, nature creates everything that moves and everything that stays still. This is why the world keeps turning, Arjuna.
+**Simple Translation:** With Me as the supervisor, nature creates everything that moves and everything that stays still. This is why the world keeps turning, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Krishna Pervades All (9.4–9.10)* — Closes the cosmology by defining the division of labor: with Krishna as overseer, material nature produces the moving and the unmoving — this being the very reason the world revolves at all.
 
@@ -270,9 +270,9 @@ Of vain hopes, of vain actions, of vain knowledge, devoid of discrimination, the
 mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ |  
 bhajanty ananyamanaso jñātvā bhūtādim avyayam || 13 ||  
 
-But the great souls, O Pārtha, resorting to My divine nature, worship Me with an undivided mind, knowing Me as the imperishable source of beings.
+But the great souls, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, resorting to My divine nature, worship Me with an undivided mind, knowing Me as the imperishable source of beings.
 
-**Simple Translation:** But the great souls, Arjuna, who live in accordance with divine nature, focus on Me with an undivided mind, knowing that I am the eternal source of everything.
+**Simple Translation:** But the great souls, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, who live in accordance with divine nature, focus on Me with an undivided mind, knowing that I am the eternal source of everything.
 
 **Argument Arc:** *The Great Souls (9.13–9.15)* — Pivots to the counter-type: the great souls (*mahātmānaḥ*), sheltered in the divine nature, worship with undistracted mind, knowing Krishna as the imperishable source of beings.
 
@@ -392,9 +392,9 @@ I am the goal, the supporter, the Lord, the witness, the abode, the refuge, the 
 tapāmy aham ahaṃ varṣaṃ nigṛhṇāmy utsṛjāmi ca |  
 amṛtaṃ caiva mṛtyuś ca sad asac cāham arjuna || 19 ||  
 
-I give heat; I withhold and send forth the rain. I am immortality and also death; I am being (*sat*) and non-being (*asat*), Arjuna.
+I give heat; I withhold and send forth the rain. I am immortality and also death; I am being (*sat*) and non-being (*asat*), <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
-**Simple Translation:** I provide the heat and the rain; I am immortality and I am death; I am that which exists and that which does not yet exist, Arjuna.
+**Simple Translation:** I provide the heat and the rain; I am immortality and I am death; I am that which exists and that which does not yet exist, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Krishna Is Everything (9.16–9.19)* — Closes the litany with the coincidence of opposites: heat and rain, immortality and death, being and non-being (*sat* and *asat*) — the self-identification pushed past all polarity as the section's climax.
 
@@ -484,9 +484,9 @@ But those men who, meditating on Me with undivided attention, worship Me — for
 ye 'py anyadevatābhaktā yajante śraddhayānvitāḥ |  
 te 'pi mām eva kaunteya yajanty avidhipūrvakam || 23 ||  
 
-Even those who are devotees of other gods and worship them endowed with faith, they too worship Me alone, O son of Kuntī, though not according to the prescribed rule.
+Even those who are devotees of other gods and worship them endowed with faith, they too worship Me alone, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, though not according to the prescribed rule.
 
-**Simple Translation:** Even those who worship other powers with faith are actually worshipping Me, Arjuna, though they are doing it without knowing the full rules.
+**Simple Translation:** Even those who worship other powers with faith are actually worshipping Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, though they are doing it without knowing the full rules.
 
 **Argument Arc:** *Worship Determines Destination (9.20–9.25)* — Extends the analysis to devotees of other gods: their faithful worship in fact reaches Krishna, though offered without knowledge of the true rule — a genuine inclusivism, but with a stated deficiency.
 
@@ -568,9 +568,9 @@ Whoever offers Me with devotion a leaf, a flower, a fruit, or water, I accept th
 yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat |  
 yat tapasyasi kaunteya tat kuruṣva madarpaṇam || 27 ||  
 
-Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give, whatever austerity you perform, O son of Kuntī, do that as an offering to Me.
+Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give, whatever austerity you perform, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, do that as an offering to Me.
 
-**Simple Translation:** Whatever you do, whatever you eat, whatever you offer, whatever you give, and whatever discipline you practice—do it all as an offering to Me, Arjuna.
+**Simple Translation:** Whatever you do, whatever you eat, whatever you offer, whatever you give, and whatever discipline you practice—do it all as an offering to Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Simple Offerings Accepted (9.26–9.29)* — Universalizes the principle: whatever Arjuna does — eating, sacrificing, giving, practicing austerity — should be done as an offering to Krishna, converting the whole of ordinary life into liturgy.
 
@@ -650,9 +650,9 @@ Even if a man of extremely wicked conduct worships Me with undivided devotion, h
 kṣipraṃ bhavati dharmātmā śaśvac chāntiṃ nigacchati |  
 kaunteya pratijānīhi na me bhaktaḥ praṇaśyati || 31 ||  
 
-Quickly he becomes a soul of righteousness and attains eternal peace. O son of Kuntī, declare it boldly: My devotee never perishes.
+Quickly he becomes a soul of righteousness and attains eternal peace. O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, declare it boldly: My devotee never perishes.
 
-**Simple Translation:** Such a person quickly becomes righteous and attains eternal peace. Arjuna, you can be sure of this: my devotee is never lost.
+**Simple Translation:** Such a person quickly becomes righteous and attains eternal peace. <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, you can be sure of this: my devotee is never lost.
 
 **Argument Arc:** *Even Great Sinners Can Cross Over (9.30–9.34)* — Immediately answers the obvious objection: such a person *quickly* becomes righteous and attains lasting peace — and Krishna bids Arjuna proclaim it: his devotee is never lost. Conversion, not condonation.
 
@@ -670,9 +670,9 @@ Quickly he becomes a soul of righteousness and attains eternal peace. O son of K
 māṃ hi pārtha vyapāśritya ye 'pi syuḥ pāpayonayaḥ |  
 striyo vaiśyās tathā śūdrās te 'pi yānti parāṃ gatim || 32 ||  
 
-For even those who might be of sinful birth (*pāpayonayaḥ*), O Pārtha — women, Vaiśyas, and also Śūdras — taking refuge in Me, they too go to the supreme goal.
+For even those who might be of sinful birth (*pāpayonayaḥ*), O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a> — women, Vaiśyas, and also Śūdras — taking refuge in Me, they too go to the supreme goal.
 
-**Simple Translation:** Arjuna, anyone who takes refuge in Me—regardless of their social status, gender, or background—can reach the highest goal.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, anyone who takes refuge in Me—regardless of their social status, gender, or background—can reach the highest goal.
 
 **Argument Arc:** *Even Great Sinners Can Cross Over (9.30–9.34)* — Widens the promise to those the orthodox order excluded: even those deemed of sinful birth — women, Vaiśyas, Śūdras — taking refuge in Krishna reach the supreme goal; devotion overriding hierarchy of birth.
 

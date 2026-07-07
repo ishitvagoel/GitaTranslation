@@ -54,6 +54,20 @@ document.addEventListener('DOMContentLoaded', () => {
             return label;
           };
 
+          // Removes the leading "**Label:**" node (rendered as <strong>)
+          // without touching sibling nodes, so inline elements further in
+          // the paragraph (e.g. <a class="char-link"> mentions) survive.
+          const stripLabel = (labelText) => {
+            const first = el.firstElementChild;
+            if (first && first.tagName === 'STRONG' && first.textContent.trim() === labelText) {
+              first.remove();
+            }
+            const next = el.firstChild;
+            if (next && next.nodeType === Node.TEXT_NODE) {
+              next.textContent = next.textContent.replace(/^\s+/, '');
+            }
+          };
+
           // Identify Sanskrit, IAST, and English
           if (el.tagName === 'P') {
             const text = el.textContent.trim();
@@ -69,18 +83,28 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             else if (text.startsWith('Simple Translation:')) {
               el.className = 'verse-simple-translation';
-              el.textContent = text.replace('Simple Translation:', '').trim();
+              stripLabel('Simple Translation:');
               currentCard.appendChild(createLabel('Simple Translation'));
             }
             else if (text.startsWith('Contemporary Relevance:')) {
               el.className = 'verse-relevance';
-              el.textContent = text.replace('Contemporary Relevance:', '').trim();
+              stripLabel('Contemporary Relevance:');
               currentCard.appendChild(createLabel('Contemporary Relevance'));
             }
             else if (text.startsWith('Neuroscience Perspective:')) {
               el.className = 'verse-neuroscience';
-              el.textContent = text.replace('Neuroscience Perspective:', '').trim();
+              stripLabel('Neuroscience Perspective:');
               currentCard.appendChild(createLabel('Neuroscience Perspective'));
+            }
+            else if (text.startsWith('Argument Arc:')) {
+              el.className = 'verse-argument-arc';
+              stripLabel('Argument Arc:');
+              currentCard.appendChild(createLabel('Argument Arc'));
+            }
+            else if (text.startsWith('Common Misreading:')) {
+              el.className = 'verse-misreading';
+              stripLabel('Common Misreading:');
+              currentCard.appendChild(createLabel('Common Misreading'));
             }
             else {
               el.className = 'verse-translation';

@@ -19,10 +19,10 @@ arjuna uvāca |
 saṃnyāsaṃ karmaṇāṃ kṛṣṇa punar yogaṃ ca śaṃsasi |  
 yac chreya etayor ekaṃ tan me brūhi suniścitam || 1 ||  
 
-Arjuna said:
-You praise the renunciation of actions, Kṛṣṇa, and again their discipline (*yoga*). Tell me with certainty which one of these two is better.
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+You praise the renunciation of actions, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>, and again their discipline (*yoga*). Tell me with certainty which one of these two is better.
 
-**Simple Translation:** Arjuna asked: Krishna, you speak highly of quitting all actions (renunciation), but you also praise the disciplined performance of action (Yoga). Please tell me clearly: which of these two is actually better for me?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, you speak highly of quitting all actions (renunciation), but you also praise the disciplined performance of action (Yoga). Please tell me clearly: which of these two is actually better for me?
 
 **Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Reopens the chapter's central tension: Arjuna has heard praise for both renunciation and action, and demands a definitive answer about which path to take — forcing the argument to clarify what renunciation actually means.
 
@@ -129,7 +129,7 @@ yogayukto munir brahma nacireṇādhigacchati || 6 ||
 
 But renunciation, O mighty-armed one, is difficult to attain without yoga. The sage endowed with yoga attains Brahman without delay.
 
-**Simple Translation:** Arjuna, it is very difficult to achieve true renunciation without first practicing the Yoga of action. A wise person who practices Yoga reaches the ultimate reality very quickly.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, it is very difficult to achieve true renunciation without first practicing the Yoga of action. A wise person who practices Yoga reaches the ultimate reality very quickly.
 
 **Argument Arc:** *Renunciation vs. Action (5.1–5.6)* — Closes the debate with a practical verdict: outer renunciation without the discipline of action is painful and unlikely to succeed — making karma-yoga not just an alternative to sannyāsa but its necessary preparation.
 
@@ -461,9 +461,9 @@ He whose self is unattached to external contacts finds the happiness that is in 
 ye hi saṃsparśajā bhogā duḥkhayonaya eva te |  
 ādyantavantaḥ kaunteya na teṣu ramate budhaḥ || 22 ||  
 
-For the pleasures that are born of contact are merely sources of sorrow. They have a beginning and an end, O son of Kuntī; the wise man does not rejoice in them.
+For the pleasures that are born of contact are merely sources of sorrow. They have a beginning and an end, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>; the wise man does not rejoice in them.
 
-**Simple Translation:** Pleasures that come from sensory contact are actually the birthplaces of sorrow. They have a beginning and an end, Arjuna; a wise person does not find lasting satisfaction in them.
+**Simple Translation:** Pleasures that come from sensory contact are actually the birthplaces of sorrow. They have a beginning and an end, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>; a wise person does not find lasting satisfaction in them.
 
 **Argument Arc:** *The Vision of Equality (5.18–5.26)* — Provides the philosophical reason why the wise do not pursue external pleasure: contact-born enjoyments have a beginning and an end, making them structurally the birthplaces of sorrow — a diagnosis that makes the sage's inner orientation a logical necessity.
 

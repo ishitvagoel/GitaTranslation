@@ -22,7 +22,7 @@ yat te 'haṃ prīyamāṇāya vakṣyāmi hitakāmyayā || 1 ||
 The Blessed Lord said:
 Again, O mighty-armed one, hear My supreme word, which I, desiring your welfare, will speak to you who are beloved.
 
-**Simple Translation:** The Blessed Lord said: Once again, Arjuna, listen to my supreme words. Because you are dear to Me, I will speak for your own welfare.
+**Simple Translation:** The Blessed Lord said: Once again, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, listen to my supreme words. Because you are dear to Me, I will speak for your own welfare.
 
 **Argument Arc:** *Source of All (10.1–10.7)* — Opens the chapter by establishing the emotional context: Krishna speaks again out of love for Arjuna's welfare, framing what follows as intimate guidance rather than doctrine.
 
@@ -250,10 +250,10 @@ arjuna uvāca |
 paraṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān |  
 puruṣaṃ śāśvataṃ divyam ādidevam ajaṃ vibhum || 12 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 You are the supreme Brahman, the supreme abode, the supreme purifier. The eternal divine Spirit, the primal deity, unborn and omnipresent—
 
-**Simple Translation:** Arjuna said: You are the supreme Absolute, the highest home, and the ultimate purifier. You are the eternal, divine Spirit, the first of all gods, unborn and all-pervading.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said: You are the supreme Absolute, the highest home, and the ultimate purifier. You are the eternal, divine Spirit, the first of all gods, unborn and all-pervading.
 
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Opens Arjuna's eulogy by accumulating the highest titles possible, demonstrating that he has fully internalized the teaching and now speaks from conviction rather than courtesy.
 
@@ -271,9 +271,9 @@ You are the supreme Brahman, the supreme abode, the supreme purifier. The eterna
 āhus tvām ṛṣayaḥ sarve devarṣir nāradas tathā |  
 asito devalo vyāsaḥ svayaṃ caiva bravīṣi me || 13 ||  
 
-All the seers declare You thus, as do the divine seer Nārada, Asita, Devala, and Vyāsa; and You Yourself also tell me so.
+All the seers declare You thus, as do the divine seer <a href="{{ site.baseurl }}/characters#narada" class="char-link">Nārada</a>, <a href="{{ site.baseurl }}/characters#asita" class="char-link">Asita</a>, <a href="{{ site.baseurl }}/characters#devala" class="char-link">Devala</a>, and <a href="{{ site.baseurl }}/characters#vyasa" class="char-link">Vyāsa</a>; and You Yourself also tell me so.
 
-**Simple Translation:** All the great seers like Narada, Asita, Devala, and Vyasa say this about you, and now You are telling me the same yourself.
+**Simple Translation:** All the great seers like <a href="{{ site.baseurl }}/characters#narada" class="char-link">Narada</a>, <a href="{{ site.baseurl }}/characters#asita" class="char-link">Asita</a>, <a href="{{ site.baseurl }}/characters#devala" class="char-link">Devala</a>, and <a href="{{ site.baseurl }}/characters#vyasa" class="char-link">Vyasa</a> say this about you, and now You are telling me the same yourself.
 
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Reinforces the credibility of the teaching by citing multiple independent witnesses across the tradition, showing that Arjuna is not following one voice but a convergent consensus.
 
@@ -291,9 +291,9 @@ All the seers declare You thus, as do the divine seer Nārada, Asita, Devala, an
 sarvam etad ṛtaṃ manye yan māṃ vadasi keśava |  
 na hi te bhagavan vyaktiṃ vidur devā na dānavāḥ || 14 ||  
 
-I consider all this to be true which You tell me, O Keśava. For neither the gods nor the demons, O Blessed Lord, know Your manifestation.
+I consider all this to be true which You tell me, O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Keśava</a>. For neither the gods nor the demons, O Blessed Lord, know Your manifestation.
 
-**Simple Translation:** Krishna, I believe everything You are telling me is true. Neither the gods nor the demons truly understand your manifestation.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, I believe everything You are telling me is true. Neither the gods nor the demons truly understand your manifestation.
 
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Declares personal acceptance of the entire teaching, while noting that even divine beings cannot grasp Krishna's full manifestation, making Arjuna's trust all the more significant.
 
@@ -353,7 +353,7 @@ keṣu keṣu ca bhāveṣu cintyo 'si bhagavan mayā || 17 ||
 
 How may I know You, O Yogi, by constantly meditating on You? And in what various aspects are You to be thought of by me, O Blessed Lord?
 
-**Simple Translation:** How can I know You, O Yogi, by meditating on You constantly? In what specific things should I think of You, Krishna?
+**Simple Translation:** How can I know You, O Yogi, by meditating on You constantly? In what specific things should I think of You, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>?
 
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Translates the abstract praise of previous verses into a practical question: since knowing Krishna fully requires concrete anchors, Arjuna asks how meditation on specific manifestations can serve as a bridge to understanding the infinite.
 
@@ -373,7 +373,7 @@ bhūyaḥ kathaya tṛptir hi śṛṇvato nāsti me 'mṛtam || 18 ||
 
 Tell me again in detail of Your mystic power (*yoga*) and manifestation (*vibhūti*), O agitator of men. For I have no satiety in hearing this nectar.
 
-**Simple Translation:** Tell me again in detail about your power and your manifestations, Krishna. I can never get enough of hearing this life-giving nectar.
+**Simple Translation:** Tell me again in detail about your power and your manifestations, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>. I can never get enough of hearing this life-giving nectar.
 
 **Argument Arc:** *Arjuna's Praise and Request (10.12–10.18)* — Closes Arjuna's hymn by revealing that the teaching itself is experienced as inexhaustible nectar: the request for more is not impatience but the natural appetite of a mind that has genuinely tasted the truth.
 
@@ -396,7 +396,7 @@ prādhānyataḥ kuruśreṣṭha nāsty anto vistarasya me || 19 ||
 The Blessed Lord said:
 Ah! I shall recount to you My divine manifestations, but only the most prominent ones, O best of the Kurus; for there is no end to My extent.
 
-**Simple Translation:** The Blessed Lord said: Yes, I will tell you about my divine manifestations, but only the most important ones, Arjuna, because there is no end to them.
+**Simple Translation:** The Blessed Lord said: Yes, I will tell you about my divine manifestations, but only the most important ones, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, because there is no end to them.
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Opens the catalogue by setting its governing principle: the infinite cannot be exhaustively listed, so what follows is a selection of peak exemplars — a teaching tool, not a census of divinity.
 
@@ -416,9 +416,9 @@ Ah! I shall recount to you My divine manifestations, but only the most prominent
 aham ātmā guḍākeśa sarvabhūtāśayasthitaḥ |  
 aham ādiś ca madhyaṃ ca bhūtānām anta eva ca || 20 ||  
 
-I am the self, O Guḍākeśa, seated in the heart of all beings; I am the beginning, the middle, and the end of all beings.
+I am the self, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Guḍākeśa</a>, seated in the heart of all beings; I am the beginning, the middle, and the end of all beings.
 
-**Simple Translation:** I am the Self, Arjuna, living in the heart of every being. I am the beginning, the middle, and the end of all living things.
+**Simple Translation:** I am the Self, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, living in the heart of every being. I am the beginning, the middle, and the end of all living things.
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Leads the catalogue with its most radical claim: before listing outward cosmic manifestations, Krishna identifies himself with the inner Self of every being — making all that follows an extension of what is already closest to the listener.
 
@@ -438,7 +438,7 @@ I am the self, O Guḍākeśa, seated in the heart of all beings; I am the begin
 ādityānām ahaṃ viṣṇur jyotiṣāṃ ravir aṃśumān |  
 marīcir marutām asmi nakṣatrāṇām ahaṃ śaśī || 21 ||  
 
-Of the Ādityas I am Viṣṇu; of lights I am the radiant sun. I am Marīci among the Maruts; among the stars I am the moon.
+Of the Ādityas I am <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Viṣṇu</a>; of lights I am the radiant sun. I am Marīci among the Maruts; among the stars I am the moon.
 
 **Simple Translation:** Among the gods of light, I am Vishnu; among radiant things, I am the sun. I am the wind-spirit Marichi, and among the stars, I am the moon.
 
@@ -500,9 +500,9 @@ Of the Rudras I am Śaṅkara; of the Yakṣas and Rākṣasas I am the Lord of 
 purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim |  
 senānīnām ahaṃ skandaḥ sarasām asmi sāgaraḥ || 24 ||  
 
-And of household priests, O Pārtha, know Me to be the chief, Bṛhaspati. Of generals I am Skanda; of bodies of water I am the ocean.
+And of household priests, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, know Me to be the chief, Bṛhaspati. Of generals I am Skanda; of bodies of water I am the ocean.
 
-**Simple Translation:** Arjuna, know Me as Brihaspati, the chief of priests. Among generals, I am Skanda; and among bodies of water, I am the ocean.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, know Me as Brihaspati, the chief of priests. Among generals, I am Skanda; and among bodies of water, I am the ocean.
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Extends the catalogue into ritual, military, and natural domains, linking priestly wisdom, martial command, and the vast scale of the ocean under a single governing principle: Krishna is the supreme exemplar wherever authority and depth converge.
 
@@ -540,9 +540,9 @@ Of the great seers I am Bhṛgu; of utterances I am the single syllable (*Oṃ*)
 aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ |  
 gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ || 26 ||  
 
-Of all trees I am the sacred fig tree (*aśvattha*), and of divine seers I am Nārada. Of the Gandharvas I am Citraratha; of the perfected beings I am the sage Kapila.
+Of all trees I am the sacred fig tree (*aśvattha*), and of divine seers I am <a href="{{ site.baseurl }}/characters#narada" class="char-link">Nārada</a>. Of the Gandharvas I am Citraratha; of the perfected beings I am the sage Kapila.
 
-**Simple Translation:** Of all trees, I am the sacred Ashvattha; of divine seers, I am Narada. Of heavenly musicians, I am Chitraratha; and among the perfected, I am the sage Kapila.
+**Simple Translation:** Of all trees, I am the sacred Ashvattha; of divine seers, I am <a href="{{ site.baseurl }}/characters#narada" class="char-link">Narada</a>. Of heavenly musicians, I am Chitraratha; and among the perfected, I am the sage Kapila.
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Expands the catalogue into botanical, prophetic, artistic, and philosophical domains, reinforcing that supreme excellence — whether a sacred tree, a divine messenger, a celestial musician, or a foundational philosopher — all trace back to the same source.
 
@@ -660,9 +660,9 @@ Of purifiers I am the wind; of wielders of weapons I am Rāma. Of fishes I am th
 sargāṇām ādir antaś ca madhyaṃ caivāham arjuna |  
 adhyātmavidyā vidyānāṃ vādaḥ pravadatām aham || 32 ||  
 
-Of creations I am the beginning, the end, and also the middle, Arjuna. Of sciences I am the science of the supreme self; of those who debate I am the dialectic (*vāda*).
+Of creations I am the beginning, the end, and also the middle, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Of sciences I am the science of the supreme self; of those who debate I am the dialectic (*vāda*).
 
-**Simple Translation:** Arjuna, I am the beginning, the end, and also the middle of all creations. Of sciences, I am the science of the Self; and among those who debate, I am the logic (vada).
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, I am the beginning, the end, and also the middle of all creations. Of sciences, I am the science of the Self; and among those who debate, I am the logic (vada).
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Lifts the catalogue momentarily from specific items to a meta-claim: Krishna is not only the peak exemplar within categories but the temporal frame — beginning, middle, and end — that encompasses all of existence, anchoring every listed manifestation within a single all-containing reality.
 
@@ -762,9 +762,9 @@ I am the gambling of the deceitful; I am the splendor of the splendid. I am vict
 vṛṣṇīnāṃ vāsudevo 'smi pāṇḍavānāṃ dhanañjayaḥ |  
 munīnām apy ahaṃ vyāsaḥ kavīnām uśanā kaviḥ || 37 ||  
 
-Of the Vṛṣṇis I am Vāsudeva (Kṛṣṇa); of the Pāṇḍavas I am Dhanañjaya (Arjuna). Of the sages I am Vyāsa; of the poets I am the poet Uśanas.
+Of the Vṛṣṇis I am <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Vāsudeva</a> (<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>); of the Pāṇḍavas I am <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Dhanañjaya</a> (<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>). Of the sages I am <a href="{{ site.baseurl }}/characters#vyasa" class="char-link">Vyāsa</a>; of the poets I am the poet <a href="{{ site.baseurl }}/characters#ushanas" class="char-link">Uśanas</a>.
 
-**Simple Translation:** Of the Vrishni clan, I am Krishna; of the Pandavas, I am Arjuna. Of the sages, I am Vyasa; and of the poets, I am the poet Ushanas.
+**Simple Translation:** Of the Vrishni clan, I am <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>; of the Pandavas, I am <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Of the sages, I am <a href="{{ site.baseurl }}/characters#vyasa" class="char-link">Vyasa</a>; and of the poets, I am the poet <a href="{{ site.baseurl }}/characters#ushanas" class="char-link">Ushanas</a>.
 
 **Argument Arc:** *The Divine Manifestations (10.19–10.38)* — Reaches its most intimate and self-reflexive moment: the speaker names himself as his own supreme manifestation, and names Arjuna as the supreme Pāṇḍava — collapsing the distance between teacher and student, making the teaching immediate and personal rather than abstract.
 
@@ -804,9 +804,9 @@ I am the rod of those who punish; I am the statecraft of those who seek victory.
 yac cāpi sarvabhūtānāṃ bījaṃ tad aham arjuna |  
 na tad asti vinā yat syān mayā bhūtaṃ carācaram || 39 ||  
 
-And whatever is the seed of all beings, that am I, Arjuna. There is no being, whether moving or unmoving, that can exist without Me.
+And whatever is the seed of all beings, that am I, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. There is no being, whether moving or unmoving, that can exist without Me.
 
-**Simple Translation:** And whatever is the seed of all beings, that am I, Arjuna. No being—whether moving or unmoving—can exist without Me.
+**Simple Translation:** And whatever is the seed of all beings, that am I, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. No being—whether moving or unmoving—can exist without Me.
 
 **Argument Arc:** *A Fraction Sustains All (10.39–10.42)* — Opens the closing section with the most fundamental claim of the entire catalogue: Krishna is not merely the supreme exemplar within categories but the generative seed without which no being — moving or unmoving — could exist at all, shifting the logic from enumeration to ontological necessity.
 
@@ -828,7 +828,7 @@ eṣa tūddeśataḥ prokto vibhūter vistaro mayā || 40 ||
 
 There is no end to My divine manifestations, O scorcher of foes. This extent of My manifestation has been declared by Me only by way of brief example.
 
-**Simple Translation:** There is no end to my divine manifestations, Arjuna. I have told you about them only in brief, using a few examples.
+**Simple Translation:** There is no end to my divine manifestations, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. I have told you about them only in brief, using a few examples.
 
 **Argument Arc:** *A Fraction Sustains All (10.39–10.42)* — Acknowledges explicitly that the catalogue just completed is a deliberately partial sample: the infinite cannot be fully enumerated, so every item listed was a representative indication rather than a boundary of the divine, preparing for the chapter's radical final compression.
 
@@ -866,9 +866,9 @@ Whatever being is glorious, prosperous, or powerful, understand that it is born 
 athavā bahunaitena kiṃ jñātena tavārjuna |  
 viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat || 42 ||  
 
-But what need is there for you to know all this multiplicity, Arjuna? I stand sustaining this entire universe with a single fraction of Myself.
+But what need is there for you to know all this multiplicity, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>? I stand sustaining this entire universe with a single fraction of Myself.
 
-**Simple Translation:** But what is the use of knowing all these details, Arjuna? I sustain this entire universe with just a single small part of Myself.
+**Simple Translation:** But what is the use of knowing all these details, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>? I sustain this entire universe with just a single small part of Myself.
 
 **Argument Arc:** *A Fraction Sustains All (10.39–10.42)* — Closes the chapter with a rhetorical collapse of the entire catalogue into a single staggering datum: the whole of manifest existence is sustained by a single fraction of Krishna, rendering the need for further enumeration obsolete and leaving Arjuna — and the reader — with an image of inexhaustible residual infinity.
 

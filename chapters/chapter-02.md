@@ -19,10 +19,10 @@ sañjaya uvāca:
 taṁ tathā kṛpayāviṣṭam aśrupūrṇākulekṣaṇam /  
 viṣīdantam idaṁ vākyam uvāca madhusūdanaḥ //  
 
-Sañjaya said:
-To him, thus overcome by pity, his eyes filled with tears and troubled, despondent — Madhusūdana spoke these words:
+<a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sañjaya</a> said:
+To him, thus overcome by pity, his eyes filled with tears and troubled, despondent — <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Madhusūdana</a> spoke these words:
 
-**Simple Translation:** Sanjaya said: To Arjuna, who was overwhelmed with pity and whose eyes were filled with tears of despair, Krishna spoke these words:
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sanjaya</a> said: To <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, who was overwhelmed with pity and whose eyes were filled with tears of despair, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a> spoke these words:
 
 **Argument Arc:** *Krishna's Rebuke (2.1–2.10)* — Pivots the narrative from Arjuna's silent collapse to Krishna's active response; Sanjaya's report frames the coming speech as a reply to a specific emotional state — pity, tears, and despondency — establishing the clinical precision of what follows.
 
@@ -43,9 +43,9 @@ kutas tvā kaśmalam idaṁ viṣame samupasthitam /
 anāryajuṣṭam asvargyam akīrtikaram arjuna //  
 
 The Blessed One said:
-Whence has this faintheartedness come upon you at this critical moment — unworthy of a noble man, barring heaven, bringing disgrace, Arjuna?
+Whence has this faintheartedness come upon you at this critical moment — unworthy of a noble man, barring heaven, bringing disgrace, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>?
 
-**Simple Translation:** The Blessed One said: Arjuna, where did this weakness come from at such a critical moment? It is not worthy of a noble person; it does not lead to a higher state and only brings disgrace.
+**Simple Translation:** The Blessed One said: <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, where did this weakness come from at such a critical moment? It is not worthy of a noble person; it does not lead to a higher state and only brings disgrace.
 
 **Argument Arc:** *Krishna's Rebuke (2.1–2.10)* — Delivers Krishna's opening strike: he diagnoses Arjuna's collapse not as compassion but as unmanliness unworthy of a noble person, immediately reframing grief as a moral and strategic failure rather than a virtue.
 
@@ -63,9 +63,9 @@ Whence has this faintheartedness come upon you at this critical moment — unwor
 klaibyaṁ mā sma gamaḥ pārtha naitat tvayy upapadyate /  
 kṣudraṁ hṛdaydaurbalyaṁ tyaktvottiṣṭha parantapa //  
 
-Do not yield to unmanliness, Pārtha — it does not befit you. Abandon this petty weakness of heart and arise, scorcher of foes.
+Do not yield to unmanliness, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a> — it does not befit you. Abandon this petty weakness of heart and arise, scorcher of foes.
 
-**Simple Translation:** Do not give in to this weakness, Arjuna; it doesn't suit you. Cast off this small-heartedness and stand up, you conqueror of obstacles.
+**Simple Translation:** Do not give in to this weakness, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>; it doesn't suit you. Cast off this small-heartedness and stand up, you conqueror of obstacles.
 
 **Argument Arc:** *Krishna's Rebuke (2.1–2.10)* — Escalates the rebuke from diagnosis to command: having named the problem, Krishna now orders Arjuna to rise, invoking his identity as a "scorcher of foes" to force a confrontation between his self-image and his current paralysis.
 
@@ -85,10 +85,10 @@ arjuna uvāca:
 kathaṁ bhīṣmam ahaṁ saṅkhye droṇaṁ ca madhusūdana /  
 iṣubhiḥ pratiyotsyāmi pūjārhāv arisūdana //  
 
-Arjuna said:
-How shall I fight Bhīṣma and Droṇa in battle with arrows, Madhusūdana — they who are worthy of worship, slayer of enemies?
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+How shall I fight <a href="{{ site.baseurl }}/characters#bhishma" class="char-link">Bhīṣma</a> and <a href="{{ site.baseurl }}/characters#drona" class="char-link">Droṇa</a> in battle with arrows, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Madhusūdana</a> — they who are worthy of worship, slayer of enemies?
 
-**Simple Translation:** Arjuna asked: Krishna, how can I attack Bhishma and Drona with arrows in this battle? They are both worthy of my deepest respect.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, how can I attack <a href="{{ site.baseurl }}/characters#bhishma" class="char-link">Bhishma</a> and <a href="{{ site.baseurl }}/characters#drona" class="char-link">Drona</a> with arrows in this battle? They are both worthy of my deepest respect.
 
 **Argument Arc:** *Krishna's Rebuke (2.1–2.10)* — Introduces Arjuna's counter-argument: veneration of teachers overrides duty, exposing the specific shape of his confusion — not cowardice in general, but the collision of respect and violence toward those he reveres.
 
@@ -134,7 +134,7 @@ yad vā jayema yadi vā no jayeyuḥ /
 yān eva hatvā na jijīviṣāmas  
 te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ //  
 
-And we do not know which is better for us — that we should conquer or that they should conquer us. The very ones after slaying whom we would not wish to live — they stand before us, the sons of Dhṛtarāṣṭra.
+And we do not know which is better for us — that we should conquer or that they should conquer us. The very ones after slaying whom we would not wish to live — they stand before us, the sons of <a href="{{ site.baseurl }}/characters#dhritarashtra" class="char-link">Dhṛtarāṣṭra</a>.
 
 **Simple Translation:** We don't even know which is better: for us to win or for them to win. The very people we don't want to live without are now standing before us as enemies.
 
@@ -206,10 +206,10 @@ sañjaya uvāca:
 evam uktvā hṛṣīkeśaṁ guḍākeśaḥ parantapaḥ /  
 na yotsya iti govindam uktvā tūṣṇīṁ babhūva ha //  
 
-Sañjaya said:
-Having spoken thus to Hṛṣīkeśa, Guḍākeśa, the scorcher of foes, said to Govinda "I will not fight" — and fell silent.
+<a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sañjaya</a> said:
+Having spoken thus to <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Hṛṣīkeśa</a>, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Guḍākeśa</a>, the scorcher of foes, said to <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Govinda</a> "I will not fight" — and fell silent.
 
-**Simple Translation:** Sanjaya said: After saying this to Krishna, Arjuna (the conqueror of obstacles) said "I will not fight," and then he became silent.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sanjaya</a> said: After saying this to <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> (the conqueror of obstacles) said "I will not fight," and then he became silent.
 
 **Argument Arc:** *Krishna's Rebuke (2.1–2.10)* — Closes Arjuna's speech with his starkest declaration — "I will not fight" — followed by silence; this absolute refusal, framed by Sanjaya's narration, sets the maximum stakes that Krishna's entire teaching must overcome.
 
@@ -227,9 +227,9 @@ Having spoken thus to Hṛṣīkeśa, Guḍākeśa, the scorcher of foes, said t
 tam uvāca hṛṣīkeśaḥ prahasann iva bhārata /  
 senayor ubhayor madhye viṣīdantam idaṁ vacaḥ //  
 
-To him, despondent between the two armies, Hṛṣīkeśa, as if smiling, spoke these words, Bhārata:
+To him, despondent between the two armies, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Hṛṣīkeśa</a>, as if smiling, spoke these words, Bhārata:
 
-**Simple Translation:** Krishna, as if smiling, spoke these words to the despondent Arjuna right there in the middle of the two armies:
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, as if smiling, spoke these words to the despondent <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> right there in the middle of the two armies:
 
 **Argument Arc:** *Krishna's Rebuke (2.1–2.10)* — Closes the section's frame: Sanjaya reports Krishna's smile as he begins to speak, signaling that what follows is not a desperate reaction but a composed, deliberate response — the calm that precedes the chapter's philosophical depth.
 
@@ -314,9 +314,9 @@ Just as the embodied one in this body passes through childhood, youth, and old a
 mātrāsparśās tu kaunteya śītoṣṇasukhaduḥkhadāḥ /  
 āgamāpāyino 'nityās tāṁs titikṣasva bhārata //  
 
-Contacts of the senses with their objects, Kaunteya, giving cold and heat, pleasure and pain — they come and go and are impermanent. Endure them, Bhārata.
+Contacts of the senses with their objects, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Kaunteya</a>, giving cold and heat, pleasure and pain — they come and go and are impermanent. Endure them, Bhārata.
 
-**Simple Translation:** The interaction of your senses with the world creates feelings like heat and cold, or pleasure and pain. These feelings come and go and are only temporary. You must learn to endure them, Arjuna.
+**Simple Translation:** The interaction of your senses with the world creates feelings like heat and cold, or pleasure and pain. These feelings come and go and are only temporary. You must learn to endure them, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The Eternal Self (2.11–2.25)* — Narrows to a practical instruction: sensory experiences are impermanent contacts, not permanent injuries to the self — and the mark of wisdom is the capacity to endure them rather than be undone by them.
 
@@ -398,7 +398,7 @@ anāśino 'prameyasya tasmād yudhyasva bhārata //
 
 These bodies of the eternal embodied one — who is indestructible and immeasurable — are said to have an end. Therefore fight, Bhārata.
 
-**Simple Translation:** Only these bodies have an end; the soul within them is eternal, indestructible, and beyond measure. Therefore, do your duty and fight, Arjuna.
+**Simple Translation:** Only these bodies have an end; the soul within them is eternal, indestructible, and beyond measure. Therefore, do your duty and fight, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *The Eternal Self (2.11–2.25)* — Draws the first practical conclusion from the ontological argument: since bodies alone are perishable and the embodied self is not, Arjuna's duty-call follows directly — making this the argument's first pivot from metaphysics toward action.
 
@@ -462,9 +462,9 @@ It is never born and never dies; nor, having once been, does it ever cease to be
 vedāvināśinaṁ nityaṁ ya enam ajam avyayam /  
 kathaṁ sa puruṣaḥ pārtha kaṁ ghātayati hanti kam //  
 
-Whoever knows this to be indestructible, eternal, unborn, and imperishable — how does that person cause anyone to be killed, Pārtha? Whom does he kill?
+Whoever knows this to be indestructible, eternal, unborn, and imperishable — how does that person cause anyone to be killed, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>? Whom does he kill?
 
-**Simple Translation:** Pārtha, anyone who knows the soul to be indestructible, eternal, unborn, and unchanging—how can that person kill anyone, or cause anyone to be killed?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, anyone who knows the soul to be indestructible, eternal, unborn, and unchanging—how can that person kill anyone, or cause anyone to be killed?
 
 **Argument Arc:** *The Eternal Self (2.11–2.25)* — Converts the metaphysical claim into a direct rhetorical challenge: if Arjuna truly understands what the ātman is, then his guilt about killing dissolves of its own logic — knowledge here is not comfort but liberation from the problem itself.
 
@@ -612,7 +612,7 @@ avyaktanidhanāny eva tatra kā paridevanā //
 
 Beings are unmanifest in their beginning, manifest in their middle, and unmanifest again in their end, Bhārata. What lamentation is there in this?
 
-**Simple Translation:** Beings are invisible before birth, visible during their lives, and invisible again after death, Arjuna. So what is there to cry about in this?
+**Simple Translation:** Beings are invisible before birth, visible during their lives, and invisible again after death, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. So what is there to cry about in this?
 
 **Argument Arc:** *Even If Mortal (2.26–2.30)* — Widens the perspective to the whole arc of existence: since beings emerge from the unmanifest and return to it, their visible middle interval provides no special claim on permanence — and no cause for lamentation at its ending.
 
@@ -656,7 +656,7 @@ tasmāt sarvāṇi bhūtāni na tvaṁ śocitum arhasi //
 
 The embodied one in the body of every being is eternally inviolable, Bhārata. Therefore you should not grieve for any beings.
 
-**Simple Translation:** The soul that lives in the body of every being is eternally safe from harm, Arjuna. Therefore, you should not grieve for any living thing.
+**Simple Translation:** The soul that lives in the body of every being is eternally safe from harm, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Therefore, you should not grieve for any living thing.
 
 **Argument Arc:** *Even If Mortal (2.26–2.30)* — Closes the fallback section with its universal conclusion: the embodied self in every creature is inviolable — a claim that is simultaneously the endpoint of the metaphysical proof and the foundation for the pragmatic duty argument that follows.
 
@@ -696,9 +696,9 @@ And considering your own dharma, you should not waver. For a kṣatriya, nothing
 yadṛcchayā copapannaṁ svargadvāram apāvṛtam /  
 sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam //  
 
-Arriving by chance, an open gate to heaven — fortunate are the kṣatriyas, Pārtha, who obtain such a battle.
+Arriving by chance, an open gate to heaven — fortunate are the kṣatriyas, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, who obtain such a battle.
 
-**Simple Translation:** Pārtha, fortunate are those who find themselves facing such a battle that comes of its own accord—it is like an open door to a higher state of existence.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, fortunate are those who find themselves facing such a battle that comes of its own accord—it is like an open door to a higher state of existence.
 
 **Argument Arc:** *The Warrior's Duty (2.31–2.38)* — Reframes the situation from burden to opportunity: this battle did not come by Arjuna's seeking — it arrived as an unsolicited opening, a gate already standing open, which only the fortunate encounter; refusing it is squandering a rare chance.
 
@@ -796,9 +796,9 @@ Your enemies will say many unspeakable things, disparaging your ability. What co
 hato vā prāpsyasi svargaṁ jitvā vā bhokṣyase mahīm /  
 tasmād uttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ //  
 
-Slain, you will attain heaven; victorious, you will enjoy the earth. Therefore arise, Kaunteya, resolved to fight.
+Slain, you will attain heaven; victorious, you will enjoy the earth. Therefore arise, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Kaunteya</a>, resolved to fight.
 
-**Simple Translation:** If you are killed, you will reach a higher state; if you win, you will enjoy success in this world. Therefore, stand up, Arjuna, and be resolved to do your duty.
+**Simple Translation:** If you are killed, you will reach a higher state; if you win, you will enjoy success in this world. Therefore, stand up, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, and be resolved to do your duty.
 
 **Argument Arc:** *The Warrior's Duty (2.31–2.38)* — Resolves the warrior's dilemma by demonstrating that both outcomes of righteous battle are gains: death brings spiritual elevation, victory brings earthly enjoyment — making the only genuine loss the failure to fight at all.
 
@@ -838,7 +838,7 @@ Making pleasure and pain, gain and loss, victory and defeat the same — then en
 eṣā te 'bhihitā sāṅkhye buddhir yoge tv imāṁ śṛṇu /  
 buddhyā yukto yayā pārtha karmabandhaṁ prahāsyasi //  
 
-This understanding has been set forth for you according to Sāṅkhya; now hear it according to Yoga. Yoked with this understanding, Pārtha, you will cast off the bondage of action.
+This understanding has been set forth for you according to Sāṅkhya; now hear it according to Yoga. Yoked with this understanding, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, you will cast off the bondage of action.
 
 **Simple Translation:** This is the analytical understanding (Sāṅkhya) I have given you. Now, listen to the practical discipline (Yoga). When you act with this understanding, you will be free from the burden of your actions.
 
@@ -882,7 +882,7 @@ bahuśākhā hy anantāś ca buddhayo 'vyavasāyinām //
 
 The understanding of the resolute is single-pointed here, joy of the Kurus. But the thoughts of the irresolute are many-branched and endless.
 
-**Simple Translation:** A resolute mind is focused on a single point, Arjuna. But the minds of those who lack resolve are scattered in many directions and endless thoughts.
+**Simple Translation:** A resolute mind is focused on a single point, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. But the minds of those who lack resolve are scattered in many directions and endless thoughts.
 
 **Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Introduces the defining characteristic of the yogic intellect: single-pointedness — contrasted with the endlessly branching deliberations of the unresolved mind, which is precisely the state Arjuna currently embodies.
 
@@ -900,7 +900,7 @@ The understanding of the resolute is single-pointed here, joy of the Kurus. But 
 yām imāṁ puṣpitāṁ vācaṁ pravadanty avipaścitaḥ /  
 vedavādaratāḥ pārtha nānyad astīti vādinaḥ //  
 
-The undiscerning utter this flowery speech, Pārtha — delighting in the letter of the Veda, declaring "there is nothing else,"
+The undiscerning utter this flowery speech, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a> — delighting in the letter of the Veda, declaring "there is nothing else,"
 
 **Simple Translation:** People who lack deep understanding are carried away by flowery words and literal interpretations of scriptures, claiming there is nothing more to reality than these rules.
 
@@ -960,9 +960,9 @@ For those attached to enjoyment and power, whose minds are carried away by that 
 traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna /  
 nirdvandvo nityasattvastho niryogakṣema ātmavān //  
 
-The Vedas deal with the domain of the three guṇas. Be beyond the three guṇas, Arjuna — free from dualities, ever established in sattva, beyond acquisition and preservation, possessed of the self.
+The Vedas deal with the domain of the three guṇas. Be beyond the three guṇas, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> — free from dualities, ever established in sattva, beyond acquisition and preservation, possessed of the self.
 
-**Simple Translation:** The scriptures deal with the three qualities of nature. Rise above these qualities, Arjuna. Be free from dualities, stay established in purity, let go of the need to acquire or protect things, and stay focused on your true self.
+**Simple Translation:** The scriptures deal with the three qualities of nature. Rise above these qualities, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Be free from dualities, stay established in purity, let go of the need to acquire or protect things, and stay focused on your true self.
 
 **Argument Arc:** *Introduction to Karma Yoga (2.39–2.53)* — Commands a move beyond the entire domain of scriptural reward-seeking: the Vedas operate within the three guṇas, but the practitioner of karma yoga must stand outside that field — free from dualities, acquisitive anxiety, and grasping at self-maintenance.
 
@@ -1026,7 +1026,7 @@ Your right is to action alone, never to its fruits. Do not be one whose motive i
 yogasthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya /  
 siddhyasiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate //  
 
-Established in yoga, perform actions having abandoned attachment, Dhanañjaya, being equal in success and failure. Evenness is called yoga.
+Established in yoga, perform actions having abandoned attachment, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Dhanañjaya</a>, being equal in success and failure. Evenness is called yoga.
 
 **Simple Translation:** Do your work while being established in a state of balance (Yoga), letting go of attachment. Remain the same in both success and failure. This state of mental evenness is called Yoga.
 
@@ -1048,7 +1048,7 @@ Established in yoga, perform actions having abandoned attachment, Dhanañjaya, b
 dūreṇa hy avaraṁ karma buddhiyogād dhanañjaya /  
 buddhau śaraṇam anviccha kṛpaṇāḥ phalahetavaḥ //  
 
-Action is far inferior to the yoga of understanding, Dhanañjaya. Seek refuge in understanding. Pitiable are those whose motive is the fruit.
+Action is far inferior to the yoga of understanding, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Dhanañjaya</a>. Seek refuge in understanding. Pitiable are those whose motive is the fruit.
 
 **Simple Translation:** Mere action is far inferior to the action performed with clear understanding. Seek refuge in wisdom. Those who act only for rewards are narrow-minded and pitiable.
 
@@ -1152,10 +1152,10 @@ arjuna uvāca:
 sthitaprajñasya kā bhāṣā samādhisthasya keśava /  
 sthitadhīḥ kiṁ prabhāṣeta kim āsīta vrajeta kim //  
 
-Arjuna said:
-What is the description of one whose wisdom is firm, who is established in deep concentration, Keśava? How does the one of steady mind speak? How does he sit? How does he move?
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+What is the description of one whose wisdom is firm, who is established in deep concentration, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Keśava</a>? How does the one of steady mind speak? How does he sit? How does he move?
 
-**Simple Translation:** Arjuna asked: Krishna, what are the characteristics of a person whose wisdom is steady and who is established in deep focus? How does such a person speak, sit, and move in the world?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, what are the characteristics of a person whose wisdom is steady and who is established in deep focus? How does such a person speak, sit, and move in the world?
 
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Opens the final section by transforming abstract argument into a concrete request: Arjuna asks not for more philosophy but for behavioral markers — how does the person of steady wisdom actually speak, sit, and move? — demanding that the teaching become embodied and observable.
 
@@ -1176,7 +1176,7 @@ prajahāti yadā kāmān sarvān pārtha manogatān /
 ātmany evātmanā tuṣṭaḥ sthitaprajñas tadocyate //  
 
 The Blessed One said:
-When one abandons all desires that dwell in the mind, Pārtha, content in the self by the self alone — then one is called firm in wisdom.
+When one abandons all desires that dwell in the mind, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, content in the self by the self alone — then one is called firm in wisdom.
 
 **Simple Translation:** The Blessed One said: When a person lets go of all the selfish desires in their mind and finds complete satisfaction within themselves, then that person is said to have steady wisdom.
 
@@ -1280,9 +1280,9 @@ Sense objects turn away from the embodied one who does not feed on them — exce
 yatato hy api kaunteya puruṣasya vipaścitaḥ /  
 indriyāṇi pramāthīni haranti prasabhaṁ manaḥ //  
 
-For even of a striving, discerning person, Kaunteya, the turbulent senses seize the mind by force.
+For even of a striving, discerning person, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Kaunteya</a>, the turbulent senses seize the mind by force.
 
-**Simple Translation:** Arjuna, the senses are so powerful and turbulent that they can forcibly carry away the mind of even a wise person who is trying their best to control them.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, the senses are so powerful and turbulent that they can forcibly carry away the mind of even a wise person who is trying their best to control them.
 
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Escalates the danger: even a *vipaścita* (discerning person) actively striving for control can be overrun by the senses — a sobering qualification that prevents complacency and explains why the method must go deeper than effort alone.
 
@@ -1448,7 +1448,7 @@ indriyāṇīndriyārthebyas tasya prajñā pratiṣṭhitā //
 
 Therefore, mighty-armed one, one whose senses are completely restrained from their objects — that one's wisdom is established.
 
-**Simple Translation:** Therefore, Arjuna, one who has completely pulled back their senses from the distractions of the world has truly steady wisdom.
+**Simple Translation:** Therefore, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, one who has completely pulled back their senses from the distractions of the world has truly steady wisdom.
 
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Draws the *tasmāt* (therefore) conclusion from the preceding danger-and-image sequence: complete withdrawal of the senses from their objects is the criterion by which steady wisdom (*prajñā pratiṣṭhitā*) is recognized — closing the argument's sustained focus on sense-mastery before the section shifts to higher images.
 
@@ -1532,9 +1532,9 @@ The person who moves about having abandoned all desires, free from craving, with
 eṣā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati /  
 sthitvāsyām antakāle 'pi brahmanirvāṇam ṛcchati //  
 
-This is the state of Brahman, Pārtha. Having attained it, one is not deluded. Established in this even at the time of death, one reaches the nirvāṇa of Brahman.
+This is the state of Brahman, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>. Having attained it, one is not deluded. Established in this even at the time of death, one reaches the nirvāṇa of Brahman.
 
-**Simple Translation:** This is the state of ultimate reality, Arjuna. Once you reach it, you are never confused again. If you stay in this state, even at the moment of death, you reach eternal freedom.
+**Simple Translation:** This is the state of ultimate reality, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>. Once you reach it, you are never confused again. If you stay in this state, even at the moment of death, you reach eternal freedom.
 
 **Argument Arc:** *The Sthitaprajña (2.54–2.72)* — Closes the entire chapter by naming what the portrait has been pointing toward: *brāhmī sthiti*, the state of Brahman — both the culmination of steady wisdom and the ground from which even death cannot dislodge the liberated person, connecting the chapter's practical ethics to its ultimate metaphysical horizon.
 

@@ -19,10 +19,10 @@ arjuna uvāca |
 kiṃ tad brahma kim adhyātmaṃ kiṃ karma puruṣottama |  
 adhibhūtaṃ ca kiṃ proktam adhidaivaṃ kim ucyate || 1 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 What is that Brahman? What is the supreme self (*adhyātma*)? What is action (*karma*), O Supreme Person? What is declared to be the domain of beings (*adhibhūta*), and what is said to be the domain of the gods (*adhidaiva*)?
 
-**Simple Translation:** Arjuna asked: Krishna, what is that Absolute (Brahman)? What is the nature of the self (Adhyatma)? What is action (Karma)? What is the material world (Adhibhuta), and what are the cosmic powers (Adhidaiva)?
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> asked: <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, what is that Absolute (Brahman)? What is the nature of the self (Adhyatma)? What is action (Karma)? What is the material world (Adhibhuta), and what are the cosmic powers (Adhidaiva)?
 
 **Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Launches the chapter by firing six definitional questions in two verses, demanding that Krishna clarify the technical terms introduced at the close of Chapter 7 before Arjuna can grasp the teaching on dying with the right awareness.
 
@@ -44,7 +44,7 @@ prayāṇakāle ca kathaṃ jñeyo 'si niyatātmabhiḥ || 2 ||
 
 Who and how is the domain of sacrifice (*adhiyajña*) here in this body, O slayer of Madhu? And how are You to be known at the time of departure by those of controlled self?
 
-**Simple Translation:** Who is the Lord of contribution (Adhiyajña) in this body, and how does he live here, Krishna? And how can those who have mastered themselves know you at the moment of death?
+**Simple Translation:** Who is the Lord of contribution (Adhiyajña) in this body, and how does he live here, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>? And how can those who have mastered themselves know you at the moment of death?
 
 **Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Adds the seventh and most urgent question: who governs sacrifice within the body itself, and how can that inner lord be known at the critical moment of death? This shifts the inquiry from cosmology to practice.
 
@@ -87,7 +87,7 @@ adhiyajño 'ham evātra dehe dehabhṛtāṃ vara || 4 ||
 
 The domain of beings (*adhibhūta*) is the perishable existence; the domain of the gods (*adhidaiva*) is the cosmic spirit (*puruṣa*); and I Myself am the domain of sacrifice (*adhiyajña*) here in the body, O best of embodied beings.
 
-**Simple Translation:** The material world (Adhibhuta) is everything that changes and perishes. The cosmic spirit (Adhidaiva) is the divine person behind the powers of nature. And I am the Lord of contribution (Adhiyajña) living right here in your body, Arjuna.
+**Simple Translation:** The material world (Adhibhuta) is everything that changes and perishes. The cosmic spirit (Adhidaiva) is the divine person behind the powers of nature. And I am the Lord of contribution (Adhiyajña) living right here in your body, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Arjuna's Seven Questions (8.1–8.4)* — Completes the set of definitions by revealing the most surprising answer: the adhiyajña that governs sacrifice is Krishna himself, present within every body — resolving Arjuna's seventh question and grounding the entire ontology in an immediately personal presence.
 
@@ -127,9 +127,9 @@ And whoever, at the time of death, remembering Me alone, leaves the body and dep
 yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram |  
 taṃ tam evaiti kaunteya sadā tadbhāvabhāvitaḥ || 6 ||  
 
-Whatever state of being one remembers when abandoning the body at the end, to that very state one goes, O son of Kuntī, being always absorbed in the thought of that state.
+Whatever state of being one remembers when abandoning the body at the end, to that very state one goes, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, being always absorbed in the thought of that state.
 
-**Simple Translation:** Arjuna, whatever state of being a person is focused on when they leave their body, that is the state they will reach, because they have been absorbed in that thought their whole life.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, whatever state of being a person is focused on when they leave their body, that is the state they will reach, because they have been absorbed in that thought their whole life.
 
 **Argument Arc:** *Remember Me at Death (8.5–8.8)* — Universalizes the principle beyond Krishna-specific practice: the last thought at death is always the fruit of a lifetime's habitual focus, making the final moment a consequence of how one has lived rather than a special last-second effort.
 
@@ -171,7 +171,7 @@ Therefore, at all times remember Me and fight! With mind and intellect dedicated
 abhyāsayogayuktena cetasā nānyagāminā |  
 paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan || 8 ||  
 
-With a mind disciplined by the yoga of practice, wandering nowhere else, meditating constantly on the supreme divine Spirit (*puruṣa*), one goes to Him, O Pārtha.
+With a mind disciplined by the yoga of practice, wandering nowhere else, meditating constantly on the supreme divine Spirit (*puruṣa*), one goes to Him, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
 **Simple Translation:** By practicing constant discipline and not letting the mind wander, one reaches the supreme divine Spirit by always thinking of it.
 
@@ -307,9 +307,9 @@ Uttering the one-syllable Brahman, "Oṃ," and remembering Me, he who departs, l
 ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ |  
 tasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ || 14 ||  
 
-For the one of undivided mind who constantly remembers Me day by day, for that ever-disciplined yogi I am easily attained, O Pārtha.
+For the one of undivided mind who constantly remembers Me day by day, for that ever-disciplined yogi I am easily attained, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>.
 
-**Simple Translation:** Arjuna, for the person who constantly remembers Me with an undivided mind every day, I am very easy to reach.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, for the person who constantly remembers Me with an undivided mind every day, I am very easy to reach.
 
 **Argument Arc:** *Meditation on the Supreme (8.9–8.14)* — Closes the meditation instructions with an encouraging reversal: the elaborate deathbed practice described in 8.10–8.13 is not difficult if built on daily undivided remembrance — for such a yogi, Krishna himself becomes "easily attained," making the supreme goal accessible rather than forbidding.
 
@@ -347,9 +347,9 @@ Having come to Me, the great souls do not incur rebirth — which is an imperman
 ābrahmabhuvanāl lokāḥ punarāvartino 'rjuna |  
 mām upetya tu kaunteya punarjanma na vidyate || 16 ||  
 
-All the worlds, up to the realm of Brahmā, are subject to return (rebirth), Arjuna; but upon reaching Me, O son of Kuntī, there is no rebirth.
+All the worlds, up to the realm of Brahmā, are subject to return (rebirth), <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>; but upon reaching Me, O son of <a href="{{ site.baseurl }}/characters#kunti" class="char-link">Kuntī</a>, there is no rebirth.
 
-**Simple Translation:** Every world in the universe is subject to 'return' (cycles), Arjuna; but once you reach Me, there is no more rebirth into those cycles.
+**Simple Translation:** Every world in the universe is subject to 'return' (cycles), <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>; but once you reach Me, there is no more rebirth into those cycles.
 
 **Argument Arc:** *Beyond the Cycle (8.15–8.16)* — Extends the claim upward through the entire cosmic hierarchy: even Brahma's world, the highest peak of the created order, is subject to return — only Krishna's abode is genuinely permanent, closing off every alternative and leaving his path as the one true escape.
 
@@ -413,9 +413,9 @@ At the coming of day, all manifest things emerge from the unmanifest; at the com
 bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate |  
 rātryāgame 'vaśaḥ pārtha prabhavaty aharāgame || 19 ||  
 
-This very same multitude of beings, repeatedly coming into existence, dissolves helplessly at the coming of night, O Pārtha, and emerges again at the coming of day.
+This very same multitude of beings, repeatedly coming into existence, dissolves helplessly at the coming of night, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, and emerges again at the coming of day.
 
-**Simple Translation:** This same multitude of beings appears over and over again, and dissolves helplessly when 'Night' falls, only to emerge again when 'Day' returns, Arjuna.
+**Simple Translation:** This same multitude of beings appears over and over again, and dissolves helplessly when 'Night' falls, only to emerge again when 'Day' returns, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Cosmic Cycles (8.17–8.19)* — Emphasizes the involuntary nature of the cycle: beings do not choose to re-emerge — they are helplessly swept out at dawn and swept back at dusk, cycling without agency or awareness — the word *avaśaḥ* ("helpless") making the case that only liberation from the cycle, not achievement within it, is a genuine goal.
 
@@ -477,9 +477,9 @@ That unmanifest is called the imperishable; they call it the supreme goal. That 
 puruṣaḥ sa paraḥ pārtha bhaktyā labhyas tv ananyayā |  
 yasyāntaḥsthāni bhūtāni yena sarvam idaṃ tatam || 22 ||  
 
-That is the supreme Spirit (*puruṣa*), O Pārtha, to be attained by undivided devotion, within whom all beings abide, and by whom all this is pervaded.
+That is the supreme Spirit (*puruṣa*), O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, to be attained by undivided devotion, within whom all beings abide, and by whom all this is pervaded.
 
-**Simple Translation:** That supreme Spirit, Arjuna, can be reached through undivided devotion. All beings live within it, and it spreads through everything.
+**Simple Translation:** That supreme Spirit, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, can be reached through undivided devotion. All beings live within it, and it spreads through everything.
 
 **Argument Arc:** *The Imperishable Beyond (8.20–8.22)* — Closes the cosmic description by naming the access route: undivided devotion (*ananyayā bhakti*) is the method by which the boundless Supreme — within whom all beings dwell — can be reached, reconnecting the grand ontology back to the personal practice of chapters 8.5–8.14.
 
@@ -581,9 +581,9 @@ For these two paths of the world, the bright and the dark, are considered eterna
 naite sṛtī pārtha jānan yogī muhyati kaścana |  
 tasmāt sarveṣu kāleṣu yogayukto bhavārjuna || 27 ||  
 
-Knowing these two paths, O Pārtha, no yogi is deluded. Therefore, at all times, be disciplined in yoga, Arjuna!
+Knowing these two paths, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, no yogi is deluded. Therefore, at all times, be disciplined in yoga, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>!
 
-**Simple Translation:** Arjuna, no Yogi who truly understands these two paths is ever confused again. Therefore, stay disciplined in Yoga at all times!
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, no Yogi who truly understands these two paths is ever confused again. Therefore, stay disciplined in Yoga at all times!
 
 **Argument Arc:** *Two Paths After Death (8.23–8.27)* — Draws the practical conclusion: the yogi who understands both paths is never deluded about the meaning of any departure or transition — and therefore should remain steadfast in yoga at all times, circling back to the chapter's core imperative of unbroken practice.
 

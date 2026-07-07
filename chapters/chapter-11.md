@@ -19,10 +19,10 @@ arjuna uvāca |
 madanugrahāya paramaṃ guhyam adhyātmasaṃjñitam |  
 yat tvayoktaṃ vacas tena moho 'yaṃ vigato mama || 1 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 Out of compassion for me, the supreme secret known as the discourse on the supreme self (*adhyātma*) which You have spoken — by that, this delusion of mine has departed.
 
-**Simple Translation:** Arjuna said: Out of your kindness toward me, You have shared the supreme secret of the Self. After hearing your words, my confusion has completely disappeared.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said: Out of your kindness toward me, You have shared the supreme secret of the Self. After hearing your words, my confusion has completely disappeared.
 
 **Argument Arc:** *Arjuna Requests the Vision (11.1–11.4)* — Opens the section by anchoring Arjuna's credibility as a prepared student: he reports that the prior teaching has already dissolved his confusion, establishing the intellectual ground from which he can legitimately make a new request.
 
@@ -42,7 +42,7 @@ tvattaḥ kamalapatrākṣa māhātmyam api cāvyayam || 2 ||
 
 For the origin and dissolution of beings have been heard by me in detail from You, O lotus-eyed one, as well as Your imperishable greatness.
 
-**Simple Translation:** O lotus-eyed Krishna, I have heard from You in great detail about how all beings are created and how they dissolve, as well as Your own eternal greatness.
+**Simple Translation:** O lotus-eyed <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, I have heard from You in great detail about how all beings are created and how they dissolve, as well as Your own eternal greatness.
 
 **Argument Arc:** *Arjuna Requests the Vision (11.1–11.4)* — Demonstrates Arjuna's theological fluency: he summarizes what he has absorbed about cosmic origin, dissolution, and divine greatness, showing that his forthcoming request emerges from understanding, not mere curiosity.
 
@@ -103,9 +103,9 @@ paśya me pārtha rūpāṇi śataśo 'tha sahasraśaḥ |
 nānāvidhāni divyāni nānāvarṇākṛtīni ca || 5 ||  
 
 The Blessed Lord said:
-Behold My forms, O Pārtha, by the hundreds and by the thousands, of various kinds, divine, and of various colors and shapes.
+Behold My forms, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a>, by the hundreds and by the thousands, of various kinds, divine, and of various colors and shapes.
 
-**Simple Translation:** The Blessed Lord said: Arjuna, look at My hundreds and thousands of different forms—divine, and of every possible color and shape.
+**Simple Translation:** The Blessed Lord said: <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, look at My hundreds and thousands of different forms—divine, and of every possible color and shape.
 
 **Argument Arc:** *Krishna Grants Divine Sight (11.5–11.8)* — Launches the theophany with a direct imperative: "behold!" — not an invitation but a command, signaling that what follows will shatter the limits of ordinary perception before the special sight has even been granted.
 
@@ -127,7 +127,7 @@ bahūny adṛṣṭapūrvāṇi paśyāścaryāṇi bhārata || 6 ||
 
 Behold the Ādityas, the Vasus, the Rudras, the two Aśvins, and also the Maruts. Behold many marvels not seen before, O Bhārata.
 
-**Simple Translation:** Look at the various gods of light, power, and nature. Look at all these wonders that have never been seen before, Arjuna.
+**Simple Translation:** Look at the various gods of light, power, and nature. Look at all these wonders that have never been seen before, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Krishna Grants Divine Sight (11.5–11.8)* — Escalates the scope from aesthetic variety to cosmological completeness: the entire pantheon of cosmic powers is enumerated, then surpassed by "wonders never seen before," escalating toward the claim that this form exceeds all prior religious imagination.
 
@@ -145,7 +145,7 @@ Behold the Ādityas, the Vasus, the Rudras, the two Aśvins, and also the Maruts
 ihaikasthaṃ jagat kṛtsnaṃ paśyādya sacarācaram |  
 mama dehe guḍākeśa yac cānyad draṣṭum icchasi || 7 ||  
 
-Behold here today the entire universe, moving and unmoving, standing in one place in My body, O Guḍākeśa, and whatever else you desire to see.
+Behold here today the entire universe, moving and unmoving, standing in one place in My body, O <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Guḍākeśa</a>, and whatever else you desire to see.
 
 **Simple Translation:** Behold the entire universe—everything that moves and everything that stays still—all existing right here in one place within My body, and whatever else you wish to see.
 
@@ -189,10 +189,10 @@ sañjaya uvāca |
 evam uktvā tato rājan mahāyogeśvaro hariḥ |  
 darśayāmāsa pārthāya paramaṃ rūpam aiśvaram || 9 ||  
 
-Sañjaya said:
-Having spoken thus, O King, the great Lord of Yoga, Hari (Kṛṣṇa), then showed to Pārtha the supreme sovereign form:
+<a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sañjaya</a> said:
+Having spoken thus, O King, the great Lord of Yoga, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Hari</a> (<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>), then showed to <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Pārtha</a> the supreme sovereign form:
 
-**Simple Translation:** Sanjaya said: O King, after saying this, Krishna, the great Lord of Yoga, showed Arjuna His supreme, sovereign form.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sanjaya</a> said: O King, after saying this, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, the great Lord of Yoga, showed <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> His supreme, sovereign form.
 
 **Argument Arc:** *The Vision Begins (11.9–11.14)* — Shifts the narrator from Krishna to Sanjaya, reframing the event for an outside audience: the vision is now something reported, giving the cosmic revelation the weight of a witnessed historical fact rather than a private mystical claim.
 
@@ -270,9 +270,9 @@ If the light of a thousand suns were to rise simultaneously in the sky, that mig
 tatraikasthaṃ jagat kṛtsnaṃ pravibhaktam anekadhā |  
 apaśyad devadevasya śarīre pāṇḍavas tadā || 13 ||  
 
-There the son of Pāṇḍu beheld the entire universe, divided in manifold ways, standing together in one place in the body of the God of gods.
+There the son of <a href="{{ site.baseurl }}/characters#pandu" class="char-link">Pāṇḍu</a> beheld the entire universe, divided in manifold ways, standing together in one place in the body of the God of gods.
 
-**Simple Translation:** Right there in the body of the God of gods, Arjuna saw the entire universe with all its many divisions, all standing together as one.
+**Simple Translation:** Right there in the body of the God of gods, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> saw the entire universe with all its many divisions, all standing together as one.
 
 **Argument Arc:** *The Vision Begins (11.9–11.14)* — Delivers the central paradox of the vision: the entire universe in all its multiplicity (*pravibhaktam anekadhā*) stands united in a single divine body — plurality and unity perceived simultaneously, not sequentially.
 
@@ -290,9 +290,9 @@ There the son of Pāṇḍu beheld the entire universe, divided in manifold ways
 tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ |  
 praṇamya śirasā devaṃ kṛtāñjalir abhāṣata || 14 ||  
 
-Then, filled with amazement, his hair standing on end, Dhanañjaya (Arjuna) bowed his head to the deity, and with joined palms, he spoke.
+Then, filled with amazement, his hair standing on end, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Dhanañjaya</a> (<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>) bowed his head to the deity, and with joined palms, he spoke.
 
-**Simple Translation:** Filled with amazement and with his hair standing on end, Arjuna bowed his head and spoke with joined palms.
+**Simple Translation:** Filled with amazement and with his hair standing on end, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> bowed his head and spoke with joined palms.
 
 **Argument Arc:** *The Vision Begins (11.9–11.14)* — Closes Sanjaya's narration by recording Arjuna's involuntary physiological response — hair standing on end, trembling, prostration — demonstrating that the vision has penetrated beyond the intellect into the body itself before Arjuna has spoken a word.
 
@@ -316,10 +316,10 @@ sarvāṃs tathā bhūtaviśeṣasaṅghān |
 brahmāṇam īśaṃ kamalāsanastham  
 ṛṣīṃś ca sarvān uragāṃś ca divyān || 15 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 I see the gods in Your body, O God, and all the multitudes of various beings; Lord Brahmā seated on the lotus, and all the seers, and the divine serpents.
 
-**Simple Translation:** Arjuna said: O God, I see all the gods and all the different types of beings within Your body. I see the Creator, the seers, and the divine serpents.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said: O God, I see all the gods and all the different types of beings within Your body. I see the Creator, the seers, and the divine serpents.
 
 **Argument Arc:** *Arjuna Describes the Vision (11.15–11.31)* — Opens Arjuna's testimony by cataloguing the hierarchical contents of the form — gods, seers, the Creator, divine beings — establishing that the vision encompasses the entire vertical structure of cosmic existence within a single field of perception.
 
@@ -535,9 +535,9 @@ vyāttānanaṃ dīptaviśālanetram |
 dṛṣṭvā hi tvāṃ pravyathitāntarātmā  
 dhṛtiṃ na vindāmi śamaṃ ca viṣṇo || 24 ||  
 
-Indeed, seeing You touching the sky, blazing, with many colors, with mouths wide open, with huge blazing eyes, my inner self is trembling, and I find no courage nor peace, O Viṣṇu.
+Indeed, seeing You touching the sky, blazing, with many colors, with mouths wide open, with huge blazing eyes, my inner self is trembling, and I find no courage nor peace, O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Viṣṇu</a>.
 
-**Simple Translation:** Seeing You touching the sky, shining with many colors and mouths wide open, I am terrified. I have lost my courage and my peace, Krishna.
+**Simple Translation:** Seeing You touching the sky, shining with many colors and mouths wide open, I am terrified. I have lost my courage and my peace, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>.
 
 **Argument Arc:** *Arjuna Describes the Vision (11.15–11.31)* — Reports the collapse of Arjuna's inner composure: the form now reaches the sky and his inner self (*antarātmā*) trembles, revealing that the vision has penetrated the witnessing subject — courage and peace both dissolve, leaving Arjuna without any psychological refuge.
 
@@ -583,9 +583,9 @@ sarve sahaivāvanipālasaṅghaiḥ |
 bhīṣmo droṇaḥ sūtaputras tathāsau  
 sahāsmadīyair api yodhamukhyaiḥ || 26 ||  
 
-And all these sons of Dhṛtarāṣṭra, together with the multitudes of kings, Bhīṣma, Droṇa, and that son of a charioteer (Karṇa), along with our own chief warriors,
+And all these sons of <a href="{{ site.baseurl }}/characters#dhritarashtra" class="char-link">Dhṛtarāṣṭra</a>, together with the multitudes of kings, <a href="{{ site.baseurl }}/characters#bhishma" class="char-link">Bhīṣma</a>, <a href="{{ site.baseurl }}/characters#drona" class="char-link">Droṇa</a>, and that son of a charioteer (<a href="{{ site.baseurl }}/characters#karna" class="char-link">Karṇa</a>), along with our own chief warriors,
 
-**Simple Translation:** All these sons of Dhritarashtra, along with many other kings and our own great warriors like Bhishma, Drona, and Karna...
+**Simple Translation:** All these sons of <a href="{{ site.baseurl }}/characters#dhritarashtra" class="char-link">Dhritarashtra</a>, along with many other kings and our own great warriors like <a href="{{ site.baseurl }}/characters#bhishma" class="char-link">Bhishma</a>, <a href="{{ site.baseurl }}/characters#drona" class="char-link">Drona</a>, and <a href="{{ site.baseurl }}/characters#karna" class="char-link">Karna</a>...
 
 **Argument Arc:** *Arjuna Describes the Vision (11.15–11.31)* — Anchors the cosmic abstraction in personal stakes: Arjuna now recognizes specific individuals — the very warriors of Kurukṣetra — rushing toward the mouths, making the vision suddenly and devastatingly personal rather than cosmological.
 
@@ -681,9 +681,9 @@ lokān samagrān vadanair jvaladbhiḥ |
 tejobhir āpūrya jagat samagraṃ  
 bhāsas tavogrāḥ pratapanti viṣṇo || 30 ||  
 
-You lick Your lips, devouring all the worlds from every side with Your blazing mouths. Filling the entire universe with splendor, Your terrifying rays scorch it, O Viṣṇu.
+You lick Your lips, devouring all the worlds from every side with Your blazing mouths. Filling the entire universe with splendor, Your terrifying rays scorch it, O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Viṣṇu</a>.
 
-**Simple Translation:** You are devouring all these worlds from every side with Your blazing mouths. Your intense rays are heating up and scorching the entire universe, Krishna.
+**Simple Translation:** You are devouring all these worlds from every side with Your blazing mouths. Your intense rays are heating up and scorching the entire universe, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>.
 
 **Argument Arc:** *Arjuna Describes the Vision (11.15–11.31)* — Reaches the descriptive climax: Arjuna witnesses the active devouring of all worlds simultaneously from every direction, the consuming process now total and ongoing — this is not a past event or future threat but the present operation of cosmic time.
 
@@ -762,7 +762,7 @@ nimittamātraṃ bhava savyasācin || 33 ||
 
 Therefore, arise! Win glory! Having conquered the enemies, enjoy a prosperous kingdom. By Me alone they have already been killed; be merely the instrument, O ambidextrous archer!
 
-**Simple Translation:** Therefore, stand up and win glory! Defeat your enemies and enjoy a prosperous kingdom. I have already killed them; you should be just the instrument, Arjuna!
+**Simple Translation:** Therefore, stand up and win glory! Defeat your enemies and enjoy a prosperous kingdom. I have already killed them; you should be just the instrument, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>!
 
 **Argument Arc:** *"I Am Time" (11.32–11.34)* — Draws the practical imperative from the theological declaration: because Time has already determined the outcome, Arjuna's hesitation is not moral caution but ontological confusion — he is urged to stand and act as the instrument (*nimitta*) of a process already ordained.
 
@@ -788,9 +788,9 @@ karṇaṃ tathānyān api yodhavīrān |
 mayā hatāṃs tvaṃ jahi mā vyathiṣṭhā  
 yudhyasva jetāsi raṇe sapatnān || 34 ||  
 
-Droṇa, Bhīṣma, Jayadratha, Karṇa, and also other warrior heroes, already killed by Me, you must kill. Do not tremble! Fight! You shall conquer your rivals in battle.
+<a href="{{ site.baseurl }}/characters#drona" class="char-link">Droṇa</a>, <a href="{{ site.baseurl }}/characters#bhishma" class="char-link">Bhīṣma</a>, <a href="{{ site.baseurl }}/characters#jayadratha" class="char-link">Jayadratha</a>, <a href="{{ site.baseurl }}/characters#karna" class="char-link">Karṇa</a>, and also other warrior heroes, already killed by Me, you must kill. Do not tremble! Fight! You shall conquer your rivals in battle.
 
-**Simple Translation:** Drona, Bhishma, Jayadratha, Karna, and all these other heroes have already been killed by Me. Do not be afraid! Fight, and you will certainly win!
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#drona" class="char-link">Drona</a>, <a href="{{ site.baseurl }}/characters#bhishma" class="char-link">Bhishma</a>, <a href="{{ site.baseurl }}/characters#jayadratha" class="char-link">Jayadratha</a>, <a href="{{ site.baseurl }}/characters#karna" class="char-link">Karna</a>, and all these other heroes have already been killed by Me. Do not be afraid! Fight, and you will certainly win!
 
 **Argument Arc:** *"I Am Time" (11.32–11.34)* — Names the specific enemies Arjuna dreads, declaring each already slain by Time, and commands action without fear — translating the cosmic abstraction of 11.32 into a direct personal mandate that resolves the paralysis of Chapters 1–2.
 
@@ -814,10 +814,10 @@ kṛtāñjalir vepamānaḥ kirīṭī |
 namaskṛtvā bhūya evāha kṛṣṇaṃ  
 sagadgadaṃ bhītabhītaḥ praṇamya || 35 ||  
 
-Sañjaya said:
-Having heard this speech of Keśava, the crowned one (Arjuna), trembling and with joined palms, bowing down, spoke again to Kṛṣṇa in a faltering voice, terrified and bowing low.
+<a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sañjaya</a> said:
+Having heard this speech of <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Keśava</a>, the crowned one (<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>), trembling and with joined palms, bowing down, spoke again to <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a> in a faltering voice, terrified and bowing low.
 
-**Simple Translation:** Sanjaya said: Hearing these words, Arjuna trembled and bowed down. With a shaking voice and filled with fear, he spoke to Krishna again.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sanjaya</a> said: Hearing these words, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> trembled and bowed down. With a shaking voice and filled with fear, he spoke to <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a> again.
 
 **Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Reintroduces Sanjaya's narrating voice to record Arjuna's physical and vocal breakdown before he can speak: trembling, faltering voice, bowing low — the emotional state is documented externally before Arjuna himself attempts to articulate it.
 
@@ -841,10 +841,10 @@ jagat prahṛṣyaty anurajyate ca |
 rakṣāṃsi bhītāni diśo dravanti  
 sarve namasyanti ca siddhasaṅghāḥ || 36 ||  
 
-Arjuna said:
-Rightly, O Hṛṣīkeśa, the universe rejoices and finds delight in Your glorification. Terrified Rākṣasas flee in all directions, and all the multitudes of perfected beings bow down to You.
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
+Rightly, O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Hṛṣīkeśa</a>, the universe rejoices and finds delight in Your glorification. Terrified Rākṣasas flee in all directions, and all the multitudes of perfected beings bow down to You.
 
-**Simple Translation:** Arjuna said: It is only right, Krishna, that the universe rejoices in Your name. Evil forces flee in fear, while perfected beings bow to You.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said: It is only right, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a>, that the universe rejoices in Your name. Evil forces flee in fear, while perfected beings bow to You.
 
 **Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Opens Arjuna's hymn by affirming that the universe's reactions — rejoicing, fear, reverence — are all fitting responses to this form, establishing an ethical and cosmic frame for his own subsequent terror rather than merely reporting it.
 
@@ -962,9 +962,9 @@ he kṛṣṇa he yādava he sakheti |
 ajānatā mahimānaṃ tavedaṃ  
 mayā pramādāt praṇayena vāpi || 41 ||  
 
-Thinking of You merely as a friend, whatever I said rashly — "O Kṛṣṇa! O Yādava! O friend!" — not knowing this greatness of Yours, either through carelessness or out of affection;
+Thinking of You merely as a friend, whatever I said rashly — "O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>! O <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Yādava</a>! O friend!" — not knowing this greatness of Yours, either through carelessness or out of affection;
 
-**Simple Translation:** Thinking of You only as a friend, I have rashly called You 'Kṛṣṇa,' 'Yādava,' and 'Friend,' not knowing Your greatness, either because of my negligence or my affection.
+**Simple Translation:** Thinking of You only as a friend, I have rashly called You '<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>,' '<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Yādava</a>,' and 'Friend,' not knowing Your greatness, either because of my negligence or my affection.
 
 **Argument Arc:** *Arjuna's Terror and Plea (11.35–11.46)* — Pivots from cosmic praise to intimate confession: Arjuna recalls the casual familiarity with which he addressed Krishna as friend, and the revelation of the cosmic form now renders that casualness a kind of sacrilege — the contrast between former ease and present terror is the heart of his apology.
 
@@ -1113,7 +1113,7 @@ tejomayaṃ viśvam anantam ādyaṃ
 yan me tvadanyena na dṛṣṭapūrvam || 47 ||  
 
 The Blessed Lord said:
-By My grace, Arjuna, this supreme form has been shown to you by My own mystic power — luminous, universal, infinite, primeval — which of Mine has not been seen before by anyone other than you.
+By My grace, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, this supreme form has been shown to you by My own mystic power — luminous, universal, infinite, primeval — which of Mine has not been seen before by anyone other than you.
 
 **Simple Translation:** The Blessed Lord said: By My grace and through My own power, I have shown you this supreme, universal, and infinite form which no one else has ever seen.
 
@@ -1141,7 +1141,7 @@ draṣṭuṃ tvadanyena kurupravīra || 48 ||
 
 Not by the Vedas, nor by sacrifices, nor by study, nor by gifts, nor by rituals, nor by severe austerities can I be seen in such a form in the human world by anyone other than you, O foremost hero of the Kurus.
 
-**Simple Translation:** Arjuna, not through the study of scriptures, nor rituals, nor charity, nor difficult disciplines can I be seen in this form by anyone else in the human world.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, not through the study of scriptures, nor rituals, nor charity, nor difficult disciplines can I be seen in this form by anyone else in the human world.
 
 **Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Establishes the exclusivity of what Arjuna has just witnessed: no accumulation of orthodox religious effort — scriptural study, ritual, charity, austerity — could have produced this vision for anyone else, making Arjuna's experience an unrepeatable act of grace rather than an earned achievement.
 
@@ -1189,10 +1189,10 @@ svakaṃ rūpaṃ darśayāmāsa bhūyaḥ |
 āśvāsayāmāsa ca bhītam enaṃ  
 bhūtvā punaḥ saumyavapur mahātmā || 50 ||  
 
-Sañjaya said:
-Having spoken thus to Arjuna, Vāsudeva (Kṛṣṇa) showed his own [four-armed] form again. And the Great Soul comforted him who was terrified, having assumed a gentle body once more.
+<a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sañjaya</a> said:
+Having spoken thus to <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Vāsudeva</a> (<a href="{{ site.baseurl }}/characters#krishna" class="char-link">Kṛṣṇa</a>) showed his own [four-armed] form again. And the Great Soul comforted him who was terrified, having assumed a gentle body once more.
 
-**Simple Translation:** Sanjaya said: After saying this, Krishna showed His own gentle form again, comforting the terrified Arjuna.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#sanjaya" class="char-link">Sanjaya</a> said: After saying this, <a href="{{ site.baseurl }}/characters#krishna" class="char-link">Krishna</a> showed His own gentle form again, comforting the terrified <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Marks the structural pivot of the section: Sanjaya's narrating voice records the actual withdrawal of the cosmic form and Krishna's return to the gentle human appearance, confirming that the vision is reversible and that the teacher chooses his form in response to the student's capacity.
 
@@ -1212,10 +1212,10 @@ arjuna uvāca |
 dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana |  
 idānīm asmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ || 51 ||  
 
-Arjuna said:
+<a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said:
 Seeing this gentle human form of Yours, O agitator of men, now I have become composed in mind and restored to my normal nature.
 
-**Simple Translation:** Arjuna said: Seeing this gentle human form of Yours, I have now become calm and restored to my normal nature.
+**Simple Translation:** <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a> said: Seeing this gentle human form of Yours, I have now become calm and restored to my normal nature.
 
 **Argument Arc:** *Krishna Resumes His Form (11.47–11.51)* — Registers Arjuna's own testimony of his return to composure: the cosmic vision has been fully received and survived, and Arjuna's recovery confirms that the encounter with the infinite does not destroy the human witness — it grounds him.
 
@@ -1278,9 +1278,9 @@ Not by the Vedas, nor by austerity, nor by charity, nor by sacrifice can I be se
 bhaktyā tv ananyayā śakya aham evaṃvidho 'rjuna |  
 jñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa || 54 ||  
 
-But by undivided devotion (*bhakti*) can I be known in this way, and seen in truth, and entered into, Arjuna, O scorcher of foes.
+But by undivided devotion (*bhakti*) can I be known in this way, and seen in truth, and entered into, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, O scorcher of foes.
 
-**Simple Translation:** But through undivided devotion (Bhakti), Arjuna, I can be truly known, seen, and entered into.
+**Simple Translation:** But through undivided devotion (Bhakti), <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>, I can be truly known, seen, and entered into.
 
 **Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Supplies the single answer to the logical problem raised in 11.53: what no ritual or discipline can achieve, *ananya bhakti* — undivided, exclusive devotion — accomplishes, and it accomplishes it completely: not merely seeing Krishna but knowing him in truth and entering into him.
 
@@ -1300,9 +1300,9 @@ But by undivided devotion (*bhakti*) can I be known in this way, and seen in tru
 matkarmakṛn matparamo madbhaktaḥ saṅgavarjitaḥ |  
 nirvairaḥ sarvabhūteṣu yaḥ sa mām eti pāṇḍava || 55 ||  
 
-He who does My work, who holds Me as supreme, who is My devotee, freed from attachment, without enmity toward any being — he comes to Me, O son of Pāṇḍu.
+He who does My work, who holds Me as supreme, who is My devotee, freed from attachment, without enmity toward any being — he comes to Me, O son of <a href="{{ site.baseurl }}/characters#pandu" class="char-link">Pāṇḍu</a>.
 
-**Simple Translation:** The one who works for Me, considers Me the highest, is devoted to Me, is free from attachment, and holds no hatred toward any living being — that person reaches Me, Arjuna.
+**Simple Translation:** The one who works for Me, considers Me the highest, is devoted to Me, is free from attachment, and holds no hatred toward any living being — that person reaches Me, <a href="{{ site.baseurl }}/characters#arjuna" class="char-link">Arjuna</a>.
 
 **Argument Arc:** *Devotion Is the Only Way (11.52–11.55)* — Closes the chapter by translating the abstract principle of bhakti into five concrete behavioral qualities — purposeful action, supreme priority, devotion, non-attachment, and absence of enmity — showing that the path opened by the cosmic vision is not a mystical event but a lived orientation anyone can embody.
 

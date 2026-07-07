@@ -710,3 +710,68 @@ tr:last-child td {
     text-decoration: none;
   }
 }
+
+/* Character X-Ray popup */
+.char-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.55);
+  z-index: 3000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.char-popup {
+  position: relative;
+  width: 100%;
+  max-width: 480px;
+  max-height: 85vh;
+  overflow-y: auto;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  padding: 1.5rem;
+  animation: char-popup-in 0.15s ease-out;
+
+  .character-card-head { padding-right: 1.5rem; }
+}
+
+@keyframes char-popup-in {
+  from { opacity: 0; transform: scale(0.97) translateY(4px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.char-popup-close {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--text-muted);
+  padding: 0.25rem;
+  border-radius: 4px;
+
+  &:hover {
+    color: var(--text-main);
+  }
+}
+
+.char-popup-full-link {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-size: 13px;
+  font-weight: 600;
+}

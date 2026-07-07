@@ -1,3 +1,8 @@
+---
+layout: default
+title: Methodology
+---
+
 # Translation Methodology
 
 ## Source Text

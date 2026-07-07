@@ -1,3 +1,6 @@
+---
+layout: null
+---
 document.addEventListener('DOMContentLoaded', () => {
   // Sidebar Logic
   const hamburger = document.getElementById('hamburger');
@@ -36,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
         currentCard = document.createElement('div');
         currentCard.className = 'verse-card';
         el.parentNode.insertBefore(currentCard, el);
-        
+
         const ref = document.createElement('span');
         ref.className = 'verse-ref';
         ref.textContent = el.textContent;
@@ -75,7 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (/[\u0900-\u097F]/.test(text)) {
               el.className = 'verse-sanskrit';
               currentCard.appendChild(createLabel('Sanskrit'));
-            } 
+            }
             // IAST often has | or // for verse markers, or the word uvāca
             else if (text.includes('|') || text.includes('//') || /uvāca/i.test(text)) {
               el.className = 'verse-iast';
@@ -132,4 +135,136 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentTheme = document.documentElement.getAttribute('data-theme');
     themeToggle.checked = currentTheme === 'dark';
   }
+
+  // Character "X-Ray" Popup
+  // Intercepts clicks on inline character-mention links (added to verse
+  // text) and shows their bio in a closable modal instead of navigating
+  // to /characters. Falls back to normal navigation if the character data
+  // can't be loaded, or if the click was a modified click (new tab, etc).
+  const BASEURL = '{{ site.baseurl }}';
+  let charDataPromise = null;
+  const getCharacterData = () => {
+    if (!charDataPromise) {
+      charDataPromise = fetch(BASEURL + '/characters.json').then(res => {
+        if (!res.ok) throw new Error('characters.json fetch failed');
+        return res.json();
+      });
+    }
+    return charDataPromise;
+  };
+
+  let popupEls = null;
+  const buildPopup = () => {
+    const popupOverlay = document.createElement('div');
+    popupOverlay.className = 'char-popup-overlay';
+    popupOverlay.setAttribute('hidden', '');
+
+    const dialog = document.createElement('div');
+    dialog.className = 'char-popup';
+    dialog.setAttribute('role', 'dialog');
+    dialog.setAttribute('aria-modal', 'true');
+
+    const closeBtn = document.createElement('button');
+    closeBtn.className = 'char-popup-close';
+    closeBtn.setAttribute('aria-label', 'Close');
+    closeBtn.innerHTML = '&times;';
+
+    const body = document.createElement('div');
+    body.className = 'char-popup-body';
+
+    dialog.appendChild(closeBtn);
+    dialog.appendChild(body);
+    popupOverlay.appendChild(dialog);
+    document.body.appendChild(popupOverlay);
+
+    let lastFocused = null;
+
+    const close = () => {
+      popupOverlay.setAttribute('hidden', '');
+      document.body.style.overflow = '';
+      if (lastFocused) lastFocused.focus();
+    };
+
+    popupOverlay.addEventListener('click', (e) => {
+      if (e.target === popupOverlay) close();
+    });
+    closeBtn.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !popupOverlay.hasAttribute('hidden')) close();
+    });
+
+    const open = (triggerEl) => {
+      lastFocused = triggerEl;
+      popupOverlay.removeAttribute('hidden');
+      document.body.style.overflow = 'hidden';
+      closeBtn.focus();
+    };
+
+    return { popupOverlay, body, open, close };
+  };
+
+  const verseLink = (vref) => {
+    const [chPadded, vs] = vref.split(':');
+    const chNum = parseInt(chPadded, 10);
+    const anchor = String(chNum) + vs;
+    return {
+      href: `${BASEURL}/chapters/chapter-${chPadded}#${anchor}`,
+      label: `${chNum}.${vs}`,
+    };
+  };
+
+  const escapeHtml = (str) => String(str).replace(/[&<>"']/g, (c) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+  }[c]));
+
+  const renderCharacter = (c) => {
+    const epithets = (c.epithets || []).filter(Boolean);
+    const verses = c.verses || [];
+    return `
+      <div class="character-card-head">
+        <h4>${escapeHtml(c.name)}</h4>
+        <span class="character-iast">${escapeHtml(c.iast)}</span>
+      </div>
+      <p class="character-role">${escapeHtml(c.role)}</p>
+      <p class="character-bio">${escapeHtml(c.bio).trim()}</p>
+      ${c.note ? `<p class="character-note">${escapeHtml(c.note)}</p>` : ''}
+      ${epithets.length ? `<div class="character-epithets">${epithets.map(e => `<span class="epithet-tag">${escapeHtml(e)}</span>`).join('')}</div>` : ''}
+      ${verses.length ? `
+        <div class="character-verses">
+          <span class="verses-label">Appears at</span>
+          ${verses.map(v => {
+            const { href, label } = verseLink(v);
+            return `<a class="verse-chip" href="${href}">${label}</a>`;
+          }).join('')}
+        </div>
+      ` : `<p class="character-context-note">Not named directly in the Gītā's text.</p>`}
+      <a class="char-popup-full-link" href="${BASEURL}/characters#${c.id}">View full profile &rarr;</a>
+    `;
+  };
+
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest('.char-link');
+    if (!link) return;
+    // Let modified clicks (new tab, etc.) and non-primary buttons behave normally.
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+
+    const href = link.getAttribute('href') || '';
+    const id = href.split('#')[1];
+    if (!id) return;
+
+    e.preventDefault();
+
+    getCharacterData().then(data => {
+      const c = Array.isArray(data) ? data.find(ch => ch.id === id) : null;
+      if (!c) {
+        window.location.href = href;
+        return;
+      }
+      if (!popupEls) popupEls = buildPopup();
+      popupEls.body.innerHTML = renderCharacter(c);
+      popupEls.open(link);
+    }).catch(() => {
+      window.location.href = href;
+    });
+  });
 });

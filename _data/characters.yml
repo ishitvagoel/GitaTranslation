@@ -1,0 +1,551 @@
+# Character data for the "Who's Who" page (characters.md).
+# verses: "CH:V" strings, chapter zero-padded to 2 digits (e.g. "01:21").
+# textual: true if the person's name or patronymic literally appears in the
+#          Gita's own text; false if included only as family-tree context
+#          (e.g. Pandu's wives), drawn from the wider Mahabharata tradition.
+
+- id: krishna
+  name: Krishna
+  iast: Kṛṣṇa
+  group: protagonists
+  epithets: [Keśava, Hṛṣīkeśa, Vāsudeva, Puruṣottama, Janārdana, Madhusūdana, Viṣṇu, Govinda, Mādhava, Yādava, Hari, Vārṣṇeya, Acyuta]
+  role: Arjuna's charioteer and the speaker of nearly the entire teaching.
+  bio: >
+    A prince of the Vṛṣṇi/Yādava clan and Arjuna's cousin by marriage (his sister
+    Subhadrā is Arjuna's wife), Krishna takes the field as Arjuna's charioteer.
+    When Arjuna collapses in grief at the sight of his own kin arrayed for battle,
+    Krishna's response becomes the Bhagavad Gītā itself. He is addressed by more
+    names than any other figure in the text — a mark of the many roles the poem
+    asks him to occupy: charioteer, friend, teacher, and, from Chapter 11 on,
+    the universal form of the absolute itself.
+  textual: true
+  verses: ["01:14", "01:24"]
+
+- id: arjuna
+  name: Arjuna
+  iast: Arjuna
+  group: protagonists
+  epithets: [Pārtha, Bhārata, Pāṇḍava, Guḍākeśa, Dhanañjaya, Kaunteya]
+  role: The Pāṇḍava hero whose crisis of will opens the entire dialogue.
+  bio: >
+    Third of the five Pāṇḍava brothers and the finest archer on the field,
+    Arjuna asks Krishna to station their chariot between the two armies for one
+    last look — and is undone by what he sees: teachers, elders, cousins,
+    and friends on both sides. His refusal to fight in Chapter 1 is the
+    occasion for everything that follows. He does not speak again as "Arjuna"
+    in his own name after 1.21 — the text addresses him almost entirely by
+    epithet from that point on.
+  textual: true
+  verses: ["01:21", "01:28"]
+
+- id: yudhishthira
+  name: Yudhishthira
+  iast: Yudhiṣṭhira
+  group: pandavas
+  epithets: []
+  role: Eldest of the five Pāṇḍava brothers; the rightful king.
+  bio: >
+    Named only once, in the roster of conches at the start of Chapter 1 —
+    he blows the conch Anantavijaya. His claim to the throne, disputed by
+    Duryodhana, is the political root of the war the Gītā's dialogue
+    interrupts.
+  textual: true
+  verses: ["01:16"]
+
+- id: bhima
+  name: Bhima
+  iast: Bhīma
+  group: pandavas
+  epithets: []
+  role: Second Pāṇḍava brother, renowned for strength.
+  bio: >
+    Called out by name twice in Chapter 1's army survey — once as a byword
+    for fighting skill ("equal in battle to Bhīma and Arjuna," 1.4) and once
+    blowing his conch Pauṇḍra (1.15).
+  textual: true
+  verses: ["01:4", "01:15"]
+
+- id: nakula
+  name: Nakula
+  iast: Nakula
+  group: pandavas
+  epithets: []
+  role: Fourth Pāṇḍava brother, one of the twins.
+  bio: >
+    Named alongside his twin Sahadeva blowing the conches Sughoṣa and
+    Maṇipuṣpaka in the roll-call that opens the battle (1.16).
+  textual: true
+  verses: ["01:16"]
+
+- id: sahadeva
+  name: Sahadeva
+  iast: Sahadeva
+  group: pandavas
+  epithets: []
+  role: Fifth Pāṇḍava brother, one of the twins.
+  bio: >
+    Named alongside his twin Nakula in the same conch-roster verse (1.16).
+  textual: true
+  verses: ["01:16"]
+
+- id: duryodhana
+  name: Duryodhana
+  iast: Duryodhana
+  group: kauravas
+  epithets: []
+  role: Eldest of the hundred Kaurava brothers; commands the opposing army.
+  bio: >
+    Opens the chapter's action by approaching his teacher Droṇa for a
+    tactical assessment and then delivers the speech that names most of the
+    Kaurava-side warriors (1.2–1.11). He does not reappear as a speaking
+    character after Chapter 1.
+  textual: true
+  verses: ["01:2"]
+
+- id: vikarna
+  name: Vikarna
+  iast: Vikarṇa
+  group: kauravas
+  epithets: []
+  role: One of Duryodhana's brothers.
+  bio: >
+    The only one of Duryodhana's roughly ninety-nine other brothers named
+    individually in the text, listed among the Kaurava elite at 1.8.
+  textual: true
+  verses: ["01:8"]
+
+- id: bhishma
+  name: Bhishma
+  iast: Bhīṣma
+  group: elders
+  epithets: []
+  role: Grandsire of the Kuru dynasty; commander of the Kaurava army.
+  bio: >
+    The oldest and most revered figure on the field, bound by a vow of
+    celibacy that leaves him without direct descendants — which is why he
+    stands outside both family lines rather than inside either. Fighting for
+    the Kauravas out of duty rather than conviction, he opens the battle by
+    blowing his conch loudly enough to "gladden Duryodhana's heart" (1.12),
+    and is named again in Arjuna's list of those he cannot bear to kill
+    (2.4) and in Krishna's universal-form vision (Chapter 11).
+  textual: true
+  verses: ["01:8", "01:12", "02:4", "11:26", "11:34"]
+
+- id: drona
+  name: Drona
+  iast: Droṇa
+  group: elders
+  epithets: [Ācārya]
+  role: Teacher of archery to both the Kauravas and the Pāṇḍavas.
+  bio: >
+    Addressed by Duryodhana as "teacher" (Ācārya) at the very start of the
+    army survey — Duryodhana points out the bitter irony that the opposing
+    general, Dhṛṣṭadyumna, was also Droṇa's pupil (1.3). Like Bhīṣma, he
+    fights for the Kauravas out of obligation, and is named among those
+    Arjuna cannot bring himself to kill (2.4) and in the vision of Chapter 11.
+  textual: true
+  verses: ["01:2", "01:3", "02:4", "11:26", "11:34"]
+
+- id: kripa
+  name: Kripa
+  iast: Kṛpa
+  group: elders
+  epithets: []
+  role: Kaurava-side warrior and royal preceptor.
+  bio: >
+    Named among the Kaurava elite in Duryodhana's roster, praised as "ever
+    victorious in battle" (1.8).
+  textual: true
+  verses: ["01:8"]
+
+- id: drupada
+  name: Drupada
+  iast: Drupada
+  group: pandava_allies
+  epithets: []
+  role: King of Pāñcāla; father of Draupadī and Dhṛṣṭadyumna; Pāṇḍava ally.
+  bio: >
+    Named as the trainer of the opposing general in Duryodhana's opening
+    speech (1.3), then again as a great chariot-warrior (1.4) and among
+    those blowing conches for the Pāṇḍava side (1.18).
+  textual: true
+  verses: ["01:3", "01:4", "01:18"]
+
+- id: dhrishtadyumna
+  name: Dhrishtadyumna
+  iast: Dhṛṣṭadyumna
+  group: pandava_allies
+  epithets: []
+  role: Drupada's son; commander of the Pāṇḍava army.
+  bio: >
+    Referred to at 1.3 only as "the son of Drupada," and given his own name
+    at 1.17, where he is listed among the great warriors on the Pāṇḍava
+    side.
+  textual: true
+  verses: ["01:3", "01:17"]
+
+- id: satyaki
+  name: Satyaki
+  iast: Sātyaki / Yuyudhāna
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior; kinsman of Krishna.
+  bio: >
+    Named as Yuyudhāna in the first list of Pāṇḍava-side heroes (1.4) and
+    as Sātyaki — traditionally the same person's more familiar name — a few
+    verses later among the unconquered warriors (1.17).
+  textual: true
+  verses: ["01:4", "01:17"]
+
+- id: virata
+  name: Virata
+  iast: Virāṭa
+  group: pandava_allies
+  epithets: []
+  role: Allied king who sheltered the Pāṇḍavas in exile.
+  bio: >
+    Listed among the great Pāṇḍava-allied warriors, first at 1.4 and again
+    at 1.17.
+  textual: true
+  verses: ["01:4", "01:17"]
+
+- id: shikhandi
+  name: Shikhandi
+  iast: Śikhaṇḍī
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior.
+  bio: >
+    Named as a "great chariot-warrior" in the roster of Pāṇḍava heroes
+    (1.17).
+  textual: true
+  verses: ["01:17"]
+
+- id: dhrishtaketu
+  name: Dhrishtaketu
+  iast: Dhṛṣṭaketu
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior.
+  bio: Named in the roll-call of allied heroes at 1.5.
+  textual: true
+  verses: ["01:5"]
+
+- id: cekitana
+  name: Cekitana
+  iast: Cekitāna
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior.
+  bio: Named alongside Dhṛṣṭaketu in the roll-call at 1.5.
+  textual: true
+  verses: ["01:5"]
+
+- id: kashiraja
+  name: King of Kashi
+  iast: Kāśirāja
+  group: pandava_allies
+  epithets: []
+  role: Ruler of Kāśī; Pāṇḍava ally.
+  bio: >
+    Named only by title, not personal name, both in the roll-call (1.5) and
+    the roster of great archers (1.17).
+  textual: true
+  verses: ["01:5", "01:17"]
+
+- id: purujit
+  name: Purujit
+  iast: Purujit
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior.
+  bio: Named at 1.5, alongside Kuntibhoja.
+  textual: true
+  verses: ["01:5"]
+
+- id: kuntibhoja
+  name: Kuntibhoja
+  iast: Kuntibhoja
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied king.
+  bio: Named at 1.5, alongside Purujit.
+  textual: true
+  verses: ["01:5"]
+
+- id: shaibya
+  name: Shaibya
+  iast: Śaibya
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior, called "a bull among men."
+  bio: Closes the roll-call of allied warriors at 1.5.
+  textual: true
+  verses: ["01:5"]
+
+- id: yudhamanyu
+  name: Yudhamanyu
+  iast: Yudhāmanyu
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior, called "bold."
+  bio: Named alongside Uttamaujā at 1.6.
+  textual: true
+  verses: ["01:6"]
+
+- id: uttamauja
+  name: Uttamauja
+  iast: Uttamaujā
+  group: pandava_allies
+  epithets: []
+  role: Pāṇḍava-allied warrior, called "valorous."
+  bio: Named alongside Yudhāmanyu at 1.6.
+  textual: true
+  verses: ["01:6"]
+
+- id: abhimanyu
+  name: Abhimanyu
+  iast: Saubhadra
+  group: pandava_allies
+  epithets: []
+  role: Arjuna and Subhadrā's son.
+  bio: >
+    Never given his personal name in the text — he appears only as
+    "the son of Subhadrā" (*saubhadraḥ*), both in the roster of great
+    warriors (1.6) and blowing his conch among the Pāṇḍava ranks (1.18).
+  textual: true
+  verses: ["01:6", "01:18"]
+  note: Named only by patronymic ("the son of Subhadrā"), never by his own name.
+
+- id: draupadi_sons
+  name: "The sons of Draupadi"
+  iast: Draupadeyāḥ
+  group: pandava_allies
+  epithets: []
+  role: The five sons of Draupadī and the Pāṇḍava brothers.
+  bio: >
+    Named collectively, never individually, as great chariot-warriors at
+    1.6 and again among those blowing conches at 1.18.
+  textual: true
+  verses: ["01:6", "01:18"]
+  note: Named only collectively; none of the five is distinguished by name.
+
+- id: karna
+  name: Karna
+  iast: Karṇa
+  group: kaurava_allies
+  epithets: []
+  role: Kaurava-allied warrior; raised by a charioteer, unaware for most of his life that he was Kuntī's firstborn son and the Pāṇḍavas' elder half-brother.
+  bio: >
+    Named among the Kaurava elite in Duryodhana's roster (1.8), then twice
+    in Chapter 11 — once identified only as "that son of a charioteer"
+    (*sūtaputra*, 11.26), and once by name alongside Droṇa, Bhīṣma, and
+    Jayadratha among those Krishna says are already destined to fall
+    (11.34). The Gītā itself never mentions his kinship to the Pāṇḍavas;
+    that belongs to the wider Mahābhārata.
+  textual: true
+  verses: ["01:8", "11:26", "11:34"]
+
+- id: ashvatthama
+  name: Ashvatthama
+  iast: Aśvatthāmā
+  group: kaurava_allies
+  epithets: []
+  role: Droṇa's son; Kaurava-allied warrior.
+  bio: Named among the Kaurava elite at 1.8.
+  textual: true
+  verses: ["01:8"]
+
+- id: bhurishravas
+  name: Bhurishravas
+  iast: Saumadatti
+  group: kaurava_allies
+  epithets: []
+  role: Kaurava-allied warrior, grandson of Somadatta.
+  bio: >
+    Named only by patronymic — "the son of Somadatta" — in the Kaurava
+    roster at 1.8.
+  textual: true
+  verses: ["01:8"]
+  note: Named only by patronymic ("son of Somadatta").
+
+- id: jayadratha
+  name: Jayadratha
+  iast: Jayadratha
+  group: kaurava_allies
+  epithets: []
+  role: Kaurava-allied king.
+  bio: >
+    Named only in Chapter 11, among the warriors Krishna tells Arjuna are
+    already destined to fall (11.34) — he does not appear in the Chapter 1
+    roster.
+  textual: true
+  verses: ["11:34"]
+
+- id: kunti
+  name: Kunti
+  iast: Kuntī
+  group: royal_women
+  epithets: [Kaunteya (as a patronymic for her sons)]
+  role: Mother of Yudhiṣṭhira, Bhīma, and Arjuna.
+  bio: >
+    Never addressed directly. She appears only through the patronymic
+    "Kaunteya" ("son of Kuntī"), applied three times to Arjuna (2.14, 2.37,
+    2.60) and once to Yudhiṣṭhira directly by name, "kuntīputro
+    yudhiṣṭhiraḥ" (1.16).
+  textual: true
+  verses: ["01:16", "02:14", "02:37", "02:60"]
+  note: Named only via the patronymic "Kaunteya" / "son of Kuntī."
+
+- id: draupadi
+  name: Draupadi
+  iast: Draupadī
+  group: royal_women
+  epithets: []
+  role: Wife of all five Pāṇḍava brothers.
+  bio: >
+    Named only as the mother of "the sons of Draupadī" (*draupadeyāḥ*),
+    never as a participant in her own right (1.6, 1.18).
+  textual: true
+  verses: ["01:6", "01:18"]
+  note: Named only genealogically, as the mother of the Draupadeyas.
+
+- id: subhadra
+  name: Subhadra
+  iast: Subhadrā
+  group: royal_women
+  epithets: []
+  role: Krishna's sister; Arjuna's wife; Abhimanyu's mother.
+  bio: >
+    Named only as the mother of "the son of Subhadrā" (Abhimanyu), never
+    as a participant in her own right (1.6, 1.18). Her marriage to Arjuna
+    is the family tie that binds the Pāṇḍava and Yādava lines together.
+  textual: true
+  verses: ["01:6", "01:18"]
+  note: Named only genealogically, as Abhimanyu's mother.
+
+- id: gandhari
+  name: Gandhari
+  iast: Gāndhārī
+  group: royal_women
+  epithets: []
+  role: Dhṛtarāṣṭra's wife; mother of Duryodhana and his brothers.
+  bio: >
+    Does not appear in the Gītā's text at all — included here only to
+    complete the family tree, drawn from the wider Mahābhārata tradition.
+  textual: false
+  verses: []
+
+- id: madri
+  name: Madri
+  iast: Mādrī
+  group: royal_women
+  epithets: []
+  role: Pāṇḍu's second wife; mother of Nakula and Sahadeva.
+  bio: >
+    Does not appear in the Gītā's text at all — included here only to
+    complete the family tree, drawn from the wider Mahābhārata tradition.
+  textual: false
+  verses: []
+
+- id: dhritarashtra
+  name: Dhritarashtra
+  iast: Dhṛtarāṣṭra
+  group: narrators
+  epithets: []
+  role: Blind king of the Kurus; father of Duryodhana and his brothers.
+  bio: >
+    His anxious opening question to Sañjaya — "what did my sons and the
+    sons of Pāṇḍu do?" — sets the entire text in motion (1.1) and is never
+    followed by a reply of his own; the Gītā ends with Sañjaya reporting
+    the dialogue back to him (18.74–18.78) rather than with anything
+    Dhṛtarāṣṭra says.
+  textual: true
+  verses: ["01:1"]
+
+- id: sanjaya
+  name: Sanjaya
+  iast: Sañjaya
+  group: narrators
+  epithets: []
+  role: Dhṛtarāṣṭra's minister and charioteer; narrator of the entire dialogue.
+  bio: >
+    Granted, by Vyāsa's grace, the power to witness the battlefield
+    dialogue firsthand and relay it to the blind king. Every verse of the
+    Gītā not spoken by Krishna or Arjuna is spoken by, or reported through,
+    Sañjaya — he opens the text (1.1) and closes it (18.74–18.78) with his
+    own words.
+  textual: true
+  verses: ["01:1", "18:75", "18:78"]
+
+- id: pandu
+  name: Pandu
+  iast: Pāṇḍu
+  group: ancestors
+  epithets: []
+  role: Father of the five Pāṇḍava brothers; Dhṛtarāṣṭra's brother.
+  bio: >
+    Already deceased by the time of the story. Never a speaking presence,
+    but named repeatedly as the reference point for his sons — "the sons
+    of Pāṇḍu" is the text's standing epithet for the entire Pāṇḍava side
+    (1.1, and throughout).
+  textual: true
+  verses: ["01:1", "01:3", "01:14", "01:20"]
+
+- id: vyasa
+  name: Vyasa
+  iast: Vyāsa
+  group: sages
+  epithets: []
+  role: Sage traditionally credited with composing the Mahābhārata.
+  bio: >
+    Named by Krishna as one of his own manifestations — "of the sages I am
+    Vyāsa" (10.13, 10.37) — and again at the very end, when Sañjaya
+    reveals that it was by Vyāsa's own grace that he could witness and
+    report the dialogue at all (18.75).
+  textual: true
+  verses: ["10:13", "10:37", "18:75"]
+
+- id: narada
+  name: Narada
+  iast: Nārada
+  group: sages
+  epithets: []
+  role: Divine sage.
+  bio: >
+    Named among the seers whose testimony Arjuna cites as confirming
+    Krishna's supreme nature (10.13).
+  textual: true
+  verses: ["10:13"]
+
+- id: asita
+  name: Asita
+  iast: Asita
+  group: sages
+  epithets: []
+  role: Sage.
+  bio: Named alongside Devala and Vyāsa as a witness to Krishna's divinity (10.13).
+  textual: true
+  verses: ["10:13"]
+
+- id: devala
+  name: Devala
+  iast: Devala
+  group: sages
+  epithets: []
+  role: Sage.
+  bio: Named alongside Asita and Vyāsa as a witness to Krishna's divinity (10.13).
+  textual: true
+  verses: ["10:13"]
+
+- id: ushanas
+  name: Ushanas
+  iast: Uśanas / Uśanā
+  group: sages
+  epithets: []
+  role: Poet-sage.
+  bio: >
+    Named by Krishna as his own manifestation among poets — "of the poets
+    I am the poet Uśanas" (10.37).
+  textual: true
+  verses: ["10:37"]
